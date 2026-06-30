@@ -19,6 +19,8 @@ Untouched at `C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\`
 - ChatGPT cite markers removed
 - Tracking query strings stripped in catalog pipeline
 - Rights notice added to canonical frontmatter
+- v5: `PUBLIC-SOURCE-DIRECTORY.md` derived from master catalog
+- v5: 78 authoritative URLs reconciled (`SOURCE-MAP-URL-RECONCILIATION.md`)
 
 ## Workstream 9
 
@@ -27,4 +29,4 @@ Full Digital Repository Operating Manual: **still not supplied**
 
 ## Utilities
 
-`scripts/sources/` — sha256, url_cleanup, normalize, build catalog, verify links, map modules
+`scripts/sources/` — sha256, url_cleanup, normalize, build catalog, verify links, map modules, reconcile URLs, validate manifest, sync split catalogs
