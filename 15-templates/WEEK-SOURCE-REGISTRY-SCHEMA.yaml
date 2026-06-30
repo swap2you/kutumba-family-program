@@ -1,0 +1,18 @@
+# Week source registry schema — per module sources.yaml extension
+
+week_code: MODULE-ID
+title: ""
+canonical: 03-first-six-months/FIRST-SIX-MONTH-DETAILED-CURRICULUM.md
+source_id: KUT-SRC-0004
+source_hash: ""
+tier_1_references:
+  - ref_id: ""
+    work: Bhagavad-gītā As It Is
+    reference: ""
+    vedabase_link: ""
+    teaching_function: ""
+    excerpt_in_git: false
+    kutumba_summary: ""
+tier_2_references: []
+pedagogy_references: []
+rights_status: kutumba-authored-cc-by-nc-sa-4.0

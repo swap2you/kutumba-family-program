@@ -1,0 +1,11 @@
+# Approved speakers for Tier 2 supplemental media indexing
+# Do not add speakers without exact identity and approved source channel
+
+approved_speakers: []
+
+pending_review: []
+
+rules:
+  - Never infer identity from partial names such as "Bhajji Maharaj"
+  - Each entry requires: speaker_id, full_name, source_channel, rights_status, reviewer, date
+  - Indexed media is reference-only until formally adopted

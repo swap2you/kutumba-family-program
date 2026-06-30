@@ -1,0 +1,16 @@
+# Claim register schema — copy per module to research/CLAIM-REGISTER.yaml
+
+week_code: MODULE-ID
+claims:
+  - claim_id: MODULE-ID-CLM-001
+    statement: ""
+    claim_type: scripture-text|srila-prabhupada-explanation|kutumba-summary|analogy|pedagogical-application|contemporary-case|unresolved
+    primary_source_keys: []
+    vedabase_link: ""
+    context_note: ""
+    audience: parent|lala-lali|kisora-kisori|all
+    misunderstanding_risk: ""
+    exact_quote: false
+    review_required: doctrinal|worship|safeguarding|rights|none
+    reviewer: ""
+    status: draft|verified|human-review-required

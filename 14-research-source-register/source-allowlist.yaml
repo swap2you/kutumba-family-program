@@ -1,0 +1,32 @@
+# Source allowlist for curriculum enhancement
+# Tier 1 domains — stable link patterns only; no bulk copy
+
+tier_1:
+  vedabase_bg:
+    name: Bhagavad-gītā As It Is (VedaBase)
+    base_url: https://vedabase.io/en/library/bg/
+    rights_status: bbt-reference-link-only
+    allowed_in_git: [reference, short_excerpt, kutumba_summary]
+  vedabase_sb:
+    name: Śrīmad-Bhāgavatam (VedaBase)
+    base_url: https://vedabase.io/en/library/sb/
+    rights_status: bbt-reference-link-only
+    allowed_in_git: [reference, short_excerpt, kutumba_summary]
+  vedabase_cc:
+    name: Caitanya-caritāmṛta (VedaBase)
+    base_url: https://vedabase.io/en/library/cc/
+    rights_status: bbt-reference-link-only
+    allowed_in_git: [reference, short_excerpt, kutumba_summary]
+
+tier_5_pedagogy:
+  - category: safeguarding
+    note: ISKCON child protection standards — cite official document; do not copy wholesale
+  - category: developmental_psychology
+    note: Method only; no doctrinal authority
+
+prohibited_in_git:
+  - full_purports
+  - full_chapters_at_scale
+  - bbt_paintings_without_permission
+  - google_image_search_downloads
+  - participant_records
