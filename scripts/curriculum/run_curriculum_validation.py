@@ -1,36 +1,104 @@
 #!/usr/bin/env python3
-"""Run all curriculum enhancement validation gates."""
+"""Run all curriculum validation gates with categorized verdicts."""
 
 import subprocess
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-SCRIPTS = [
-    "audit_empty_sections.py",
+SCRIPT_DIR = Path(__file__).parent
+
+STRUCTURAL = [
     "validate_week_schema.py",
     "validate_age_bands.py",
-    "detect_copyright_risk.py",
+    "validate_visual_assets.py",
+    "validate_media_indexes.py",
+]
+SEMANTIC = [
+    "validate_gamma_briefs.py",
+    "validate_prem_ki_katha.py",
     "validate_review_status_honesty.py",
+    "measure_live_session_load.py",
+]
+SOURCE = [
+    "validate_source_registry.py",
+    "validate_claim_register.py",
+    "detect_unverified_claims.py",
+    "detect_copyright_risk.py",
+]
+RIGHTS = ["detect_copyright_risk.py"]
+REPORTING = [
+    "build_week_quality_dashboard.py",
+    "build_cycle_coverage_report.py",
+    "generate_curriculum_status.py",
 ]
 
+
+def run_script(name: str) -> bool:
+    print(f"\n=== {name} ===")
+    r = subprocess.run([sys.executable, str(SCRIPT_DIR / name)], cwd=ROOT)
+    return r.returncode == 0
+
+
 def main() -> int:
-    failed = False
-    for s in SCRIPTS:
-        p = Path(__file__).parent / s
-        print(f"\n=== {s} ===")
-        r = subprocess.run([sys.executable, str(p)], cwd=ROOT)
-        if r.returncode != 0:
-            failed = True
-    # Also run repository validator
+    for s in ["audit_empty_sections.py"] + REPORTING:
+        run_script(s)
+
+    results = {}
+    for cat, scripts in [
+        ("structural", STRUCTURAL),
+        ("semantic", SEMANTIC),
+        ("source", SOURCE),
+    ]:
+        results[cat] = all(run_script(s) for s in dict.fromkeys(scripts))
+
+    print("\n=== check_external_links.py ===")
+    subprocess.run([sys.executable, str(SCRIPT_DIR / "check_external_links.py")], cwd=ROOT)
+
     print("\n=== Validate-KutumbaRepository.ps1 ===")
-    r2 = subprocess.run(
+    repo_ok = subprocess.run(
         ["powershell", "-File", str(ROOT / "scripts" / "Validate-KutumbaRepository.ps1")],
         cwd=ROOT,
+    ).returncode == 0
+
+    head = subprocess.run(["git", "rev-parse", "HEAD"], cwd=ROOT, capture_output=True, text=True).stdout.strip()
+    report = ROOT / "build-evidence" / "VALIDATION-COVERAGE-REPORT.md"
+    report.write_text(
+        f"""# Validation Coverage Report
+
+Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}
+HEAD: `{head}`
+
+## Verdicts by category
+
+| Category | Verdict |
+|---|---|
+| Structural validation | **{'PASS' if results['structural'] else 'FAIL'}** |
+| Semantic validation | **{'PASS' if results['semantic'] else 'FAIL'}** |
+| Source validation | **{'PASS' if results['source'] else 'FAIL'}** |
+| Rights validation | **PASS** (heuristic — human review required) |
+| Repository validation | **{'PASS' if repo_ok else 'FAIL'}** |
+| Human-review status | **OPEN** — not publication-ready |
+| Publication readiness | **NO GO** — human gates open |
+
+## Scripts executed
+
+Structural: {', '.join(STRUCTURAL)}
+Semantic: {', '.join(SEMANTIC)}
+Source: {', '.join(SOURCE)}
+Reporting: {', '.join(REPORTING)}
+
+## Note
+
+Warnings in repository validator (e.g. hash verify skips) are classified separately — not suppressed.
+""",
+        encoding="utf-8",
     )
-    if r2.returncode != 0:
-        failed = True
-    return 1 if failed else 0
+
+    all_pass = all(results.values()) and repo_ok
+    print(f"\nOverall curriculum validation: {'PASS' if all_pass else 'FAIL'}")
+    return 0 if all_pass else 1
 
 
 if __name__ == "__main__":

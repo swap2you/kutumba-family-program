@@ -1,0 +1,88 @@
+"""Module-specific data for C3 gold-standard deepening."""
+
+MODULES: dict[str, dict] = {
+    "c3-w1-who-is-god-the-supreme-enjoyer-proprietor-and-friend": {
+        "code": "C3-W1",
+        "title": "Who Is God? The Supreme Enjoyer, Proprietor and Friend",
+        "essential_question": "Who is the real enjoyer, proprietor and friend of all beings?",
+        "key_verse": "Bhagavad-gītā 5.29",
+        "lala_recall": "Kṛṣṇa is the enjoyer, proprietor and friend.",
+        "lala_sanskrit": "bhoktāraṁ yajña-tapasām",
+        "lala_story": "Gopīs' surrender — everything belongs to Kṛṣṇa",
+        "gamma_theme": "Stewardship vs. ownership fight",
+        "no_death_imagery": True,
+        "verses": [
+            ("BG 5.29", "https://vedabase.io/en/library/bg/5/29/", "Kṛṣṇa is the supreme enjoyer, proprietor of all and the best friend of every living being."),
+        ],
+    },
+    "c3-w2-who-is-kṛṣṇa-the-supreme-personality-of-godhead": {
+        "code": "C3-W2",
+        "title": "Who Is Kṛṣṇa? The Supreme Personality of Godhead",
+        "essential_question": "Who is Kṛṣṇa beyond abstract ideas of God?",
+        "key_verse": "Bhagavad-gītā 7.7",
+        "lala_recall": "Kṛṣṇa is the Supreme Person we can love.",
+        "lala_sanskrit": "mattaḥ parataraṁ nānyat",
+        "lala_story": "Kṛṣṇa's birth in Vṛndāvana",
+        "gamma_theme": "Pearls on a thread — all rests on Kṛṣṇa",
+        "no_death_imagery": True,
+        "verses": [
+            ("BG 7.7", "https://vedabase.io/en/library/bg/7/7/", "There is no truth superior to Kṛṣṇa; everything rests upon Him."),
+        ],
+    },
+    "c3-w3-guru-sādhu-and-śāstra-how-we-receive-spiritual-knowledge": {
+        "code": "C3-W3",
+        "title": "Guru, Sādhu and Śāstra",
+        "essential_question": "How do we receive spiritual knowledge safely?",
+        "key_verse": "Bhagavad-gītā 4.34",
+        "lala_recall": "We learn with humility from guru, sādhu and śāstra.",
+        "lala_sanskrit": "tad viddhi praṇipātena",
+        "lala_story": "Nārada receives the Bhāgavatam",
+        "gamma_theme": "Three lamps — guru, sādhu, śāstra",
+        "no_death_imagery": True,
+        "verses": [
+            ("BG 4.34", "https://vedabase.io/en/library/bg/4/34/", "Learn truth by humble approach, inquiry and service to the realized teacher."),
+        ],
+    },
+    "c3-w4-śrī-caitanya-mahāprabhu-and-the-holy-name": {
+        "code": "C3-W4",
+        "title": "Śrī Caitanya Mahāprabhu and the Holy Name",
+        "essential_question": "How does the holy name cleanse the heart?",
+        "key_verse": "CC Antya 20.12",
+        "lala_recall": "The holy name brings joy when we chant together.",
+        "lala_sanskrit": "Hare Kṛṣṇa",
+        "lala_story": "Lord Caitanya's kīrtana",
+        "gamma_theme": "Call-and-response kīrtana circle",
+        "no_death_imagery": True,
+        "verses": [
+            ("CC Antya 20.12", "https://vedabase.io/en/library/cc/antya/20/12/", "The holy name cleanses the heart of all dust accumulated for many lifetimes."),
+        ],
+    },
+    "c3-w5-the-nine-processes-of-bhakti": {
+        "code": "C3-W5",
+        "title": "The Nine Processes of Bhakti",
+        "essential_question": "What are the nine ways to serve Kṛṣṇa with devotion?",
+        "key_verse": "ŚB 7.5.23–24",
+        "lala_recall": "Hearing and chanting are the most important.",
+        "lala_sanskrit": "śravaṇaṁ kīrtanaṁ",
+        "lala_story": "Prahlāda's nine processes",
+        "gamma_theme": "Nine-step procession cards",
+        "no_death_imagery": True,
+        "verses": [
+            ("SB 7.5.23", "https://vedabase.io/en/library/sb/7/5/23/", "Hearing and chanting are chief among the nine processes of devotional service."),
+        ],
+    },
+    "c3-w6-bhakti-mela-kīrtana-drama-and-family-presentation": {
+        "code": "C3-W6",
+        "title": "Bhakti Mela — Integration and Family Presentation",
+        "essential_question": "How do we offer six months of learning back to Kṛṣṇa together?",
+        "key_verse": "ŚB 7.5.23–24 (review)",
+        "lala_recall": "We serve Kṛṣṇa together with joy.",
+        "lala_sanskrit": "Hare Kṛṣṇa",
+        "lala_story": "Family garden drama — nine processes",
+        "gamma_theme": "Bhakti Mela procession and roles",
+        "no_death_imagery": True,
+        "verses": [
+            ("SB 7.5.23", "https://vedabase.io/en/library/sb/7/5/23/", "Review of nine processes as families present learning."),
+        ],
+    },
+}

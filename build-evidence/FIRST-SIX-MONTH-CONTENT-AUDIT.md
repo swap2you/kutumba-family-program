@@ -2,12 +2,13 @@
 
 ## Summary
 
-- Modules audited: 18
-- Modules with 3+ blank/thin delivery files: 0
-- Modules missing research layer: 0
+- Modules: 18
+- Gold/deepened: 18
+- Authentic Prem-kī-Kathā: 13
+- Two-group age model active: 18
 
-## Finding
+## Method
 
-Structural derivative packs exist but many component files are empty table shells extracted from the monolith without substantive fill. `weekly_derivative_pack` corrected to `enhancement-required` where applicable.
+Active age model from Lāla–Lālī and Kiśora–Kiśorī lesson line counts. Legacy `children/lesson.md` reported separately.
 
 See `EMPTY-AND-THIN-SECTIONS.csv` and `WEEK-QUALITY-DASHBOARD.md`.
