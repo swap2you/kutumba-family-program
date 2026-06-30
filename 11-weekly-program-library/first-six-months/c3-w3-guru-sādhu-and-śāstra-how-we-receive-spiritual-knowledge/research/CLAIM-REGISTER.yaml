@@ -1,0 +1,22 @@
+week_code: C3-W3
+claims:
+  - claim_id: C3-W3-CLM-001
+    statement: "Teach a safe and authoritative knowledge pathway through bona fide guru, saintly devotees and scripture, while clarifyin"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C3-W3-CLM-002
+    statement: "Key teaching anchored in Bhagavad-gītā 4.34 — tad viddhi praṇipātena paripraśnena sevayā"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C3-W3-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft

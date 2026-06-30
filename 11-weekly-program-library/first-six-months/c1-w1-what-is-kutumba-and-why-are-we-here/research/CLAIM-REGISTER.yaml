@@ -1,0 +1,22 @@
+week_code: C1-W1
+claims:
+  - claim_id: C1-W1-CLM-001
+    statement: "Establish KUTUMBA as a disciplined family sādhana and formation community—not a social club, substitute temple, initiati"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C1-W1-CLM-002
+    statement: "Key teaching anchored in Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C1-W1-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft

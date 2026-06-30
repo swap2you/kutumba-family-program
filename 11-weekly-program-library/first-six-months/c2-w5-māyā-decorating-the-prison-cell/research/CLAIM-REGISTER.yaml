@@ -1,0 +1,22 @@
+week_code: C2-W5
+claims:
+  - claim_id: C2-W5-CLM-001
+    statement: "Teach māyā as Kṛṣṇa’s difficult-to-overcome material energy that covers and misdirects the conditioned soul, while showi"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C2-W5-CLM-002
+    statement: "Key teaching anchored in Bhagavad-gītā 7.14 — daivī hy eṣā guṇa-mayī mama māyā duratyayā"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C2-W5-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft

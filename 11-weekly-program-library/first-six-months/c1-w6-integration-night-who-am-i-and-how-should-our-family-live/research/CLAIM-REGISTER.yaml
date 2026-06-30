@@ -1,0 +1,22 @@
+week_code: C1-W6
+claims:
+  - claim_id: C1-W6-CLM-001
+    statement: "Consolidate the first cycle through demonstration, not another lecture, and verify that families can connect identity, h"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C1-W6-CLM-002
+    statement: "Key teaching anchored in Bhagavad-gītā 2.13 — tathā dehāntara-prāptir dhīras tatra na muhyati"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C1-W6-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft

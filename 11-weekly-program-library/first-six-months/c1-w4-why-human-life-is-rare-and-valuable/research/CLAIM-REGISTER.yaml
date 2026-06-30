@@ -1,0 +1,22 @@
+week_code: C1-W4
+claims:
+  - claim_id: C1-W4-CLM-001
+    statement: "Teach that human intelligence carries a special opportunity and responsibility for self-realization, while avoiding cont"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C1-W4-CLM-002
+    statement: "Key teaching anchored in Śrīmad-Bhāgavatam 11.9.29 — labdhvā su-durlabham idaṁ ... mānuṣyam artha-dam"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C1-W4-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft

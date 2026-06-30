@@ -1,16 +1,40 @@
 ---
 week_code: C3-W1
 week_title: Who Is God? The Supreme Enjoyer, Proprietor and Friend
-derived_from:
-  canonical_file: 03-first-six-months/FIRST-SIX-MONTH-DETAILED-CURRICULUM.md
-  source_id: KUT-SRC-0004
-  source_hash: 7123781051c732bc82baee084284d0bcac6c6b5011baf12d07216c2e503a7f58
-  extraction_heading: "C3-W1 — Who Is God? The Supreme Enjoyer, Proprietor and Friend"
-  extraction_date: 2026-06-30
-  component: materials.md
 ---
 
 ## Required Materials
 
-| **Materials A** | **Materials B** |
+### Parent / adult track
+
+| Item | Qty | Notes |
+| --- | --- | --- |
+| Printed overview and worksheet | 1 per family | From module folder |
+| Verse card (key verse) | 1 per adult | No full purport — reference only |
+| Scenario cards | 1 set per table | Facilitator-prepared |
+| Timer | 1 | Visible to group |
+
+### Lāla–Lālī track (ages 4–8)
+
+| Item | Qty | Notes |
+| --- | --- | --- |
+| Photo sequence or dolls | 1 set | Consent required for real photos |
+| Costume pieces / name card | 1 per child | Safe, non-restrictive |
+| Sorting cards | 1 set | Body-care vs harm |
+| Crayons, thread craft supplies | as needed | |
+
+### Kiśora–Kiśorī track (ages 9–14)
+
+| Item | Qty | Notes |
+| --- | --- | --- |
+| Text handout (BG/ŚB reference) | 1 per youth | Excerpt or citation line only |
+| Diagram paper | 1 per youth | Body/self distinction |
+| Reflection cards | 1 set | No forced disclosure |
+
+### Facilitator
+
+| Item | Notes |
 | --- | --- |
+| Facilitator guide | This module |
+| Safeguarding one-pager | `04-children-youth/` |
+| Two-adult coverage plan | Visible space |

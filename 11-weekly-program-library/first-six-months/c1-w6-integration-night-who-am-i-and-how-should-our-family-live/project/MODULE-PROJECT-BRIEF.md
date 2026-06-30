@@ -1,0 +1,3 @@
+# MODULE-PROJECT-BRIEF.md
+
+Module: C1-W6

@@ -1,0 +1,22 @@
+week_code: C2-W2
+claims:
+  - claim_id: C2-W2-CLM-001
+    statement: "Teach that the conditioned soul does not control every circumstance but retains meaningful, minute choice and responsibi"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C2-W2-CLM-002
+    statement: "Key teaching anchored in Bhagavad-gītā 18.63 — vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C2-W2-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft

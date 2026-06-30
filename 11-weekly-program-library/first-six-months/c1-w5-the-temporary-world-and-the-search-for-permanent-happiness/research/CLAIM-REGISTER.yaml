@@ -1,0 +1,22 @@
+week_code: C1-W5
+claims:
+  - claim_id: C1-W5-CLM-001
+    statement: "Help families honestly recognize the limits of material arrangements, distinguish healthy enjoyment from the demand that"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C1-W5-CLM-002
+    statement: "Key teaching anchored in Bhagavad-gītā 8.15 — duḥkhālayam aśāśvatam"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C1-W5-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft

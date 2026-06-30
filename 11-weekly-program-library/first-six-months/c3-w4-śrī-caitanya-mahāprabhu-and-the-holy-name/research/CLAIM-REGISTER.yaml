@@ -1,0 +1,22 @@
+week_code: C3-W4
+claims:
+  - claim_id: C3-W4-CLM-001
+    statement: "Introduce Śrī Caitanya Mahāprabhu’s gift of congregational chanting and help families experience attentive, humble and j"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C3-W4-CLM-002
+    statement: "Key teaching anchored in Caitanya-caritāmṛta Antya 20.12 — Śikṣāṣṭakam 1 — ceto-darpaṇa-mārjanaṁ ... paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C3-W4-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft

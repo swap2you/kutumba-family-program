@@ -1,0 +1,22 @@
+week_code: C3-W1
+claims:
+  - claim_id: C3-W1-CLM-001
+    statement: "Give families a clear personal conception of God as the supreme conscious controller, proprietor, enjoyer, witness and w"
+    claim_type: kutumba-summary
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: draft
+  - claim_id: C3-W1-CLM-002
+    statement: "Key teaching anchored in Bhagavad-gītā 5.29 — bhoktāraṁ yajña-tapasāṁ ... suhṛdaṁ sarva-bhūtānām"
+    claim_type: scripture-text
+    vedabase_link: ""
+    audience: all
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C3-W1-CLM-003
+    statement: "Home practice supports family formation without comparison"
+    claim_type: pedagogical-application
+    audience: parent
+    review_required: pedagogy
+    status: draft
