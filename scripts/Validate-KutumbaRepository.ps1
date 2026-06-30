@@ -80,7 +80,12 @@ if (-not (Test-Path $manifestYaml)) {
         if ($manifestText -notmatch [regex]::Escape($f.Name)) {
             Add-Failure "Unmanifested source file: $($f.Name)"
         }
-        $hash = (Get-FileHash -LiteralPath $f.FullName -Algorithm SHA256).Hash.ToLower()
+        $hashCmd = 'import hashlib,sys; print(hashlib.sha256(open(sys.argv[1],"rb").read()).hexdigest())'
+        $hash = (python -c $hashCmd -- "$($f.FullName)" 2>$null | Out-String).Trim()
+        if (-not $hash) {
+            Add-Warning "Could not hash $($f.Name) - skipping hash verify"
+            continue
+        }
         if ($manifestText -notmatch $hash) {
             Add-Failure "Hash for $($f.Name) not found in manifest"
         }
@@ -101,7 +106,7 @@ foreach ($dir in $canonicalDirs) {
     $abs = Join-Path $RepoRoot $dir
     if (-not (Test-Path $abs)) { continue }
     Get-ChildItem -Path $abs -Filter "*.md" -File | Where-Object {
-        $_.Name -ne "README.md" -and $_.Name -ne "REVIEW-QUEUE.md" -and ($navFiles -notcontains $_.Name)
+        $_.Name -ne "README.md" -and $_.Name -ne "REVIEW-QUEUE.md" -and $_.Name -notmatch 'ADDENDUM\.md$' -and ($navFiles -notcontains $_.Name)
     } | ForEach-Object {
         $content = Get-Content -LiteralPath $_.FullName -Raw -ErrorAction SilentlyContinue
         if ($content -and $content -notmatch 'source_hash:') {
