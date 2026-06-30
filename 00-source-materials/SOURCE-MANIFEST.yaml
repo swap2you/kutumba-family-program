@@ -328,3 +328,61 @@ entries:
   - doctrinal-review
   publication_status: internal-development
   notes: portable-manifest-regenerated
+- source_id: KUT-SRC-0013
+  source_group_id: KUT-SRC-GRP-0013
+  source_root_id: kutumba-sanga
+  source_relative_path: 0. KUTUMBA SANGA/Public Source Map for Prabhupada and Related Sanatana Content.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/9. KUTUMBA Digital Repository and Source Library/Public Source Map for Prabhupada and Related Sanatana Content.docx
+  original_filename: Public Source Map for Prabhupada and Related Sanatana Content.docx
+  file_type: docx
+  byte_size: 19334
+  sha256: bb05c18452b05649e5b8f57da3ce1beb13294b860aa9df07dd8fc19438ca775e
+  dest_sha256: bb05c18452b05649e5b8f57da3ce1beb13294b860aa9df07dd8fc19438ca775e
+  source_copied: true
+  source_hash_verified: true
+  destination_hash_verified: true
+  likely_workstream: digital-repository-source-library
+  version: '1.0.0'
+  status: ingested
+  privacy_class: public-curriculum-development
+  rights_status: kutumba-authored-research-compilation
+  third_party_contents: links-and-summaries-only
+  licence: ''
+  canonical_path: 09-digital-repository-publishing/PUBLIC-SOURCE-MAP-FOR-PRABHUPADA-AND-SANATANA-CONTENT.md
+  canonicalization_status: normalized-extraction-complete
+  structural_extraction_status: url-catalog-extracted
+  visual_review_status: visual-review-pending
+  required_human_review:
+  - rights-review
+  - research-review
+  publication_status: internal-development
+  notes: public-source-map-for-prabhupada-and-sanatana-content
+- source_id: KUT-SRC-0014
+  source_group_id: KUT-SRC-GRP-0013
+  source_root_id: kutumba-sanga
+  source_relative_path: 0. KUTUMBA SANGA/Public Source Map for Prabhupada and Related Sanatana Content.pdf
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/9. KUTUMBA Digital Repository and Source Library/Public Source Map for Prabhupada and Related Sanatana Content.pdf
+  original_filename: Public Source Map for Prabhupada and Related Sanatana Content.pdf
+  file_type: pdf
+  byte_size: 89006
+  sha256: a5b1610909b227b2f7feaeb24db6bc983e195c25bafb4ecd86b698e2bc034998
+  dest_sha256: a5b1610909b227b2f7feaeb24db6bc983e195c25bafb4ecd86b698e2bc034998
+  source_copied: true
+  source_hash_verified: true
+  destination_hash_verified: true
+  likely_workstream: digital-repository-source-library
+  version: '1.0.0'
+  status: ingested
+  privacy_class: public-curriculum-development
+  rights_status: kutumba-authored-research-compilation
+  third_party_contents: links-and-summaries-only
+  licence: ''
+  canonical_path: 09-digital-repository-publishing/PUBLIC-SOURCE-MAP-FOR-PRABHUPADA-AND-SANATANA-CONTENT.md
+  canonicalization_status: pdf-companion-reference
+  structural_extraction_status: not-applicable
+  visual_review_status: visual-review-pending
+  required_human_review:
+  - rights-review
+  - research-review
+  publication_status: internal-development
+  notes: pdf-companion-same-source-group-as-KUT-SRC-0013

@@ -4,7 +4,7 @@ Generated: 2026-06-30T02:51:44.174831+00:00
 
 ## Current KUTUMBA originals
 
-Total: **12** files copied to `00-source-materials/01-current-kutumba-originals/`
+Total: **14** files copied to `00-source-materials/01-current-kutumba-originals/`
 
 | ID | File | Workstream | SHA-256 (prefix) | Size |
 |---|---|---|---|---|
@@ -20,6 +20,8 @@ Total: **12** files copied to `00-source-materials/01-current-kutumba-originals/
 | KUT-SRC-0010 | KUTUMBA_Chat_7_Kirtana_Worship_Prayers_Bhakti_Laboratories_Operating_Manual.docx | kirtana-worship | `15b021283762...` | 417051 |
 | KUT-SRC-0011 | KUTUMBA_Chat_8_Festivals_Yatras_Outdoor_Calendar_Working_Framework.docx | festivals-calendar | `1a88458adc30...` | 814145 |
 | KUT-SRC-0012 | KUTUMBA Master Operating Model.docx | master-operating | `7b25cbbf605b...` | 49457 |
+| KUT-SRC-0013 | Public Source Map for Prabhupada and Related Sanatana Content.docx | digital-repository-source-library | `bb05c18452b0...` | 19334 |
+| KUT-SRC-0014 | Public Source Map for Prabhupada and Related Sanatana Content.pdf | digital-repository-source-library | `a5b1610909b2...` | 89006 |
 
 ## Legacy/reference collections (index only)
 
