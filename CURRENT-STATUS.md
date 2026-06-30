@@ -9,8 +9,9 @@
 - Canonical repository root: `C:\Development\Workspace\DevotionalRepo\kutumba-family-program`
 - Remote: `https://github.com/swap2you/kutumba-family-program.git`
 - Branch: `main`
-- Working tree: clean after commit
-- Latest commit: see below after publish
+- Working tree: clean
+- Latest commit: `15e81d326fb81ef0da8b23def8e6260bcedade17`
+- Push status: pending
 - Last updated: 2026-06-29
 
 ## Phase tracker
@@ -25,7 +26,7 @@
 | Legacy analysis | COMPLETE | phase commit | crosswalks in `14-research-source-register/` | No adoption |
 | Prompt library | COMPLETE | phase commit | `16-prompt-library/` v1.0.0 | 19 prompts |
 | Validation and cleanup | COMPLETE | phase commit | `VALIDATION-REPORT.md` PASS | 0 critical failures |
-| Git publish and handoff | IN PROGRESS | — | `FINAL-BUILD-REPORT.md` | Push pending |
+| Git publish and handoff | IN PROGRESS | 15e81d3 | `FINAL-BUILD-REPORT.md` | Push pending |
 | Independent review | PENDING | — | `17-reviews-and-audits/INDEPENDENT-REVIEW-STARTUP.md` | Fresh context |
 
 ## Inventory
