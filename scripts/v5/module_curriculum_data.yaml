@@ -1,0 +1,3345 @@
+data_version: 5.0.0
+generated: '2026-06-30'
+source_map_id: KUT-SRC-0013
+module_count: 18
+locks:
+  skip_prem_katha_slug: c1-w2-i-am-not-this-body
+  skip_newcomer_if_substantive:
+  - C1-W2
+integration_modules:
+- C1-W6
+- C2-W6
+- C3-W6
+modules:
+- module_id: C1-W1
+  slug: c1-w1-what-is-kutumba-and-why-are-we-here
+  title: What Is KUTUMBA, and Why Are We Here?
+  source_expansion:
+    controlling_books:
+    - ref: Śrīmad-Bhāgavatam 1.2.18
+      url: https://vedabase.io/en/library/sb/1/2/18/
+      use: Regular hearing and service cleanse the heart
+    - ref: Śrīmad-Bhāgavatam 1.2.17
+      url: https://vedabase.io/en/library/sb/1/2/17/
+      use: Bhāgavata as the ripened fruit of Vedic knowledge
+    - ref: Śrīmad-Bhāgavatam 1.2.19
+      url: https://vedabase.io/en/library/sb/1/2/19/
+      use: Devotion fixed after taste develops
+    - ref: Śrīmad-Bhāgavatam 1.1.1
+      url: https://vedabase.io/en/library/sb/1/1/1/
+      use: Inquiry at Naimiṣāraṇya opens the Bhāgavatam
+    - ref: Bhagavad-gītā 9.14
+      url: https://vedabase.io/en/library/bg/9/14/
+      use: Always chanting and striving with determination
+    - ref: Caitanya-caritāmṛta Madhya 22.128
+      url: https://vedabase.io/en/library/cc/madhya/22/128/
+      use: Five powerful practices of bhakti
+    - ref: Caitanya-caritāmṛta Madhya 22.129
+      url: https://vedabase.io/en/library/cc/madhya/22/129/
+      use: Lord Caitanya confirms the practices
+    - ref: KUTUMBA Operating Model Charter §6
+      url: 11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/overview.md
+      use: Six purposes and boundaries
+    lectures:
+    - media_id: SP-LEC-SB-1-1-1972
+      date: '1972-09-01'
+      place: New Vrindaban
+      title: SB 1.1 lecture
+      url: https://vedabase.io/en/library/lectures/september/01/1972/720901SB.NV_eng/
+      topic: Purpose of Bhāgavatam hearing
+      segment: full lecture
+    - media_id: SP-LEC-SB-1-2-1973
+      date: '1973-07-01'
+      place: London
+      title: SB 1.2 lecture
+      url: https://vedabase.io/en/library/lectures/july/01/1973/730701SB.LON_eng/
+      topic: Bhāgavata cleanses the heart
+      segment: full lecture
+    - media_id: SP-LEC-BG-9-14-1973
+      date: '1973-08-04'
+      place: London
+      title: BG 9.14 lecture
+      url: https://vedabase.io/en/library/lectures/august/04/1973/730804BG.LON_eng/
+      topic: Determined devotees always chant
+      segment: full lecture
+    katha_sources:
+    - ref: Śrīmad-Bhāgavatam 1.2.18
+      url: https://vedabase.io/en/library/sb/1/2/18/
+      use: Regular hearing and service cleanse the heart
+    - ref: Śrīmad-Bhāgavatam 1.2.17
+      url: https://vedabase.io/en/library/sb/1/2/17/
+      use: Bhāgavata as the ripened fruit of Vedic knowledge
+    - ref: Śrīmad-Bhāgavatam 1.2.19
+      url: https://vedabase.io/en/library/sb/1/2/19/
+      use: Devotion fixed after taste develops
+    - ref: Śrīmad-Bhāgavatam 1.1.1
+      url: https://vedabase.io/en/library/sb/1/1/1/
+      use: Inquiry at Naimiṣāraṇya opens the Bhāgavatam
+    - ref: Bhagavad-gītā 9.14
+      url: https://vedabase.io/en/library/bg/9/14/
+      use: Always chanting and striving with determination
+    - ref: Caitanya-caritāmṛta Madhya 22.128
+      url: https://vedabase.io/en/library/cc/madhya/22/128/
+      use: Five powerful practices of bhakti
+    education:
+    - label: ISKCON Education
+      url: https://iskconeducation.org/philosophy-of-education/
+      use: Pedagogy
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded:
+    - Desire Tree bulk PDF directories
+    claim_mapping:
+    - claim: KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture series.
+      source_ref: Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā
+      url: https://vedabase.io/en/library/sb/1/2/18/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/sb/
+    - https://vedabase.io/en/library/transcripts/
+  newcomer:
+    minimum_concept: KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture series.
+    terms_define:
+    - term: nityaṁ bhāgavata-sevayā
+      plain: We help each other remember Kṛṣṇa.
+    terms_defer:
+    - Full siddhānta
+    - initiation policy
+    - worship procedure detail
+    reduced_source_load: Read KUTUMBA summary of [Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā](https://vedabase.io/en/library/sb/1/2/18/)
+      aloud; optional VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Family Sacred-Space Reset: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: 'Hold one five-minute family practice before the next meeting: one prayer, three mahā-mantras and
+      one appreciation.'
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C1-W2 (body/self distinction)
+  katha:
+    title: The sages inquire at Naimiṣāraṇya
+    subtitle: Śrīmad-Bhāgavatam 1.1
+    katha_type: source-grounded-devotional-narrative
+    module_connection: KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture
+      series.
+    scope_boundary: Full siddhānta; initiation policy; worship procedure detail
+    primary_sources:
+    - label: SB 1.2.18
+      url: https://vedabase.io/en/library/sb/1/2/18/
+      use: Key verse
+    - label: SB 1.1.1
+      url: https://vedabase.io/en/library/sb/1/1/1/
+      use: Key verse
+    - label: BG 9.14
+      url: https://vedabase.io/en/library/bg/9/14/
+      use: Key verse
+    - label: CC Madhya 22.128
+      url: https://vedabase.io/en/library/cc/madhya/22/128/
+      use: Key verse
+    primary_book: Śrīmad-Bhāgavatam 1.1
+    chapter_reference: ''
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase from Śrīmad-Bhāgavatam 1.1 (summary):** See controlling sources in register.'
+    - '**Paraphrase from ŚB 1.1 (summary):** At Naimiṣāraṇya, sages led by Śaunaka gathered after Kṛṣṇa''s departure. They
+      inquired how to act in Kali — opening the Bhāgavatam.'
+    - '**Paraphrase aligned with SB 1.2.18:** Regular hearing and service cleanse the heart and fix devotion — KUTUMBA''s
+      weekly protected time.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C1-W1** without inventing dialogue.'
+    - '**Paraphrase — Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā (application summary):** The verse is not a slogan.
+      It names a distinction families can practice this week: see Six charter purposes; Friday rhythm; realistic saṅkalpa;
+      temple alignment in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _Regular hearing and service cleanse the heart and make devotion
+      steady._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C1-W1.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Regular hearing and service cleanse the heart and make devotion steady.
+    memory_line: Regular hearing and service cleanse the heart and make devotion steady.
+    lala_cues:
+    - '**Chariot/picture cue:** Sages at Naimiṣāraṇya'
+    - '**Recall game:** We help each other remember Kṛṣṇa.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Family Sacred-Space Reset. When children ask hard questions, turn toward śāstra together — permission to not have
+      every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - SB 1.2.18
+    - SB 1.1.1
+    - BG 9.14
+    - CC Madhya 22.128
+    paraphrased_portions:
+    - '**Paraphrase from Śrīmad-Bhāgavatam 1.1 (summary):** See controlling sources in register.'
+    - '**Paraphrase from ŚB 1.1 (summary):** At Naimiṣāraṇya, sages led by Śaunaka gathered after Kṛṣṇa''s departure. They
+      inqui'
+    - '**Paraphrase aligned with SB 1.2.18:** Regular hearing and service cleanse the heart and fix devotion — KUTUMBA''s
+      weekly'
+    omitted: []
+- module_id: C1-W2
+  slug: c1-w2-i-am-not-this-body
+  title: I Am Not This Body
+  source_expansion:
+    controlling_books:
+    - ref: BG 2.13
+      url: https://vedabase.io/en/library/bg/2/13/
+      use: Life stages — dehī/deha
+    - ref: BG 2.22
+      url: https://vedabase.io/en/library/bg/2/22/
+      use: Garment analogy
+    - ref: BG 13.1
+      url: https://vedabase.io/en/library/bg/13/1/
+      use: Field and knower introduction
+    - ref: BG 13.2
+      url: https://vedabase.io/en/library/bg/13/2/
+      use: Field/knower distinction
+    - ref: BG 13.3
+      url: https://vedabase.io/en/library/bg/13/3/
+      use: Knowers summarized
+    lectures:
+    - media_id: SP-LEC-BG-2-13-1973
+      date: '1973-08-07'
+      place: London
+      title: BG 2.13 lecture
+      url: https://vedabase.io/en/library/lectures/london/august/07/1973/7310807BG.LON_eng/
+      topic: dehī/deha life stages
+      segment: full lecture
+    - media_id: SP-LEC-BG-2-22-1973
+      date: '1973-08-22'
+      place: London
+      title: BG 2.22 lecture
+      url: https://vedabase.io/en/library/lectures/london/august/22/1973/7310822BG.LON_eng/
+      topic: Garment analogy
+      segment: full lecture
+    katha_sources:
+    - ref: BG 2.11–2.13
+      url: https://vedabase.io/en/library/bg/2/13/
+      use: Gold pilot katha — locked
+    education:
+    - label: ISKCON Education materials
+      url: https://iskconeducation.org/materials/
+      use: Parent resources
+    child_resources:
+    - Sunday School indexes — metadata only
+    media: []
+    supplementary: []
+    excluded:
+    - Anonymous quote pages without Vanisource context
+    claim_mapping:
+    - claim: Embodied self passes through life stages
+      source_ref: BG 2.13
+      url: https://vedabase.io/en/library/bg/2/13/
+      module_use: C1-W2 memory line
+    - claim: Soul changes bodies as garments
+      source_ref: BG 2.22
+      url: https://vedabase.io/en/library/bg/2/22/
+      module_use: Analogy — defer full transmigration to C1-W3
+    - claim: Field and knower distinguished
+      source_ref: BG 13.1-3
+      url: https://vedabase.io/en/library/bg/13/1/
+      module_use: Parent extension only
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+    - https://vedabase.io/en/library/transcripts/
+  newcomer:
+    minimum_concept: Gold pilot — preserved if substantive on disk
+    terms_define: []
+    terms_defer: []
+    reduced_source_load: Read KUTUMBA summary of [BG 2.13](https://vedabase.io/en/library/bg/2/13/) aloud; optional VedaBase
+      after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Identity pause: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Identity pause minimum
+    sensitive_topic_caution: No body-image forced sharing
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C1-W3
+  katha:
+    title: LOCKED — gold pilot
+    memory_line: The body changes from childhood to old age, but the conscious self continues.
+- module_id: C1-W3
+  slug: c1-w3-the-nature-of-the-soul
+  title: The Nature of the Soul
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 2.20
+      url: https://vedabase.io/en/library/bg/2/20/
+      use: Soul unborn, eternal, not destroyed with body
+    - ref: Bhagavad-gītā 2.17
+      url: https://vedabase.io/en/library/bg/2/17/
+      use: That which pervades the body is indestructible
+    - ref: Bhagavad-gītā 15.7
+      url: https://vedabase.io/en/library/bg/15/7/
+      use: Eternal fragmental part of Kṛṣṇa
+    - ref: Bhagavad-gītā 13.23
+      url: https://vedabase.io/en/library/bg/13/23/
+      use: Supersoul and individual soul distinguished
+    - ref: Śrīmad-Bhāgavatam 5.10
+      url: https://vedabase.io/en/library/sb/5/10/
+      use: Jaḍa Bharata narrative context
+    - ref: Śrīmad-Bhāgavatam 5.11
+      url: https://vedabase.io/en/library/sb/5/11/
+      use: Soul distinct from body — Rahūgaṇa corrected
+    - ref: Bhagavad-gītā 2.25
+      url: https://vedabase.io/en/library/bg/2/25/
+      use: Soul invisible, inconceivable, unchangeable
+    - ref: Bhagavad-gītā 2.23
+      url: https://vedabase.io/en/library/bg/2/23/
+      use: Soul cannot be cut, burned, or dried
+    lectures:
+    - media_id: SP-LEC-BG-2-20-1973
+      date: '1973-08-19'
+      place: London
+      title: BG 2.20 lecture
+      url: https://vedabase.io/en/library/lectures/august/19/1973/730819BG.LON_eng/
+      topic: Soul never takes birth or dies
+      segment: full lecture
+    - media_id: SP-LEC-BG-15-7-1973
+      date: '1973-10-01'
+      place: London
+      title: BG 15.7 lecture
+      url: https://vedabase.io/en/library/lectures/october/01/1973/731001BG.LON_eng/
+      topic: Fragmental part of the Supreme
+      segment: full lecture
+    - media_id: SP-LEC-SB-5-11-1975
+      date: '1975-03-15'
+      place: Melbourne
+      title: SB 5.11 lecture
+      url: https://vedabase.io/en/library/lectures/march/15/1975/750315SB.MEL_eng/
+      topic: Jaḍa Bharata instructs Rahūgaṇa
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 2.20
+      url: https://vedabase.io/en/library/bg/2/20/
+      use: Soul unborn, eternal, not destroyed with body
+    - ref: Bhagavad-gītā 2.17
+      url: https://vedabase.io/en/library/bg/2/17/
+      use: That which pervades the body is indestructible
+    - ref: Bhagavad-gītā 15.7
+      url: https://vedabase.io/en/library/bg/15/7/
+      use: Eternal fragmental part of Kṛṣṇa
+    - ref: Bhagavad-gītā 13.23
+      url: https://vedabase.io/en/library/bg/13/23/
+      use: Supersoul and individual soul distinguished
+    - ref: Śrīmad-Bhāgavatam 5.10
+      url: https://vedabase.io/en/library/sb/5/10/
+      use: Jaḍa Bharata narrative context
+    - ref: Śrīmad-Bhāgavatam 5.11
+      url: https://vedabase.io/en/library/sb/5/11/
+      use: Soul distinct from body — Rahūgaṇa corrected
+    education:
+    - label: ISKCON Education
+      url: https://iskconeducation.org/books-for-kids/
+      use: Pedagogy
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: The jīva is eternal, conscious, individual, minute and naturally related to Kṛṣṇa through service.
+      source_ref: Bhagavad-gītā 2.20 — ajo nityaḥ śāśvato ’yaṁ purāṇo
+      url: https://vedabase.io/en/library/bg/2/20/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+  newcomer:
+    minimum_concept: The jīva is eternal, conscious, individual, minute and naturally related to Kṛṣṇa through service.
+    terms_define:
+    - term: ajo nityaḥ
+      plain: I am an eternal soul, a tiny part of Kṛṣṇa.
+    terms_defer:
+    - Full acintya-bhedābheda
+    - rasa
+    - liberation mechanics
+    - subtle body detail
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 2.20 — ajo nityaḥ śāśvato ’yaṁ purāṇo](https://vedabase.io/en/library/bg/2/20/)
+      aloud; optional VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Service Intention and Cleanliness Seva: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Offer one routine action to Kṛṣṇa daily with a ten-second intention.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C1-W4 (human opportunity)
+  katha:
+    title: Jaḍa Bharata instructs King Rahūgaṇa
+    subtitle: Śrīmad-Bhāgavatam 5.10–5.13 (selected)
+    katha_type: source-grounded-devotional-narrative
+    module_connection: The jīva is eternal, conscious, individual, minute and naturally related to Kṛṣṇa through service.
+    scope_boundary: Full acintya-bhedābheda; rasa; liberation mechanics; subtle body detail
+    primary_sources:
+    - label: BG 2.20
+      url: https://vedabase.io/en/library/bg/2/20/
+      use: Key verse
+    - label: BG 15.7
+      url: https://vedabase.io/en/library/bg/15/7/
+      use: Key verse
+    - label: BG 13.23
+      url: https://vedabase.io/en/library/bg/13/23/
+      use: Key verse
+    - label: BG 2.17
+      url: https://vedabase.io/en/library/bg/2/17/
+      use: Key verse
+    primary_book: Śrīmad-Bhāgavatam 5.10–5.13 (selected)
+    chapter_reference: ''
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase from Śrīmad-Bhāgavatam 5.10–5.13 (selected) (summary):** See controlling sources in register.'
+    - '**Paraphrase from SB 5.10–5.11 (Jaḍa Bharata — summary):** King Rahūgaṇa treated the palanquin bearer as mere body;
+      Jaḍa Bharata replied with spiritual wisdom — the soul is distinct from the covering.'
+    - '**Paraphrase aligned with BG 2.20:** The soul is unborn and eternal — positive identity beyond ''not the body.'''
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C1-W3** without inventing dialogue.'
+    - '**Paraphrase — Bhagavad-gītā 2.20 — ajo nityaḥ śāśvato ’yaṁ purāṇo (application summary):** The verse is not a slogan.
+      It names a distinction families can practice this week: see BG 2.20 soul qualities; BG 15.7 fragmental part; BG 13.23
+      jīva vs Paramātmā; service reframing in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _The soul is unborn, eternal and not destroyed when the body
+      is destroyed._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C1-W3.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: The soul is unborn, eternal and not destroyed when the body is destroyed.
+    memory_line: The soul is unborn, eternal and not destroyed when the body is destroyed.
+    lala_cues:
+    - '**Chariot/picture cue:** Spark and lamp demonstration'
+    - '**Recall game:** I am an eternal soul, a tiny part of Kṛṣṇa.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Service Intention and Cleanliness Seva. When children ask hard questions, turn toward śāstra together — permission
+      to not have every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - BG 2.20
+    - BG 15.7
+    - BG 13.23
+    - BG 2.17
+    paraphrased_portions:
+    - '**Paraphrase from Śrīmad-Bhāgavatam 5.10–5.13 (selected) (summary):** See controlling sources in register.'
+    - '**Paraphrase from SB 5.10–5.11 (Jaḍa Bharata — summary):** King Rahūgaṇa treated the palanquin bearer as mere body;
+      Jaḍa'
+    - '**Paraphrase aligned with BG 2.20:** The soul is unborn and eternal — positive identity beyond ''not the body.'''
+    omitted: []
+- module_id: C1-W4
+  slug: c1-w4-why-human-life-is-rare-and-valuable
+  title: Why Human Life Is Rare and Valuable
+  source_expansion:
+    controlling_books:
+    - ref: Śrīmad-Bhāgavatam 11.9.29
+      url: https://vedabase.io/en/library/sb/11/9/29/
+      use: Human life rare, temporary, value-giving
+    - ref: Śrīmad-Bhāgavatam 7.6.1
+      url: https://vedabase.io/en/library/sb/7/6/1/
+      use: Prahlāda instructs classmates — begin in childhood
+    - ref: Śrīmad-Bhāgavatam 1.2.10
+      url: https://vedabase.io/en/library/sb/1/2/10/
+      use: Life's aim is self-realization
+    - ref: Bhagavad-gītā 7.19
+      url: https://vedabase.io/en/library/bg/7/19/
+      use: After many births one surrenders to Kṛṣṇa
+    - ref: Śrīmad-Bhāgavatam 6.1.58
+      url: https://vedabase.io/en/library/sb/6/1/58/
+      use: Mṛgāri transformed by Nārada's mercy
+    - ref: Śrīmad-Bhāgavatam 6.2.9
+      url: https://vedabase.io/en/library/sb/6/2/9/
+      use: Mercy of devotees changes hearts
+    - ref: Śrīmad-Bhāgavatam 7.6.19
+      url: https://vedabase.io/en/library/sb/7/6/19/
+      use: Youth is the time to learn devotion
+    - ref: Bhagavad-gītā 4.34
+      url: https://vedabase.io/en/library/bg/4/34/
+      use: Learn truth by inquiry and service
+    lectures:
+    - media_id: SP-LEC-SB-7-6-1972
+      date: '1972-12-03'
+      place: Ahmedabad
+      title: SB 7.6 lecture
+      url: https://vedabase.io/en/library/lectures/december/03/1972/721203SB.AHM_eng/
+      topic: Prahlāda's instruction to classmates
+      segment: full lecture
+    - media_id: SP-LEC-SB-11-9-1975
+      date: '1975-05-25'
+      place: Honolulu
+      title: SB 11.9 lecture
+      url: https://vedabase.io/en/library/lectures/may/25/1975/750525SB.HON_eng/
+      topic: Human life is rare opportunity
+      segment: full lecture
+    - media_id: SP-LEC-SB-6-1-1975
+      date: '1975-11-01'
+      place: Nairobi
+      title: SB 6.1 lecture
+      url: https://vedabase.io/en/library/lectures/november/01/1975/751101SB.NAI_eng/
+      topic: Mṛgāri and mercy of Nārada
+      segment: full lecture
+    katha_sources:
+    - ref: Śrīmad-Bhāgavatam 11.9.29
+      url: https://vedabase.io/en/library/sb/11/9/29/
+      use: Human life rare, temporary, value-giving
+    - ref: Śrīmad-Bhāgavatam 7.6.1
+      url: https://vedabase.io/en/library/sb/7/6/1/
+      use: Prahlāda instructs classmates — begin in childhood
+    - ref: Śrīmad-Bhāgavatam 1.2.10
+      url: https://vedabase.io/en/library/sb/1/2/10/
+      use: Life's aim is self-realization
+    - ref: Bhagavad-gītā 7.19
+      url: https://vedabase.io/en/library/bg/7/19/
+      use: After many births one surrenders to Kṛṣṇa
+    - ref: Śrīmad-Bhāgavatam 6.1.58
+      url: https://vedabase.io/en/library/sb/6/1/58/
+      use: Mṛgāri transformed by Nārada's mercy
+    - ref: Śrīmad-Bhāgavatam 6.2.9
+      url: https://vedabase.io/en/library/sb/6/2/9/
+      use: Mercy of devotees changes hearts
+    education:
+    - label: ISKCON Education
+      url: https://iskconeducation.org/article/starting-a-sunday-school/
+      use: Pedagogy
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: Human life is rare, temporary, and able to give the highest value when used for spiritual realization.
+      source_ref: Śrīmad-Bhāgavatam 11.9.29 — labdhvā su-durlabham idaṁ ... mānuṣyam artha-dam
+      url: https://vedabase.io/en/library/sb/11/9/29/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+    - https://vedabase.io/en/library/sb/
+  newcomer:
+    minimum_concept: Human life is rare, temporary, and able to give the highest value when used for spiritual realization.
+    terms_define:
+    - term: labdhvā su-durlabham
+      plain: Human life is a special gift to serve Kṛṣṇa.
+    terms_defer:
+    - Graphic death threats
+    - lower-birth fear tactics
+    - species contempt
+    reduced_source_load: Read KUTUMBA summary of [Śrīmad-Bhāgavatam 11.9.29 — labdhvā su-durlabham idaṁ ... mānuṣyam artha-dam](https://vedabase.io/en/library/sb/11/9/29/)
+      aloud; optional VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of How to Read One Verse as a Family: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Protect one fifteen-minute family spiritual appointment.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C1-W5 (temporary happiness)
+  katha:
+    title: Nārada meets the hunter Mṛgāri
+    subtitle: Śrīmad-Bhāgavatam 6.x / Prabhupāda summary
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Human life is rare, temporary, and able to give the highest value when used for spiritual realization.
+    scope_boundary: Graphic death threats; lower-birth fear tactics; species contempt
+    primary_sources:
+    - label: SB 11.9.29
+      url: https://vedabase.io/en/library/sb/11/9/29/
+      use: Key verse
+    - label: SB 7.6.1
+      url: https://vedabase.io/en/library/sb/7/6/1/
+      use: Key verse
+    - label: SB 1.2.10
+      url: https://vedabase.io/en/library/sb/1/2/10/
+      use: Key verse
+    - label: BG 7.19
+      url: https://vedabase.io/en/library/bg/7/19/
+      use: Key verse
+    primary_book: Śrīmad-Bhāgavatam 6.x / Prabhupāda summary
+    chapter_reference: ''
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase from Śrīmad-Bhāgavatam 6.x / Prabhupāda summary (summary):** See controlling sources in register.'
+    - '**Paraphrase from SB 6.1–6.2 (Mṛgāri — summary):** Nārada''s mercy transformed a cruel hunter — human intelligence
+      can turn toward Kṛṣṇa.'
+    - '**Paraphrase aligned with SB 11.9.29:** Human life is rare, temporary, and able to deliver the highest value.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C1-W4** without inventing dialogue.'
+    - '**Paraphrase — Śrīmad-Bhāgavatam 11.9.29 — labdhvā su-durlabham idaṁ ... mānuṣyam artha-dam (application summary):**
+      The verse is not a slogan. It names a distinction families can practice this week: see SB 11.9.29; SB 7.6.1 childhood
+      formation; time audit; protected appointment in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _Human life is rare, temporary and able to give the highest
+      value when used for spiritual realization._ — then name one place this week the line might actually help (mealtime,
+      bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C1-W4.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Human life is rare, temporary and able to give the highest value when used for spiritual realization.
+    memory_line: Human life is rare, temporary and able to give the highest value when used for spiritual realization.
+    lala_cues:
+    - '**Chariot/picture cue:** Young Prahlāda remembers Kṛṣṇa'
+    - '**Recall game:** Human life is a special gift to serve Kṛṣṇa.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and How to Read One Verse as a Family. When children ask hard questions, turn toward śāstra together — permission to
+      not have every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - SB 11.9.29
+    - SB 7.6.1
+    - SB 1.2.10
+    - BG 7.19
+    paraphrased_portions:
+    - '**Paraphrase from Śrīmad-Bhāgavatam 6.x / Prabhupāda summary (summary):** See controlling sources in register.'
+    - '**Paraphrase from SB 6.1–6.2 (Mṛgāri — summary):** Nārada''s mercy transformed a cruel hunter — human intelligence
+      can tu'
+    - '**Paraphrase aligned with SB 11.9.29:** Human life is rare, temporary, and able to deliver the highest value.'
+    omitted: []
+- module_id: C1-W5
+  slug: c1-w5-the-temporary-world-and-the-search-for-permanent-happiness
+  title: The Temporary World and the Search for Permanent Happiness
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 8.15
+      url: https://vedabase.io/en/library/bg/8/15/
+      use: Material world temporary, full of misery
+    - ref: Bhagavad-gītā 2.14
+      url: https://vedabase.io/en/library/bg/2/14/
+      use: Sense objects come and go — tolerate without disturbance
+    - ref: Bhagavad-gītā 5.22
+      url: https://vedabase.io/en/library/bg/5/22/
+      use: Enjoyment mixed with misery has beginning and end
+    - ref: Bhagavad-gītā 9.27
+      url: https://vedabase.io/en/library/bg/9/27/
+      use: Offer whatever you do to Kṛṣṇa
+    - ref: Śrīmad-Bhāgavatam 1.2.10
+      url: https://vedabase.io/en/library/sb/1/2/10/
+      use: Material happiness cannot satisfy permanently
+    - ref: Śrīmad-Bhāgavatam 4.8
+      url: https://vedabase.io/en/library/sb/4/8/
+      use: Dhruva's determination begins
+    - ref: Śrīmad-Bhāgavatam 4.9
+      url: https://vedabase.io/en/library/sb/4/9/
+      use: Dhruva meets the Lord — permanent goal
+    - ref: Bhagavad-gītā 6.35
+      url: https://vedabase.io/en/library/bg/6/35/
+      use: Mind can be controlled by practice
+    lectures:
+    - media_id: SP-LEC-BG-8-15-1973
+      date: '1973-10-20'
+      place: Bombay
+      title: BG 8.15 lecture
+      url: https://vedabase.io/en/library/lectures/october/20/1973/731020BG.BOM_eng/
+      topic: Temporary miserable world
+      segment: full lecture
+    - media_id: SP-LEC-BG-9-27-1973
+      date: '1973-12-08'
+      place: Los Angeles
+      title: BG 9.27 lecture
+      url: https://vedabase.io/en/library/lectures/december/08/1973/731208BG.LA_eng/
+      topic: Offer everything to Kṛṣṇa
+      segment: full lecture
+    - media_id: SP-LEC-SB-4-9-1974
+      date: '1974-03-23'
+      place: Vrindavan
+      title: SB 4.9 lecture
+      url: https://vedabase.io/en/library/lectures/march/23/1974/740323SB.VRN_eng/
+      topic: Dhruva achieves the Lord
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 8.15
+      url: https://vedabase.io/en/library/bg/8/15/
+      use: Material world temporary, full of misery
+    - ref: Bhagavad-gītā 2.14
+      url: https://vedabase.io/en/library/bg/2/14/
+      use: Sense objects come and go — tolerate without disturbance
+    - ref: Bhagavad-gītā 5.22
+      url: https://vedabase.io/en/library/bg/5/22/
+      use: Enjoyment mixed with misery has beginning and end
+    - ref: Bhagavad-gītā 9.27
+      url: https://vedabase.io/en/library/bg/9/27/
+      use: Offer whatever you do to Kṛṣṇa
+    - ref: Śrīmad-Bhāgavatam 1.2.10
+      url: https://vedabase.io/en/library/sb/1/2/10/
+      use: Material happiness cannot satisfy permanently
+    - ref: Śrīmad-Bhāgavatam 4.8
+      url: https://vedabase.io/en/library/sb/4/8/
+      use: Dhruva's determination begins
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: The material world is temporary; lasting fulfillment comes through attaining Kṛṣṇa.
+      source_ref: Bhagavad-gītā 8.15 — duḥkhālayam aśāśvatam
+      url: https://vedabase.io/en/library/bg/8/15/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+  newcomer:
+    minimum_concept: The material world is temporary; lasting fulfillment comes through attaining Kṛṣṇa.
+    terms_define:
+    - term: aśāśvatam
+      plain: Enjoy good things — remember Kṛṣṇa is our lasting friend.
+    terms_defer:
+    - Material hatred
+    - grief trivialization
+    - unauthorized offering procedures
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 8.15 — duḥkhālayam aśāśvatam](https://vedabase.io/en/library/bg/8/15/)
+      aloud; optional VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Offering an Ordinary Activity to Kṛṣṇa: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Before one enjoyable activity, pause for gratitude and three mahā-mantras.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C1-W6 (integration)
+  katha:
+    title: Dhruva's determination
+    subtitle: Śrīmad-Bhāgavatam 4.8–4.9 (selected)
+    katha_type: source-grounded-devotional-narrative
+    module_connection: The material world is temporary; lasting fulfillment comes through attaining Kṛṣṇa.
+    scope_boundary: Material hatred; grief trivialization; unauthorized offering procedures
+    primary_sources:
+    - label: BG 8.15
+      url: https://vedabase.io/en/library/bg/8/15/
+      use: Key verse
+    - label: BG 2.14
+      url: https://vedabase.io/en/library/bg/2/14/
+      use: Key verse
+    - label: BG 5.22
+      url: https://vedabase.io/en/library/bg/5/22/
+      use: Key verse
+    - label: BG 9.27
+      url: https://vedabase.io/en/library/bg/9/27/
+      use: Key verse
+    primary_book: Śrīmad-Bhāgavatam 4.8–4.9 (selected)
+    chapter_reference: ''
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase from Śrīmad-Bhāgavatam 4.8–4.9 (selected) (summary):** See controlling sources in register.'
+    - '**Paraphrase from SB 4.8–4.9 (Dhruva — summary):** Dhruva sought temporary power but learned permanent shelter in Kṛṣṇa''s
+      lotus feet.'
+    - '**Paraphrase aligned with BG 8.15:** The material world is temporary; returning to Kṛṣṇa is the goal.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C1-W5** without inventing dialogue.'
+    - '**Paraphrase — Bhagavad-gītā 8.15 — duḥkhālayam aśāśvatam (application summary):** The verse is not a slogan. It names
+      a distinction families can practice this week: see BG 2.14, 5.22, 8.15, 9.27; pleasure vs permanent need; offering ordinary
+      life in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _This material world is temporary and cannot provide permanent
+      freedom from distress; lasting fulfillment comes through attaining Kṛṣṇa._ — then name one place this week the line
+      might actually help (mealtime, bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C1-W5.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: This material world is temporary and cannot provide permanent freedom from distress; lasting fulfillment
+      comes through attaining Kṛṣṇa.
+    memory_line: This material world is temporary and cannot provide permanent freedom from distress; lasting fulfillment
+      comes through attaining Kṛṣṇa.
+    lala_cues:
+    - '**Chariot/picture cue:** Bubbles and prasāda sharing'
+    - '**Recall game:** Enjoy good things — remember Kṛṣṇa is our lasting friend.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Offering an Ordinary Activity to Kṛṣṇa. When children ask hard questions, turn toward śāstra together — permission
+      to not have every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - BG 8.15
+    - BG 2.14
+    - BG 5.22
+    - BG 9.27
+    paraphrased_portions:
+    - '**Paraphrase from Śrīmad-Bhāgavatam 4.8–4.9 (selected) (summary):** See controlling sources in register.'
+    - '**Paraphrase from SB 4.8–4.9 (Dhruva — summary):** Dhruva sought temporary power but learned permanent shelter in Kṛṣṇa'''
+    - '**Paraphrase aligned with BG 8.15:** The material world is temporary; returning to Kṛṣṇa is the goal.'
+    omitted: []
+- module_id: C1-W6
+  slug: c1-w6-integration-night-who-am-i-and-how-should-our-family-live
+  title: 'Integration Night: Who Am I, and How Should Our Family Live?'
+  source_expansion:
+    controlling_books:
+    - ref: Śrīmad-Bhāgavatam 1.2.18
+      url: https://vedabase.io/en/library/sb/1/2/18/
+      use: Review — regular hearing and service
+    - ref: Bhagavad-gītā 2.13
+      url: https://vedabase.io/en/library/bg/2/13/
+      use: Review — bodily change, sober person
+    - ref: Bhagavad-gītā 2.20
+      url: https://vedabase.io/en/library/bg/2/20/
+      use: Review — eternal soul
+    - ref: Śrīmad-Bhāgavatam 11.9.29
+      url: https://vedabase.io/en/library/sb/11/9/29/
+      use: Review — rare human life
+    - ref: Bhagavad-gītā 8.15
+      url: https://vedabase.io/en/library/bg/8/15/
+      use: Review — temporary world
+    - ref: Bhagavad-gītā 9.27
+      url: https://vedabase.io/en/library/bg/9/27/
+      use: Review — offering ordinary life
+    - ref: Bhagavad-gītā 15.7
+      url: https://vedabase.io/en/library/bg/15/7/
+      use: Review — part of Kṛṣṇa
+    - ref: Bhagavad-gītā 3.9
+      url: https://vedabase.io/en/library/bg/3/9/
+      use: Preview — work as sacrifice (Cycle 2)
+    lectures:
+    - media_id: SP-LEC-BG-2-13-1973
+      date: '1973-08-07'
+      place: London
+      title: BG 2.13 lecture
+      url: https://vedabase.io/en/library/lectures/london/august/07/1973/7310807BG.LON_eng/
+      topic: Cycle 1 anchor review
+      segment: full lecture
+    - media_id: SP-LEC-SB-1-2-1973
+      date: '1973-07-01'
+      place: London
+      title: SB 1.2 lecture
+      url: https://vedabase.io/en/library/lectures/july/01/1973/730701SB.LON_eng/
+      topic: KUTUMBA purpose review
+      segment: full lecture
+    - media_id: SP-LEC-BG-8-15-1973
+      date: '1973-10-20'
+      place: Bombay
+      title: BG 8.15 lecture
+      url: https://vedabase.io/en/library/lectures/october/20/1973/731020BG.BOM_eng/
+      topic: Temporary world review
+      segment: full lecture
+    katha_sources:
+    - ref: Śrīmad-Bhāgavatam 1.2.18
+      url: https://vedabase.io/en/library/sb/1/2/18/
+      use: Review — regular hearing and service
+    - ref: Bhagavad-gītā 2.13
+      url: https://vedabase.io/en/library/bg/2/13/
+      use: Review — bodily change, sober person
+    - ref: Bhagavad-gītā 2.20
+      url: https://vedabase.io/en/library/bg/2/20/
+      use: Review — eternal soul
+    - ref: Śrīmad-Bhāgavatam 11.9.29
+      url: https://vedabase.io/en/library/sb/11/9/29/
+      use: Review — rare human life
+    - ref: Bhagavad-gītā 8.15
+      url: https://vedabase.io/en/library/bg/8/15/
+      use: Review — temporary world
+    - ref: Bhagavad-gītā 9.27
+      url: https://vedabase.io/en/library/bg/9/27/
+      use: Review — offering ordinary life
+    education:
+    - label: ISKCON Education
+      url: https://iskconcongregation.com/programs/bhakti-vriksha/
+      use: Pedagogy
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded:
+    - Bhakti-vṛkṣa as operating model replacement
+    claim_mapping:
+    - claim: Consolidate Cycle 1 through demonstration — verse, analogy, and application — not another lecture.
+      source_ref: Bhagavad-gītā 2.13 — tathā dehāntara-prāptir dhīras tatra na muhyati
+      url: https://vedabase.io/en/library/bg/2/13/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/
+  newcomer:
+    minimum_concept: Consolidate Cycle 1 through demonstration — verse, analogy, and application — not another lecture.
+    terms_define:
+    - term: dhīra
+      plain: We know who we are — and how our family will live.
+    terms_defer:
+    - New principal līlā
+    - competitive ranking
+    - public scoring
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 2.13 — tathā dehāntara-prāptir dhīras tatra na muhyati](https://vedabase.io/en/library/bg/2/13/)
+      aloud; optional VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Cycle 1 Learning Stations: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Continue one selected Cycle 1 practice during the off week.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: Cycle 2 — karma and choice
+  katha:
+    title: Integration — family shares realizations
+    subtitle: Facilitator-led synthesis (no new līlā)
+    katha_type: facilitator-synthesis
+    module_connection: Consolidate Cycle 1 through demonstration — verse, analogy, and application — not another lecture.
+    scope_boundary: New principal līlā; competitive ranking; public scoring
+    primary_sources:
+    - label: BG 2.13
+      url: https://vedabase.io/en/library/bg/2/13/
+      use: Key verse
+    - label: BG 2.20
+      url: https://vedabase.io/en/library/bg/2/20/
+      use: Key verse
+    - label: SB 11.9.29
+      url: https://vedabase.io/en/library/sb/11/9/29/
+      use: Key verse
+    - label: BG 8.15
+      url: https://vedabase.io/en/library/bg/8/15/
+      use: Key verse
+    primary_book: Facilitator-led synthesis (no new līlā)
+    chapter_reference: ''
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase — integration exception (documented):** This module synthesizes prior weeks without introducing a new
+      principal līlā in the repository.'
+    - '**Paraphrase — cycle review:** Facilitator recalls memory lines and one family-chosen practice. Scope: Review W1–W5;
+      stations; presentations; continuity saṅkalpa; Cycle 2 preview.'
+    - '**Paraphrase — offering mood:** Families share only with consent — no competition, scoring, or forced testimony.'
+    - '**Paraphrase — continuity:** Choose one minimum home practice for the off week; preview next cycle briefly.'
+    - '**Paraphrase — integration exception (documented):** This week synthesizes prior modules. No new principal līlā is
+      introduced in the repository.'
+    - '**Paraphrase — station recall:** Families rotate through memory-line stations or consent-based shares — not competitive
+      presentations.'
+    - '**Paraphrase — continuity:** Choose one practice from the cycle to continue: A sober person understands bodily change
+      and acts from spiritual identity.'
+    - '**Paraphrase — offering mood:** Integration is gratitude and honest review — what actually changed at home?'
+    - '**Paraphrase — preview:** Name the next cycle theme briefly without overwhelming newcomers.'
+    - '**Paraphrase — consent:** Any family share requires explicit consent; facilitator stops comparison or ranking immediately.'
+    - '**Paraphrase — thirty-day baseline:** Choose one realistic practice — smaller than the mela display, but steady.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: A sober person understands bodily change and acts from spiritual identity.
+    memory_line: A sober person understands bodily change and acts from spiritual identity.
+    lala_cues:
+    - '**Chariot/picture cue:** Traveler, vehicle, map'
+    - '**Recall game:** We know who we are — and how our family will live.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Cycle 1 Learning Stations. When children ask hard questions, turn toward śāstra together — permission to not have
+      every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - BG 2.13
+    - BG 2.20
+    - SB 11.9.29
+    - BG 8.15
+    paraphrased_portions:
+    - '**Paraphrase — integration exception (documented):** This module synthesizes prior weeks without introducing a new
+      princ'
+    - '**Paraphrase — cycle review:** Facilitator recalls memory lines and one family-chosen practice. Scope: Review W1–W5;
+      sta'
+    - '**Paraphrase — offering mood:** Families share only with consent — no competition, scoring, or forced testimony.'
+    omitted: []
+- module_id: C2-W1
+  slug: c2-w1-action-and-reaction-how-karma-binds
+  title: 'Action and Reaction: How Karma Binds'
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 3.9
+      url: https://vedabase.io/en/library/bg/3/9/
+      use: Work for Viṣṇu vs bondage
+    - ref: Bhagavad-gītā 3.13
+      url: https://vedabase.io/en/library/bg/3/13/
+      use: Food offered in sacrifice
+    - ref: Bhagavad-gītā 4.16
+      url: https://vedabase.io/en/library/bg/4/16/
+      use: What is action?
+    - ref: Bhagavad-gītā 4.17
+      url: https://vedabase.io/en/library/bg/4/17/
+      use: Complexity of action
+    - ref: Bhagavad-gītā 4.18
+      url: https://vedabase.io/en/library/bg/4/18/
+      use: Inaction in action
+    - ref: Śrīmad-Bhāgavatam 6.14.1
+      url: https://vedabase.io/en/library/sb/6/14/1/
+      use: Citraketu narrative frame
+    - ref: Śrīmad-Bhāgavatam 6.15.1
+      url: https://vedabase.io/en/library/sb/6/15/1/
+      use: Instruction on soul continuity
+    - ref: Śrīmad-Bhāgavatam 9.4.4
+      url: https://vedabase.io/en/library/sb/9/4/4/
+      use: King Nṛga — care and accountability (summary)
+    lectures:
+    - media_id: SP-LEC-BG-3-9-1972
+      date: '1972-12-11'
+      place: Ahmedabad
+      title: BG 3.9
+      url: Yajña and bondage
+      topic: https://vedabase.io/en/library/lectures/december/11/1972/721211BG.AHM_eng/
+      segment: full lecture
+    - media_id: SP-LEC-BG-3-1973
+      date: '1973-12-21'
+      place: Los Angeles
+      title: BG 3 lecture
+      url: Karma and devotion
+      topic: https://vedabase.io/en/library/lectures/december/21/1973/731221BG.LA_eng/
+      segment: full lecture
+    - media_id: SP-LEC-KARMA-1975
+      date: '1975-03-23'
+      place: Melbourne
+      title: Karma and responsibility
+      url: Action and reaction overview
+      topic: https://vedabase.io/en/library/lectures/march/23/1975/750323BG.MEL_eng/
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 3.9
+      url: https://vedabase.io/en/library/bg/3/9/
+      use: Work for Viṣṇu vs bondage
+    - ref: Bhagavad-gītā 3.13
+      url: https://vedabase.io/en/library/bg/3/13/
+      use: Food offered in sacrifice
+    - ref: Bhagavad-gītā 4.16
+      url: https://vedabase.io/en/library/bg/4/16/
+      use: What is action?
+    - ref: Bhagavad-gītā 4.17
+      url: https://vedabase.io/en/library/bg/4/17/
+      use: Complexity of action
+    - ref: Bhagavad-gītā 4.18
+      url: https://vedabase.io/en/library/bg/4/18/
+      use: Inaction in action
+    - ref: Śrīmad-Bhāgavatam 6.14.1
+      url: https://vedabase.io/en/library/sb/6/14/1/
+      use: Citraketu narrative frame
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: Work performed only for separate material interest binds the living being.
+      source_ref: BG-3-9
+      url: https://vedabase.io/en/library/bg/3/9/
+      module_use: Parent / youth lesson
+    - claim: Work done as sacrifice for Viṣṇu should be performed without selfish attachment.
+      source_ref: BG-3-9
+      url: https://vedabase.io/en/library/bg/3/9/
+      module_use: Parent / youth lesson
+    - claim: Intention, method, and consequence together shape the moral quality of an action.
+      source_ref: BG-4-16
+      url: https://vedabase.io/en/library/bg/4/16/
+      module_use: Parent / youth lesson
+    - claim: Karma in this module means action and reaction under material nature, not simplistic punishment.
+      source_ref: BG-3-9
+      url: https://vedabase.io/en/library/bg/3/9/
+      module_use: Parent / youth lesson
+    - claim: We cannot confidently diagnose another person's suffering as the result of a specific past action.
+      source_ref: BG-4-17
+      url: https://vedabase.io/en/library/bg/4/17/
+      module_use: Parent / youth lesson
+    - claim: Good intention does not excuse dishonest or careless method.
+      source_ref: BG-4-16
+      url: https://vedabase.io/en/library/bg/4/16/
+      module_use: Parent / youth lesson
+    - claim: Offering work to Kṛṣṇa includes careful execution before, during, and after the act.
+      source_ref: BG-3-9
+      url: https://vedabase.io/en/library/bg/3/9/
+      module_use: Parent / youth lesson
+    - claim: King Nṛga's account illustrates procedural care and accountability, not fear for children.
+      source_ref: SB-9-4-4
+      url: https://vedabase.io/en/library/sb/9/4/4/
+      module_use: Parent / youth lesson
+    - claim: Children can learn that choices plant seeds producing results without shame-based karma talk.
+      source_ref: BG-3-9
+      url: https://vedabase.io/en/library/bg/3/9/
+      module_use: Parent / youth lesson
+    - claim: Repair — apology, return, replace, clarify — is part of responsible action.
+      source_ref: BG-3-9
+      url: https://vedabase.io/en/library/bg/3/9/
+      module_use: Parent / youth lesson
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+  newcomer:
+    minimum_concept: Karma is action and reaction under material nature; yajña-centered work purifies motive.
+    terms_define:
+    - term: karma
+      plain: Choices are seeds. I want to plant service seeds.
+    terms_defer:
+    - Full karma taxonomy
+    - diagnosing others' suffering
+    - fatalism
+    - victim-blaming
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 3.9](https://vedabase.io/en/library/bg/3/9/) aloud; optional
+      VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Before–During–After Service Method: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: One minimum home step from family-home-practice.md
+    sensitive_topic_caution: No frightening death imagery. No public shame for past mistakes. Two adults in visible space.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C2-W2 free will; C2-W3 reincarnation
+  katha:
+    title: King Citraketu's lesson on karma
+    subtitle: SB 6.14–6.16 — Citraketu; action, reaction, and sober instruction
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Karma is action and reaction under material nature; yajña-centered work purifies motive.
+    scope_boundary: Full karma taxonomy; diagnosing others' suffering; fatalism; victim-blaming
+    primary_sources:
+    - label: SB 6.14.1
+      url: https://vedabase.io/en/library/sb/6/14/1/
+      use: Katha anchor
+    - label: SB 6.15.1
+      url: https://vedabase.io/en/library/sb/6/15/1/
+      use: Katha anchor
+    - label: BG 3.9
+      url: https://vedabase.io/en/library/bg/3/9/
+      use: Katha anchor
+    primary_book: Śrīmad-Bhāgavatam 6.14–6.16 (selected)
+    chapter_reference: SB 6.14–6.16 — Citraketu; action, reaction, and sober instruction
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** King Citraketu received great blessings, yet when his young son died, grief overwhelmed
+      him. Sages and Nārada instructed him that the soul continues while bodies change — grief is natural, but mistaking the
+      body for the whole self deepens suffering.'
+    - '**Paraphrase (source-grounded):** Later, when Citraketu spoke without sufficient care toward Lord Śiva and mother Pārvatī,
+      a reaction followed. The lesson is not cruel punishment for curiosity — it shows that words and attitudes are actions
+      with consequences, even for a devotee.'
+    - '**Paraphrase (source-grounded):** The story redirects families toward sober accountability: examine intention and method,
+      repair what can be repaired, and offer work to Kṛṣṇa rather than separate selfish interest.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C2-W1** without inventing dialogue.'
+    - '**Paraphrase — Bhagavad-gītā 3.9 (application summary):** The verse is not a slogan. It names a distinction families
+      can practice this week: see BG 3.9, 3.13, 4.16–18; King Nṛga summary; intention–method–consequence analysis in one honest
+      situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _Work done only for separate material interest causes bondage;
+      work done for Viṣṇu should be performed without selfish attachment._ — then name one place this week the line might
+      actually help (mealtime, bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C2-W1.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Work done only for separate material interest causes bondage; work done for Viṣṇu should be performed
+      without selfish attachment.
+    memory_line: Work done only for separate material interest causes bondage; work done for Viṣṇu should be performed without
+      selfish attachment.
+    lala_cues:
+    - '**Chariot/picture cue:** Mira borrows Amma''s special bowl for pretend cooking. She returns it washed and placed on
+      the shelf. Amma smiles. Next week, Ravi borrows the same bowl, leaves it outside, and rain makes it crack. Amma is sad;
+      Ravi says sorry and helps glue the safe parts or replace with his savings. Same borrow — different method — different
+      result.'
+    - '**Recall game:** Choices are seeds. I want to plant service seeds.'
+    - '**Safeguarding:** No frightening death imagery. No public shame for past mistakes. Two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Before–During–After Service Method. When children ask hard questions, turn toward śāstra together — permission to
+      not have every answer immediately.
+    cautions:
+    - No frightening imagery for young children — focus on seeds and careful return of borrowed items
+    - Do not diagnose another person's suffering as their karma
+    - Honor grief in Citraketu narrative; instruction follows compassion
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses: []
+    paraphrased_portions:
+    - King Citraketu received great blessings, yet when his young son died, grief overwhelmed him. Sages and Nārada instructed
+    - Later, when Citraketu spoke without sufficient care toward Lord Śiva and mother Pārvatī, a reaction followed. The lesson
+    - 'The story redirects families toward sober accountability: examine intention and method, repair what can be repaired,
+      and'
+    omitted:
+    - Graphic descriptions of Citraketu's demon birth
+    - Detailed cosmology of curse mechanics
+    - Using story to blame grieving parents
+- module_id: C2-W2
+  slug: c2-w2-free-will-and-responsibility-the-next-choice-matters
+  title: 'Free Will and Responsibility: The Next Choice Matters'
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 18.63
+      url: https://vedabase.io/en/library/bg/18/63/
+      use: Deliberate and choose
+    - ref: Bhagavad-gītā 18.73
+      url: https://vedabase.io/en/library/bg/18/73/
+      use: Arjuna's willing alignment
+    - ref: Bhagavad-gītā 18.61
+      url: https://vedabase.io/en/library/bg/18/61/
+      use: Material nature and seated self
+    - ref: Bhagavad-gītā 3.33
+      url: https://vedabase.io/en/library/bg/3/33/
+      use: Even a wise man acts by nature
+    - ref: Bhagavad-gītā 3.34
+      url: https://vedabase.io/en/library/bg/3/34/
+      use: Material modes impel
+    - ref: Bhagavad-gītā 5.14
+      url: https://vedabase.io/en/library/bg/5/14/
+      use: Lord does not create agency or fruit
+    - ref: Bhagavad-gītā 5.15
+      url: https://vedabase.io/en/library/bg/5/15/
+      use: Nor does He accept sin or piety
+    - ref: Śrīmad-Bhāgavatam 6.1.15
+      url: https://vedabase.io/en/library/sb/6/1/15/
+      use: Ajāmila calls Nārāyaṇa
+    - ref: Śrīmad-Bhāgavatam 6.2.1
+      url: https://vedabase.io/en/library/sb/6/2/1/
+      use: Mercy of the holy name
+    lectures:
+    - media_id: SP-LEC-BG-18-63-1972
+      date: '1972-11-25'
+      place: Hyderabad
+      title: BG 18.63
+      url: Deliberation and choice
+      topic: https://vedabase.io/en/library/lectures/november/25/1972/721125BG.HYD_eng/
+      segment: full lecture
+    - media_id: SP-LEC-BG-3-33-1973
+      date: '1973-12-16'
+      place: Los Angeles
+      title: BG 3.33
+      url: Conditioning
+      topic: https://vedabase.io/en/library/lectures/december/16/1973/731216BG.LA_eng/
+      segment: full lecture
+    - media_id: SP-LEC-FREE-WILL-1975
+      date: '1975-06-23'
+      place: Los Angeles
+      title: Responsibility
+      url: Control and surrender
+      topic: https://vedabase.io/en/library/lectures/june/23/1975/750623BG.LA_eng/
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 18.63
+      url: https://vedabase.io/en/library/bg/18/63/
+      use: Deliberate and choose
+    - ref: Bhagavad-gītā 18.73
+      url: https://vedabase.io/en/library/bg/18/73/
+      use: Arjuna's willing alignment
+    - ref: Bhagavad-gītā 18.61
+      url: https://vedabase.io/en/library/bg/18/61/
+      use: Material nature and seated self
+    - ref: Bhagavad-gītā 3.33
+      url: https://vedabase.io/en/library/bg/3/33/
+      use: Even a wise man acts by nature
+    - ref: Bhagavad-gītā 3.34
+      url: https://vedabase.io/en/library/bg/3/34/
+      use: Material modes impel
+    - ref: Bhagavad-gītā 5.14
+      url: https://vedabase.io/en/library/bg/5/14/
+      use: Lord does not create agency or fruit
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: Kṛṣṇa instructs Arjuna to deliberate fully and then act as he chooses.
+      source_ref: BG-18-63
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: Material nature, the body, prior conditioning, and other agents limit control.
+      source_ref: BG-18-61
+      url: https://vedabase.io/en/library/bg/18/61/
+      module_use: Parent / youth lesson
+    - claim: Responsibility is not the same as controlling every result.
+      source_ref: BG-5-14
+      url: https://vedabase.io/en/library/bg/5/14/
+      module_use: Parent / youth lesson
+    - claim: Conditioning explains behavior without excusing harm to others.
+      source_ref: BG-3-34
+      url: https://vedabase.io/en/library/bg/3/34/
+      module_use: Parent / youth lesson
+    - claim: Victims of abuse or coercion did not freely choose the harm done to them.
+      source_ref: BG-18-63
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: The pause–remember–choose method trains intervention at urge, not only after damage.
+      source_ref: BG-18-63
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: Arjuna's choice in BG 18.73 shows willing alignment after hearing — not mere compliance.
+      source_ref: BG-18-73
+      url: https://vedabase.io/en/library/bg/18/73/
+      module_use: Parent / youth lesson
+    - claim: Calling upon the Lord at the decisive moment opens the path of mercy.
+      source_ref: SB-6-1-15
+      url: https://vedabase.io/en/library/sb/6/1/15/
+      module_use: Parent / youth lesson
+    - claim: Environmental supports — reminders, device boundaries, mentor help — strengthen good choice.
+      source_ref: BG-18-63
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: Children can learn traffic-light pause for strong feelings without being blamed for feelings.
+      source_ref: BG-18-63
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+  newcomer:
+    minimum_concept: Conditioning is real; meaningful choice and responsibility remain under Kṛṣṇa's guidance.
+    terms_define:
+    - term: icchā
+      plain: Stop — remember Kṛṣṇa — choose care.
+    terms_defer:
+    - Unlimited independence from Kṛṣṇa
+    - blaming victims
+    - excusing abuse
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 18.63](https://vedabase.io/en/library/bg/18/63/) aloud; optional
+      VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Pause–Remember–Choose Practice: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: One minimum home step from family-home-practice.md
+    sensitive_topic_caution: Traffic-light pause is for low-risk triggers only. Danger = tell adult immediately. No blame
+      for victims.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C2-W3 consciousness direction; C2-W6 integration
+  katha:
+    title: Ajāmila's calling of Nārāyaṇa
+    subtitle: SB 6.1–6.2 — Ajāmila; the decisive moment and mercy
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Conditioning is real; meaningful choice and responsibility remain under Kṛṣṇa's guidance.
+    scope_boundary: Unlimited independence from Kṛṣṇa; blaming victims; excusing abuse
+    primary_sources:
+    - label: SB 6.1.15
+      url: https://vedabase.io/en/library/sb/6/1/15/
+      use: Katha anchor
+    - label: SB 6.2.1
+      url: https://vedabase.io/en/library/sb/6/2/1/
+      use: Katha anchor
+    - label: BG 18.63
+      url: https://vedabase.io/en/library/bg/18/63/
+      use: Katha anchor
+    primary_book: Śrīmad-Bhāgavatam 6.1–6.2 (selected)
+    chapter_reference: SB 6.1–6.2 — Ajāmila; the decisive moment and mercy
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** Ajāmila lived by habits formed over years — some choices narrowed his freedom gradually,
+      like a path walked many times. The tradition describes how deeply ingrained patterns matter.'
+    - '**Paraphrase (source-grounded):** At the most critical moment, when fear and confusion surrounded him, he called the
+      name Nārāyaṇa — the name of his youngest son, yet also the holy name of the Lord. That call was not an accident; it
+      showed that even in conditioned life a turning toward the Lord can occur.'
+    - '**Paraphrase (source-grounded):** The messengers of Viṣṇu intervened. The lesson for families is not sensational fear
+      of death, but sober hope: the next choice matters, mercy is real, and guidance strengthens rather than removes responsibility.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C2-W2** without inventing dialogue.'
+    - '**Paraphrase — Bhagavad-gītā 18.63 (application summary):** The verse is not a slogan. It names a distinction families
+      can practice this week: see BG 18.61–63, 18.73, 3.33–34, 5.14–15; pause–remember–choose practice in one honest situation
+      at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _After giving knowledge, Kṛṣṇa tells Arjuna to deliberate fully
+      and then act as he chooses._ — then name one place this week the line might actually help (mealtime, bedtime, conflict,
+      service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C2-W2.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: After giving knowledge, Kṛṣṇa tells Arjuna to deliberate fully and then act as he chooses.
+    memory_line: After giving knowledge, Kṛṣṇa tells Arjuna to deliberate fully and then act as he chooses.
+    lala_cues:
+    - '**Chariot/picture cue:** Puppet Kāka sees his toy taken. His fists tighten and his voice gets loud. Teacher holds up
+      red card: STOP. Yellow: remember — Kṛṣṇa sees me; what is the kind rule? Green: choose — ask adult for help, use words,
+      or walk away. Kāka practices twice.'
+    - '**Recall game:** Stop — remember Kṛṣṇa — choose care.'
+    - '**Safeguarding:** Traffic-light pause is for low-risk triggers only. Danger = tell adult immediately. No blame for
+      victims.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Pause–Remember–Choose Practice. When children ask hard questions, turn toward śāstra together — permission to not
+      have every answer immediately.
+    cautions:
+    - Never tell victims they chose the harm done to them
+    - Unsafe situations require adult help immediately — not quiet endurance
+    - 'Youth track: no public confession of abuse or addiction'
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses: []
+    paraphrased_portions:
+    - 'Ajāmila lived by habits formed over years — some choices narrowed his freedom gradually, like a path walked many times. '
+    - At the most critical moment, when fear and confusion surrounded him, he called the name Nārāyaṇa — the name of his young
+    - 'The messengers of Viṣṇu intervened. The lesson for families is not sensational fear of death, but sober hope: the next
+      c'
+    omitted:
+    - Graphic Yamadūta imagery for young children
+    - Detailed afterlife courtroom narrative
+    - Using Ajāmila to excuse ongoing harmful behavior
+- module_id: C2-W3
+  slug: c2-w3-birth-death-and-reincarnation
+  title: Birth, Death and Reincarnation
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 2.13
+      url: https://vedabase.io/en/library/bg/2/13/
+      use: Life stages
+    - ref: Bhagavad-gītā 2.20
+      url: https://vedabase.io/en/library/bg/2/20/
+      use: Soul not destroyed
+    - ref: Bhagavad-gītā 2.22
+      url: https://vedabase.io/en/library/bg/2/22/
+      use: Garment analogy
+    - ref: Bhagavad-gītā 2.27
+      url: https://vedabase.io/en/library/bg/2/27/
+      use: Death certain for one who is born
+    - ref: Bhagavad-gītā 8.5
+      url: https://vedabase.io/en/library/bg/8/5/
+      use: Remembering at end
+    - ref: Bhagavad-gītā 8.6
+      url: https://vedabase.io/en/library/bg/8/6/
+      use: Consciousness shapes direction
+    - ref: Śrīmad-Bhāgavatam 5.8.1
+      url: https://vedabase.io/en/library/sb/5/8/1/
+      use: Bhārata in the forest
+    - ref: Śrīmad-Bhāgavatam 5.9.1
+      url: https://vedabase.io/en/library/sb/5/9/1/
+      use: Consciousness and next life
+    lectures:
+    - media_id: SP-LEC-BG-2-22-1973
+      date: '1973-08-22'
+      place: London
+      title: BG 2.22
+      url: Garment analogy
+      topic: https://vedabase.io/en/library/lectures/london/august/22/1973/7310822BG.LON_eng/
+      segment: full lecture
+    - media_id: SP-LEC-BG-2-20-1973
+      date: '1973-08-20'
+      place: London
+      title: BG 2.20
+      url: Soul not slain
+      topic: https://vedabase.io/en/library/lectures/london/august/20/1973/7310820BG.LON_eng/
+      segment: full lecture
+    - media_id: SP-LEC-TRANS-1975
+      date: '1975-03-25'
+      place: Melbourne
+      title: Transmigration
+      url: Sober transmigration teaching
+      topic: https://vedabase.io/en/library/lectures/march/25/1975/750325BG.MEL_eng/
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 2.13
+      url: https://vedabase.io/en/library/bg/2/13/
+      use: Life stages
+    - ref: Bhagavad-gītā 2.20
+      url: https://vedabase.io/en/library/bg/2/20/
+      use: Soul not destroyed
+    - ref: Bhagavad-gītā 2.22
+      url: https://vedabase.io/en/library/bg/2/22/
+      use: Garment analogy
+    - ref: Bhagavad-gītā 2.27
+      url: https://vedabase.io/en/library/bg/2/27/
+      use: Death certain for one who is born
+    - ref: Bhagavad-gītā 8.5
+      url: https://vedabase.io/en/library/bg/8/5/
+      use: Remembering at end
+    - ref: Bhagavad-gītā 8.6
+      url: https://vedabase.io/en/library/bg/8/6/
+      use: Consciousness shapes direction
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded:
+    - Partial SB 5.8.1-only mapping for full Bharata narrative
+    claim_mapping:
+    - claim: The embodied soul passes through bodily stages and accepts new bodies as garments change.
+      source_ref: BG-2-13
+      url: https://vedabase.io/en/library/bg/2/13/
+      module_use: Parent / youth lesson
+    - claim: The soul is not destroyed when the body stops working.
+      source_ref: BG-2-20
+      url: https://vedabase.io/en/library/bg/2/20/
+      module_use: Parent / youth lesson
+    - claim: The garment analogy is helpful but limited — bodies are not casually selected.
+      source_ref: BG-2-22
+      url: https://vedabase.io/en/library/bg/2/22/
+      module_use: Parent / youth lesson
+    - claim: Repeated consciousness and remembrance shape future direction.
+      source_ref: BG-8-6
+      url: https://vedabase.io/en/library/bg/8/6/
+      module_use: Parent / youth lesson
+    - claim: Grief for the bodily separation of loved ones is compatible with spiritual truth.
+      source_ref: BG-2-27
+      url: https://vedabase.io/en/library/bg/2/27/
+      module_use: Parent / youth lesson
+    - claim: We do not guess a specific deceased person's destination or species.
+      source_ref: BG-2-22
+      url: https://vedabase.io/en/library/bg/2/22/
+      module_use: Parent / youth lesson
+    - claim: Bedtime remembrance replaces uncontrolled media with one minute of Kṛṣṇa focus.
+      source_ref: BG-8-5
+      url: https://vedabase.io/en/library/bg/8/5/
+      module_use: Parent / youth lesson
+    - claim: Young children learn continuity through doll-clothes and life-stage pictures — not horror.
+      source_ref: BG-2-13
+      url: https://vedabase.io/en/library/bg/2/13/
+      module_use: Parent / youth lesson
+    - claim: Present choices matter because consciousness is being shaped daily.
+      source_ref: BG-8-6
+      url: https://vedabase.io/en/library/bg/8/6/
+      module_use: Parent / youth lesson
+    - claim: Answers to children should be truthful, calm, brief, and developmentally appropriate.
+      source_ref: BG-2-20
+      url: https://vedabase.io/en/library/bg/2/20/
+      module_use: Parent / youth lesson
+    tier_a_urls:
+    - https://vedabase.io/en/library/sb/
+  newcomer:
+    minimum_concept: The soul continues through changing bodies; consciousness and choice shape direction.
+    terms_define:
+    - term: dehī
+      plain: Kṛṣṇa, please help me remember You.
+    terms_defer:
+    - Guessing destinations
+    - ghost entertainment
+    - frightening imagery for young children
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 2.22](https://vedabase.io/en/library/bg/2/22/) aloud; optional
+      VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Bedtime Remembrance Routine: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: One minimum home step from family-home-practice.md
+    sensitive_topic_caution: 'NO frightening death imagery. Feelings cards: sad, confused, peaceful, worried — all OK to share
+      with trusted adult. Redirect graphic questions to parents.'
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C2-W4 modes; deeper Cycle 3
+  katha:
+    title: Bhārata Mahārāja's remembrance
+    subtitle: SB 5.8–5.9 — Bhārata; consciousness at life's end
+    katha_type: source-grounded-devotional-narrative
+    module_connection: The soul continues through changing bodies; consciousness and choice shape direction.
+    scope_boundary: Guessing destinations; ghost entertainment; frightening imagery for young children
+    primary_sources:
+    - label: SB 5.8.1
+      url: https://vedabase.io/en/library/sb/5/8/1/
+      use: Katha anchor
+    - label: SB 5.9.1
+      url: https://vedabase.io/en/library/sb/5/9/1/
+      use: Katha anchor
+    - label: BG 2.22
+      url: https://vedabase.io/en/library/bg/2/22/
+      use: Katha anchor
+    primary_book: Śrīmad-Bhāgavatam 5.8–5.9 (selected)
+    chapter_reference: SB 5.8–5.9 — Bhārata; consciousness at life's end
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** Bhārata Mahārāja was a great king who left his kingdom to practice devotion in the
+      forest. He served with great care, yet a tender attachment to a young deer distracted his remembrance.'
+    - '**Paraphrase (source-grounded):** When his human body ended, the story describes how the consciousness he had cultivated
+      — including that attachment — influenced his next situation. The lesson is not horror; it is sober: what we remember
+      and repeat shapes direction.'
+    - '**Paraphrase (source-grounded):** For families, the katha supports bedtime remembrance and honest answers: the soul
+      continues, the body is temporary like worn garments, and Kṛṣṇa is the shelter for those who remember Him.'
+    - '**Paraphrase from SB 5.8–5.9 (Bhārata Mahārāja — summary):** A great king practicing devotion in the forest became
+      attached to a young deer; consciousness at life''s end followed that attachment — sober lesson on remembrance.'
+    - '**Paraphrase aligned with BG 2.22:** As a person changes garments, the soul changes bodies — garment analogy with stated
+      limits.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C2-W3** without inventing dialogue.'
+    - '**Paraphrase — Bhagavad-gītā 2.22 (application summary):** The verse is not a slogan. It names a distinction families
+      can practice this week: see BG 2.13, 2.20, 2.22, 2.27, 8.5–6; bedtime remembrance; grief-compassionate responses in
+      one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _As a person puts aside worn clothes and accepts new ones,
+      the soul leaves an old body and receives another._ — then name one place this week the line might actually help (mealtime,
+      bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C2-W3.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: As a person puts aside worn clothes and accepts new ones, the soul leaves an old body and receives another.
+    memory_line: As a person puts aside worn clothes and accepts new ones, the soul leaves an old body and receives another.
+    lala_cues:
+    - '**Chariot/picture cue:** Doll Devi has three dresses: baby blue, school yellow, warm shawl. Teacher changes dresses
+      while children hold Devi''s name card. ''Dress changed — Devi is still Devi.'' Caterpillar picture: ''Sometimes nature
+      shows change — our proof is Kṛṣṇa''s words in BG 2.22.'''
+    - '**Recall game:** Kṛṣṇa, please help me remember You.'
+    - '**Safeguarding:** NO frightening death imagery. Feelings cards: sad, confused, peaceful, worried — all OK to share
+      with trusted adult. Redirect graphic questions to parents.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Bedtime Remembrance Routine. When children ask hard questions, turn toward śāstra together — permission to not have
+      every answer immediately.
+    cautions:
+    - NO frightening imagery for ages 4–6 — use doll clothes and caterpillar picture only as illustration
+    - Offer opt-out for families with recent bereavement
+    - Grief is respected even when soul is eternal
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses: []
+    paraphrased_portions:
+    - Bhārata Mahārāja was a great king who left his kingdom to practice devotion in the forest. He served with great care,
+      ye
+    - When his human body ended, the story describes how the consciousness he had cultivated — including that attachment —
+      inf
+    - 'For families, the katha supports bedtime remembrance and honest answers: the soul continues, the body is temporary
+      like '
+    omitted:
+    - Graphic death or animal-birth descriptions for Lāla–Lālī
+    - Speculation about a deceased relative's next body
+    - Ghost stories or paranormal claims
+- module_id: C2-W4
+  slug: c2-w4-the-three-modes-of-material-nature
+  title: The Three Modes of Material Nature
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 14.5
+      url: https://vedabase.io/en/library/bg/14/5/
+      use: Three modes named
+    - ref: Bhagavad-gītā 14.6
+      url: https://vedabase.io/en/library/bg/14/6/
+      use: Goodness characteristics
+    - ref: Bhagavad-gītā 14.7
+      url: https://vedabase.io/en/library/bg/14/7/
+      use: Passion characteristics
+    - ref: Bhagavad-gītā 14.8
+      url: https://vedabase.io/en/library/bg/14/8/
+      use: Ignorance characteristics
+    - ref: Bhagavad-gītā 14.9
+      url: https://vedabase.io/en/library/bg/14/9/
+      use: Modes compete
+    - ref: Bhagavad-gītā 14.17
+      url: https://vedabase.io/en/library/bg/14/17/
+      use: Fruits of modes
+    - ref: Bhagavad-gītā 14.18
+      url: https://vedabase.io/en/library/bg/14/18/
+      use: Mode dominance
+    - ref: Bhagavad-gītā 14.26
+      url: https://vedabase.io/en/library/bg/14/26/
+      use: Bhakti transcends modes
+    - ref: Bhagavad-gītā 17.8
+      url: https://vedabase.io/en/library/bg/17/8/
+      use: Food in goodness (careful use)
+    lectures:
+    - media_id: SP-LEC-BG-14-5-1973
+      date: '1973-11-23'
+      place: Los Angeles
+      title: BG 14.5
+      url: Three modes
+      topic: https://vedabase.io/en/library/lectures/november/23/1973/731123BG.LA_eng/
+      segment: full lecture
+    - media_id: SP-LEC-BG-14-1974
+      date: '1974-06-08'
+      place: Paris
+      title: BG 14
+      url: Modes in life
+      topic: https://vedabase.io/en/library/lectures/june/08/1974/740608BG.PAR_eng/
+      segment: full lecture
+    - media_id: SP-LEC-MODES-1975
+      date: '1975-07-01'
+      place: Denver
+      title: Material nature
+      url: Transcending modes
+      topic: https://vedabase.io/en/library/lectures/july/01/1975/750701BG.DEN_eng/
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 14.5
+      url: https://vedabase.io/en/library/bg/14/5/
+      use: Three modes named
+    - ref: Bhagavad-gītā 14.6
+      url: https://vedabase.io/en/library/bg/14/6/
+      use: Goodness characteristics
+    - ref: Bhagavad-gītā 14.7
+      url: https://vedabase.io/en/library/bg/14/7/
+      use: Passion characteristics
+    - ref: Bhagavad-gītā 14.8
+      url: https://vedabase.io/en/library/bg/14/8/
+      use: Ignorance characteristics
+    - ref: Bhagavad-gītā 14.9
+      url: https://vedabase.io/en/library/bg/14/9/
+      use: Modes compete
+    - ref: Bhagavad-gītā 14.17
+      url: https://vedabase.io/en/library/bg/14/17/
+      use: Fruits of modes
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: Material nature has three modes — goodness, passion, and ignorance — born of prakṛti.
+      source_ref: BG-14-5
+      url: https://vedabase.io/en/library/bg/14/5/
+      module_use: Parent / youth lesson
+    - claim: Modes describe tendencies and influences, not fixed labels on persons.
+      source_ref: BG-14-9
+      url: https://vedabase.io/en/library/bg/14/9/
+      module_use: Parent / youth lesson
+    - claim: Goodness tends toward clarity and order but can bind through pride and comfort.
+      source_ref: BG-14-6
+      url: https://vedabase.io/en/library/bg/14/6/
+      module_use: Parent / youth lesson
+    - claim: Passion tends toward restlessness, craving, and competition.
+      source_ref: BG-14-7
+      url: https://vedabase.io/en/library/bg/14/7/
+      module_use: Parent / youth lesson
+    - claim: Ignorance tends toward dullness, neglect, and confusion.
+      source_ref: BG-14-8
+      url: https://vedabase.io/en/library/bg/14/8/
+      module_use: Parent / youth lesson
+    - claim: Environmental design — remove, add, move earlier, simplify — supports bhakti.
+      source_ref: BG-14-5
+      url: https://vedabase.io/en/library/bg/14/5/
+      module_use: Parent / youth lesson
+    - claim: Bhakti practiced with determination helps one transcend the modes.
+      source_ref: BG-14-26
+      url: https://vedabase.io/en/library/bg/14/26/
+      module_use: Parent / youth lesson
+    - claim: Children can identify calm, restless, and dull patterns in stories without labeling classmates.
+      source_ref: BG-14-5
+      url: https://vedabase.io/en/library/bg/14/5/
+      module_use: Parent / youth lesson
+    - claim: Food examples illustrate general tendencies; do not police medical or family food needs.
+      source_ref: BG-17-8
+      url: https://vedabase.io/en/library/bg/17/8/
+      module_use: Parent / youth lesson
+    - claim: Colored-filter lamp demonstrates perception shift — pedagogical analogy, not literal physics.
+      source_ref: BG-14-5
+      url: https://vedabase.io/en/library/bg/14/5/
+      module_use: Parent / youth lesson
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+  newcomer:
+    minimum_concept: Modes are changing influences; describe conditions, not fixed identities.
+    terms_define:
+    - term: sattva
+      plain: I can choose habits that help me hear Kṛṣṇa.
+    terms_defer:
+    - Labeling people/cultures
+    - food policing
+    - mental-health stereotypes
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 14.5](https://vedabase.io/en/library/bg/14/5/) aloud; optional
+      VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Clarity Before Chanting: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: One minimum home step from family-home-practice.md
+    sensitive_topic_caution: Never call a child a mode. Weather describes the room, not the person's worth.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C2-W5 māyā; C2-W6 integration
+  katha:
+    title: The brāhmaṇa who saw the modes in daily life
+    subtitle: BG 14 — modes in ordinary situations
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Modes are changing influences; describe conditions, not fixed identities.
+    scope_boundary: Labeling people/cultures; food policing; mental-health stereotypes
+    primary_sources:
+    - label: BG 14.5
+      url: https://vedabase.io/en/library/bg/14/5/
+      use: Katha anchor
+    - label: BG 14.6
+      url: https://vedabase.io/en/library/bg/14/6/
+      use: Katha anchor
+    - label: BG 14.7
+      url: https://vedabase.io/en/library/bg/14/7/
+      use: Katha anchor
+    primary_book: Bhagavad-gītā 14 / illustrative Bhāgavatam frame
+    chapter_reference: BG 14 — modes in ordinary situations
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** A thoughtful brāhmaṇa in a busy town learned to watch his own day through the lens
+      Kṛṣṇa gives in the Fourteenth Chapter: sometimes clarity and order prevailed; sometimes restlessness and grasping; sometimes
+      fog, delay, and forgetfulness.'
+    - '**Paraphrase (source-grounded):** He did not call his neighbors ''a mode.'' He noticed conditions: noise, hunger, fatigue,
+      competition, untidiness — and chose one small elevating action before sitting to chant.'
+    - '**Paraphrase (source-grounded):** His students learned that modes mix and change, that goodness can still bind through
+      pride, and that devotion beyond the modes is possible through Kṛṣṇa''s mercy.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C2-W4** without inventing dialogue.'
+    - '**Paraphrase — Bhagavad-gītā 14.5 (application summary):** The verse is not a slogan. It names a distinction families
+      can practice this week: see BG 14.5–9, 14.17–18, 14.26; environment design; clarity before chanting in one honest situation
+      at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _Material nature has three modes—goodness, passion and ignorance—that
+      condition the eternal living being._ — then name one place this week the line might actually help (mealtime, bedtime,
+      conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C2-W4.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Material nature has three modes—goodness, passion and ignorance—that condition the eternal living being.
+    memory_line: Material nature has three modes—goodness, passion and ignorance—that condition the eternal living being.
+    lala_cues:
+    - '**Chariot/picture cue:** Three weather faces on the wall: clear sky, windy storm, sleepy fog. Teacher tells three mini-stories
+      about the same playroom — tidy and quiet, noisy chase, messy and dark. Children match weather face to room, then do
+      3-item tidy reset.'
+    - '**Recall game:** I can choose habits that help me hear Kṛṣṇa.'
+    - '**Safeguarding:** Never call a child a mode. Weather describes the room, not the person''s worth.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Clarity Before Chanting. When children ask hard questions, turn toward śāstra together — permission to not have
+      every answer immediately.
+    cautions:
+    - Describe room conditions, not people as sattva/rajas/tamas labels
+    - Medical diets and allergies are never criticized
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses: []
+    paraphrased_portions:
+    - A thoughtful brāhmaṇa in a busy town learned to watch his own day through the lens Kṛṣṇa gives in the Fourteenth Chapter
+    - 'He did not call his neighbors ''a mode.'' He noticed conditions: noise, hunger, fatigue, competition, untidiness —
+      and cho'
+    - His students learned that modes mix and change, that goodness can still bind through pride, and that devotion beyond
+      the
+    omitted:
+    - Fixed personality typing
+    - Cultural or gender mode labels
+    - Food shaming
+- module_id: C2-W5
+  slug: c2-w5-māyā-decorating-the-prison-cell
+  title: 'Māyā: Decorating the Prison Cell'
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 7.14
+      url: https://vedabase.io/en/library/bg/7/14/
+      use: Divine energy; surrender
+    - ref: Bhagavad-gītā 2.62
+      url: https://vedabase.io/en/library/bg/2/62/
+      use: Contemplation chain begins
+    - ref: Bhagavad-gītā 2.63
+      url: https://vedabase.io/en/library/bg/2/63/
+      use: Anger and bewilderment
+    - ref: Bhagavad-gītā 15.7
+      url: https://vedabase.io/en/library/bg/15/7/
+      use: Living entities struggle with māyā
+    - ref: Bhagavad-gītā 9.10
+      url: https://vedabase.io/en/library/bg/9/10/
+      use: Material nature under Kṛṣṇa
+    - ref: Śrīmad-Bhāgavatam 7.5.23
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      use: Well and ocean illustration
+    - ref: Bhagavad-gītā 7.25
+      url: https://vedabase.io/en/library/bg/7/25/
+      use: Yogamāyā vs Mahāmāyā (intro only)
+    - ref: Bhagavad-gītā 18.66
+      url: https://vedabase.io/en/library/bg/18/66/
+      use: Surrender shelter
+    lectures:
+    - media_id: SP-LEC-BG-7-14-1972
+      date: '1972-02-19'
+      place: Vrindavan
+      title: BG 7.14
+      url: Māyā difficult to overcome
+      topic: https://vedabase.io/en/library/lectures/february/19/1972/720219BG.VRN_eng/
+      segment: full lecture
+    - media_id: SP-LEC-MAYA-1973
+      date: '1973-09-05'
+      place: Stockholm
+      title: Māyā
+      url: Material energy
+      topic: https://vedabase.io/en/library/lectures/september/05/1973/730905BG.STO_eng/
+      segment: full lecture
+    - media_id: SP-LEC-BG-2-62-1973
+      date: '1973-08-17'
+      place: London
+      title: BG 2.62
+      url: Attention chain
+      topic: https://vedabase.io/en/library/lectures/august/17/1973/730817BG.LON_eng/
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 7.14
+      url: https://vedabase.io/en/library/bg/7/14/
+      use: Divine energy; surrender
+    - ref: Bhagavad-gītā 2.62
+      url: https://vedabase.io/en/library/bg/2/62/
+      use: Contemplation chain begins
+    - ref: Bhagavad-gītā 2.63
+      url: https://vedabase.io/en/library/bg/2/63/
+      use: Anger and bewilderment
+    - ref: Bhagavad-gītā 15.7
+      url: https://vedabase.io/en/library/bg/15/7/
+      use: Living entities struggle with māyā
+    - ref: Bhagavad-gītā 9.10
+      url: https://vedabase.io/en/library/bg/9/10/
+      use: Material nature under Kṛṣṇa
+    - ref: Śrīmad-Bhāgavatam 7.5.23
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      use: Well and ocean illustration
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: Kṛṣṇa's material energy (māyā) is difficult to overcome without surrender to Him.
+      source_ref: BG-7-14
+      url: https://vedabase.io/en/library/bg/7/14/
+      module_use: Parent / youth lesson
+    - claim: Māyā consists of the three modes and covers knowledge of Kṛṣṇa.
+      source_ref: BG-7-14
+      url: https://vedabase.io/en/library/bg/7/14/
+      module_use: Parent / youth lesson
+    - claim: Contemplating sense objects leads through attachment to desire and loss of intelligence.
+      source_ref: BG-2-62
+      url: https://vedabase.io/en/library/bg/2/62/
+      module_use: Parent / youth lesson
+    - claim: Decorating the prison cell means making comfort, image, or control the ultimate project.
+      source_ref: BG-7-14
+      url: https://vedabase.io/en/library/bg/7/14/
+      module_use: Parent / youth lesson
+    - claim: Women, children, and all persons are souls — never 'māyā.'
+      source_ref: BG-7-14
+      url: https://vedabase.io/en/library/bg/7/14/
+      module_use: Parent / youth lesson
+    - claim: Boundary plus shelter — limit, replacement practice, devotee support — beats prohibition alone.
+      source_ref: BG-7-14
+      url: https://vedabase.io/en/library/bg/7/14/
+      module_use: Parent / youth lesson
+    - claim: The fish-in-the-well analogy illustrates limited vision, not literal geography.
+      source_ref: SB-7-5-23
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      module_use: Parent / youth lesson
+    - claim: Stop–name–redirect trains attention without shame spirals.
+      source_ref: BG-2-62
+      url: https://vedabase.io/en/library/bg/2/62/
+      module_use: Parent / youth lesson
+    - claim: Responsible material arrangement for Kṛṣṇa differs from ultimate absorption in decoration.
+      source_ref: BG-9-10
+      url: https://vedabase.io/en/library/bg/9/10/
+      module_use: Parent / youth lesson
+    - claim: Children learn shiny distractions pull away from helping; people remain sacred.
+      source_ref: BG-7-14
+      url: https://vedabase.io/en/library/bg/7/14/
+      module_use: Parent / youth lesson
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+  newcomer:
+    minimum_concept: Māyā is Kṛṣṇa's material energy; surrender and practice cross it — people are not māyā.
+    terms_define:
+    - term: māyā
+      plain: People are not māyā. I can stop, chant once, and choose help.
+    terms_defer:
+    - Misogynistic 'women are māyā'
+    - world-hatred
+    - diagnosing addiction publicly
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 7.14](https://vedabase.io/en/library/bg/7/14/) aloud; optional
+      VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Attention Boundary and Japa Shelter: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: One minimum home step from family-home-practice.md
+    sensitive_topic_caution: 'Say clearly: People are not māyā. No inappropriate media displayed in class.'
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C2-W6 integration; Cycle 3 bhakti
+  katha:
+    title: The fish in the well
+    subtitle: SB 7.5 — limited vision within māyā's covering
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Māyā is Kṛṣṇa's material energy; surrender and practice cross it — people are not māyā.
+    scope_boundary: Misogynistic 'women are māyā'; world-hatred; diagnosing addiction publicly
+    primary_sources:
+    - label: SB 7.5.23
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      use: Katha anchor
+    - label: BG 7.14
+      url: https://vedabase.io/en/library/bg/7/14/
+      use: Katha anchor
+    - label: BG 2.62
+      url: https://vedabase.io/en/library/bg/2/62/
+      use: Katha anchor
+    primary_book: Śrīmad-Bhāgavatam 7.5 / Prahlāda instruction context
+    chapter_reference: SB 7.5 — limited vision within māyā's covering
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** Prahlāda Mahārāja taught that persons absorbed only in family, shop, and neighborhood
+      comfort may mistake a small well for the whole ocean — like a fish who has never seen the sea.'
+    - '**Paraphrase (source-grounded):** The covering of māyā is not that matter is unreal in every sense; it is that misplaced
+      attachment makes us forget Kṛṣṇa and our actual interest.'
+    - '**Paraphrase (source-grounded):** Crossing māyā comes through surrender to Kṛṣṇa and devotional shelter — not hatred
+      of the world, not demeaning women, and not mere white-knuckle control without replacement practice.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C2-W5** without inventing dialogue.'
+    - '**Paraphrase — Bhagavad-gītā 7.14 (application summary):** The verse is not a slogan. It names a distinction families
+      can practice this week: see BG 7.14, 2.62–63, 15.7, 9.10; prison-cell analogy; attention boundaries in one honest situation
+      at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _Kṛṣṇa''s material energy is difficult to overcome, but those
+      who surrender to Him can cross beyond it._ — then name one place this week the line might actually help (mealtime, bedtime,
+      conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C2-W5.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Kṛṣṇa's material energy is difficult to overcome, but those who surrender to Him can cross beyond it.
+    memory_line: Kṛṣṇa's material energy is difficult to overcome, but those who surrender to Him can cross beyond it.
+    lala_cues:
+    - '**Chariot/picture cue:** Shiny puppet toy flashes and beeps during cleanup time. Children practice: put down, three
+      breaths, one chant, pick up one toy for Kṛṣṇa. Sticky-note path shows how each ''just one look'' adds up.'
+    - '**Recall game:** People are not māyā. I can stop, chant once, and choose help.'
+    - '**Safeguarding:** Say clearly: People are not māyā. No inappropriate media displayed in class.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Attention Boundary and Japa Shelter. When children ask hard questions, turn toward śāstra together — permission
+      to not have every answer immediately.
+    cautions:
+    - Explicitly reject 'women are māyā' every session
+    - People are souls; māyā is energy that covers remembrance
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses: []
+    paraphrased_portions:
+    - Prahlāda Mahārāja taught that persons absorbed only in family, shop, and neighborhood comfort may mistake a small well
+      f
+    - 'The covering of māyā is not that matter is unreal in every sense; it is that misplaced attachment makes us forget Kṛṣṇa '
+    - Crossing māyā comes through surrender to Kṛṣṇa and devotional shelter — not hatred of the world, not demeaning women,
+      an
+    omitted:
+    - Misogynistic slogans
+    - Detailed hell descriptions
+    - Public addiction disclosure
+- module_id: C2-W6
+  slug: c2-w6-integration-night-choice-consequence-and-the-modes
+  title: 'Integration Night: Choice, Consequence and the Modes'
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 3.9
+      url: https://vedabase.io/en/library/bg/3/9/
+      use: C2-W1 review
+    - ref: Bhagavad-gītā 18.63
+      url: https://vedabase.io/en/library/bg/18/63/
+      use: C2-W2 review
+    - ref: Bhagavad-gītā 2.22
+      url: https://vedabase.io/en/library/bg/2/22/
+      use: C2-W3 review
+    - ref: Bhagavad-gītā 14.5
+      url: https://vedabase.io/en/library/bg/14/5/
+      use: C2-W4 review
+    - ref: Bhagavad-gītā 7.14
+      url: https://vedabase.io/en/library/bg/7/14/
+      use: C2-W5 review
+    - ref: Bhagavad-gītā 14.26
+      url: https://vedabase.io/en/library/bg/14/26/
+      use: Devotion beyond modes
+    - ref: Bhagavad-gītā 2.62
+      url: https://vedabase.io/en/library/bg/2/62/
+      use: Attention chain review
+    - ref: Bhagavad-gītā 8.6
+      url: https://vedabase.io/en/library/bg/8/6/
+      use: Consciousness direction review
+    lectures:
+    - media_id: SP-LEC-CYCLE-1973
+      date: '1973-12-28'
+      place: Los Angeles
+      title: Summary lecture
+      url: Integration prep
+      topic: https://vedabase.io/en/library/lectures/december/28/1973/731228BG.LA_eng/
+      segment: full lecture
+    - media_id: SP-LEC-BG-18-63-1972
+      date: '1972-11-25'
+      place: Hyderabad
+      title: BG 18.63
+      url: Choice under guidance
+      topic: https://vedabase.io/en/library/lectures/november/25/1972/721125BG.HYD_eng/
+      segment: full lecture
+    - media_id: SP-LEC-KARMA-1975
+      date: '1975-03-23'
+      place: Melbourne
+      title: Karma overview
+      url: Cycle 2 thread
+      topic: https://vedabase.io/en/library/lectures/march/23/1975/750323BG.MEL_eng/
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 3.9
+      url: https://vedabase.io/en/library/bg/3/9/
+      use: C2-W1 review
+    - ref: Bhagavad-gītā 18.63
+      url: https://vedabase.io/en/library/bg/18/63/
+      use: C2-W2 review
+    - ref: Bhagavad-gītā 2.22
+      url: https://vedabase.io/en/library/bg/2/22/
+      use: C2-W3 review
+    - ref: Bhagavad-gītā 14.5
+      url: https://vedabase.io/en/library/bg/14/5/
+      use: C2-W4 review
+    - ref: Bhagavad-gītā 7.14
+      url: https://vedabase.io/en/library/bg/7/14/
+      use: C2-W5 review
+    - ref: Bhagavad-gītā 14.26
+      url: https://vedabase.io/en/library/bg/14/26/
+      use: Devotion beyond modes
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: Cycle 2 knowledge should produce thoughtful, responsible choice — not fatalism.
+      source_ref: BG-18-63
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: Five-lens analysis includes action, choice, modes, false promise, and shelter.
+      source_ref: BG-3-9
+      url: https://vedabase.io/en/library/bg/3/9/
+      module_use: Parent / youth lesson
+    - claim: Karma diagnosis of another person's suffering is prohibited in case work.
+      source_ref: BG-3-9
+      url: https://vedabase.io/en/library/bg/3/9/
+      module_use: Parent / youth lesson
+    - claim: Mode language describes conditions, not permanent identities.
+      source_ref: BG-14-5
+      url: https://vedabase.io/en/library/bg/14/5/
+      module_use: Parent / youth lesson
+    - claim: Integration week uses synthesis, not a new overloaded principal līlā.
+      source_ref: CLM-005
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: Families choose one Cycle 2 method to continue during the off week.
+      source_ref: BG-18-63
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: 'Children demonstrate at least one tool: pause, seed, remembrance, reset, or boundary.'
+      source_ref: CLM-007
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: Case discussions use fictional facts only — no indirect gossip.
+      source_ref: CLM-008
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: Assessment is private — no winning table or public score.
+      source_ref: CLM-009
+      url: https://vedabase.io/en/library/bg/18/63/
+      module_use: Parent / youth lesson
+    - claim: Surrender includes practical boundaries and responsible action together.
+      source_ref: BG-7-14
+      url: https://vedabase.io/en/library/bg/7/14/
+      module_use: Parent / youth lesson
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+  newcomer:
+    minimum_concept: Five-lens analysis without blame, fatalism, or fixed labels.
+    terms_define:
+    - term: review
+      plain: 'We have tools: seeds, pause, remembrance, tidy sky, boundaries.'
+    terms_defer:
+    - New overloaded līlā
+    - gossip disguised as cases
+    - public scoring
+    reduced_source_load: Read KUTUMBA summary of [Bhagavad-gītā 18.63](https://vedabase.io/en/library/bg/18/63/) aloud; optional
+      VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Five-Lens Family Case Lab: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: One minimum home step from family-home-practice.md
+    sensitive_topic_caution: Fictional puppets only. No quizzes on deceased relatives or karma diagnosis.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: Cycle 3 — Kṛṣṇa, guru, bhakti
+  katha:
+    title: Integration — choice and consequence review
+    subtitle: Cycle 2 synthesis — five lenses on one family evening
+    katha_type: facilitator-synthesis
+    module_connection: Five-lens analysis without blame, fatalism, or fixed labels.
+    scope_boundary: New overloaded līlā; gossip disguised as cases; public scoring
+    primary_sources:
+    - label: BG 3.9
+      url: https://vedabase.io/en/library/bg/3/9/
+      use: Katha anchor
+    - label: BG 18.63
+      url: https://vedabase.io/en/library/bg/18/63/
+      use: Katha anchor
+    - label: BG 14.5
+      url: https://vedabase.io/en/library/bg/14/5/
+      use: Katha anchor
+    - label: BG 7.14
+      url: https://vedabase.io/en/library/bg/7/14/
+      use: Katha anchor
+    primary_book: Facilitator synthesis (no new principal līlā)
+    chapter_reference: Cycle 2 synthesis — five lenses on one family evening
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase — integration exception (documented):** This module synthesizes prior weeks without introducing a new
+      principal līlā in the repository.'
+    - '**Paraphrase — cycle review:** Facilitator recalls memory lines and one family-chosen practice. Scope: Review BG 3.9,
+      18.63, 2.22, 14.5, 7.14; five-lens case lab; continuity planning.'
+    - '**Paraphrase — offering mood:** Families share only with consent — no competition, scoring, or forced testimony.'
+    - '**Paraphrase — continuity:** Choose one minimum home practice for the off week; preview next cycle briefly.'
+    - '**Paraphrase — integration exception (documented):** This week synthesizes prior modules. No new principal līlā is
+      introduced in the repository.'
+    - '**Paraphrase — station recall:** Families rotate through memory-line stations or consent-based shares — not competitive
+      presentations.'
+    - '**Paraphrase — continuity:** Choose one practice from the cycle to continue: Knowledge should lead to thoughtful, responsible
+      choice under Kṛṣṇa''s guidance.'
+    - '**Paraphrase — offering mood:** Integration is gratitude and honest review — what actually changed at home?'
+    - '**Paraphrase — preview:** Name the next cycle theme briefly without overwhelming newcomers.'
+    - '**Paraphrase — consent:** Any family share requires explicit consent; facilitator stops comparison or ranking immediately.'
+    - '**Paraphrase — thirty-day baseline:** Choose one realistic practice — smaller than the mela display, but steady.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Knowledge should lead to thoughtful, responsible choice under Kṛṣṇa's guidance.
+    memory_line: Knowledge should lead to thoughtful, responsible choice under Kṛṣṇa's guidance.
+    lala_cues:
+    - '**Chariot/picture cue:** Puppet family rushes on Friday. Children pick tool cards: seed (prepare snack), traffic light
+      (pause before shouting), tidy sky (reset rug), bedtime star (remember Kṛṣṇa). Puppet family tries again — calmer kīrtana.'
+    - '**Recall game:** We have tools: seeds, pause, remembrance, tidy sky, boundaries.'
+    - '**Safeguarding:** Fictional puppets only. No quizzes on deceased relatives or karma diagnosis.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Five-Lens Family Case Lab. When children ask hard questions, turn toward śāstra together — permission to not have
+      every answer immediately.
+    cautions:
+    - Fictional cases only in group work
+    - Testimonies only with consent
+    - No winning table
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses: []
+    paraphrased_portions:
+    - '**Paraphrase — integration exception (documented):** This module synthesizes prior weeks without introducing a new
+      princ'
+    - '**Paraphrase — cycle review:** Facilitator recalls memory lines and one family-chosen practice. Scope: Review BG 3.9,
+      18'
+    - '**Paraphrase — offering mood:** Families share only with consent — no competition, scoring, or forced testimony.'
+    omitted:
+    - New copyrighted narrative overload
+    - Real family gossip
+    - Competitive scoring
+- module_id: C3-W1
+  slug: c3-w1-who-is-god-the-supreme-enjoyer-proprietor-and-friend
+  title: Who Is God? The Supreme Enjoyer, Proprietor and Friend
+  source_expansion:
+    controlling_books:
+    - ref: Bhagavad-gītā 5.29
+      url: https://vedabase.io/en/library/bg/5/29/
+      use: Enjoyer, proprietor, friend
+    - ref: ŚB 10.24
+      url: https://vedabase.io/en/library/sb/10/24/7/
+      use: Govardhana instruction
+    lectures:
+    - media_id: SP-LEC-BG-5-29-1973
+      date: '1973-08-15'
+      place: London
+      title: BG 5.29
+      url: https://vedabase.io/en/library/lectures/august/15/1973/730815BG.LON_eng/
+      topic: Peace formula
+      segment: full lecture
+    katha_sources:
+    - ref: Bhagavad-gītā 5.29
+      url: https://vedabase.io/en/library/bg/5/29/
+      use: Enjoyer, proprietor, friend
+    - ref: ŚB 10.24
+      url: https://vedabase.io/en/library/sb/10/24/7/
+      use: Govardhana instruction
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded:
+    - SB 10.14 mislabeled as gopī prayers
+    claim_mapping:
+    - claim: Kṛṣṇa is supreme enjoyer, proprietor, and friend — stewardship replaces possessiveness.
+      source_ref: BG 5.29
+      url: https://vedabase.io/en/library/bg/5/29/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/bg/
+    - https://vedabase.io/en/library/sb/
+  newcomer:
+    minimum_concept: Kṛṣṇa is supreme enjoyer, proprietor, and friend — stewardship replaces possessiveness.
+    terms_define:
+    - term: key term
+      plain: Peace comes from knowing Kṛṣṇa as the supreme enjoyer, proprietor of everything and friend of all living beings.
+    terms_defer:
+    - SB 10.14 mislabeled as Govardhana
+    - demigod minimization without respect
+    reduced_source_load: Read KUTUMBA summary of [BG 5.29](https://vedabase.io/en/library/bg/5/29/) aloud; optional VedaBase
+      after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Stewardship Inventory: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Three peace questions before one conflict-prone activity.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C3-W2 — who Kṛṣṇa is as Supreme Person
+  katha:
+    title: Kṛṣṇa lifts Govardhana — stewardship and supreme proprietorship
+    subtitle: SB 10.24 Govardhana; SB 10.25 protection
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Kṛṣṇa is supreme enjoyer, proprietor, and friend — stewardship replaces possessiveness.
+    scope_boundary: SB 10.14 mislabeled as Govardhana; demigod minimization without respect
+    primary_sources:
+    - label: SB 10.24.7
+      url: https://vedabase.io/en/library/sb/10/24/7/
+      use: Setting
+    - label: SB 10.24.19
+      url: https://vedabase.io/en/library/sb/10/24/19/
+      use: Govardhana worship
+    - label: SB 10.25.9
+      url: https://vedabase.io/en/library/sb/10/25/9/
+      use: Hill lifted
+    - label: BG 5.29
+      url: https://vedabase.io/en/library/bg/5/29/
+      use: Peace formula
+    primary_book: Śrīmad-Bhāgavatam 10.24–10.25
+    chapter_reference: SB 10.24 Govardhana; SB 10.25 protection
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** In Vṛndāvana, Nanda Mahārāja and the residents prepared to worship Lord Indra for
+      rainfall. Young Kṛṣṇa questioned this custom with gentle logic, showing that their real wealth — land, cows, children,
+      and Govardhana Hill — comes from the Lord''s arrangement. He instructed them to worship Govardhana Hill, which nourishes
+      them, as an offering to Him.'
+    - '**Paraphrase (source-grounded):** When Indra sent devastating rains, Kṛṣṇa lifted Govardhana Hill on His little finger
+      and sheltered the entire community for seven days. The residents saw that no demigod is independent of the Supreme Lord.'
+    - '**Paraphrase (source-grounded):** Kṛṣṇa is the supreme enjoyer of sacrifice, proprietor of all planets, and well-wishing
+      friend of every living being. The Govardhana pastime makes this visible: forgetting the Lord''s proprietorship increases
+      anxiety; remembering Him restores stewardship.'
+    - '**Paraphrase from ŚB 10.24.7–10.24.19:** In Vṛndāvana, Nanda Mahārāja and the residents prepared to worship Lord Indra
+      for rainfall. Young Kṛṣṇa questioned this custom with gentle logic, showing that their real wealth — land, cows, children,
+      and Govardhana Hill — comes from the Lord''s arrangement. He instructed them to worship Govardhana Hill, which nourishes
+      them, as an offering to Him.'
+    - '**Paraphrase from ŚB 10.25.9:** When Indra sent devastating rains, Kṛṣṇa lifted Govardhana Hill on His little finger
+      and sheltered the entire community for seven days. The residents saw that no demigod is independent of the Supreme Lord.'
+    - '**Paraphrase aligned with BG 5.29:** Kṛṣṇa is the supreme enjoyer of sacrifice, proprietor of all planets, and well-wishing
+      friend of every living being. The Govardhana pastime makes this visible: forgetting the Lord''s proprietorship increases
+      anxiety; remembering Him restores stewardship.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C3-W1** without inventing dialogue.'
+    - '**Paraphrase — BG 5.29 (application summary):** The verse is not a slogan. It names a distinction families can practice
+      this week: see this week''s teaching in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _Peace comes from knowing Kṛṣṇa as the supreme enjoyer, proprietor
+      of everything and friend of all living beings._ — then name one place this week the line might actually help (mealtime,
+      bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C3-W1.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Peace comes from knowing Kṛṣṇa as the supreme enjoyer, proprietor of everything and friend of all living
+      beings.
+    memory_line: Peace comes from knowing Kṛṣṇa as the supreme enjoyer, proprietor of everything and friend of all living
+      beings.
+    lala_cues:
+    - '**Chariot/picture cue:** Simple story picture tied to memory line.'
+    - '**Recall game:** Repeat memory line in call-and-response.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Stewardship Inventory. When children ask hard questions, turn toward śāstra together — permission to not have every
+      answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - BG 5.29
+    paraphrased_portions:
+    - 'In Vṛndāvana, Nanda Mahārāja and the residents prepared to worship Lord Indra for rainfall. Young Kṛṣṇa questioned
+      this '
+    - 'When Indra sent devastating rains, Kṛṣṇa lifted Govardhana Hill on His little finger and sheltered the entire community '
+    - Kṛṣṇa is the supreme enjoyer of sacrifice, proprietor of all planets, and well-wishing friend of every living being.
+      The
+    omitted: []
+- module_id: C3-W2
+  slug: c3-w2-who-is-kṛṣṇa-the-supreme-personality-of-godhead
+  title: Who Is Kṛṣṇa? The Supreme Personality of Godhead
+  source_expansion:
+    controlling_books:
+    - ref: ŚB 10.3
+      url: https://vedabase.io/en/library/sb/10/3/1/
+      use: Birth pastime
+    - ref: BG 7.7
+      url: https://vedabase.io/en/library/bg/7/7/
+      use: No superior truth
+    lectures: []
+    katha_sources:
+    - ref: ŚB 10.3
+      url: https://vedabase.io/en/library/sb/10/3/1/
+      use: Birth pastime
+    - ref: BG 7.7
+      url: https://vedabase.io/en/library/bg/7/7/
+      use: No superior truth
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded:
+    - Imprecise Vṛndāvana birth geography
+    claim_mapping:
+    - claim: Kṛṣṇa is the Supreme Personality of Godhead — a person we can know and love.
+      source_ref: BG 7.7
+      url: https://vedabase.io/en/library/bg/7/7/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/sb/
+  newcomer:
+    minimum_concept: Kṛṣṇa is the Supreme Personality of Godhead — a person we can know and love.
+    terms_define:
+    - term: key term
+      plain: There is no truth superior to Kṛṣṇa; everything rests upon Him like pearls on a thread.
+    terms_defer:
+    - Imprecise Vṛndāvana birth geography
+    - cartoon trivialization
+    reduced_source_load: Read KUTUMBA summary of [BG 7.7](https://vedabase.io/en/library/bg/7/7/) aloud; optional VedaBase
+      after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Name and Form Respect Practice: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: One respectful reference to Kṛṣṇa by name at dinner.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C3-W3 — guru, sādhu, śāstra
+  katha:
+    title: Kṛṣṇa's appearance in Mathurā and transfer to Gokula
+    subtitle: SB 10.3 appearance; Gokula transfer
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Kṛṣṇa is the Supreme Personality of Godhead — a person we can know and love.
+    scope_boundary: Imprecise Vṛndāvana birth geography; cartoon trivialization
+    primary_sources:
+    - label: SB 10.3.1
+      url: https://vedabase.io/en/library/sb/10/3/1/
+      use: Katha anchor
+    - label: BG 7.7
+      url: https://vedabase.io/en/library/bg/7/7/
+      use: Katha anchor
+    primary_book: ŚB 10.3
+    chapter_reference: SB 10.3 appearance; Gokula transfer
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** In the prison of Kaṁsa at Mathurā, at an auspicious moment, the Supreme Personality
+      of Godhead appeared as the son of Devakī and Vasudeva. The atmosphere became peaceful; demigods offered prayers. The
+      Lord appeared in His four-armed form first, then, at the request of His parents, became visible as a human-like child
+      — extraordinary yet approachable.'
+    - '**Paraphrase (source-grounded):** By the Lord''s arrangement, the child was brought to Gokula under the care of Mother
+      Yaśodā and Nanda Mahārāja. Geography is taught carefully: appearance in Mathurā; childhood pastimes in Vraja under parental
+      care.'
+    - '**Paraphrase (source-grounded):** There is nothing superior to Kṛṣṇa; all incarnations expand from Him; everything
+      rests upon Him as pearls on a thread.'
+    - '**Paraphrase from ŚB 10.3.1–10.3.43 (Mathurā appearance — summary):** In the prison of Kaṁsa at Mathurā, at an auspicious
+      moment, the Supreme Personality of Godhead appeared as the son of Devakī and Vasudeva. The atmosphere became peaceful;
+      demigods offered prayers. The Lord appeared in His four-armed form first, then, at the request of His parents, became
+      visible as a human-like child — extraordinary yet approachable.'
+    - '**Paraphrase — transfer to Gokula (summary):** By the Lord''s arrangement, the child was brought to Gokula under the
+      care of Mother Yaśodā and Nanda Mahārāja. Geography is taught carefully: appearance in Mathurā; childhood pastimes in
+      Vraja under parental care.'
+    - '**Paraphrase aligned with BG 7.7 and SB 1.3.28:** There is nothing superior to Kṛṣṇa; all incarnations expand from
+      Him; everything rests upon Him as pearls on a thread.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C3-W2** without inventing dialogue.'
+    - '**Paraphrase — BG 7.7 (application summary):** The verse is not a slogan. It names a distinction families can practice
+      this week: see this week''s teaching in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _There is no truth superior to Kṛṣṇa; everything rests upon
+      Him like pearls on a thread._ — then name one place this week the line might actually help (mealtime, bedtime, conflict,
+      service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C3-W2.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: There is no truth superior to Kṛṣṇa; everything rests upon Him like pearls on a thread.
+    memory_line: There is no truth superior to Kṛṣṇa; everything rests upon Him like pearls on a thread.
+    lala_cues:
+    - '**Chariot/picture cue:** Simple story picture tied to memory line.'
+    - '**Recall game:** Repeat memory line in call-and-response.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Name and Form Respect Practice. When children ask hard questions, turn toward śāstra together — permission to not
+      have every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - BG 7.7
+    paraphrased_portions:
+    - In the prison of Kaṁsa at Mathurā, at an auspicious moment, the Supreme Personality of Godhead appeared as the son of
+      De
+    - By the Lord's arrangement, the child was brought to Gokula under the care of Mother Yaśodā and Nanda Mahārāja. Geography
+    - There is nothing superior to Kṛṣṇa; all incarnations expand from Him; everything rests upon Him as pearls on a thread.
+    omitted: []
+- module_id: C3-W3
+  slug: c3-w3-guru-sādhu-and-śāstra-how-we-receive-spiritual-knowledge
+  title: 'Guru, Sādhu and Śāstra: How We Receive Spiritual Knowledge'
+  source_expansion:
+    controlling_books:
+    - ref: ŚB 1.5
+      url: https://vedabase.io/en/library/sb/1/5/1/
+      use: Nārada instructs Vyāsa
+    - ref: BG 4.34
+      url: https://vedabase.io/en/library/bg/4/34/
+      use: Approach guru
+    lectures: []
+    katha_sources:
+    - ref: ŚB 1.5
+      url: https://vedabase.io/en/library/sb/1/5/1/
+      use: Nārada instructs Vyāsa
+    - ref: BG 4.34
+      url: https://vedabase.io/en/library/bg/4/34/
+      use: Approach guru
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded:
+    - SB 1.4.25 as Nārada receiving Bhāgavatam
+    claim_mapping:
+    - claim: Authentic knowledge flows through guru, sādhu and śāstra together.
+      source_ref: BG 4.34
+      url: https://vedabase.io/en/library/bg/4/34/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/sb/
+  newcomer:
+    minimum_concept: Authentic knowledge flows through guru, sādhu and śāstra together.
+    terms_define:
+    - term: key term
+      plain: Approach spiritual truth with humility, sincere inquiry and service.
+    terms_defer:
+    - SB 1.4.25 as Nārada receiving Bhāgavatam
+    - guru shopping
+    reduced_source_load: Read KUTUMBA summary of [BG 4.34](https://vedabase.io/en/library/bg/4/34/) aloud; optional VedaBase
+      after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Three-Lamp Inquiry Practice: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Write one question; ask one mentor respectfully.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C3-W4 — Lord Caitanya and holy name
+  katha:
+    title: Nārada instructs Vyāsa — receiving spiritual knowledge
+    subtitle: SB 1.5 Vyāsa; SB 1.6 Nārada childhood
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Authentic knowledge flows through guru, sādhu and śāstra together.
+    scope_boundary: SB 1.4.25 as Nārada receiving Bhāgavatam; guru shopping
+    primary_sources:
+    - label: SB 1.5.1
+      url: https://vedabase.io/en/library/sb/1/5/1/
+      use: Katha anchor
+    - label: BG 4.34
+      url: https://vedabase.io/en/library/bg/4/34/
+      use: Katha anchor
+    primary_book: ŚB 1.5–1.6
+    chapter_reference: SB 1.5 Vyāsa; SB 1.6 Nārada childhood
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** Vyāsadeva, although the compiler of Vedic literature, felt dissatisfied. Nārada Muni
+      arrived and explained that without directly describing the Supreme Lord''s transcendental pastimes, literature cannot
+      fully satisfy the heart or cut material bondage.'
+    - '**Paraphrase (source-grounded):** Nārada received spiritual impression through association with devotees in his early
+      life — showing that knowledge is received through mercy and association, not self-invention.'
+    - '**Paraphrase (source-grounded):** Learn truth by approaching a spiritual master with humility, relevant inquiry, and
+      service. Guru, sādhu, and śāstra must harmonize — no single personality replaces scripture.'
+    - '**Paraphrase from ŚB 1.5 (Nārada instructs Vyāsa — summary):** Vyāsadeva, although the compiler of Vedic literature,
+      felt dissatisfied. Nārada Muni arrived and explained that without directly describing the Supreme Lord''s transcendental
+      pastimes, literature cannot fully satisfy the heart or cut material bondage.'
+    - '**Paraphrase from ŚB 1.6 (Nārada''s childhood — summary):** Nārada received spiritual impression through association
+      with devotees in his early life — showing that knowledge is received through mercy and association, not self-invention.'
+    - '**Paraphrase aligned with BG 4.34:** Learn truth by approaching a spiritual master with humility, relevant inquiry,
+      and service. Guru, sādhu, and śāstra must harmonize — no single personality replaces scripture.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C3-W3** without inventing dialogue.'
+    - '**Paraphrase — BG 4.34 (application summary):** The verse is not a slogan. It names a distinction families can practice
+      this week: see this week''s teaching in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _Approach spiritual truth with humility, sincere inquiry and
+      service._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C3-W3.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Approach spiritual truth with humility, sincere inquiry and service.
+    memory_line: Approach spiritual truth with humility, sincere inquiry and service.
+    lala_cues:
+    - '**Chariot/picture cue:** Simple story picture tied to memory line.'
+    - '**Recall game:** Repeat memory line in call-and-response.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Three-Lamp Inquiry Practice. When children ask hard questions, turn toward śāstra together — permission to not have
+      every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - BG 4.34
+    paraphrased_portions:
+    - 'Vyāsadeva, although the compiler of Vedic literature, felt dissatisfied. Nārada Muni arrived and explained that without '
+    - Nārada received spiritual impression through association with devotees in his early life — showing that knowledge is
+      rec
+    - Learn truth by approaching a spiritual master with humility, relevant inquiry, and service. Guru, sādhu, and śāstra
+      must
+    omitted: []
+- module_id: C3-W4
+  slug: c3-w4-śrī-caitanya-mahāprabhu-and-the-holy-name
+  title: Śrī Caitanya Mahāprabhu and the Holy Name
+  source_expansion:
+    controlling_books:
+    - ref: CC Antya 20.12
+      url: https://vedabase.io/en/library/cc/antya/20/12/
+      use: Śikṣāṣṭakam 1
+    lectures: []
+    katha_sources:
+    - ref: CC Antya 20.12
+      url: https://vedabase.io/en/library/cc/antya/20/12/
+      use: Śikṣāṣṭakam 1
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: Lord Caitanya gave saṅkīrtana as the yuga-dharma — humble, together, attentive.
+      source_ref: CC Antya 20.12
+      url: https://vedabase.io/en/library/cc/antya/20/12/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/cc/
+  newcomer:
+    minimum_concept: Lord Caitanya gave saṅkīrtana as the yuga-dharma — humble, together, attentive.
+    terms_define:
+    - term: key term
+      plain: The congregational chanting of Kṛṣṇa's holy name cleanses the heart and expands spiritual life.
+    terms_defer:
+    - Performance comparison
+    - aparādha detail for Lāla–Lālī
+    reduced_source_load: Read KUTUMBA summary of [CC Antya 20.12](https://vedabase.io/en/library/cc/antya/20/12/) aloud; optional
+      VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Attentive Kīrtana Minute: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: One minute attentive chanting daily.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C3-W5 — nine processes
+  katha:
+    title: Lord Caitanya's kīrtana at Navadvīpa
+    subtitle: Saṅkīrtana movement (selected)
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Lord Caitanya gave saṅkīrtana as the yuga-dharma — humble, together, attentive.
+    scope_boundary: Performance comparison; aparādha detail for Lāla–Lālī
+    primary_sources:
+    - label: CC Ādi 7.163
+      url: https://vedabase.io/en/library/cc/adi/7/163/
+      use: Katha anchor
+    - label: CC Antya 20.12
+      url: https://vedabase.io/en/library/cc/antya/20/12/
+      use: Katha anchor
+    - label: SB 12.3.51
+      url: https://vedabase.io/en/library/sb/12/3/51/
+      use: Katha anchor
+    primary_book: CC Ādi 7.163; CC Ādi 17.21
+    chapter_reference: Saṅkīrtana movement (selected)
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** Lord Caitanya spread congregational chanting of the holy names — hearing and chanting
+      together with attention.'
+    - '**Paraphrase (source-grounded):** The holy name cleanses the heart, extinguishes material existence, and is the life
+      of transcendental knowledge (Śikṣāṣṭakam 1 summary).'
+    - '**Paraphrase (source-grounded):** In Kali-yuga, saṅkīrtana is the recommended sacrifice — families participate without
+      claiming advanced realization.'
+    - '**Paraphrase (source-grounded):** When the mind wanders, the turning point is returning attention to hearing — not
+      quitting from shame. One humble minute counts.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C3-W4** without inventing dialogue.'
+    - '**Paraphrase — CC Antya 20.12 (application summary):** The verse is not a slogan. It names a distinction families can
+      practice this week: see this week''s teaching in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _The congregational chanting of Kṛṣṇa''s holy name cleanses
+      the heart and expands spiritual life._ — then name one place this week the line might actually help (mealtime, bedtime,
+      conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C3-W4.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: The congregational chanting of Kṛṣṇa's holy name cleanses the heart and expands spiritual life.
+    memory_line: The congregational chanting of Kṛṣṇa's holy name cleanses the heart and expands spiritual life.
+    lala_cues:
+    - '**Chariot/picture cue:** Simple story picture tied to memory line.'
+    - '**Recall game:** Repeat memory line in call-and-response.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Attentive Kīrtana Minute. When children ask hard questions, turn toward śāstra together — permission to not have
+      every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - CC Antya 20.12
+    paraphrased_portions:
+    - Lord Caitanya spread congregational chanting of the holy names — hearing and chanting together with attention.
+    - The holy name cleanses the heart, extinguishes material existence, and is the life of transcendental knowledge (Śikṣāṣṭa
+    - In Kali-yuga, saṅkīrtana is the recommended sacrifice — families participate without claiming advanced realization.
+    omitted: []
+- module_id: C3-W5
+  slug: c3-w5-the-nine-processes-of-bhakti
+  title: The Nine Processes of Bhakti
+  source_expansion:
+    controlling_books:
+    - ref: ŚB 7.5.23
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      use: Nine processes
+    lectures: []
+    katha_sources:
+    - ref: ŚB 7.5.23
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      use: Nine processes
+    education: []
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media: []
+    supplementary: []
+    excluded: []
+    claim_mapping:
+    - claim: Bhakti is a complete life of nine processes offered to Viṣṇu.
+      source_ref: SB 7.5.23–24
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://vedabase.io/en/library/sb/
+    - https://vedabase.io/en/library/bg/
+  newcomer:
+    minimum_concept: Bhakti is a complete life of nine processes offered to Viṣṇu.
+    terms_define:
+    - term: key term
+      plain: Hearing, chanting, remembering, serving, worshiping, praying, serving as a servant, friendship and full surrender
+        are processes of pure devotional service.
+    terms_defer:
+    - Ranking families by process score
+    reduced_source_load: Read KUTUMBA summary of [SB 7.5.23–24](https://vedabase.io/en/library/sb/7/5/23/) aloud; optional
+      VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Nine-Process Family Audit: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Strengthen one underused process this week.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: C3-W6 — Bhakti Mela
+  katha:
+    title: Prahlāda's nine processes of devotion
+    subtitle: Prahlāda instructs classmates
+    katha_type: source-grounded-devotional-narrative
+    module_connection: Bhakti is a complete life of nine processes offered to Viṣṇu.
+    scope_boundary: Ranking families by process score
+    primary_sources:
+    - label: SB 7.5.23
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      use: Katha anchor
+    - label: SB 7.5.24
+      url: https://vedabase.io/en/library/sb/7/5/24/
+      use: Katha anchor
+    - label: BG 9.14
+      url: https://vedabase.io/en/library/bg/9/14/
+      use: Katha anchor
+    primary_book: SB 7.5.23–24
+    chapter_reference: Prahlāda instructs classmates
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase (source-grounded):** Prahlāda listed hearing, chanting, remembering, serving the Lord''s lotus feet, worshiping,
+      praying, carrying orders, friendship, and full surrender.'
+    - '**Paraphrase (source-grounded):** Directed to the Supreme Lord with one''s life and intention, these become pure devotional
+      service.'
+    - '**Paraphrase (source-grounded):** Families may be strong in one process and weak in another — the map helps holistic
+      growth.'
+    - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
+      win arguments, but to receive merciful instruction through authorized sources.'
+    - '**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and
+      turning toward the Lord. This katha supplies that scene for **C3-W5** without inventing dialogue.'
+    - '**Paraphrase — SB 7.5.23–24 (application summary):** The verse is not a slogan. It names a distinction families can
+      practice this week: see this week''s teaching in one honest situation at home.'
+    - '**Paraphrase — memory line practice:** Repeat together: _Hearing, chanting, remembering, serving, worshiping, praying,
+      serving as a servant, friendship and full surrender are processes of pure devotional service._ — then name one place
+      this week the line might actually help (mealtime, bedtime, conflict, service).'
+    - '**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through
+      frightening detail or public testing.'
+    - '**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work)
+      and one private journal sentence — boundaries respected.'
+    - '**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when
+      wrong, and return to practice next week.'
+    - '**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does
+      not shut down feeling or professional care when needed.'
+    - '**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present
+      invented quotes as śāstra or Prabhupāda''s exact words.'
+    - '**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both
+      serve Kṛṣṇa — neither replaces the other.'
+    - '**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the
+      minimum practice connected to C3-W5.'
+    - '**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth,
+      not information overload.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: Hearing, chanting, remembering, serving, worshiping, praying, serving as a servant, friendship and full
+      surrender are processes of pure devotional service.
+    memory_line: Hearing, chanting, remembering, serving, worshiping, praying, serving as a servant, friendship and full surrender
+      are processes of pure devotional service.
+    lala_cues:
+    - '**Chariot/picture cue:** Simple story picture tied to memory line.'
+    - '**Recall game:** Repeat memory line in call-and-response.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Nine-Process Family Audit. When children ask hard questions, turn toward śāstra together — permission to not have
+      every answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - SB 7.5.23
+    paraphrased_portions:
+    - Prahlāda listed hearing, chanting, remembering, serving the Lord's lotus feet, worshiping, praying, carrying orders,
+      fri
+    - Directed to the Supreme Lord with one's life and intention, these become pure devotional service.
+    - Families may be strong in one process and weak in another — the map helps holistic growth.
+    omitted: []
+- module_id: C3-W6
+  slug: c3-w6-bhakti-mela-kīrtana-drama-and-family-presentation
+  title: 'Bhakti Mela: Kīrtana, Drama and Family Presentation'
+  source_expansion:
+    controlling_books:
+    - ref: Congregation presentation — not lecture-heavy
+      url: https://vedabase.io/en/library/
+      use: Controlling reference
+    lectures: []
+    katha_sources: []
+    education:
+    - label: ISKCON Education
+      url: https://iskconeducation.org/video/
+      use: Pedagogy
+    child_resources:
+    - ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
+    media:
+    - label: Media
+      url: https://www.youtube.com/channel/UCBN88f0nRlRMg1CnffvinXw
+      use: Candidate
+    supplementary: []
+    excluded:
+    - Bulk bhajan downloads
+    claim_mapping:
+    - claim: Six-month synthesis and offering — no new principal līlā.
+      source_ref: SB 7.5.23–24 (review)
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      module_use: Core teaching
+    tier_a_urls:
+    - https://prabhupadavani.org/audio/
+  newcomer:
+    minimum_concept: Six-month synthesis and offering — no new principal līlā.
+    terms_define:
+    - term: key term
+      plain: These processes become pure devotional service when offered to Viṣṇu with one's life and intention.
+    terms_defer:
+    - Competitive scoring
+    - forced testimony
+    reduced_source_load: Read KUTUMBA summary of [SB 7.5.23–24 (review)](https://vedabase.io/en/library/sb/7/5/23/) aloud;
+      optional VedaBase after session. One analogy only.
+    parent_participation: Observe bhakti lab or join host family pair; no forced public sharing.
+    lala_lali_placement: Newcomer children join Lāla–Lālī with host buddy; simplified recall line on card.
+    kisora_kisori_placement: Teens may observe or join pair discussion; journal optional.
+    lab_adaptation: 'Minimum version of Bhakti Mela Rehearsal: one demonstrated step, opt-out allowed.'
+    home_practice_minimum: Continue one selected practice thirty days.
+    sensitive_topic_caution: Route sensitive topics privately; no public disclosure pressure.
+    host_family_action: Greet; share glossary slip; sit together; explain participation options.
+    setu_bridge: 'Apply Setu: reduce Sanskrit, explain once, no pressure to chant long rounds; link `10-kutumba-setu/GAP-RECORD.md`.'
+    follow_up_path: Year 1 Cycle 4 or protected off week
+  katha:
+    title: Six months of family bhakti — synthesis and offering
+    subtitle: Integration showcase exception
+    katha_type: facilitator-synthesis
+    module_connection: Six-month synthesis and offering — no new principal līlā.
+    scope_boundary: Competitive scoring; forced testimony
+    primary_sources:
+    - label: BG 5.29
+      url: https://vedabase.io/en/library/bg/5/29/
+      use: Katha anchor
+    - label: BG 7.7
+      url: https://vedabase.io/en/library/bg/7/7/
+      use: Katha anchor
+    - label: SB 7.5.23
+      url: https://vedabase.io/en/library/sb/7/5/23/
+      use: Katha anchor
+    primary_book: Cycle 1–3 review
+    chapter_reference: Integration showcase exception
+    personalities:
+    - name: Figures from śāstra
+      role: as named in paraphrase — no invented dialogue
+    - name: KUTUMBA families
+      role: listening together today
+    setting: _[Facilitator transition — quiet room, families seated together]_
+    narrative_paragraphs:
+    - '**Paraphrase — integration exception (documented):** This module synthesizes prior weeks without introducing a new
+      principal līlā in the repository.'
+    - '**Paraphrase — cycle review:** Facilitator recalls memory lines and one family-chosen practice. Scope: Showcase/integration
+      — 600–850 word katha exception documented in frontmatter.'
+    - '**Paraphrase — offering mood:** Families share only with consent — no competition, scoring, or forced testimony.'
+    - '**Paraphrase — continuity:** Choose one minimum home practice for the off week; preview next cycle briefly.'
+    - '**Paraphrase — integration exception (documented):** This week synthesizes prior modules. No new principal līlā is
+      introduced in the repository.'
+    - '**Paraphrase — station recall:** Families rotate through memory-line stations or consent-based shares — not competitive
+      presentations.'
+    - '**Paraphrase — continuity:** Choose one practice from the cycle to continue: These processes become pure devotional
+      service when offered to Viṣṇu with one''s life and intention.'
+    - '**Paraphrase — offering mood:** Integration is gratitude and honest review — what actually changed at home?'
+    - '**Paraphrase — preview:** Name the next cycle theme briefly without overwhelming newcomers.'
+    - '**Paraphrase — consent:** Any family share requires explicit consent; facilitator stops comparison or ranking immediately.'
+    - '**Paraphrase — thirty-day baseline:** Choose one realistic practice — smaller than the mela display, but steady.'
+    turning_point: Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
+    central_teaching: These processes become pure devotional service when offered to Viṣṇu with one's life and intention.
+    memory_line: These processes become pure devotional service when offered to Viṣṇu with one's life and intention.
+    lala_cues:
+    - '**Chariot/picture cue:** Simple story picture tied to memory line.'
+    - '**Recall game:** Repeat memory line in call-and-response.'
+    - '**Safeguarding:** Age-safe content only; two adults in visible space.'
+    kisora_cues:
+    - '**Journal prompt:** ''One sentence — how does this katha connect to the key verse and to a situation I face?'''
+    - '**Pair share:** ''What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'''
+    - '**Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.'
+    parent_bridge: Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md)
+      and Bhakti Mela Rehearsal. When children ask hard questions, turn toward śāstra together — permission to not have every
+      answer immediately.
+    cautions:
+    - No invented sacred dialogue
+    - Age-appropriate delivery
+    visual_beats:
+    - visual: Opening hook illustration
+      source: opening-hook.md
+    - visual: Katha beat diagram
+      source: visuals/concept-map.md
+    - visual: Key verse card
+      source: VedaBase link
+    exact_verses:
+    - SB 7.5.23
+    paraphrased_portions:
+    - '**Paraphrase — integration exception (documented):** This module synthesizes prior weeks without introducing a new
+      princ'
+    - '**Paraphrase — cycle review:** Facilitator recalls memory lines and one family-chosen practice. Scope: Showcase/integrat'
+    - '**Paraphrase — offering mood:** Families share only with consent — no competition, scoring, or forced testimony.'
+    omitted: []

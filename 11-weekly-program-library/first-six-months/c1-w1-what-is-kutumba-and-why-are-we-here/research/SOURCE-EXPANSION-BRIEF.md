@@ -2,41 +2,60 @@
 
 | Field | Value |
 |-------|-------|
-| Module | What Is KUTUMBA and Why Are We Here |
+| Module | What Is KUTUMBA, and Why Are We Here? |
 | Generated | 2026-06-30 |
 | Source map | KUT-SRC-0013 |
 | Human review | **OPEN** |
 
 ## 1. Controlling Prabhupāda book references
 
-- SB 1.1
-- BG introduction themes
+| Reference | VedaBase URL | Module use |
+| --- | --- | --- |
+| Śrīmad-Bhāgavatam 1.2.18 | [https://vedabase.io/en/library/sb/1/2/18/](https://vedabase.io/en/library/sb/1/2/18/) | Regular hearing and service cleanse the heart |
+| Śrīmad-Bhāgavatam 1.2.17 | [https://vedabase.io/en/library/sb/1/2/17/](https://vedabase.io/en/library/sb/1/2/17/) | Bhāgavata as the ripened fruit of Vedic knowledge |
+| Śrīmad-Bhāgavatam 1.2.19 | [https://vedabase.io/en/library/sb/1/2/19/](https://vedabase.io/en/library/sb/1/2/19/) | Devotion fixed after taste develops |
+| Śrīmad-Bhāgavatam 1.1.1 | [https://vedabase.io/en/library/sb/1/1/1/](https://vedabase.io/en/library/sb/1/1/1/) | Inquiry at Naimiṣāraṇya opens the Bhāgavatam |
+| Bhagavad-gītā 9.14 | [https://vedabase.io/en/library/bg/9/14/](https://vedabase.io/en/library/bg/9/14/) | Always chanting and striving with determination |
+| Caitanya-caritāmṛta Madhya 22.128 | [https://vedabase.io/en/library/cc/madhya/22/128/](https://vedabase.io/en/library/cc/madhya/22/128/) | Five powerful practices of bhakti |
+| Caitanya-caritāmṛta Madhya 22.129 | [https://vedabase.io/en/library/cc/madhya/22/129/](https://vedabase.io/en/library/cc/madhya/22/129/) | Lord Caitanya confirms the practices |
+| KUTUMBA Operating Model Charter §6 | [11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/overview.md](11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/overview.md) | Six purposes and boundaries |
 
 ## 2. Prabhupāda lecture / conversation / letter candidates
 
-- SB 1.1 lecture candidates — Vedabase transcript library
+| Media ID | Date | Place | Title | URL | Topic | Segment |
+| --- | --- | --- | --- | --- | --- | --- |
+| SP-LEC-SB-1-1-1972 | 1972-09-01 | New Vrindaban | SB 1.1 lecture | [VedaBase](https://vedabase.io/en/library/lectures/september/01/1972/720901SB.NV_eng/) | Purpose of Bhāgavatam hearing | full lecture |
+| SP-LEC-SB-1-2-1973 | 1973-07-01 | London | SB 1.2 lecture | [VedaBase](https://vedabase.io/en/library/lectures/july/01/1973/730701SB.LON_eng/) | Bhāgavata cleanses the heart | full lecture |
+| SP-LEC-BG-9-14-1973 | 1973-08-04 | London | BG 9.14 lecture | [VedaBase](https://vedabase.io/en/library/lectures/august/04/1973/730804BG.LON_eng/) | Determined devotees always chant | full lecture |
 
 ## 3. Source-grounded kathā references
 
-- Align `katha/KATHA-SOURCE-REGISTER.yaml` with narrative claims
-- Prefer Tier A VedaBase exact references
+| Range | VedaBase URL | Kathā use |
+| --- | --- | --- |
+| Śrīmad-Bhāgavatam 1.2.18 | [https://vedabase.io/en/library/sb/1/2/18/](https://vedabase.io/en/library/sb/1/2/18/) | Regular hearing and service cleanse the heart |
+| Śrīmad-Bhāgavatam 1.2.17 | [https://vedabase.io/en/library/sb/1/2/17/](https://vedabase.io/en/library/sb/1/2/17/) | Bhāgavata as the ripened fruit of Vedic knowledge |
+| Śrīmad-Bhāgavatam 1.2.19 | [https://vedabase.io/en/library/sb/1/2/19/](https://vedabase.io/en/library/sb/1/2/19/) | Devotion fixed after taste develops |
+| Śrīmad-Bhāgavatam 1.1.1 | [https://vedabase.io/en/library/sb/1/1/1/](https://vedabase.io/en/library/sb/1/1/1/) | Inquiry at Naimiṣāraṇya opens the Bhāgavatam |
+| Bhagavad-gītā 9.14 | [https://vedabase.io/en/library/bg/9/14/](https://vedabase.io/en/library/bg/9/14/) | Always chanting and striving with determination |
+| Caitanya-caritāmṛta Madhya 22.128 | [https://vedabase.io/en/library/cc/madhya/22/128/](https://vedabase.io/en/library/cc/madhya/22/128/) | Five powerful practices of bhakti |
+
+Align narrative claims with `katha/KATHA-SOURCE-REGISTER.yaml`. Paraphrase only in repository.
 
 ## 4. Official education / pedagogy resources
 
-- https://iskconeducation.org/philosophy-of-education/
+- [ISKCON Education](https://iskconeducation.org/philosophy-of-education/) — Pedagogy
 
 ## 5. Child-resource candidates
 
-- Ministry books-for-kids and Sunday School indexes — metadata only
-- KUTUMBA-authored adaptation required
+- ISKCON Education books-for-kids — metadata only; KUTUMBA adaptation required
 
 ## 6. Media candidates
 
-- See module MEDIA-INDEX.yaml
+- See module `MEDIA-INDEX.yaml` — no reviewed download committed
 
 ## 7. Supplementary Gauḍīya / Sanātana references
 
-- None at this time
+- None directly required for this module
 
 ## 8. Sources intentionally excluded
 
@@ -46,28 +65,38 @@
 
 - Default: **link-and-metadata-only**
 - BBT material: permission workflow before republication
+- No bulk transcript or purport storage in Git
 
 ## 10. Review required
 
-- Doctrinal review: OPEN
-- Rights review: OPEN
-- Pedagogy review: OPEN
+| Review type | Status |
+| --- | --- |
+| Doctrinal | OPEN |
+| Citation | OPEN |
+| Pedagogy | OPEN |
+| Rights | OPEN |
+
+## Source-to-claim mapping
+
+| Curriculum claim | Source ref | VedaBase / catalog URL | Module use |
+| --- | --- | --- | --- |
+| KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture series. | Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā | [https://vedabase.io/en/library/sb/1/2/18/](https://vedabase.io/en/library/sb/1/2/18/) | Core teaching |
 
 ## Tier A entry points
 
-- https://vedabase.io/en/library/sb/
-- https://vedabase.io/en/library/transcripts/
+- [https://vedabase.io/en/library/sb/](https://vedabase.io/en/library/sb/)
+- [https://vedabase.io/en/library/transcripts/](https://vedabase.io/en/library/transcripts/)
 
 ## Coverage scores (not publication approval)
 
 | Dimension | Score |
-|-----------|-------|
-| Primary Text Coverage | planned |
-| Prabhupada Spoken Source Coverage | candidate-listed |
-| Katha Coverage | human-review-required |
-| Parent Application Coverage | draft |
-| Lala Lali Coverage | draft |
-| Kisora Kisori Coverage | draft |
-| Visual Media Coverage | metadata-only |
-| Rights Readiness | link-and-metadata-only |
-| Human Review Readiness | open |
+| --- | --- |
+| Primary text coverage | exact-linked |
+| Prabhupāda spoken source coverage | catalog-linked |
+| Katha coverage | human-review-required |
+| Parent application coverage | draft-complete |
+| Lala Lali coverage | draft-complete |
+| Kisora Kisori coverage | draft-complete |
+| Visual media coverage | metadata-only |
+| Rights readiness | link-and-metadata-only |
+| Human review readiness | open |
