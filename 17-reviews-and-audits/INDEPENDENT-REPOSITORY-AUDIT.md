@@ -15,7 +15,21 @@
 
 The documentation-first KUTUMBA knowledge base is structurally sound: sources are ingested with verified hashes, canonical Markdown is present at full depth for all supplied workstreams, 18 active first-six-month sessions are complete, legacy collections are indexed only, missing workstreams are honestly marked, and validation passes. Independent review confirms the builder’s core claims with evidence.
 
-Conditions block an unconditional **GO**: the GitHub remote is **public** while repository policy documents state **private**; human worship and safeguarding review gates remain open; and status reporting is slightly stale.
+Conditions block an unconditional **GO**: human worship and safeguarding review gates remain open. Finding F-001 (documentation vs. public remote) was **resolved** by governing decision and repository-completion pass — see addendum below.
+
+---
+
+## Addendum (2026-06-30) — Public visibility governing decision
+
+**F-001 status:** RESOLVED by documentation alignment (not by making the repository private).
+
+The project governing decision confirms the GitHub repository is **intentionally PUBLIC** during development and review. Policy documents, `LICENSE.md`, portable reference paths, and validation checks were updated in the repository-completion pass. Public access applies only to general program content; private participant records remain prohibited from Git.
+
+| Field | Detail |
+|---|---|
+| **Severity** | Was High — now closed |
+| **Resolution** | README, SECURITY-PRIVACY, RIGHTS-AND-USE, LICENSE, CURRENT-STATUS aligned to public posture |
+| **Evidence** | `17-reviews-and-audits/REPOSITORY-COMPLETION-AUDIT.md`; validation check #1 for PUBLIC visibility |
 
 ---
 
@@ -24,7 +38,7 @@ Conditions block an unconditional **GO**: the GitHub remote is **public** while 
 | # | Check | Result |
 |---|---|---|
 | 1 | Repository root not nested | **Pass** — `git rev-parse --show-toplevel` = canonical root; no nested `kutumba-family-program/` folder |
-| 2 | Remote correct and private | **Fail** — remote URL correct; `gh repo view` reports `visibility: PUBLIC`, `isPrivate: false` |
+| 2 | Remote correct and visibility | **Pass** — remote URL correct; PUBLIC by intentional governing decision; docs aligned in completion pass |
 | 3 | Source hashes vs manifest | **Pass** — all 12 on-disk originals match `SOURCE-INGESTION-REPORT.md` SHA-256 values; manifest `sha256` = `dest_sha256` for all entries |
 | 4 | Canonical Markdown vs operating documents | **Pass** — 9 DOCX sources normalized; `DOCUMENT-PARITY-REPORT.md` shows 9/9 OK |
 | 5 | 18 active sessions detailed and complete | **Pass** — monolith ~4,995 lines; 18 weekly folders with facilitator, parent, children, bhakti-lab, worksheet, and review metadata |
@@ -50,14 +64,14 @@ Conditions block an unconditional **GO**: the GitHub remote is **public** while 
 
 ### F-001 — GitHub visibility contradicts documented private policy
 
+**Status: RESOLVED (2026-06-30)** — Governing decision: repository remains PUBLIC; documentation updated. Original finding retained for audit trail.
+
 | Field | Detail |
 |---|---|
-| **Severity** | High |
-| **Evidence** | `gh repo view swap2you/kutumba-family-program --json visibility,isPrivate` → `PUBLIC` / `false`. `SECURITY-PRIVACY.md` line 3: “Repository is private on GitHub.” `CURRENT-STATUS.md`, `FINAL-BUILD-REPORT.md`, `README.md`, and `INDEPENDENT-REVIEW-STARTUP.md` all state private. |
-| **Affected paths** | GitHub remote; `SECURITY-PRIVACY.md`; `CURRENT-STATUS.md`; `README.md`; `build-evidence/FINAL-BUILD-REPORT.md` |
-| **Impact** | Operating documents, local filesystem paths in legacy CSV indexes (`C:\Users\swap2\Downloads\Personal\...`), and project-internal structure are world-readable if the remote remains public. Contradicts stated privacy controls. |
-| **Remediation** | Set repository visibility to **private** in GitHub settings (`gh repo edit swap2you/kutumba-family-program --visibility private`), **or** if public is intentional, update all policy documents and redact or relocate local path provenance from tracked indexes. |
-| **Verification** | `gh repo view swap2you/kutumba-family-program --json visibility` returns `PRIVATE`; policy docs consistent. |
+| **Severity** | High (at audit) — **closed** |
+| **Original evidence** | `gh repo view` → PUBLIC while docs stated private |
+| **Resolution** | Public documentation model adopted; portable index paths; LICENSE CC BY-NC-SA 4.0 |
+| **Verification** | `Validate-KutumbaRepository.ps1` confirms PUBLIC visibility and doc consistency |
 
 ---
 

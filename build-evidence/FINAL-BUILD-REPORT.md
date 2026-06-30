@@ -14,7 +14,7 @@ The documentation-first KUTUMBA knowledge base is structurally complete with all
 |---|---|
 | Canonical root | `C:\Development\Workspace\DevotionalRepo\kutumba-family-program` |
 | GitHub remote | `https://github.com/swap2you/kutumba-family-program.git` |
-| Visibility | private |
+| Visibility | **PUBLIC** (intentional during development and review) |
 | Branch | `main` |
 | Nested repo folder | none |
 
@@ -91,10 +91,9 @@ See `build-evidence/CLEANUP-REPORT.md`. No immutable sources deleted.
 
 ## 11. Privacy and copyright controls
 
-- No private family records or secrets committed
-- Legacy collections indexed only
-- Reference registers contain local paths for internal provenance
-- RIGHTS-AND-USE.md and SECURITY-PRIVACY.md at repository root
+- Public curriculum and governance permitted; private participant records prohibited from Git
+- Legacy collections indexed only with portable source_root_id paths
+- RIGHTS-AND-USE.md and LICENSE.md (CC BY-NC-SA 4.0) at repository root
 
 ## 12. Missing inputs
 
