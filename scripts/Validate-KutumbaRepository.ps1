@@ -269,8 +269,12 @@ $facReadme = Join-Path $RepoRoot "13-facilitator-library\README.md"
 if (-not (Test-Path $facReadme)) { Add-Failure "Missing facilitator library README" }
 
 # 22. Honest gaps
-$ws9 = Get-Content (Join-Path $RepoRoot "09-digital-repository-publishing\GAP-RECORD.md") -Raw
-if ($ws9 -notmatch 'SOURCE NOT YET SUPPLIED') { Add-Failure "Workstream 9 gap not honestly reported" }
+$ws9 = Get-Content (Join-Path $RepoRoot "09-digital-repository-publishing\GAP-RECORD.md") -Raw -Encoding UTF8
+if ($ws9 -match 'Status:\s*\*\*COMPLETE\*\*' -and $ws9 -notmatch 'operating manual') {
+    Add-Failure "Workstream 9 marked complete without operating manual"
+} elseif ($ws9 -notmatch 'SOURCE NOT YET SUPPLIED|PARTIAL|operating manual.*not supplied') {
+    Add-Failure "Workstream 9 gap not honestly reported"
+}
 $setu = Get-Content (Join-Path $RepoRoot "10-kutumba-setu\GAP-RECORD.md") -Raw
 if ($setu -notmatch 'DRAFT REQUIRED') { Add-Failure "KUTUMBA Setu gap not honestly reported" }
 

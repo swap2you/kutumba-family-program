@@ -7,10 +7,13 @@ stable_links:
     url: https://vedabase.io/en/library/bg/2/11/
   - label: BG 2.13
     url: https://vedabase.io/en/library/bg/2/13/
+  - label: BG 2.22
+    url: https://vedabase.io/en/library/bg/2/22/
   - label: BG 2.20
     url: https://vedabase.io/en/library/bg/2/20/
 exact_verses_used:
   - BG 2.13
+  - BG 2.22
   - BG 2.11
 direct_quotations: []
 paraphrased_portions:

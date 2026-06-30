@@ -1,6 +1,12 @@
 week_code: C1-W5
+structural_pack_complete: complete
+automated_enhancement_complete: pass
+source_audit_complete: in-progress
+prem_katha_depth: remediation-required
+human_review_complete: required
+publication_ready: not-ready
+weekly_derivative_pack: remediation-required
 canonical_detailed_source: complete
-weekly_derivative_pack: enhancement-complete
 research_dossier: complete
 source_registry: complete
 claim_traceability: complete
@@ -9,13 +15,13 @@ lala_lali_lesson: complete
 kisora_kisori_lesson: complete
 materials: complete
 assessment: complete
-newcomer_adaptation: complete
+newcomer_adaptation: thin
 visual_plan: complete
 gamma_prompts: complete
 cycle_project: complete
-prem_ki_katha: complete
+prem_ki_katha: remediation-required
 opening_hook: complete
-automated_semantic_validation: pass
+automated_semantic_validation: pass-pending-human-review
 doctrinal_review: required
 worship_review: required
 safeguarding_review: required
@@ -23,7 +29,7 @@ rights_review: required
 pedagogy_review: required
 citation_audit: required
 publication_status: internal-development
-pilot_quality_gate: pass-pending-human-review
+pilot_quality_gate: open
 enhancement_date: 2026-06-30
-enhancement_version: "3.0.1"
-notes: Gold-standard depth verified by sync_gold_review_status.py; human reviews still required.
+enhancement_version: "4.0.0"
+notes: Field-by-field status from sync_gold_review_status.py v4; no false gold promotion.

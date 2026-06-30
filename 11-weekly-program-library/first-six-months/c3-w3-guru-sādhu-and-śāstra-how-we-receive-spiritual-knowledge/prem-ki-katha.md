@@ -5,11 +5,11 @@ component: prem-ki-katha.md
 katha_type: source-grounded-devotional-narrative
 ---
 
-# Prem-kī-Kathā — How Nārada received the Bhāgavatam
+# Prem-kī-Kathā — How Nārada instructed dissatisfied Vyāsadeva
 
 ## 1. Katha title
 
-**How Nārada received the Bhāgavatam**
+**How Nārada instructed dissatisfied Vyāsadeva**
 
 ## 2. Module connection
 
@@ -19,9 +19,10 @@ Leads naturally to Bhagavad-gītā 4.34. See [`katha/KATHA-SOURCE-REGISTER.yaml`
 
 | Source | Link | Use in katha |
 |---|---|---|
-| SB 1.1.1 | [vedabase](https://vedabase.io/en/library/sb/1/1/1/) | Katha anchor |
-| SB 1.4.25 | [vedabase](https://vedabase.io/en/library/sb/1/4/25/) | Katha anchor |
-| BG 4.34 | [vedabase](https://vedabase.io/en/library/bg/4/34/) | Katha anchor |
+| SB 1.5.12 | [vedabase](https://vedabase.io/en/library/sb/1/5/12/) | Nārada's instruction |
+| SB 1.5.18 | [vedabase](https://vedabase.io/en/library/sb/1/5/18/) | Glorify the Lord directly |
+| SB 1.5.19 | [vedabase](https://vedabase.io/en/library/sb/1/5/19/) | Katha anchor |
+| BG 4.34 | [vedabase](https://vedabase.io/en/library/bg/4/34/) | Guru–disciple principle |
 | SB 11.3.21 | [vedabase](https://vedabase.io/en/library/sb/11/3/21/) | Katha anchor |
 
 ## 4. Setting and devotional mood
@@ -36,9 +37,9 @@ _See narrative below — paraphrase only; no invented direct quotations._
 
 _[Facilitator transition — respectful, inquisitive mood]_
 
-**Paraphrase from ŚB 1.1 (setting):** The sages at Naimiṣāraṇya assembled to hear the Bhāgavatam because human life is short and the highest good is to hear about the Supreme Lord. This setting shows why scripture is heard in association—not in isolation.
+**Paraphrase from ŚB 1.4 (brief context):** After compiling the Mahābhārata, Śrīla Vyāsadeva still felt dissatisfied. His work had helped many, yet his heart knew something was missing.
 
-**Paraphrase from ŚB 1.4 (N deps):** Nārada Muni received spiritual knowledge through disciplic succession—hearing from authorities, serving them, and inquiring sincerely. The Bhāgavatam was spoken through that chain. No single person invents spiritual truth; it is received, verified and lived.
+**Paraphrase from ŚB 1.5:** Nārada Muni came and explained that Vyāsadeva had not yet sufficiently described the Supreme Lord's direct glories. He instructed Vyāsadeva to describe the Lord's holy name, form, qualities and pastimes so that people could become attached to Kṛṣṇa and find lasting peace.
 
 **Paraphrase aligned with BG 4.34:** One should learn truth by approaching a spiritual master with humility, relevant inquiry and service. The realized soul can impart knowledge because they have seen the truth. KUTUMBA adds: guru, sādhu and śāstra must harmonize—no single personality replaces scripture.
 

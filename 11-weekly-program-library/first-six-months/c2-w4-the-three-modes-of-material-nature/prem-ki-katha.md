@@ -33,7 +33,7 @@ Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.
 
 _[Facilitator transition — quiet room, families seated together]_
 
-The same family can experience three very different evenings. On one evening, the room is reasonably clean, the meal is timely, voices are calm, and a short reading feels possible. On another, everyon...
+The same family can experience three very different evenings. On one evening, the room is reasonably clean, the meal is timely, voices are calm, and a short reading feels possible. On another, everyone arrives hungry and irritated, and even a gentle question feels like an attack.
 
 The mood is **sober curiosity** — families willing to hear what Kṛṣṇa and the ācārya paramparā teach without sensationalism.
 
@@ -71,7 +71,7 @@ Optional: one soft round of mahā-mantra.
 
 ## 10. Lāla–Lālī interaction cues
 
-1. **Story picture:** Three weather faces on the wall: clear sky, windy storm, sleepy fog. Teacher tells three mini-stories about the same pla...
+1. **Story picture:** Three weather faces on the wall: clear sky, windy storm, sleepy fog. Teacher tells three mini-stories about the same playroom under each weather face.
 2. **Recall:** I can choose habits that help me hear Kṛṣṇa.
 
 ## 11. Kiśora–Kiśorī reflection cues

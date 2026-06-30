@@ -45,7 +45,7 @@ How do we speak truthfully about death and continuity with calm hope rather than
 ### Card 3 — Opening hook
 
 **Content:**  
-A child asks at bedtime, 'What happens when someone dies?' Adults often move toward one of two extremes. We may avoid the question because it is uncomfortable, or give a frightening amount of detail b...
+A child asks at bedtime, 'What happens when someone dies?' Adults often move toward one of two extremes. We may avoid the question because it is uncomfortable, or give a frightening amount of detail that does not help a young heart.
 
 **Visual:** `[IMAGE: opening hook — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

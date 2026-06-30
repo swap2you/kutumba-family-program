@@ -5,11 +5,11 @@ component: prem-ki-katha.md
 katha_type: source-grounded-devotional-narrative
 ---
 
-# Prem-kī-Kathā — Kṛṣṇa's birth in Vṛndāvana
+# Prem-kī-Kathā — Kṛṣṇa's appearance in Mathurā and transfer to Gokula
 
 ## 1. Katha title
 
-**Kṛṣṇa's birth in Vṛndāvana**
+**Kṛṣṇa's appearance in Mathurā and transfer to Gokula**
 
 ## 2. Module connection
 

@@ -5,11 +5,11 @@ component: prem-ki-katha.md
 katha_type: source-grounded-devotional-narrative
 ---
 
-# Prem-kī-Kathā — The gopīs' surrender — Kṛṣṇa as supreme proprietor
+# Prem-kī-Kathā — Kṛṣṇa lifts Govardhana — stewardship and supreme proprietorship
 
 ## 1. Katha title
 
-**The gopīs' surrender — Kṛṣṇa as supreme proprietor**
+**Kṛṣṇa lifts Govardhana — stewardship and supreme proprietorship**
 
 ## 2. Module connection
 
@@ -19,9 +19,10 @@ Leads naturally to Bhagavad-gītā 5.29. See [`katha/KATHA-SOURCE-REGISTER.yaml`
 
 | Source | Link | Use in katha |
 |---|---|---|
-| SB 10.14.7 | [vedabase](https://vedabase.io/en/library/sb/10/14/7/) | Katha anchor |
-| SB 10.14.8 | [vedabase](https://vedabase.io/en/library/sb/10/14/8/) | Katha anchor |
-| BG 5.29 | [vedabase](https://vedabase.io/en/library/bg/5/29/) | Katha anchor |
+| SB 10.24.7 | [vedabase](https://vedabase.io/en/library/sb/10/24/7/) | Setting — Vraja residents |
+| SB 10.24.19 | [vedabase](https://vedabase.io/en/library/sb/10/24/19/) | Govardhana worship instruction |
+| SB 10.25.9 | [vedabase](https://vedabase.io/en/library/sb/10/25/9/) | Hill lifted for protection |
+| BG 5.29 | [vedabase](https://vedabase.io/en/library/bg/5/29/) | Supreme enjoyer, proprietor, friend |
 
 ## 4. Setting and devotional mood
 
@@ -35,15 +36,15 @@ _See narrative below — paraphrase only; no invented direct quotations._
 
 _[Facilitator transition — quiet, devotional mood]_
 
-**Paraphrase from ŚB 10.14 (gopīs' prayers — summary):** After Kṛṣṇa lifted Govardhana Hill, the gopīs of Vṛndāvana spoke prayers filled with wonder and surrender. They understood that Kṛṣṇa is not an ordinary boy—they saw that He is the supreme controller who owns everything, enjoys everything transcendently, and yet appears as their beloved friend. Their words express that no one can claim independent proprietorship over land, body, family or result when everything belongs to the Supreme Lord.
+**Paraphrase from ŚB 10.24:** In Vṛndāvana, Nanda Mahārāja and the residents prepared to worship Lord Indra for rainfall. Young Kṛṣṇa questioned this custom with gentle logic. He asked them to recognize that their real wealth — land, cows, children and hill — comes from the Lord's arrangement. He instructed them to worship Govardhana Hill, which nourishes them, as an offering to Him.
 
-**Paraphrase aligned with BG 5.29:** Kṛṣṇa is described as the supreme enjoyer of sacrifice and austerity, the proprietor of all planets, and the well-wishing friend of every living being. When the living entity forgets this and claims "I am the enjoyer, I am the owner," anxiety follows. When one remembers Kṛṣṇa's position, practical peace becomes possible—not by suppressing duties, but by redirecting them.
+**Paraphrase from ŚB 10.25:** When Indra became angry and sent devastating rains, Kṛṣṇa lifted Govardhana Hill on His little finger and sheltered the entire community for seven days. The residents saw that no demigod is independent of the Supreme Lord. Kṛṣṇa is not only their friend — He is the proprietor of everything they had tried to claim as "ours."
 
-**Paraphrase — stewardship:** The gopīs did not become careless with Kṛṣṇa's property. Their surrender increased their care—offering flowers, food, affection and service. For our families, "Kṛṣṇa owns everything" means greater responsibility, not less: we care for home, body, children and resources as entrusted gifts.
+**Paraphrase aligned with BG 5.29:** Kṛṣṇa is the supreme enjoyer of sacrifice and austerity, the proprietor of all planets, and the well-wishing friend of every living being. The Govardhana pastime makes this visible: when families forget the Lord's proprietorship, anxiety and conflict increase; when they remember Him, care and stewardship replace possessiveness.
 
 ## 7. Turning point
 
-The gopīs' turning point is honest recognition: "We thought we possessed, but You are the real proprietor." For families, the turning point is the same posture when conflict arises over toys, money, credit or schedule—pause and ask the three peace questions from BG 5.29.
+The turning point is honest recognition: "We thought Indra or our own planning was supreme, but Kṛṣṇa is the real proprietor." For families, the turning point is the same posture when conflict arises over toys, money, credit or schedule—pause and ask the three peace questions from BG 5.29.
 
 ## 8. Central teaching
 

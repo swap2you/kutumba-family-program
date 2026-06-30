@@ -45,7 +45,7 @@ What can we control, what influences us, and how does the next choice matter?
 ### Card 3 — Opening hook
 
 **Content:**  
-Two statements often appear in the same home. First: 'I had no choice; you made me angry.' Second: 'I should be able to control everything if I am spiritual.' Both are inaccurate. We do not control ev...
+Two statements often appear in the same home. First: 'I had no choice; you made me angry.' Second: 'I should be able to control everything if I am spiritual.' Both are inaccurate. We do not control every result, yet the next choice still belongs to us.
 
 **Visual:** `[IMAGE: opening hook — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

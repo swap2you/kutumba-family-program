@@ -23,9 +23,10 @@ This katha supports **Birth, Death and Reincarnation** and the key verse [2.22](
 
 | Source | Link | Use in katha |
 |---|---|---|
-| SB 5.8.1 | [https://vedabase.io/en/library/sb/5/8/1/](https://vedabase.io/en/library/sb/5/8/1/) | Katha anchor |
-| SB 5.9.1 | [https://vedabase.io/en/library/sb/5/9/1/](https://vedabase.io/en/library/sb/5/9/1/) | Katha anchor |
-| BG 2.22 | [https://vedabase.io/en/library/bg/2/22/](https://vedabase.io/en/library/bg/2/22/) | Katha anchor |
+| SB 5.8.8 | [vedabase](https://vedabase.io/en/library/sb/5/8/8/) | Bhārata's forest life |
+| SB 5.8.27 | [vedabase](https://vedabase.io/en/library/sb/5/8/27/) | Deer attachment |
+| SB 5.9.9 | [vedabase](https://vedabase.io/en/library/sb/5/9/9/) | Next birth |
+| BG 2.22 | [vedabase](https://vedabase.io/en/library/bg/2/22/) | Garment analogy |
 
 Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.yaml)
 
@@ -33,7 +34,7 @@ Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.
 
 _[Facilitator transition — quiet room, families seated together]_
 
-A child asks at bedtime, 'What happens when someone dies?' Adults often move toward one of two extremes. We may avoid the question because it is uncomfortable, or give a frightening amount of detail b...
+A child asks at bedtime, 'What happens when someone dies?' Adults often move toward one of two extremes. We may avoid the question because it is uncomfortable, or give frightening detail that does not help a young heart.
 
 The mood is **sober curiosity** — families willing to hear what Kṛṣṇa and the ācārya paramparā teach without sensationalism.
 
@@ -71,7 +72,7 @@ Optional: one soft round of mahā-mantra.
 
 ## 10. Lāla–Lālī interaction cues
 
-1. **Story picture:** Doll Devi has three dresses: baby blue, school yellow, warm shawl. Teacher changes dresses while children hold Devi's na...
+1. **Story picture:** Doll Devi has three dresses: baby blue, school yellow, warm shawl. Teacher changes dresses while children hold Devi's hand and say the soul is inside.
 2. **Recall:** Kṛṣṇa, please help me remember You.
 
 ## 11. Kiśora–Kiśorī reflection cues

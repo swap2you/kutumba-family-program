@@ -34,7 +34,7 @@ Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.
 
 _[Facilitator transition — quiet room, families seated together]_
 
-A family has a recurring Friday problem. Everyone arrives late. The parent blames traffic, the children blame hunger, and another adult says, 'This is our karma; nothing can change.' The home is rushe...
+A family has a recurring Friday problem. Everyone arrives late. The parent blames traffic, the children blame hunger, and another adult says, 'This is our karma; nothing can change.' The home is rushed before anyone has paused to remember Kṛṣṇa.
 
 The mood is **sober curiosity** — families willing to hear what Kṛṣṇa and the ācārya paramparā teach without sensationalism.
 
@@ -72,7 +72,7 @@ Optional: one soft round of mahā-mantra.
 
 ## 10. Lāla–Lālī interaction cues
 
-1. **Story picture:** Puppet family rushes on Friday. Children pick tool cards: seed (prepare snack), traffic light (pause before shouting), t...
+1. **Story picture:** Puppet family rushes on Friday. Children pick tool cards: seed (prepare snack), traffic light (pause before shouting), tidy sky (quick reset), surrender card (ask Kṛṣṇa).
 2. **Recall:** We have tools: seeds, pause, remembrance, tidy sky, boundaries.
 
 ## 11. Kiśora–Kiśorī reflection cues

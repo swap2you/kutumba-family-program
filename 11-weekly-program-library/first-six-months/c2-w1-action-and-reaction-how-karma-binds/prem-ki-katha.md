@@ -33,7 +33,7 @@ Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.
 
 _[Facilitator transition — quiet room, families seated together]_
 
-A parent sends a hurried message in anger. The message takes ten seconds to send, but the reaction continues for days. Trust is damaged, explanations multiply, and the original issue becomes harder to...
+A parent sends a hurried message in anger. The message takes ten seconds to send, but the reaction continues for days. Trust is damaged, explanations multiply, and the original issue becomes harder to resolve because the relationship now carries the weight of the reaction.
 
 The mood is **sober curiosity** — families willing to hear what Kṛṣṇa and the ācārya paramparā teach without sensationalism.
 
@@ -71,7 +71,7 @@ Optional: one soft round of mahā-mantra.
 
 ## 10. Lāla–Lālī interaction cues
 
-1. **Story picture:** Mira borrows Amma's special bowl for pretend cooking. She returns it washed and placed on the shelf. Amma smiles. Next w...
+1. **Story picture:** Mira borrows Amma's special bowl for pretend cooking. She returns it washed and placed on the shelf. Amma smiles. Next week Mira forgets and leaves the bowl outside; Amma looks sad. Children name both results: care brings trust; neglect brings hurt.
 2. **Recall:** Choices are seeds. I want to plant service seeds.
 
 ## 11. Kiśora–Kiśorī reflection cues

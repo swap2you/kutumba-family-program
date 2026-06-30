@@ -68,7 +68,7 @@ Knowledge should lead to thoughtful, responsible choice under Kṛṣṇa's guid
 ### Card 5 — Katha beat
 
 **Content:**  
-Facilitator recalls the Friday evening every family recognized: lateness, hunger, active devices, and the sentence 'nothing can change.' The group pauses — not to assign blame, but...
+Facilitator recalls the Friday evening every family recognized: lateness, hunger, active devices, and the sentence 'nothing can change.' The group pauses — not to assign blame, but to see clearly and choose one small repair.
 
 **Visual:** `[IMAGE: katha beat — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

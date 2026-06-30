@@ -1,25 +1,34 @@
 module_id: C3-W1
-katha_title: "The gopīs' surrender — Kṛṣṇa as supreme proprietor"
-primary_book: Śrīmad-Bhāgavatam 10.14
-chapter_reference: "SB 10.14 (selected — gopīs' prayers)"
+katha_title: "Kṛṣṇa lifts Govardhana — stewardship and supreme proprietorship"
+primary_book: Śrīmad-Bhāgavatam 10.24
+chapter_reference: "SB 10.24 — Govardhana worship; Indra's anger; Kṛṣṇa as proprietor"
 stable_links:
-  - label: SB 10.14.7
-    url: https://vedabase.io/en/library/sb/10/14/7/
-  - label: SB 10.14.8
-    url: https://vedabase.io/en/library/sb/10/14/8/
+  - label: SB 10.24.7
+    url: https://vedabase.io/en/library/sb/10/24/7/
+  - label: SB 10.24.19
+    url: https://vedabase.io/en/library/sb/10/24/19/
+  - label: SB 10.25.9
+    url: https://vedabase.io/en/library/sb/10/25/9/
   - label: BG 5.29
     url: https://vedabase.io/en/library/bg/5/29/
 exact_verses_used:
-  - Bhagavad-gītā 5.29
+  - BG 5.29
+  - SB 10.24.7
+  - SB 10.24.19
 direct_quotations: []
 paraphrased_portions:
-  - Main narrative from SB 10.14 (selected — gopīs' prayers) — facilitator paraphrase
+  - Nanda Mahārāja and the Vrajavāsīs preparing to worship Indra for rainfall (SB 10.24 — paraphrase)
+  - Young Kṛṣṇa instructing them to worship Govardhana Hill as His representation (SB 10.24 — paraphrase)
+  - Kṛṣṇa lifting Govardhana Hill to protect the residents when Indra sent devastating rains (SB 10.25 — paraphrase)
+  - Connection to BG 5.29 — supreme enjoyer, proprietor, friend (paraphrase)
 facilitator_transitions:
   - Modern family pause before philosophy block
-  - Bridge to home practice
+  - Bridge to stewardship home practice
 omitted_complex_details:
-  - Portions beyond module scope per complete-week.md exclusions
+  - Extended demigod theology beyond module scope
+  - Graphic storm imagery for youngest children
 audience_cautions:
+  - Do not misidentify SB 10.14 (Brahmā's prayers) as this narrative
   - No invented quotes; age-appropriate narration
   - Follow risks-and-sensitive-points.md
 doctrinal_reviewer: pending

@@ -45,7 +45,7 @@ How do intention, method, and consequence shape bondage, and how can work be off
 ### Card 3 — Opening hook
 
 **Content:**  
-A parent sends a hurried message in anger. The message takes ten seconds to send, but the reaction continues for days. Trust is damaged, explanations multiply, and the original issue becomes harder to...
+A parent sends a hurried message in anger. The message takes ten seconds to send, but the reaction continues for days. Trust is damaged, explanations multiply, and the original issue becomes harder to resolve because the relationship now carries the weight of the reaction.
 
 **Visual:** `[IMAGE: opening hook — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

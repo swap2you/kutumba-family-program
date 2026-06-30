@@ -33,7 +33,7 @@ Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.
 
 _[Facilitator transition — quiet room, families seated together]_
 
-Two statements often appear in the same home. First: 'I had no choice; you made me angry.' Second: 'I should be able to control everything if I am spiritual.' Both are inaccurate. We do not control ev...
+Two statements often appear in the same home. First: 'I had no choice; you made me angry.' Second: 'I should be able to control everything if I am spiritual.' Both are inaccurate. We do not control every result, yet the next choice still belongs to us.
 
 The mood is **sober curiosity** — families willing to hear what Kṛṣṇa and the ācārya paramparā teach without sensationalism.
 
@@ -71,7 +71,7 @@ Optional: one soft round of mahā-mantra.
 
 ## 10. Lāla–Lālī interaction cues
 
-1. **Story picture:** Puppet Kāka sees his toy taken. His fists tighten and his voice gets loud. Teacher holds up red card: STOP. Yellow: reme...
+1. **Story picture:** Puppet Kāka sees his toy taken. His fists tighten and his voice gets loud. Teacher holds up red card: STOP. Yellow: remember Kṛṣṇa. Green: choose a kind word.
 2. **Recall:** Stop — remember Kṛṣṇa — choose care.
 
 ## 11. Kiśora–Kiśorī reflection cues

@@ -33,7 +33,7 @@ Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.
 
 _[Facilitator transition — quiet room, families seated together]_
 
-A person receives a notification while reading Bhagavad-gītā. 'I will check for ten seconds,' the mind says. Twenty minutes later, the person has moved through messages, news, shopping, and comparison...
+A person receives a notification while reading Bhagavad-gītā. 'I will check for ten seconds,' the mind says. Twenty minutes later, the person has moved through messages, news, shopping, and comparison sites — and the verse is forgotten.
 
 The mood is **sober curiosity** — families willing to hear what Kṛṣṇa and the ācārya paramparā teach without sensationalism.
 
@@ -71,7 +71,7 @@ Optional: one soft round of mahā-mantra.
 
 ## 10. Lāla–Lālī interaction cues
 
-1. **Story picture:** Shiny puppet toy flashes and beeps during cleanup time. Children practice: put down, three breaths, one chant, pick up o...
+1. **Story picture:** Shiny puppet toy flashes and beeps during cleanup time. Children practice: put down, three breaths, one chant, pick up one toy.
 2. **Recall:** People are not māyā. I can stop, chant once, and choose help.
 
 ## 11. Kiśora–Kiśorī reflection cues

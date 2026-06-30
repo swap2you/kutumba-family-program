@@ -1,26 +1,32 @@
 module_id: C3-W3
-katha_title: "How Nārada received the Bhāgavatam"
-primary_book: Śrīmad-Bhāgavatam 1.1 / 1.4
-chapter_reference: "SB 1.1 and 1.4 (selected — paramparā)"
+katha_title: "How Nārada instructed dissatisfied Vyāsadeva"
+primary_book: Śrīmad-Bhāgavatam 1.5
+chapter_reference: "SB 1.5 — Nārada instructs Vyāsadeva to directly glorify the Lord"
 stable_links:
-  - label: SB 1.1.1
-    url: https://vedabase.io/en/library/sb/1/1/1/
-  - label: SB 1.4.25
-    url: https://vedabase.io/en/library/sb/1/4/25/
+  - label: SB 1.5.12
+    url: https://vedabase.io/en/library/sb/1/5/12/
+  - label: SB 1.5.18
+    url: https://vedabase.io/en/library/sb/1/5/18/
+  - label: SB 1.5.19
+    url: https://vedabase.io/en/library/sb/1/5/19/
   - label: BG 4.34
     url: https://vedabase.io/en/library/bg/4/34/
   - label: SB 11.3.21
     url: https://vedabase.io/en/library/sb/11/3/21/
 exact_verses_used:
-  - Bhagavad-gītā 4.34
+  - BG 4.34
+  - SB 1.5.12
+  - SB 1.5.18
 direct_quotations: []
 paraphrased_portions:
-  - Main narrative from SB 1.1 and 1.4 (selected — paramparā) — facilitator paraphrase
+  - Vyāsadeva's dissatisfaction after compiling Mahābhārata (SB 1.4 context — brief paraphrase)
+  - Nārada's instruction to describe the Lord's glories directly (SB 1.5 — paraphrase)
+  - Guru–śāstra harmony — no personality replaces scripture (KUTUMBA teaching bridge)
 facilitator_transitions:
-  - Modern family pause before philosophy block
+  - Respectful, inquisitive mood
   - Bridge to home practice
 omitted_complex_details:
-  - Portions beyond module scope per complete-week.md exclusions
+  - Do not use SB 1.4.25 as "Nārada receiving Bhāgavatam" — that verse concerns Vyāsa's compassion in Mahābhārata
 audience_cautions:
   - No invented quotes; age-appropriate narration
   - Follow risks-and-sensitive-points.md

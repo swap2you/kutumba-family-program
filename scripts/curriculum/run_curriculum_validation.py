@@ -19,6 +19,7 @@ SEMANTIC = [
     "validate_gamma_briefs.py",
     "validate_prem_ki_katha.py",
     "validate_review_status_honesty.py",
+    "detect_truncation_artifacts.py",
     "measure_live_session_load.py",
 ]
 SOURCE = [
@@ -27,6 +28,7 @@ SOURCE = [
     "detect_unverified_claims.py",
     "detect_copyright_risk.py",
 ]
+SOURCE_CATALOG = [ROOT / "scripts" / "sources" / "validate_public_source_catalog.py"]
 RIGHTS = ["detect_copyright_risk.py"]
 REPORTING = [
     "build_week_quality_dashboard.py",
@@ -35,9 +37,12 @@ REPORTING = [
 ]
 
 
-def run_script(name: str) -> bool:
-    print(f"\n=== {name} ===")
-    r = subprocess.run([sys.executable, str(SCRIPT_DIR / name)], cwd=ROOT)
+def run_script(name: str | Path) -> bool:
+    path = Path(name) if not isinstance(name, Path) else name
+    if not path.is_absolute():
+        path = SCRIPT_DIR / path
+    print(f"\n=== {path.name} ===")
+    r = subprocess.run([sys.executable, str(path)], cwd=ROOT)
     return r.returncode == 0
 
 
@@ -50,11 +55,14 @@ def main() -> int:
         ("structural", STRUCTURAL),
         ("semantic", SEMANTIC),
         ("source", SOURCE),
+        ("source_catalog", SOURCE_CATALOG),
     ]:
         results[cat] = all(run_script(s) for s in dict.fromkeys(scripts))
 
     print("\n=== check_external_links.py ===")
-    subprocess.run([sys.executable, str(SCRIPT_DIR / "check_external_links.py")], cwd=ROOT)
+    link_ok = subprocess.run(
+        [sys.executable, str(SCRIPT_DIR / "check_external_links.py")], cwd=ROOT
+    ).returncode == 0
 
     print("\n=== Validate-KutumbaRepository.ps1 ===")
     repo_ok = subprocess.run(
@@ -77,6 +85,8 @@ HEAD: `{head}`
 | Structural validation | **{'PASS' if results['structural'] else 'FAIL'}** |
 | Semantic validation | **{'PASS' if results['semantic'] else 'FAIL'}** |
 | Source validation | **{'PASS' if results['source'] else 'FAIL'}** |
+| Source catalog validation | **{'PASS' if results.get('source_catalog') else 'FAIL'}** |
+| External link check | **{'PASS' if link_ok else 'FAIL'}** |
 | Rights validation | **PASS** (heuristic — human review required) |
 | Repository validation | **{'PASS' if repo_ok else 'FAIL'}** |
 | Human-review status | **OPEN** — not publication-ready |
@@ -96,7 +106,7 @@ Warnings in repository validator (e.g. hash verify skips) are classified separat
         encoding="utf-8",
     )
 
-    all_pass = all(results.values()) and repo_ok
+    all_pass = all(results.values()) and repo_ok and link_ok
     print(f"\nOverall curriculum validation: {'PASS' if all_pass else 'FAIL'}")
     return 0 if all_pass else 1
 
