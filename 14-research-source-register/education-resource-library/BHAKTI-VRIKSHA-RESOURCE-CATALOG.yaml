@@ -1,0 +1,22 @@
+catalog_version: "1.0.0"
+generated: "2026-06-30"
+note: Bhakti-vṛkṣa is comparison reference only — not KUTUMBA operating model
+entries:
+  - resource_id: BV-001
+    title: Bhakti-vṛkṣa Program Overview
+    url: https://iskconcongregation.com/programs/bhakti-vriksha/
+    content_types: [program-structure]
+    kutumba_use: congregation-comparison-only
+    rights_posture: official-policy-reference
+  - resource_id: BV-002
+    title: Training Module Book 1 (PDF)
+    url: https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-1_1.pdf
+    content_types: [training-module]
+    kutumba_use: facilitator-method-pattern-extraction
+    rights_posture: download-for-private-review-only
+  - resource_id: BV-003
+    title: Training Module Book 2 (PDF)
+    url: https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-2_1.pdf
+    content_types: [training-module]
+    kutumba_use: facilitator-method-pattern-extraction
+    rights_posture: download-for-private-review-only

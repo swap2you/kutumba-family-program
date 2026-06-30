@@ -1,0 +1,40 @@
+catalog_version: "1.0.0"
+generated: "2026-06-30"
+source_map_id: KUT-SRC-0013
+rights_posture: link-and-metadata-only
+entries:
+  - resource_id: EDU-ISKCON-001
+    title: ISKCON Ministry of Education
+    url: https://iskconeducation.org/
+    content_types: [curriculum, philosophy, media-index]
+    age_range: all
+    kutumba_use: facilitator-inspiration-only
+    review_status: human-review-required
+  - resource_id: EDU-ISKCON-002
+    title: Media Library
+    url: https://iskconeducation.org/media_library/
+    content_types: [audio, video, textbook-index]
+    age_range: all
+    kutumba_use: metadata-and-pattern-extraction
+    review_status: human-review-required
+  - resource_id: EDU-ISKCON-003
+    title: Materials
+    url: https://iskconeducation.org/materials/
+    content_types: [teacher-resources]
+    age_range: all
+    kutumba_use: pedagogy-pattern-only
+    review_status: human-review-required
+  - resource_id: EDU-ISKCON-004
+    title: Books for Kids
+    url: https://iskconeducation.org/books-for-kids/
+    content_types: [children-literature-index]
+    age_range: children
+    kutumba_use: child-activity-inspiration
+    review_status: human-review-required
+  - resource_id: EDU-ISKCON-005
+    title: Philosophy of Education
+    url: https://iskconeducation.org/philosophy-of-education/
+    content_types: [philosophy]
+    age_range: adult
+    kutumba_use: facilitator-formation
+    review_status: human-review-required

@@ -1,0 +1,9 @@
+map_version: "1.0.0"
+generated: "2026-06-30"
+modules:
+  C1-W1: [EDU-ISKCON-005, SS-001]
+  C1-W2: [EDU-ISKCON-003]
+  C1-W4: [SS-001, SS-002]
+  C1-W6: [BV-001]
+  C2-W3: [SS-002]
+  C3-W6: [EDU-ISKCON-002]

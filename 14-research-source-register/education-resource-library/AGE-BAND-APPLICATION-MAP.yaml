@@ -1,0 +1,14 @@
+map_version: "1.0.0"
+generated: "2026-06-30"
+bands:
+  lala_lali:
+    age_note: per KUTUMBA Children Youth Operating Model
+    patterns: [call-and-response, tactile-story, sorting-game]
+  kisora_kisori:
+    age_note: per KUTUMBA Children Youth Operating Model
+    patterns: [journal-pair-share, misconception-correction]
+modules:
+  C1-W1: {lala_lali: [call-and-response], kisora_kisori: [journal-pair-share]}
+  C1-W2: {lala_lali: [body-map-gesture], kisora_kisori: [journal-pair-share]}
+  C2-W3: {lala_lali: [doll-dress-change], kisora_kisori: [journal-pair-share]}
+  C3-W1: {lala_lali: [stewardship-sorting], kisora_kisori: [journal-pair-share]}

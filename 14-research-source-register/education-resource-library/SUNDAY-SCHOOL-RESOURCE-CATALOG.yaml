@@ -1,0 +1,24 @@
+catalog_version: "1.0.0"
+generated: "2026-06-30"
+entries:
+  - resource_id: SS-001
+    title: Starting a Sunday School
+    url: https://iskconeducation.org/article/starting-a-sunday-school/
+    age_range: facilitator
+    learning_method: hands-on-spiritual-values
+    kutumba_adaptation: KUTUMBA Lāla–Lālī activity patterns — not ISKCON sequence import
+    rights_posture: link-and-metadata-only
+  - resource_id: SS-002
+    title: Madhava CD Index (PDF)
+    url: https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf
+    age_range: younger-children
+    learning_method: modular-lessons
+    kutumba_adaptation: index-only; no PDF committed
+    rights_posture: download-for-private-review-only
+  - resource_id: SS-003
+    title: Damodar CD Index (PDF)
+    url: https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf
+    age_range: middle-children
+    learning_method: modular-lessons
+    kutumba_adaptation: index-only
+    rights_posture: download-for-private-review-only

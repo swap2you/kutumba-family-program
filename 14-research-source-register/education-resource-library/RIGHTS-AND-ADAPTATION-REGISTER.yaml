@@ -1,0 +1,15 @@
+register_version: "1.0.0"
+generated: "2026-06-30"
+entries:
+  - id: RIGHTS-EDU-001
+    resource: ISKCON Education PDF indexes
+    classification: download-for-private-review-only
+    repository_action: metadata-and-toc-only
+  - id: RIGHTS-EDU-002
+    resource: Bhakti-vṛkṣa training PDFs
+    classification: download-for-private-review-only
+    repository_action: pattern-extraction-notes-only
+  - id: RIGHTS-EDU-003
+    resource: All module child activities
+    classification: kutumba-original-summary
+    repository_action: label-as-kutumba-adaptation
