@@ -5,14 +5,13 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
+from module_utils import iter_modules  # noqa: E402
 
 def main() -> int:
     failures = []
     mmd_count = 0
     viewer_ok = 0
-    for d in sorted(WEEKLY.iterdir()):
-        if not d.is_dir():
-            continue
+    for d in iter_modules(WEEKLY):
         vis = d / "visuals"
         if not vis.is_dir():
             continue

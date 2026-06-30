@@ -186,33 +186,59 @@ if ($unique.Count -ne 18) {
     Add-Failure "Week codes not unique: $($weekCodes -join ', ')"
 }
 
-# 15. Internal links (sample)
+# 15. Internal links — UTF-8 safe, NFC-normalized
 $brokenLinks = 0
+$mojibakeLinks = 0
+$brokenList = @()
+
+Add-Type -AssemblyName System.Text
+$utf8 = New-Object System.Text.UTF8Encoding $false
+
+function Normalize-PathString([string]$s) {
+    if ([string]::IsNullOrWhiteSpace($s)) { return $s }
+    return $s.Normalize([System.Globalization.NormalizationForm]::FormC)
+}
+
 Get-ChildItem -Path $RepoRoot -Recurse -Filter "*.md" -File |
     Where-Object { $_.FullName -notmatch '\\\.git\\' } |
     ForEach-Object {
         $md = $_
-        Get-Content -LiteralPath $md.FullName -ErrorAction SilentlyContinue | ForEach-Object {
-            if ($_ -match '\[([^\]]+)\]\(([^)]+)\)') {
+        $content = [System.IO.File]::ReadAllText($md.FullName, $utf8)
+        foreach ($line in $content -split "`n") {
+            if ($line -match '\[([^\]]+)\]\(([^)]+)\)') {
                 $target = $Matches[2]
-                if ($target -match '^(https?://|mailto:|#)') { return }
+                if ($target -match '^(https?://|mailto:|#)') { continue }
                 $target = ($target -split '#')[0]
-                if ([string]::IsNullOrWhiteSpace($target)) { return }
+                if ([string]::IsNullOrWhiteSpace($target)) { continue }
                 try { $target = [System.Uri]::UnescapeDataString($target) } catch {}
+                $target = Normalize-PathString $target
+                if ($target -match 'mÄ|á¹›|Å›|sÄ') {
+                    $script:mojibakeLinks++
+                    if ($mojibakeLinks -le 5) {
+                        Add-Warning "Mojibake link target in $($md.Name): $target"
+                    }
+                    continue
+                }
                 $resolved = if ($target.StartsWith('/')) {
                     Join-Path $RepoRoot $target.TrimStart('/')
                 } else {
                     Join-Path $md.DirectoryName $target
                 }
+                $resolved = Normalize-PathString $resolved
                 if (-not (Test-Path -LiteralPath $resolved)) {
                     $script:brokenLinks++
-                    if ($brokenLinks -le 15) {
+                    $brokenList += "$($md.FullName): $target"
+                    if ($brokenLinks -le 20) {
                         Add-Warning "Broken link in $($md.Name): $target"
                     }
                 }
             }
         }
     }
+
+if ($mojibakeLinks -gt 0) {
+    Add-Failure "Mojibake internal links detected: $mojibakeLinks"
+}
 
 # 16. Office lock files
 Get-ChildItem -Path $RepoRoot -Recurse -File -Force -ErrorAction SilentlyContinue |

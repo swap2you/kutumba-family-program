@@ -13,6 +13,8 @@ REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
 EVIDENCE = REPO / "build-evidence"
 
+from module_utils import iter_modules, module_count  # noqa: E402
+
 
 def week_code(name: str) -> str:
     m = re.match(r"(c\d-w\d+)", name)
@@ -86,7 +88,7 @@ def audit_row(d: Path) -> dict:
 
 def main() -> int:
     EVIDENCE.mkdir(parents=True, exist_ok=True)
-    rows = [audit_row(d) for d in sorted(WEEKLY.iterdir()) if d.is_dir()]
+    rows = [audit_row(d) for d in iter_modules(WEEKLY)]
     csv_path = EVIDENCE / "EMPTY-AND-THIN-SECTIONS.csv"
     with csv_path.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()) if rows else [])

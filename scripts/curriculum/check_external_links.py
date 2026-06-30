@@ -7,6 +7,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
+from module_utils import iter_modules  # noqa: E402
 SAMPLE_URLS = [
     "https://vedabase.io/en/library/bg/2/13/",
 ]
@@ -22,9 +23,7 @@ def main() -> int:
     except Exception as e:
       failures.append(f"Could not reach {url}: {e}")
   broken = 0
-  for d in sorted(WEEKLY.iterdir()):
-    if not d.is_dir():
-      continue
+  for d in iter_modules(WEEKLY):
     readme = d / "README.md"
     if not readme.exists():
       continue

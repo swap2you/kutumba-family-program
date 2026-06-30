@@ -6,6 +6,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
+from module_utils import iter_modules  # noqa: E402
 
 def week_code(name: str) -> str:
     import re
@@ -14,9 +15,7 @@ def week_code(name: str) -> str:
 
 def main() -> int:
     failures = []
-    for d in sorted(WEEKLY.iterdir()):
-        if not d.is_dir():
-            continue
+    for d in iter_modules(WEEKLY):
         sy = d / "sources.yaml"
         if not sy.exists():
             failures.append(f"{d.name}: missing sources.yaml")

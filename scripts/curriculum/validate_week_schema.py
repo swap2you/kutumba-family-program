@@ -9,6 +9,8 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
 
+from module_utils import iter_modules, module_count
+
 REQUIRED = [
     "complete-week.md", "research/RESEARCH-DOSSIER.md", "research/CLAIM-REGISTER.yaml",
     "children/lala-lali-lesson.md", "children/kisora-kisori-lesson.md",
@@ -25,9 +27,7 @@ EMPTY_SHELL = [
 
 def main() -> int:
     failures = []
-    for d in sorted(WEEKLY.iterdir()):
-        if not d.is_dir():
-            continue
+    for d in iter_modules(WEEKLY):
         for req in REQUIRED:
             p = d / req
             if not p.exists():
@@ -49,7 +49,7 @@ def main() -> int:
             print(f"FAIL: {f}")
         print(f"Total failures: {len(failures)}")
         return 1
-    print(f"PASS: {len(list(WEEKLY.iterdir()))} modules schema OK")
+    print(f"PASS: {module_count(WEEKLY)} modules schema OK")
     return 0
 
 

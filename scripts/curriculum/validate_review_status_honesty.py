@@ -9,6 +9,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
+from module_utils import iter_modules  # noqa: E402
 PILOT = "c1-w2-i-am-not-this-body"
 C1_GOLD_SLUGS = {
     "c1-w1-what-is-kutumba-and-why-are-we-here",
@@ -103,9 +104,7 @@ def check_gold_depth(d: Path, label: str) -> list[str]:
 
 def main() -> int:
     failures: list[str] = []
-    for d in sorted(WEEKLY.iterdir()):
-        if not d.is_dir():
-            continue
+    for d in iter_modules(WEEKLY):
         rs = d / "review-status.yaml"
         if not rs.exists():
             failures.append(f"Missing review-status.yaml in {d.name}")
@@ -121,8 +120,8 @@ def main() -> int:
             continue
         failures.extend(check_gold_depth(d, week_code_from_dir(d.name)))
 
-    for d in sorted(WEEKLY.iterdir()):
-        if not d.is_dir() or d.name not in GOLD_SLUGS:
+    for d in iter_modules(WEEKLY):
+        if d.name not in GOLD_SLUGS:
             continue
         rs = d / "review-status.yaml"
         if not rs.exists():
@@ -135,8 +134,8 @@ def main() -> int:
                 f"{week_code_from_dir(d.name)}: has gold depth but review-status still baseline-scaffold"
             )
 
-    for d in sorted(WEEKLY.iterdir()):
-        if not d.is_dir() or d.name in GOLD_SLUGS:
+    for d in iter_modules(WEEKLY):
+        if d.name in GOLD_SLUGS:
             continue
         rs = d / "review-status.yaml"
         if not rs.exists():

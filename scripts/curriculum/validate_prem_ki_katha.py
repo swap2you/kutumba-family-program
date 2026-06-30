@@ -10,12 +10,13 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
 
-REQUIRED_SECTIONS = [
-    "katha title", "module connection", "primary source", "setting",
-    "main personalities", "source-grounded narrative", "turning point",
-    "central teaching", "heart reflection", "lāla", "kiśora", "parent bridge",
-    "transition", "narration cautions", "visual", "rights", "human doctrinal",
-]
+from module_utils import iter_modules, module_count  # noqa: E402
+
+INTEGRATION_SLUGS = {
+    "c1-w6-integration-night-who-am-i-and-how-should-our-family-live",
+    "c2-w6-integration-night-choice-consequence-and-the-modes",
+    "c3-w6-bhakti-mela-kirtana-drama-and-family-presentation",
+}
 
 MODERN_ONLY = [
     "a child finds an old family photo",
@@ -27,51 +28,51 @@ def word_count(text: str) -> int:
     return len(re.findall(r"\b\w+\b", text))
 
 
+def min_words_for(d: Path, body: str) -> int:
+    if "integration_exception:" in body[:400] or d.name in INTEGRATION_SLUGS:
+        return 600
+    if d.name == "c1-w2-i-am-not-this-body":
+        return 900
+    return 900
+
+
 def main() -> int:
     failures = []
-    for d in sorted(WEEKLY.iterdir()):
-        if not d.is_dir():
-            continue
+    for d in iter_modules(WEEKLY):
         prem = d / "prem-ki-katha.md"
         reg = d / "katha" / "KATHA-SOURCE-REGISTER.yaml"
-        rs = d / "review-status.yaml"
+        rs_path = d / "review-status.yaml"
         if not prem.exists():
             failures.append(f"{d.name}: missing prem-ki-katha.md")
             continue
-        text = prem.read_text(encoding="utf-8").lower()
-        body = re.sub(r"^---.*?---\s*", "", prem.read_text(encoding="utf-8"), count=1, flags=re.DOTALL)
+        raw = prem.read_text(encoding="utf-8")
+        text = raw.lower()
+        body = re.sub(r"^---.*?---\s*", "", raw, count=1, flags=re.DOTALL)
         wc = word_count(body)
-        rs = d / "review-status.yaml"
-        pack = ""
-        if rs.exists():
-            for line in rs.read_text(encoding="utf-8").splitlines():
-                if line.startswith("weekly_derivative_pack:"):
-                    pack = line.split(":", 1)[1].strip()
-        min_words = 600 if d.name == "c1-w2-i-am-not-this-body" else 350
-        if wc < min_words:
-            failures.append(f"{d.name}: prem-ki-katha too thin ({wc} words, need {min_words}+)")
+        min_w = min_words_for(d, raw)
+        if wc < min_w:
+            failures.append(f"{d.name}: prem-ki-katha too thin ({wc} words, need {min_w}+)")
         if any(m in text for m in MODERN_ONLY) and wc < 500:
             failures.append(f"{d.name}: prem-ki-katha appears to be modern hook only")
         if not reg.exists():
             failures.append(f"{d.name}: missing katha/KATHA-SOURCE-REGISTER.yaml")
         if "vedabase.io" not in text and "sb " not in text and "bhagavad" not in text:
             failures.append(f"{d.name}: no stable primary source link in prem-ki-katha")
-        for sec in ["katha title", "module connection", "primary source", "source-grounded narrative", "parent bridge", "transition"]:
+        for sec in [
+            "katha title", "module connection", "primary source", "source-grounded narrative",
+            "parent bridge", "transition",
+        ]:
             if sec not in text:
                 failures.append(f"{d.name}: missing section '{sec}' in prem-ki-katha")
-        if rs.exists() and "approval_status: approved" in rs.read_text(encoding="utf-8"):
+        if rs_path.exists() and "approval_status: approved" in rs_path.read_text(encoding="utf-8"):
             failures.append(f"{d.name}: false approved status in review-status")
-
-    pilot = WEEKLY / "c1-w2-i-am-not-this-body" / "prem-ki-katha.md"
-    if pilot.exists() and word_count(re.sub(r"^---.*?---\s*", "", pilot.read_text(encoding="utf-8"), count=1, flags=re.DOTALL)) < 600:
-        failures.append("C1-W2 pilot katha below minimum")
 
     if failures:
         for f in failures[:40]:
             print(f"FAIL: {f}")
         print(f"Total failures: {len(failures)}")
         return 1
-    print(f"PASS: Prem-ki-Katha checks OK ({len(list(WEEKLY.iterdir()))} modules scanned)")
+    print(f"PASS: Prem-ki-Katha checks OK ({module_count(WEEKLY)} modules scanned)")
     return 0
 
 

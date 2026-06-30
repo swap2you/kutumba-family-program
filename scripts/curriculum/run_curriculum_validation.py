@@ -28,7 +28,12 @@ SOURCE = [
     "detect_unverified_claims.py",
     "detect_copyright_risk.py",
 ]
-SOURCE_CATALOG = [ROOT / "scripts" / "sources" / "validate_public_source_catalog.py"]
+SOURCE_CATALOG = [
+    ROOT / "scripts" / "sources" / "validate_public_source_catalog.py",
+    ROOT / "scripts" / "sources" / "validate_catalog_consistency.py",
+    ROOT / "scripts" / "sources" / "reconcile_source_map_urls.py",
+    ROOT / "scripts" / "sources" / "validate_source_manifest.py",
+]
 RIGHTS = ["detect_copyright_risk.py"]
 REPORTING = [
     "build_week_quality_dashboard.py",

@@ -12,6 +12,8 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
 
+from module_utils import iter_modules  # noqa: E402
+
 INTEGRATION_MODULES = {
     "c1-w6-integration-night-who-am-i-and-how-should-our-family-live",
     "c2-w6-integration-night-choice-consequence-and-the-modes",
@@ -137,9 +139,7 @@ notes: Field-by-field status from sync_gold_review_status.py v4; no false gold p
 
 def main() -> None:
     updated = 0
-    for d in sorted(WEEKLY.iterdir()):
-        if not d.is_dir() or not d.name.startswith("c"):
-            continue
+    for d in iter_modules(WEEKLY):
         ev = evaluate(d)
         (d / "review-status.yaml").write_text(render_status(ev), encoding="utf-8", newline="\n")
         updated += 1

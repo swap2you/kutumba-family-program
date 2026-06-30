@@ -10,6 +10,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
 EVIDENCE = REPO / "build-evidence"
+from module_utils import iter_modules  # noqa: E402
 
 DELIVERY_FILES = [
     "complete-week.md", "overview.md", "learning-outcomes.md", "prem-ki-katha.md",
@@ -93,7 +94,7 @@ def update_review_status(folder: Path, needs_enhancement: bool) -> None:
 
 def main() -> None:
     EVIDENCE.mkdir(parents=True, exist_ok=True)
-    rows = [audit_module(d) for d in sorted(WEEKLY.iterdir()) if d.is_dir()]
+    rows = [audit_module(d) for d in iter_modules(WEEKLY)]
     for r in rows:
         update_review_status(WEEKLY / r["folder"], r["blank_count"] > 3 or not r["has_research"])
 
