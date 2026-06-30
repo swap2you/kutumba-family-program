@@ -1,0 +1,598 @@
+{
+  "https://vedabase.io/": {
+    "url": "https://vedabase.io/",
+    "checked_at": "2026-06-30T20:55:45.935893+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://vedabase.io/en/",
+    "outcome": "ok"
+  },
+  "https://vedabase.io/en/library/": {
+    "url": "https://vedabase.io/en/library/",
+    "checked_at": "2026-06-30T20:55:47.210336+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://vedabase.io/en/library/",
+    "outcome": "ok"
+  },
+  "https://vedabase.io/en/library/transcripts/": {
+    "url": "https://vedabase.io/en/library/transcripts/",
+    "checked_at": "2026-06-30T20:55:48.176613+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://vedabase.io/en/library/transcripts/",
+    "outcome": "ok"
+  },
+  "https://vedabase.io/en/library/letters/": {
+    "url": "https://vedabase.io/en/library/letters/",
+    "checked_at": "2026-06-30T20:55:49.255642+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://vedabase.io/en/library/letters/",
+    "outcome": "ok"
+  },
+  "https://vedabase.io/en/library/bg/": {
+    "url": "https://vedabase.io/en/library/bg/",
+    "checked_at": "2026-06-30T20:55:50.420682+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://vedabase.io/en/library/bg/",
+    "outcome": "ok"
+  },
+  "https://vedabase.io/en/library/sb/": {
+    "url": "https://vedabase.io/en/library/sb/",
+    "checked_at": "2026-06-30T20:55:51.468663+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://vedabase.io/en/library/sb/",
+    "outcome": "ok"
+  },
+  "https://vedabase.io/en/library/cc/": {
+    "url": "https://vedabase.io/en/library/cc/",
+    "checked_at": "2026-06-30T20:55:52.766586+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://vedabase.io/en/library/cc/",
+    "outcome": "ok"
+  },
+  "https://vedabase.io/es/library/": {
+    "url": "https://vedabase.io/es/library/",
+    "checked_at": "2026-06-30T20:55:54.050641+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://vedabase.io/es/library/",
+    "outcome": "ok"
+  },
+  "https://www.prabhupada.com/": {
+    "url": "https://www.prabhupada.com/",
+    "checked_at": "2026-06-30T20:55:55.040927+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://www.prabhupada.com/About/AAbout.html": {
+    "url": "https://www.prabhupada.com/About/AAbout.html",
+    "checked_at": "2026-06-30T20:55:56.033893+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://www.prabhupada.com/Collections/Collections.html": {
+    "url": "https://www.prabhupada.com/Collections/Collections.html",
+    "checked_at": "2026-06-30T20:55:56.932840+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://www.prabhupada.com/Collections/Audio2.html": {
+    "url": "https://www.prabhupada.com/Collections/Audio2.html",
+    "checked_at": "2026-06-30T20:55:57.830792+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://www.prabhupada.com/Collections/Documents.html": {
+    "url": "https://www.prabhupada.com/Collections/Documents.html",
+    "checked_at": "2026-06-30T20:55:58.723693+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://www.prabhupada.com/Collections/Images.html": {
+    "url": "https://www.prabhupada.com/Collections/Images.html",
+    "checked_at": "2026-06-30T20:55:59.601767+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://www.prabhupada.com/Collections/Publications.html": {
+    "url": "https://www.prabhupada.com/Collections/Publications.html",
+    "checked_at": "2026-06-30T20:56:00.472160+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://www.prabhupada.com/Vedabase/VedaBase.html": {
+    "url": "https://www.prabhupada.com/Vedabase/VedaBase.html",
+    "checked_at": "2026-06-30T20:56:01.418829+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://bbt.org/": {
+    "url": "https://bbt.org/",
+    "checked_at": "2026-06-30T20:56:02.402252+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://bbt.org/",
+    "outcome": "ok"
+  },
+  "https://bbt.org/books": {
+    "url": "https://bbt.org/books",
+    "checked_at": "2026-06-30T20:56:03.626683+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://bbt.org/books",
+    "outcome": "ok"
+  },
+  "https://bbt.org/online-publications": {
+    "url": "https://bbt.org/online-publications",
+    "checked_at": "2026-06-30T20:56:04.813788+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://bbt.org/online-publications",
+    "outcome": "ok"
+  },
+  "https://bbt.org/languages": {
+    "url": "https://bbt.org/languages",
+    "checked_at": "2026-06-30T20:56:05.906080+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://bbt.org/languages",
+    "outcome": "ok"
+  },
+  "https://bbtmedia.com/": {
+    "url": "https://bbtmedia.com/",
+    "checked_at": "2026-06-30T20:56:07.004437+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://bbtmedia.com/",
+    "outcome": "ok"
+  },
+  "https://krishna.com/": {
+    "url": "https://krishna.com/",
+    "checked_at": "2026-06-30T20:56:08.248490+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://krishna.com/",
+    "outcome": "ok"
+  },
+  "https://krishna.com/the-bhagavad-gita-info/bhagavad-gita-online-versions/": {
+    "url": "https://krishna.com/the-bhagavad-gita-info/bhagavad-gita-online-versions/",
+    "checked_at": "2026-06-30T20:56:09.984687+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://krishna.com/the-bhagavad-gita-info/bhagavad-gita-online-versions/",
+    "outcome": "ok"
+  },
+  "https://krishna.com/audio/audiobooks/bhagavad-gita-audiobook/": {
+    "url": "https://krishna.com/audio/audiobooks/bhagavad-gita-audiobook/",
+    "checked_at": "2026-06-30T20:56:11.276849+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://krishna.com/audio/audiobooks/bhagavad-gita-audiobook/",
+    "outcome": "ok"
+  },
+  "https://www.asitis.com/": {
+    "url": "https://www.asitis.com/",
+    "checked_at": "2026-06-30T20:56:12.538627+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.asitis.com/",
+    "outcome": "ok"
+  },
+  "https://www.asitis.com/1": {
+    "url": "https://www.asitis.com/1",
+    "checked_at": "2026-06-30T20:56:13.585145+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.asitis.com/1",
+    "outcome": "ok"
+  },
+  "https://www.asitis.com/gallery/": {
+    "url": "https://www.asitis.com/gallery/",
+    "checked_at": "2026-06-30T20:56:14.555349+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.asitis.com/gallery/",
+    "outcome": "ok"
+  },
+  "https://prabhupadavani.org/": {
+    "url": "https://prabhupadavani.org/",
+    "checked_at": "2026-06-30T20:56:15.519445+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://prabhupadavani.org/audio/": {
+    "url": "https://prabhupadavani.org/audio/",
+    "checked_at": "2026-06-30T20:56:16.556755+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://prabhupadavani.org/transcriptions/": {
+    "url": "https://prabhupadavani.org/transcriptions/",
+    "checked_at": "2026-06-30T20:56:17.503895+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://prabhupadavani.org/transcriptions/?type=Conversation": {
+    "url": "https://prabhupadavani.org/transcriptions/?type=Conversation",
+    "checked_at": "2026-06-30T20:56:18.482726+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://prabhupadavani.org/transcriptions/?type=Lectures+and+Addresses": {
+    "url": "https://prabhupadavani.org/transcriptions/?type=Lectures+and+Addresses",
+    "checked_at": "2026-06-30T20:56:19.432801+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://prabhupadavani.org/transcriptions/?audio=Has+audio": {
+    "url": "https://prabhupadavani.org/transcriptions/?audio=Has+audio",
+    "checked_at": "2026-06-30T20:56:20.421479+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://prabhupadavani.org/blog/prabhupada-radio/": {
+    "url": "https://prabhupadavani.org/blog/prabhupada-radio/",
+    "checked_at": "2026-06-30T20:56:21.409798+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://vanisource.org/wiki/Main_Page": {
+    "url": "https://vanisource.org/wiki/Main_Page",
+    "checked_at": "2026-06-30T20:56:22.373275+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://vanisource.org/wiki/Category:Letters_from_Srila_Prabhupada_-_by_person": {
+    "url": "https://vanisource.org/wiki/Category:Letters_from_Srila_Prabhupada_-_by_person",
+    "checked_at": "2026-06-30T20:56:23.429972+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://vanisource.org/wiki/Category:Books_-_Vanisource": {
+    "url": "https://vanisource.org/wiki/Category:Books_-_Vanisource",
+    "checked_at": "2026-06-30T20:56:24.391103+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://vaniquotes.org/wiki/Main_Page": {
+    "url": "https://vaniquotes.org/wiki/Main_Page",
+    "checked_at": "2026-06-30T20:56:25.346027+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://vanipedia.org/wiki/Main_Page": {
+    "url": "https://vanipedia.org/wiki/Main_Page",
+    "checked_at": "2026-06-30T20:56:26.309350+00:00",
+    "method": "GET",
+    "status": 403,
+    "outcome": "access-restricted-not-missing"
+  },
+  "https://prabhupadabooks.com/": {
+    "url": "https://prabhupadabooks.com/",
+    "checked_at": "2026-06-30T20:56:27.438564+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://prabhupadabooks.com/",
+    "outcome": "ok"
+  },
+  "https://prabhupadabooks.com/bg": {
+    "url": "https://prabhupadabooks.com/bg",
+    "checked_at": "2026-06-30T20:56:28.416600+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://prabhupadabooks.com/bg",
+    "outcome": "ok"
+  },
+  "https://iskconeducation.org/": {
+    "url": "https://iskconeducation.org/",
+    "checked_at": "2026-06-30T20:56:29.372398+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/media_library/": {
+    "url": "https://iskconeducation.org/media_library/",
+    "checked_at": "2026-06-30T20:56:31.297245+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/materials/": {
+    "url": "https://iskconeducation.org/materials/",
+    "checked_at": "2026-06-30T20:56:33.158181+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/books-for-kids/": {
+    "url": "https://iskconeducation.org/books-for-kids/",
+    "checked_at": "2026-06-30T20:56:35.005176+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/philosophy-of-education/": {
+    "url": "https://iskconeducation.org/philosophy-of-education/",
+    "checked_at": "2026-06-30T20:56:36.849553+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/video/": {
+    "url": "https://iskconeducation.org/video/",
+    "checked_at": "2026-06-30T20:56:38.678839+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/article/starting-a-sunday-school/": {
+    "url": "https://iskconeducation.org/article/starting-a-sunday-school/",
+    "checked_at": "2026-06-30T20:56:40.541454+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf": {
+    "url": "https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf",
+    "checked_at": "2026-06-30T20:56:42.421223+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf": {
+    "url": "https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf",
+    "checked_at": "2026-06-30T20:56:44.252266+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20TG.pdf": {
+    "url": "https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20TG.pdf",
+    "checked_at": "2026-06-30T20:56:46.075697+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20WB.pdf": {
+    "url": "https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20WB.pdf",
+    "checked_at": "2026-06-30T20:56:47.902001+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://iskconcongregation.com/programs/bhakti-vriksha/": {
+    "url": "https://iskconcongregation.com/programs/bhakti-vriksha/",
+    "checked_at": "2026-06-30T20:56:49.719158+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://iskconcongregation.com/programs/bhakti-vriksha/",
+    "outcome": "ok"
+  },
+  "https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-1_1.pdf": {
+    "url": "https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-1_1.pdf",
+    "checked_at": "2026-06-30T20:56:52.806998+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-1_1.pdf",
+    "outcome": "ok"
+  },
+  "https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-2_1.pdf": {
+    "url": "https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-2_1.pdf",
+    "checked_at": "2026-06-30T20:56:54.250029+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-2_1.pdf",
+    "outcome": "ok"
+  },
+  "https://www.iskconmumbai.com/about/about-iskcon": {
+    "url": "https://www.iskconmumbai.com/about/about-iskcon",
+    "checked_at": "2026-06-30T20:56:55.702841+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.iskconmumbai.com/about/about-iskcon",
+    "outcome": "ok"
+  },
+  "https://www.purebhakti.com/": {
+    "url": "https://www.purebhakti.com/",
+    "checked_at": "2026-06-30T20:56:57.326068+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.purebhakti.com/",
+    "outcome": "ok"
+  },
+  "https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers": {
+    "url": "https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers",
+    "checked_at": "2026-06-30T20:56:59.296774+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers",
+    "outcome": "ok"
+  },
+  "https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english": {
+    "url": "https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english",
+    "checked_at": "2026-06-30T20:57:01.206385+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english",
+    "outcome": "ok"
+  },
+  "https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers/1376-jaiva-dharma": {
+    "url": "https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers/1376-jaiva-dharma",
+    "checked_at": "2026-06-30T20:57:03.193531+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers/1376-jaiva-dharma",
+    "outcome": "ok"
+  },
+  "https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english/21-jaiva-dharma": {
+    "url": "https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english/21-jaiva-dharma",
+    "checked_at": "2026-06-30T20:57:04.967504+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english/21-jaiva-dharma",
+    "outcome": "ok"
+  },
+  "https://harikatha.com/": {
+    "url": "https://harikatha.com/",
+    "checked_at": "2026-06-30T20:57:06.771900+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://harikatha.com/",
+    "outcome": "ok"
+  },
+  "https://harikatha.com/audios/": {
+    "url": "https://harikatha.com/audios/",
+    "checked_at": "2026-06-30T20:57:07.836376+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://harikatha.com/audios/",
+    "outcome": "ok"
+  },
+  "https://harikatha.com/about/": {
+    "url": "https://harikatha.com/about/",
+    "checked_at": "2026-06-30T20:57:08.793535+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://harikatha.com/about/",
+    "outcome": "ok"
+  },
+  "https://gitapress.org/": {
+    "url": "https://gitapress.org/",
+    "checked_at": "2026-06-30T20:57:09.878985+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://gitapress.org/ebook": {
+    "url": "https://gitapress.org/ebook",
+    "checked_at": "2026-06-30T20:57:11.655088+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://gitapress.org/buybooks": {
+    "url": "https://gitapress.org/buybooks",
+    "checked_at": "2026-06-30T20:57:13.330562+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a": {
+    "url": "https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a",
+    "checked_at": "2026-06-30T20:57:14.995292+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  },
+  "https://www.youtube.com/channel/UCBN88f0nRlRMg1CnffvinXw": {
+    "url": "https://www.youtube.com/channel/UCBN88f0nRlRMg1CnffvinXw",
+    "checked_at": "2026-06-30T20:57:16.797837+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.youtube.com/channel/UCBN88f0nRlRMg1CnffvinXw",
+    "outcome": "ok"
+  },
+  "https://www.youtube.com/channel/UCrCoUc77FtaHOJJKmeUnsOQ": {
+    "url": "https://www.youtube.com/channel/UCrCoUc77FtaHOJJKmeUnsOQ",
+    "checked_at": "2026-06-30T20:57:17.821099+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.youtube.com/channel/UCrCoUc77FtaHOJJKmeUnsOQ",
+    "outcome": "ok"
+  },
+  "https://www.youtube.com/channel/UCZ8S3qwowiFztAQBRTawWfA": {
+    "url": "https://www.youtube.com/channel/UCZ8S3qwowiFztAQBRTawWfA",
+    "checked_at": "2026-06-30T20:57:18.858732+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.youtube.com/channel/UCZ8S3qwowiFztAQBRTawWfA",
+    "outcome": "ok"
+  },
+  "https://www.youtube.com/channel/UC9-R06c2SwpjrvDdVZOQG8Q": {
+    "url": "https://www.youtube.com/channel/UC9-R06c2SwpjrvDdVZOQG8Q",
+    "checked_at": "2026-06-30T20:57:20.084263+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://www.youtube.com/channel/UC9-R06c2SwpjrvDdVZOQG8Q",
+    "outcome": "ok"
+  },
+  "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada&q=f": {
+    "url": "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada&q=f",
+    "checked_at": "2026-06-30T20:57:21.578206+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada&q=f",
+    "outcome": "ok"
+  },
+  "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F01_-_Lectures%2F01_-_English%2F01_-_Topic_wise&q=f": {
+    "url": "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F01_-_Lectures%2F01_-_English%2F01_-_Topic_wise&q=f",
+    "checked_at": "2026-06-30T20:57:23.419206+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F01_-_Lectures%2F01_-_English%2F01_-_Topic_wise&q=f",
+    "outcome": "ok"
+  },
+  "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F02_-_Bhajans%2FVol-01%2F05_-_Prabhupada_Bhajans&q=f": {
+    "url": "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F02_-_Bhajans%2FVol-01%2F05_-_Prabhupada_Bhajans&q=f",
+    "checked_at": "2026-06-30T20:57:25.270597+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F02_-_Bhajans%2FVol-01%2F05_-_Prabhupada_Bhajans&q=f",
+    "outcome": "ok"
+  },
+  "https://ebooks.iskcondesiretree.com/": {
+    "url": "https://ebooks.iskcondesiretree.com/",
+    "checked_at": "2026-06-30T20:57:27.065632+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://ebooks.iskcondesiretree.com/",
+    "outcome": "ok"
+  },
+  "https://ebooks.iskcondesiretree.com/index.php?f=%2Fpdf&q=f": {
+    "url": "https://ebooks.iskcondesiretree.com/index.php?f=%2Fpdf&q=f",
+    "checked_at": "2026-06-30T20:57:28.305814+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://ebooks.iskcondesiretree.com/index.php?f=%2Fpdf&q=f",
+    "outcome": "ok"
+  },
+  "https://ebooks.iskcondesiretree.com/index.php?f=%2Fpdf%2FGaudiya_Books+&q=f": {
+    "url": "https://ebooks.iskcondesiretree.com/index.php?f=%2Fpdf%2FGaudiya_Books+&q=f",
+    "checked_at": "2026-06-30T20:57:29.298729+00:00",
+    "method": "HEAD",
+    "status": 200,
+    "final_url": "https://ebooks.iskcondesiretree.com/index.php?f=%2Fpdf%2FGaudiya_Books+&q=f",
+    "outcome": "ok"
+  },
+  "https://www.bbti.org/": {
+    "url": "https://www.bbti.org/",
+    "checked_at": "2026-06-30T20:57:30.243456+00:00",
+    "method": "GET",
+    "outcome": "network-error",
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
+  }
+}
