@@ -1,2 +1,35 @@
 week_code: C1-W3
-media: []
+media:
+  - media_id: C1-W3-MEDIA-001
+    type: gamma-deck-parent
+    title: "C1-W3 Parent Deck"
+    location: gamma/GAMMA-PARENT-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+
+  - media_id: C1-W3-MEDIA-002
+    type: gamma-deck-lala-lali
+    title: "C1-W3 Lāla–Lālī Deck"
+    location: gamma/GAMMA-LALA-LALI-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+
+  - media_id: C1-W3-MEDIA-003
+    type: gamma-deck-kisora-kisori
+    title: "C1-W3 Kiśora–Kiśorī Deck"
+    location: gamma/GAMMA-KISORA-KISORI-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+
+  - media_id: C1-W3-MEDIA-004
+    type: prabhupada-lecture
+    title: "BG 2.20 lecture"
+    stable_url: "https://vedabase.io/en/library/lectures/august/19/1973/730819BG.LON_eng/"
+    catalog_ref: 14-research-source-register/media-library/PRABHUPADA-LECTURE-CATALOG.yaml
+    index_ref: research/PRABHUPADA-LECTURE-INDEX.md
+    status: reference-only
+    rights_status: vedabase-link
+
+approved_teacher_media: []
+
+notes: "No video files in repository. Optional VedaBase lecture playback in private prep only."

@@ -1,70 +1,91 @@
 ---
 week_code: C1-W5
 week_title: The Temporary World and the Search for Permanent Happiness
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — The Temporary World and the Search for Permanent Happiness
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "Enjoy good things — remember Kṛṣṇa is our lasting friend."  
+**Sanskrit phrase:** aśāśvatam — temporary  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Bubble activity: bubbles are beautiful and temporary; enjoy without crying when each one pops.
+## Core track — ages 4–6 (default delivery)
 
-- Story: a child shares prasāda and discovers joy in giving, not only receiving.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Bubbles and prasāda sharing (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Sort pictures into ‘lasts a short time’ and ‘spiritual relationship grows through practice.’
+### Story (8–10 min)
 
-- Gratitude prayer before a simple enjoyable activity.
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "Enjoy good things — remember Kṛṣṇa is our lasting friend."
 
-- Build and gently dismantle a block tower; discuss change without calling the tower bad.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Four-happiness cards: pleasure, relief, meaning and bhakti nourishment.
+### Movement game
 
-- Scenario: losing a game or breaking a favorite item; practice naming disappointment and choosing the next right action.
+Four corners or relay aligned with `Temporary enjoyment with gratitude and boundaries`. Two adults in visible space.
 
-- Plan a Kṛṣṇa-centered family fun activity.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Analyze advertising promises: what permanent need is attached to a temporary product?
+---
 
-- Discuss why detachment is not indifference and gratitude is not possession.
+## Extension — ages 7–8
 
-- Use BG 9.27 to redesign one entertainment, hobby or celebration.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: aśāśvatam — temporary |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Create a ‘beginning–middle–end’ map for one desired experience.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Build and gently dismantle a block tower; discuss change without calling the tower bad.
+## Facilitator cautions
 
-- Four-happiness cards: pleasure, relief, meaning and bhakti nourishment.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Scenario: losing a game or breaking a favorite item; practice naming disappointment and choosing the next right action.
+## Materials
 
-- Plan a Kṛṣṇa-centered family fun activity.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Analyze advertising promises: what permanent need is attached to a temporary product?
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Discuss why detachment is not indifference and gratitude is not possession.
+## Timing checklist for facilitators
 
-- Use BG 9.27 to redesign one entertainment, hobby or celebration.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Create a ‘beginning–middle–end’ map for one desired experience.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

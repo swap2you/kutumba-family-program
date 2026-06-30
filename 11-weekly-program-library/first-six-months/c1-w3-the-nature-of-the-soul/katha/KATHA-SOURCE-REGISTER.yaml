@@ -1,0 +1,22 @@
+module_id: C1-W3
+katha_title: "Jaḍa Bharata instructs King Rahūgaṇa"
+primary_book: Śrīmad-Bhāgavatam 5.10–5.13 (selected)
+katha_type: source-grounded-devotional-narrative
+stable_links:
+  - label: BG 2.20
+    url: https://vedabase.io/en/library/bg/2/20/
+direct_quotations: []
+paraphrased_portions:
+  - Principal narrative — paraphrase from Śrīmad-Bhāgavatam 5.10–5.13 (selected)
+facilitator_transitions:
+  - Opening hook bridge
+  - Philosophy lesson bridge
+omitted_complex_details:
+  - Full purports in Git
+  - Out-of-scope siddhānta per RESEARCH-DOSSIER
+audience_cautions:
+  - No invented quotes
+  - No frightening death imagery
+doctrinal_reviewer: pending
+rights_status: scripture-reference-links-only
+approval_status: human-review-required

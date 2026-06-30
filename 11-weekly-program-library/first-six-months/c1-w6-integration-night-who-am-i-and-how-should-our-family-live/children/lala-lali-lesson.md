@@ -1,70 +1,91 @@
 ---
 week_code: C1-W6
 week_title: Integration Night: Who Am I, and How Should Our Family Live?
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Integration Night: Who Am I, and How Should Our Family Live?
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "We know who we are — and how our family will live."  
+**Sanskrit phrase:** dhīra — sober, steady person  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Costume parade showing one child under changing hats or scarves.
+## Core track — ages 4–6 (default delivery)
 
-- Picture stations: body changes, soul stays, human hands serve, bubbles are temporary.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Traveler, vehicle, map (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Group chant with one child holding each word card of the memory line.
+### Story (8–10 min)
 
-- Choose a sticker for one practice to continue; no prize ranking.
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "We know who we are — and how our family will live."
 
-- Mini-drama: traveler, vehicle, map and rest stop.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Four-corner quiz with explanation after each answer.
+### Movement game
 
-- Create a cycle wheel connecting the four principles.
+Four corners or relay aligned with `Four-part chain and continuity practice`. Two adults in visible space.
 
-- Present one home-practice report: what helped, what interrupted and what will change.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Facilitate one station or present a two-minute evidence–analogy–application explanation.
+---
 
-- Misconception repair cards: ‘not the body means health does not matter,’ ‘temporary means useless,’ and ‘all souls are God.’
+## Extension — ages 7–8
 
-- Peer appreciation using specific language: ‘Your example helped me understand…’
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: dhīra — sober, steady person |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Write one question to carry into the karma cycle.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Mini-drama: traveler, vehicle, map and rest stop.
+## Facilitator cautions
 
-- Four-corner quiz with explanation after each answer.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Create a cycle wheel connecting the four principles.
+## Materials
 
-- Present one home-practice report: what helped, what interrupted and what will change.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Facilitate one station or present a two-minute evidence–analogy–application explanation.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Misconception repair cards: ‘not the body means health does not matter,’ ‘temporary means useless,’ and ‘all souls are God.’
+## Timing checklist for facilitators
 
-- Peer appreciation using specific language: ‘Your example helped me understand…’
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Write one question to carry into the karma cycle.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

@@ -1,18 +1,20 @@
 week_code: C1-W3
 canonical_detailed_source: complete
-weekly_derivative_pack: baseline-scaffold
-research_dossier: scaffold
-source_registry: scaffold
-claim_traceability: scaffold
-parent_lesson: extracted
-lala_lali_lesson: partial
-kisora_kisori_lesson: thin
+weekly_derivative_pack: enhancement-complete
+research_dossier: complete
+source_registry: complete
+claim_traceability: complete
+parent_lesson: complete
+lala_lali_lesson: complete
+kisora_kisori_lesson: complete
 materials: complete
 assessment: complete
 newcomer_adaptation: complete
-visual_plan: scaffold
-gamma_prompts: scaffold
-cycle_project: scaffold
+visual_plan: complete
+gamma_prompts: complete
+cycle_project: complete
+prem_ki_katha: complete
+opening_hook: complete
 automated_semantic_validation: pass
 doctrinal_review: required
 worship_review: required
@@ -21,7 +23,7 @@ rights_review: required
 pedagogy_review: required
 citation_audit: required
 publication_status: internal-development
-pilot_quality_gate: not-applicable
+pilot_quality_gate: pass-pending-human-review
 enhancement_date: 2026-06-30
-enhancement_version: "3.0.0"
-notes: Directory-complete batch scaffold; deepen toward C1-W2 gold standard before enhancement-complete.
+enhancement_version: "3.0.1"
+notes: Gold-standard depth verified by sync_gold_review_status.py; human reviews still required.

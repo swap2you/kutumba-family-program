@@ -1,5 +1,15 @@
-# RIGHTS-REVIEW.md
+# C1-W5 Rights Review
 
-Module: C1-W5
+**Status:** human-review-required  
+**Reviewer:** _[assign]_  
+**Date:** 2026-06-30 (enhancement pass)
 
-Status: human-review-required
+## Rights review
+
+- Scripture: link-only (VedaBase)
+- Images: placeholders in gamma — `visuals/image-rights-register.yaml`
+- No copyrighted audio/video committed
+
+## Verdict
+
+Pending rights reviewer.

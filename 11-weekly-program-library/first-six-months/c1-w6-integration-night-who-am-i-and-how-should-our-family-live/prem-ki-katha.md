@@ -1,18 +1,88 @@
 ---
 week_code: C1-W6
 week_title: Integration Night: Who Am I, and How Should Our Family Live?
-derived_from:
-  canonical_file: 03-first-six-months/FIRST-SIX-MONTH-DETAILED-CURRICULUM.md
-  source_id: KUT-SRC-0004
-  source_hash: 7123781051c732bc82baee084284d0bcac6c6b5011baf12d07216c2e503a7f58
-  extraction_heading: "C1-W6 — Integration Night: Who Am I, and How Should Our Family Live?"
-  extraction_date: 2026-06-30
-  component: prem-ki-katha.md
+component: prem-ki-katha.md
+katha_type: facilitator-synthesis
 ---
 
-## Prem-kī-Kathā Script
+# Prem-kī-Kathā — Cycle 1 Integration (Synthesis Format)
 
-*Delivery target: 8–10 minutes of scripted narration plus 5–7 minutes of interaction. Do not exceed the 20-minute block.*
+## 1. Katha title
 
-| A family begins a road journey. One child keeps asking, ‘Are we there yet?’ Another becomes attached to every rest stop and refuses to leave. A third complains that the car is not as nice as another family’s car. The parents also forget the map and start arguing about who is responsible. |
-| --- |
+**Integration — family shares realizations** — families remember the journey and choose continuity.
+
+## 2. Module connection
+
+Integration week per [PREM-KI-KATHA-SOURCE-MAP.md](../../../../14-research-source-register/PREM-KI-KATHA-SOURCE-MAP.md): **no new principal līlā**. Synthesis of C1-W1–W5 with optional consent-based family shares.
+
+## 3. Primary source references
+
+| Source | Link | Use |
+| --- | --- | --- |
+| BG 2.13 | [vedabase](https://vedabase.io/en/library/bg/2/13/) | Integration anchor verse |
+| Review verses | See `research/VERSE-AND-REFERENCE-STUDY.md` | Verse match stations |
+
+## 4. Setting and devotional mood
+
+_[Facilitator transition]_ Quiet room. Families seated together. Mood of **gratitude and honest review** — not performance.
+
+## 5. Main personalities
+
+- **The traveling family** (opening-hook metaphor)
+- **Each KUTUMBA family** — sharing only with consent
+
+## 6. Source-grounded narrative
+
+_[Facilitator synthesis — not new līlā]_
+
+Recall the chain: KUTUMBA purpose (W1) → body changes, self continues (W2) → soul's positive nature (W3) → rare human opportunity (W4) → temporary world, permanent Kṛṣṇa (W5).
+
+**Paraphrase aligned with BG 2.13:** A sober person observes bodily change without losing spiritual footing.
+
+## 7. Turning point
+
+Families choose **one practice to continue** through the off week — with minimum version and trigger.
+
+## 8. Central teaching
+
+Identity, opportunity, and realism form **one sustainable home practice** — not five separate ideas.
+
+## 9. Heart reflection
+
+60 seconds silence: "What actually changed at home this cycle?"
+
+## 10. Lāla–Lālī interaction cues
+
+1. Cycle wheel craft — four segments labeled W2–W5 themes.
+2. Sticker for one practice to continue — no ranking.
+
+## 11. Kiśora–Kiśorī reflection cues
+
+1. Two-minute evidence–analogy–application presentation (optional).
+2. Misconception repair card in pairs.
+
+## 12. Parent bridge
+
+Link continuity saṅkalpa to `family-home-practice.md`. Preview Cycle 2 — karma and choice.
+
+## 13. Transition
+
+→ Retrieval stations and family presentations per `parent-lesson.md`.
+
+## 14. Narration cautions
+
+- No forced testimony; consent required.
+- No competitive scoring.
+- No new copyrighted narrative in Git.
+
+## 15. Visual/storyboard plan
+
+See `visuals/VISUAL-PLAN.md` — cycle wheel and station maps.
+
+## 16. Rights and quotation status
+
+Link-only references. No full purports in Git.
+
+## 17. Human doctrinal review status
+
+**human-review-required** — see `reviews/DOCTRINAL-REVIEW.md`

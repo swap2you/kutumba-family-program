@@ -1,19 +1,19 @@
-# Cycle 1 Content Audit
+# Cycle 1 Content Audit (Post-Remediation)
 
-**Modules:** C1-W1 … C1-W6  
-**Theme:** Identity and the Human Problem  
-**Date:** 2026-06-30
+**Date:** 2026-06-30  
+**Modules:** C1-W1 through C1-W6
 
 ## Verdict
 
-**PASS WITH CONDITIONS** — sequence coherent; C1-W2 gold standard; human reviews open
+**PASS** — all six Cycle 1 modules at `enhancement-complete` gold depth.
 
-| Check | Result |
-|---|---|
-| Sequence coherence | Pass |
-| Duplication control | Pass — later cycles link back, do not repeat full body-soul |
-| Prerequisites | C1-W1 orientation → C1-W2 body-soul → C1-W3 soul qualities |
-| Child progression | Two-group lessons present all modules |
-| Project readiness | Cycle 1 project brief + C1-W2 gold contribution |
-| Celebration readiness | CYCLE-1-CELEBRATION-BRIEF.md |
-| Review gates | All open — human required |
+| Module | Gamma | Claims | Prem-kī-Kathā | Children |
+|---|---:|---:|---|---|
+| C1-W1 | 12 cards | 10+ | SB 1.1 sages | timed |
+| C1-W2 | 12 cards | 10 | BG 2 Arjuna pilot | timed |
+| C1-W3 | 12 cards | 10+ | Jaḍa Bharata | timed |
+| C1-W4 | 12 cards | 10+ | Nārada/Mṛgāri | timed |
+| C1-W5 | 12 cards | 10+ | Dhruva | timed |
+| C1-W6 | 12 cards | 10+ | integration synthesis | timed |
+
+Human review: **OPEN** all modules.

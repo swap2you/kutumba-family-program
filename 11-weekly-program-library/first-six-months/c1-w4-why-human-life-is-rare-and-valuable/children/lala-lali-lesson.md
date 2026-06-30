@@ -1,70 +1,91 @@
 ---
 week_code: C1-W4
 week_title: Why Human Life Is Rare and Valuable
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Why Human Life Is Rare and Valuable
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "Human life is a special gift to serve Kṛṣṇa."  
+**Sanskrit phrase:** labdhvā su-durlabham — having obtained what is very rare  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Gift box activity: inside are ears, voice, hands, heart and thinking symbols; children name how each can serve Kṛṣṇa.
+## Core track — ages 4–6 (default delivery)
 
-- Story focus: young Prahlāda remembers and speaks about Kṛṣṇa even while young.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Young Prahlāda remembers Kṛṣṇa (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Choice game: ‘now or later?’ for tiny devotional actions such as one prayer or helping set an altar cloth.
+### Story (8–10 min)
 
-- Make a fifteen-minute family appointment ticket.
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "Human life is a special gift to serve Kṛṣṇa."
 
-- Compare abilities of plants, animals and humans without disrespect: deliberate questions, moral choices and worship.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Read a child-level paraphrase of ŚB 7.6.1 and identify what can begin in childhood.
+### Movement game
 
-- Time-jar experiment with large rocks, pebbles and sand: important things require intentional placement.
+Four corners or relay aligned with `Rare gift, growing season, protected time`. Two adults in visible space.
 
-- Create one question for Kṛṣṇa, guru, sādhu or śāstra.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Analyze ‘temporary’ versus ‘meaningless.’ Explain why a short opportunity can be highly valuable.
+---
 
-- Complete a private 24-hour attention audit and identify one low-value block.
+## Extension — ages 7–8
 
-- Discuss responsibility toward animals and the environment as souls within Kṛṣṇa’s creation.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: labdhvā su-durlabham — having obtained what is very rare |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Design a realistic youth spiritual appointment that does not depend entirely on parental reminders.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Compare abilities of plants, animals and humans without disrespect: deliberate questions, moral choices and worship.
+## Facilitator cautions
 
-- Read a child-level paraphrase of ŚB 7.6.1 and identify what can begin in childhood.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Time-jar experiment with large rocks, pebbles and sand: important things require intentional placement.
+## Materials
 
-- Create one question for Kṛṣṇa, guru, sādhu or śāstra.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Analyze ‘temporary’ versus ‘meaningless.’ Explain why a short opportunity can be highly valuable.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Complete a private 24-hour attention audit and identify one low-value block.
+## Timing checklist for facilitators
 
-- Discuss responsibility toward animals and the environment as souls within Kṛṣṇa’s creation.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Design a realistic youth spiritual appointment that does not depend entirely on parental reminders.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

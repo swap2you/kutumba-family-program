@@ -1,22 +1,63 @@
-# Research Dossier — C1-W5
+# C1-W5 Research Dossier — The Temporary World and the Search for Permanent Happiness
 
 ## Module identity
 
-- **Module ID:** C1-W5
-- **Title:** The Temporary World and the Search for Permanent Happiness
-- **Essential question:** What does this module establish for family formation?
-- **Controlling principle:** Help families honestly recognize the limits of material arrangements, distinguish healthy enjoyment from the demand that temporary things provide permanent fulfillment, and redirect desire toward Kṛṣṇa-centered happiness.
-- **Scope:** Per monolith `complete-week.md`
-- **Explicit exclusions:** Topics assigned to later modules — see `MISCONCEPTIONS-AND-BOUNDARIES.md`
+| Field | Detail |
+| --- | --- |
+| **Module ID** | C1-W5 |
+| **Title** | The Temporary World and the Search for Permanent Happiness |
+| **Cycle** | Cycle 1 — Identity and the Human Problem |
+| **Essential question** | Can temporary things give permanent fulfillment — and where should desire go? |
+| **Controlling principle** | The material world is temporary; lasting fulfillment comes through attaining Kṛṣṇa. |
+| **Scope** | BG 2.14, 5.22, 8.15, 9.27; pleasure vs permanent need; offering ordinary life |
+| **Explicit exclusions** | Material hatred; grief trivialization; unauthorized offering procedures |
+| **Prerequisites** | C1-W4 (human opportunity) |
+| **Leads to** | C1-W6 (integration) |
 
 ## Source hierarchy
 
-Tier 1 VedaBase references only in Git. KUTUMBA summaries — not full purports.
+1. Tier 1: Bhagavad-gītā, Śrīmad-Bhāgavatam, Caitanya-caritāmṛta (VedaBase + KUTUMBA summaries)
+2. Tier 1: Indexed Prabhupāda lectures in PRABHUPADA-LECTURE-INDEX.md
+3. Pedagogy: KUTUMBA analogies and cases (tagged)
+4. Blocked: Unattributed quotes, AI-only authority
 
-## Key verse
+## Primary source matrix
 
-Bhagavad-gītā 8.15 — duḥkhālayam aśāśvatam
+→ [SOURCE-MATRIX.md](SOURCE-MATRIX.md)
 
-## Human review
+## Research questions answered
 
-doctrinal, safeguarding, worship — required
+| # | Question | Answer (summary) |
+| --- | --- | --- |
+| 1 | What is the controlling principle? | The material world is temporary; lasting fulfillment comes through attaining Kṛṣṇa. |
+| 2 | Key verse? | Bhagavad-gītā 8.15 — duḥkhālayam aśāśvatam |
+| 3 | Home practice? | Before one enjoyable activity, pause for gratitude and three mahā-mantras. |
+| 4 | What does it NOT mean? | See MISCONCEPTIONS-AND-BOUNDARIES.md |
+| 5 | Contemporary applications? | See CONTEMPORARY-APPLICATIONS.md |
+| 6 | Child capacity? | Lāla–Lālī story + movement; no forced disclosure |
+| 7 | Youth capacity? | Text observation + case + optional debate |
+| 8 | Parent practice? | 40-min plan in parent-lesson.md |
+| 9 | Visual needs? | VISUAL-PLAN.md |
+| 10 | Katha connection? | Dhruva's determination — prem-ki-katha.md |
+
+## Key distinctions
+
+- Scripture summary vs. full purport (link-only in Git)
+- Pedagogical case vs. doctrine
+- Minimum vs. standard vs. stretch home practice
+
+## Misconceptions → MISCONCEPTIONS-AND-BOUNDARIES.md
+## Contemporary cases → CONTEMPORARY-APPLICATIONS.md
+## Visuals → ../visuals/VISUAL-PLAN.md
+## Gamma → ../gamma/GAMMA-MASTER-DECK-BRIEF.md
+
+## Open questions
+
+- Human reviewer to confirm verse edition
+- Optional second lecture index after doctrinal review
+
+## Human review required
+
+doctrinal, safeguarding, worship, rights, pedagogy, citation
+
+_Status: enhancement-complete — pending human review_

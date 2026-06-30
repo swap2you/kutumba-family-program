@@ -1,70 +1,91 @@
 ---
 week_code: C1-W3
 week_title: The Nature of the Soul
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — The Nature of the Soul
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "I am an eternal soul, a tiny part of Kṛṣṇa."  
+**Sanskrit phrase:** ajo nityaḥ — unborn and eternal  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Light demonstration: one lamp can light several battery candles; each light is real but not the source lamp.
+## Core track — ages 4–6 (default delivery)
 
-- Living/not-living sort using pictures; emphasize care for living beings.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Spark and lamp demonstration (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Service-body actions: hands can clean, feet can visit temple, voice can chant, ears can hear.
+### Story (8–10 min)
 
-- Recall: ‘I am an eternal soul, a tiny part of Kṛṣṇa.’
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "I am an eternal soul, a tiny part of Kṛṣṇa."
 
-- Five-quality shield: eternal, conscious, individual, tiny part of Kṛṣṇa, meant for service.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Analogy check: what is similar and different between a spark and a fire?
+### Movement game
 
-- Compassion scenarios involving insects, pets, siblings and elderly persons.
+Four corners or relay aligned with `Spark, fire, and service identity`. Two adults in visible space.
 
-- Practice the key Sanskrit phrase with call-and-response.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Close reading: list claims in BG 2.20 and compare with BG 15.7.
+---
 
-- Discuss why ‘part of Kṛṣṇa’ does not mean the individual soul is equal in power to Kṛṣṇa.
+## Extension — ages 7–8
 
-- Analyze dignity plus boundaries: respecting the soul does not require accepting harmful behavior.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: ajo nityaḥ — unborn and eternal |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Choose one invisible service to complete without seeking credit.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Five-quality shield: eternal, conscious, individual, tiny part of Kṛṣṇa, meant for service.
+## Facilitator cautions
 
-- Analogy check: what is similar and different between a spark and a fire?
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Compassion scenarios involving insects, pets, siblings and elderly persons.
+## Materials
 
-- Practice the key Sanskrit phrase with call-and-response.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Close reading: list claims in BG 2.20 and compare with BG 15.7.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Discuss why ‘part of Kṛṣṇa’ does not mean the individual soul is equal in power to Kṛṣṇa.
+## Timing checklist for facilitators
 
-- Analyze dignity plus boundaries: respecting the soul does not require accepting harmful behavior.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Choose one invisible service to complete without seeking credit.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

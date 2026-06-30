@@ -1,8 +1,137 @@
-# Gamma kisora-kisori deck — C1-W6
+# Gamma Prompt — C1-W6 Kiśora–Kiśorī Deck
 
-1. Title card
-2. Essential question
-3. Key verse (reference link)
-4. KUTUMBA summary
-5. Family practice
-6. Sources card
+## Deck identity
+
+- **Module:** C1-W6 — Integration Night: Who Am I, and How Should Our Family Live?
+- **Audience:** Kiśora–Kiśorī
+- **Recommended card count:** 11
+- **Theme:** Four-part chain and continuity practice
+
+## Global instructions
+
+Paste below into Gamma. No invented Prabhupāda quotes. Link-only purports.
+
+---
+
+## Card plan
+
+### Card 1 — Title
+
+**Content:**  
+C1-W6 — Youth Track
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 2 — Essential question
+
+**Content:**  
+How do identity, human purpose, and temporary circumstances form one sustainable family practice?
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 3 — Verse observation
+
+**Content:**  
+BG 2.13 — KUTUMBA summary + VedaBase link
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 4 — Concept map
+
+**Content:**  
+Import from visuals/concept-map.mmd
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 5 — Case study
+
+**Content:**  
+CS-01 from CONTEMPORARY-APPLICATIONS.md
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 6 — Misconception
+
+**Content:**  
+One row from MISCONCEPTIONS table
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 7 — Debate motion
+
+**Content:**  
+Respectful debate — rules on slide
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 8 — Application
+
+**Content:**  
+Redesign one family routine
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 9 — Service commitment
+
+**Content:**  
+One concrete action this week
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 10 — Writing prompt
+
+**Content:**  
+Optional reflective paragraph
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---
+
+### Card 11 — Bridge to parents
+
+**Content:**  
+Shared transition recall line
+
+**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Speaker note:** See SPEAKER-NOTES.md
+**Source:** research/ or prem-ki-katha.md
+
+---

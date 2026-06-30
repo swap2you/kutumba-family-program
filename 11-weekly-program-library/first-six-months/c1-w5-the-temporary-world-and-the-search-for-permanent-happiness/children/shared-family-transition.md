@@ -1,10 +1,43 @@
 ---
 week_code: C1-W5
+week_title: The Temporary World and the Search for Permanent Happiness
+audience: All ages — reunification after parallel tracks
 ---
 
 # Shared Family Transition — 10 Minutes
 
-1. Lāla–Lālī and Kiśora–Kiśorī groups rejoin parents.
-2. Each child shares one recall line or drawing (optional).
-3. Family receives home practice from `family-home-practice.md`.
-4. Close with one appreciation and one prayer.
+**When:** After parallel tracks (minute 40–50) or before Bhakti laboratory.
+
+## Purpose
+
+Reunite families with one shared insight and one shared practice — without re-teaching the full lesson.
+
+## Flow
+
+| Time | Action |
+| --- | --- |
+| 0–2 min | Bell; families sit together. "What will we practice at home this week?" |
+| 2–5 min | **One-line share:** Each subgroup teaches one thing (pre-assigned) |
+| 5–8 min | **Family pair practice:** Parent + child complete one worksheet line or show craft |
+| 8–10 min | **Saṅkalpa preview:** Read opening from `sankalpa.md`; whisper trigger + minimum version |
+
+## All-age recall (call and response)
+
+> **Leader:** Enjoy good things — remember Kṛṣṇa is our lasting friend.  
+> **All:** Enjoy good things — remember Kṛṣṇa is our lasting friend.
+
+## Bridge to Bhakti laboratory
+
+→ `Offering an Ordinary Activity to Kṛṣṇa` per `bhakti-lab.md`
+
+## Bridge to home practice
+
+→ `family-home-practice.md` — **Minimum:** Before one enjoyable activity, pause for gratitude and three mahā-mantras.
+
+## Newcomer note
+
+Host families help newcomers find materials. Observation welcome; no forced chanting length.
+
+## Continuity link
+
+Families carry one insight and one practice decision into `Offering an Ordinary Activity to Kṛṣṇa` without repeating the full parent lesson.

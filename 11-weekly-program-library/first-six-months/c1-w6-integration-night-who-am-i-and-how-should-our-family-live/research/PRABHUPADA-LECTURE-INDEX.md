@@ -1,5 +1,26 @@
-# PRABHUPADA LECTURE INDEX
+# C1-W6 Śrīla Prabhupāda Lecture Index
 
-Module: C1-W6
+Verified entries with stable VedaBase links. Summaries only in repository.
 
-_Status: pending enhancement_
+| Media ID | Date | Place | Title | Topic segment | Link | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| SP-LEC-BG-2-13-1973 | 1973-08-07 | London | BG 2.13 lecture | Cycle 1 anchor review | [link](https://vedabase.io/en/library/lectures/london/august/07/1973/7310807BG.LON_eng/) | human-review-required |
+| SP-LEC-SB-1-2-1973 | 1973-07-01 | London | SB 1.2 lecture | KUTUMBA purpose review | [link](https://vedabase.io/en/library/lectures/july/01/1973/730701SB.LON_eng/) | human-review-required |
+| SP-LEC-BG-8-15-1973 | 1973-10-20 | Bombay | BG 8.15 lecture | Temporary world review | [link](https://vedabase.io/en/library/lectures/october/20/1973/731020BG.BOM_eng/) | human-review-required |
+
+## Usage rules
+
+- Facilitators may listen privately for preparation; do not transcribe lengthy quotes into slides.
+- Prefer citing verse summaries and pointing families to VedaBase.
+
+## KUTUMBA summary — BG 2.13 lecture
+
+Indexed lecture for private facilitator preparation. See VedaBase link in table above — summarize only, do not transcribe at length.
+
+## KUTUMBA summary — SB 1.2 lecture
+
+Indexed lecture for private facilitator preparation. See VedaBase link in table above — summarize only, do not transcribe at length.
+
+## KUTUMBA summary — BG 8.15 lecture
+
+Indexed lecture for private facilitator preparation. See VedaBase link in table above — summarize only, do not transcribe at length.

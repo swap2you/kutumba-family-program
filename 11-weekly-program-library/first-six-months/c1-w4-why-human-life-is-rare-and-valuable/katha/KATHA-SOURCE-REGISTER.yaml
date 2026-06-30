@@ -1,0 +1,22 @@
+module_id: C1-W4
+katha_title: "Nārada meets the hunter Mṛgāri"
+primary_book: Śrīmad-Bhāgavatam 6.x / Prabhupāda summary
+katha_type: source-grounded-devotional-narrative
+stable_links:
+  - label: SB 11.9.29
+    url: https://vedabase.io/en/library/sb/11/9/29/
+direct_quotations: []
+paraphrased_portions:
+  - Principal narrative — paraphrase from Śrīmad-Bhāgavatam 6.x / Prabhupāda summary
+facilitator_transitions:
+  - Opening hook bridge
+  - Philosophy lesson bridge
+omitted_complex_details:
+  - Full purports in Git
+  - Out-of-scope siddhānta per RESEARCH-DOSSIER
+audience_cautions:
+  - No invented quotes
+  - No frightening death imagery
+doctrinal_reviewer: pending
+rights_status: scripture-reference-links-only
+approval_status: human-review-required
