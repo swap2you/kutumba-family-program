@@ -4,8 +4,8 @@
 
 - Overall verdict: **GO WITH CONDITIONS**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **Post-audit remediation — COMPLETE**
-- Prior phase: Curriculum enhancement v3.0 + independent review — COMPLETE
+- Current phase: **Source map enrichment v1.0.0 — COMPLETE**
+- Prior phase: Post-audit remediation v3 — COMPLETE
 - Status generated: 2026-06-30
 
 ## Curriculum summary
@@ -13,44 +13,44 @@
 | Metric | Value |
 |---|---|
 | Modules | 18 |
-| enhancement-complete | **18** |
-| Gold pilot (C1-W2) | 91/100 |
-| Authentic Prem-kī-Kathā | 18 |
-| Mermaid viewers | 36 |
-| Media library | architecture live |
+| Gold pilot draft (C1-W2) | prem_katha_depth: gold-pilot-draft |
+| Deepened / partial drafts | 17 modules — see review-status.yaml |
+| Public source catalog | 79 entries (KUT-SRC-0013) |
+| Module source briefs | 18 |
 | Human approvals claimed | **0** |
+| Publication ready | **not-ready** |
+
+## Source enrichment
+
+| Artifact | Path |
+|---|---|
+| Canonical source map | `09-digital-repository-publishing/PUBLIC-SOURCE-MAP-FOR-PRABHUPADA-AND-SANATANA-CONTENT.md` |
+| Master catalog | `14-research-source-register/public-source-catalog/MASTER-SOURCE-CATALOG.yaml` |
+| Final report | `build-evidence/FINAL-SOURCE-ENRICHMENT-REPORT.md` |
+| Independent audit | `17-reviews-and-audits/INDEPENDENT-SOURCE-AND-CURRICULUM-AUDIT.md` |
 
 ## Reader
 
-Start at [KUTUMBA-READER-HOME.md](KUTUMBA-READER-HOME.md) — Markdown preview enabled via `.vscode/settings.json`.
+Start at [KUTUMBA-READER-HOME.md](KUTUMBA-READER-HOME.md).
 
 ## Validation
 
 ```powershell
 python scripts/curriculum/run_curriculum_validation.py
+python scripts/sources/validate_public_source_catalog.py
 ```
-
-Structural, semantic, and source gates: **PASS** (human review gates OPEN).
 
 ## Open human-review gates
 
 Doctrinal, worship, safeguarding, rights, pedagogy, citation — **OPEN** all modules.
 
-## Evidence index
+## Open structural gaps
 
-| Report | Path |
-|---|---|
-| Post-audit baseline | `build-evidence/POST-AUDIT-REMEDIATION-BASELINE.md` |
-| Final post-audit report | `build-evidence/FINAL-POST-AUDIT-REPORT.md` |
-| Validation coverage | `build-evidence/VALIDATION-COVERAGE-REPORT.md` |
-| Week quality dashboard | `build-evidence/WEEK-QUALITY-DASHBOARD.md` |
-| Prem-kī-Kathā status | `build-evidence/PREM-KI-KATHA-STATUS.md` |
-| Media library status | `build-evidence/MEDIA-LIBRARY-STATUS.md` |
-| Reader report | `build-evidence/READER-IMPLEMENTATION-REPORT.md` |
-| Independent audit | `17-reviews-and-audits/INDEPENDENT-CURRICULUM-ENHANCEMENT-AUDIT.md` |
+- Workstream 9 operating manual — **not supplied**
+- KUTUMBA Setu — **not approved**
 
 ## Next exact work
 
 1. Named human reviewers per module `reviews/`
-2. Optional: extend katha word count toward 12–15 min narration standard
-3. Approved-speaker entries when authorized
+2. Expand Prem-kī-Kathā toward 900–1,500 words where flagged partial
+3. Resolve SOURCE-VERIFICATION-QUEUE URLs on schedule

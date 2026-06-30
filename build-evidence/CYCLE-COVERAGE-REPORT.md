@@ -5,7 +5,7 @@ Generated: 2026-06-30
 ## Cycle 1
 
 - Modules: 6
-- enhancement-complete: 6
+- enhancement-complete: 0
 
 - C1-W1: `c1-w1-what-is-kutumba-and-why-are-we-here`
 - C1-W2: `c1-w2-i-am-not-this-body`
@@ -17,7 +17,7 @@ Generated: 2026-06-30
 ## Cycle 2
 
 - Modules: 6
-- enhancement-complete: 6
+- enhancement-complete: 0
 
 - C2-W1: `c2-w1-action-and-reaction-how-karma-binds`
 - C2-W2: `c2-w2-free-will-and-responsibility-the-next-choice-matters`
@@ -29,7 +29,7 @@ Generated: 2026-06-30
 ## Cycle 3
 
 - Modules: 6
-- enhancement-complete: 6
+- enhancement-complete: 0
 
 - C3-W1: `c3-w1-who-is-god-the-supreme-enjoyer-proprietor-and-friend`
 - C3-W2: `c3-w2-who-is-kṛṣṇa-the-supreme-personality-of-godhead`

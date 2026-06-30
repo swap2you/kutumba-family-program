@@ -3,7 +3,7 @@
 ## Summary
 
 - Modules: 18
-- Gold/deepened: 18
+- Gold/deepened: 1
 - Authentic Prem-kī-Kathā: 13
 - Two-group age model active: 18
 
