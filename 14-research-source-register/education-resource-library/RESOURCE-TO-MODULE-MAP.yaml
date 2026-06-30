@@ -1,9 +1,79 @@
-map_version: "1.0.0"
+map_version: "1.1.0"
 generated: "2026-06-30"
+source_map_id: KUT-SRC-0013
+note: >
+  Every first-six-month module has an explicit mapping or honest
+  no-relevant-official-resource-selected record. KUTUMBA adaptations remain original.
 modules:
-  C1-W1: [EDU-ISKCON-005, SS-001]
-  C1-W2: [EDU-ISKCON-003]
-  C1-W4: [SS-001, SS-002]
-  C1-W6: [BV-001]
-  C2-W3: [SS-002]
-  C3-W6: [EDU-ISKCON-002]
+  C1-W1:
+    status: mapped
+    resources: [EDU-ISKCON-005]
+    reason: Philosophy-of-education framing for KUTUMBA purpose week
+  C1-W2:
+    status: mapped
+    resources: [EDU-ISKCON-003]
+    reason: Parent-facing materials index for body/soul introduction
+  C1-W3:
+    status: mapped
+    resources: [EDU-ISKCON-004]
+    reason: Children literature index for soul-nature week
+  C1-W4:
+    status: mapped
+    resources: [SS-001]
+    reason: Sunday-school pedagogy pattern for human-life rarity theme
+  C1-W5:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Temporary-world theme uses scripture-first KUTUMBA lab; no single ISKCON activity kit selected
+  C1-W6:
+    status: mapped
+    resources: [BV-001]
+    reason: Integration night — congregation program comparison reference only
+  C2-W1:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Karma doctrine week — facilitator uses KUTUMBA dossier; no dedicated ISKCON education kit mapped
+  C2-W2:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Free-will week — scripture and Prabhupāda lecture register sufficient; no official activity sequence imported
+  C2-W3:
+    status: mapped
+    resources: [SS-002]
+    reason: Reincarnation theme — Sunday-school index metadata for younger-child patterns only
+  C2-W4:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Modes-of-nature week — no single official pedagogy resource; KUTUMBA analogy layer primary
+  C2-W5:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Māyā week — doctrinal depth from Śrīla Prabhupāda sources; no ISKCON education kit selected
+  C2-W6:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Integration night — family synthesis; BV comparison optional, not required
+  C3-W1:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Supreme-proprietor theme — scripture-first; no official education activity mapped
+  C3-W2:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Kṛṣṇa identity week — lecture and Bhāgavatam register primary
+  C3-W3:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Guru-sādhu-śāstra week — doctrinal; no child-activity kit imported
+  C3-W4:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Caitanya and holy name — kīrtana lab uses KUTUMBA worship manual, not ISKCON education import
+  C3-W5:
+    status: no-relevant-official-resource-selected
+    resources: []
+    reason: Nine processes — scripture matrix primary; no official modular kit selected
+  C3-W6:
+    status: mapped
+    resources: [EDU-ISKCON-002]
+    reason: Bhakti Mela showcase — education media library index for presentation patterns
