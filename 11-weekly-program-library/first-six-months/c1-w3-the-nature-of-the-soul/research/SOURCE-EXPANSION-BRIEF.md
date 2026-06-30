@@ -1,0 +1,73 @@
+# Source Expansion Brief — C1-W3
+
+| Field | Value |
+|-------|-------|
+| Module | The Nature of the Soul |
+| Generated | 2026-06-30 |
+| Source map | KUT-SRC-0013 |
+| Human review | **OPEN** |
+
+## 1. Controlling Prabhupāda book references
+
+- BG 2.20
+- BG 2.23-25
+- SB soul teachings
+
+## 2. Prabhupāda lecture / conversation / letter candidates
+
+- BG 2.20 lecture candidates
+
+## 3. Source-grounded kathā references
+
+- Align `katha/KATHA-SOURCE-REGISTER.yaml` with narrative claims
+- Prefer Tier A VedaBase exact references
+
+## 4. Official education / pedagogy resources
+
+- https://iskconeducation.org/books-for-kids/
+
+## 5. Child-resource candidates
+
+- Ministry books-for-kids and Sunday School indexes — metadata only
+- KUTUMBA-authored adaptation required
+
+## 6. Media candidates
+
+- See module MEDIA-INDEX.yaml
+
+## 7. Supplementary Gauḍīya / Sanātana references
+
+- None at this time
+
+## 8. Sources intentionally excluded
+
+- None stated
+
+## 9. Rights posture
+
+- Default: **link-and-metadata-only**
+- BBT material: permission workflow before republication
+
+## 10. Review required
+
+- Doctrinal review: OPEN
+- Rights review: OPEN
+- Pedagogy review: OPEN
+
+## Tier A entry points
+
+- https://vedabase.io/en/library/bg/
+
+## Coverage scores (not publication approval)
+
+| Dimension | Score |
+|-----------|-------|
+| Primary Text Coverage | planned |
+| Prabhupada Spoken Source Coverage | candidate-listed |
+| Katha Coverage | human-review-required |
+| Parent Application Coverage | draft |
+| Lala Lali Coverage | draft |
+| Kisora Kisori Coverage | draft |
+| Visual Media Coverage | metadata-only |
+| Rights Readiness | link-and-metadata-only |
+| Human Review Readiness | open |
