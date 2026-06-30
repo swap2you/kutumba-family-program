@@ -1,0 +1,13 @@
+catalog_version: "1.0.0"
+authority_tier: 2
+status: empty-pending-approval
+pending_entry_template:
+  full_initiated_name: required
+  official_channel_or_owned_folder: required
+  relation_to_kutumba: required
+  approved_topics: []
+  prohibited_topics: []
+  rights_status: pending
+  reviewer: ""
+  approval_date: ""
+entries: []

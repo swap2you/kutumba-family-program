@@ -1,0 +1,36 @@
+catalog_version: "1.0.0"
+authority_tier: 1
+entries:
+  - media_id: SP-LEC-BG-2-13-1973
+    title: BG 2.13 lecture
+    date: 1973-08-07
+    place: London
+    stable_url: https://vedabase.io/en/library/lectures/london/august/07/1973/7310807BG.LON_eng/
+    topic: dehī/deha life stages
+    teaching_purpose: C1-W2 body-self distinction
+    audience: parent
+    duration_minutes: 45
+    rights_status: vedabase-link
+    review_status: human-review-required
+  - media_id: SP-LEC-BG-2-22-1973
+    title: BG 2.22 lecture
+    date: 1973-08-22
+    place: London
+    stable_url: https://vedabase.io/en/library/lectures/london/august/22/1973/7310822BG.LON_eng/
+    topic: Garment analogy
+    teaching_purpose: C1-W2 changing bodies
+    audience: parent
+    duration_minutes: 45
+    rights_status: vedabase-link
+    review_status: human-review-required
+  - media_id: SP-LEC-SB-1-1-1972
+    title: SB 1.1 lecture
+    date: 1972-09-01
+    place: New Vrindaban
+    stable_url: https://vedabase.io/en/library/lectures/september/01/1972/720901SB.NV_eng/
+    topic: Purpose of Bhāgavatam hearing
+    teaching_purpose: C1-W1 KUTUMBA purpose
+    audience: parent
+    duration_minutes: 50
+    rights_status: vedabase-link
+    review_status: human-review-required

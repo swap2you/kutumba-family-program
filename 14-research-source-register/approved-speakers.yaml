@@ -1,11 +1,24 @@
-# Approved speakers for Tier 2 supplemental media indexing
-# Do not add speakers without exact identity and approved source channel
+# Approved speakers — Tier 2 supplemental media
 
+**Status:** empty until exact identities and authorized channels are supplied.
+
+```yaml
 approved_speakers: []
 
-pending_review: []
+pending_entry_template:
+  full_initiated_name: required
+  exact_official_channel_or_user_owned_source_folder: required
+  relation_to_kutumba: required
+  approved_topics: []
+  prohibited_topics: []
+  rights_status: pending
+  reviewer: ""
+  approval_date: ""
 
 rules:
-  - Never infer identity from partial names such as "Bhajji Maharaj"
-  - Each entry requires: speaker_id, full_name, source_channel, rights_status, reviewer, date
+  - Do not infer identity from partial names (e.g. "Bhajji Maharaj")
   - Indexed media is reference-only until formally adopted
+  - Human doctrinal and rights review required before catalog entry
+```
+
+See `media-library/APPROVED-TEACHER-CATALOG.yaml`.

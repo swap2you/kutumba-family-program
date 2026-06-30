@@ -1,0 +1,14 @@
+register_version: "1.0.0"
+entries:
+  - asset_id: MERMAID-ORIGINAL
+    type: diagram-source
+    rights_status: kutumba-original
+    review_status: pass
+  - asset_id: GAMMA-PROMPT
+    type: derivative-prompt
+    rights_status: internal-development
+    review_status: human-review-required
+  - asset_id: VEDABASE-LINK
+    type: scripture-reference
+    rights_status: link-only
+    review_status: pass
