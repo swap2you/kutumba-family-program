@@ -25,9 +25,9 @@
 
 | Media ID | Date | Place | Title | URL | Topic | Segment |
 | --- | --- | --- | --- | --- | --- | --- |
-| SP-LEC-BG-18-63-1972 | 1972-11-25 | Hyderabad | BG 18.63 | [VedaBase](Deliberation and choice) | https://vedabase.io/en/library/lectures/november/25/1972/721125BG.HYD_eng/ | full lecture |
-| SP-LEC-BG-3-33-1973 | 1973-12-16 | Los Angeles | BG 3.33 | [VedaBase](Conditioning) | https://vedabase.io/en/library/lectures/december/16/1973/731216BG.LA_eng/ | full lecture |
-| SP-LEC-FREE-WILL-1975 | 1975-06-23 | Los Angeles | Responsibility | [VedaBase](Control and surrender) | https://vedabase.io/en/library/lectures/june/23/1975/750623BG.LA_eng/ | full lecture |
+| SP-LEC-BG-18-63-1972 | 1972-11-25 | Hyderabad | BG 18.63 | [VedaBase](https://vedabase.io/en/library/lectures/november/25/1972/721125BG.HYD_eng/) | full lecture |
+| SP-LEC-BG-3-33-1973 | 1973-12-16 | Los Angeles | BG 3.33 | [VedaBase](https://vedabase.io/en/library/lectures/december/16/1973/731216BG.LA_eng/) | full lecture |
+| SP-LEC-FREE-WILL-1975 | 1975-06-23 | Los Angeles | Responsibility | [VedaBase](https://vedabase.io/en/library/lectures/june/23/1975/750623BG.LA_eng/) | full lecture |
 
 ## 3. Source-grounded kathā references
 

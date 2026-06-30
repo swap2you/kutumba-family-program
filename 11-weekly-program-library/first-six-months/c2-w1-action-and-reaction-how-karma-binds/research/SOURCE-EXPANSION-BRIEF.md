@@ -24,9 +24,9 @@
 
 | Media ID | Date | Place | Title | URL | Topic | Segment |
 | --- | --- | --- | --- | --- | --- | --- |
-| SP-LEC-BG-3-9-1972 | 1972-12-11 | Ahmedabad | BG 3.9 | [VedaBase](Yajña and bondage) | https://vedabase.io/en/library/lectures/december/11/1972/721211BG.AHM_eng/ | full lecture |
-| SP-LEC-BG-3-1973 | 1973-12-21 | Los Angeles | BG 3 lecture | [VedaBase](Karma and devotion) | https://vedabase.io/en/library/lectures/december/21/1973/731221BG.LA_eng/ | full lecture |
-| SP-LEC-KARMA-1975 | 1975-03-23 | Melbourne | Karma and responsibility | [VedaBase](Action and reaction overview) | https://vedabase.io/en/library/lectures/march/23/1975/750323BG.MEL_eng/ | full lecture |
+| SP-LEC-BG-3-9-1972 | 1972-12-11 | Ahmedabad | BG 3.9 | [VedaBase](https://vedabase.io/en/library/lectures/december/11/1972/721211BG.AHM_eng/) | full lecture |
+| SP-LEC-BG-3-1973 | 1973-12-21 | Los Angeles | BG 3 lecture | [VedaBase](https://vedabase.io/en/library/lectures/december/21/1973/731221BG.LA_eng/) | full lecture |
+| SP-LEC-KARMA-1975 | 1975-03-23 | Melbourne | Karma and responsibility | [VedaBase](https://vedabase.io/en/library/lectures/march/23/1975/750323BG.MEL_eng/) | full lecture |
 
 ## 3. Source-grounded kathā references
 

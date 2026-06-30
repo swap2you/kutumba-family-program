@@ -24,9 +24,9 @@
 
 | Media ID | Date | Place | Title | URL | Topic | Segment |
 | --- | --- | --- | --- | --- | --- | --- |
-| SP-LEC-BG-2-22-1973 | 1973-08-22 | London | BG 2.22 | [VedaBase](Garment analogy) | https://vedabase.io/en/library/lectures/london/august/22/1973/7310822BG.LON_eng/ | full lecture |
-| SP-LEC-BG-2-20-1973 | 1973-08-20 | London | BG 2.20 | [VedaBase](Soul not slain) | https://vedabase.io/en/library/lectures/london/august/20/1973/7310820BG.LON_eng/ | full lecture |
-| SP-LEC-TRANS-1975 | 1975-03-25 | Melbourne | Transmigration | [VedaBase](Sober transmigration teaching) | https://vedabase.io/en/library/lectures/march/25/1975/750325BG.MEL_eng/ | full lecture |
+| SP-LEC-BG-2-22-1973 | 1973-08-22 | London | BG 2.22 | [VedaBase](https://vedabase.io/en/library/lectures/london/august/22/1973/7310822BG.LON_eng/) | full lecture |
+| SP-LEC-BG-2-20-1973 | 1973-08-20 | London | BG 2.20 | [VedaBase](https://vedabase.io/en/library/lectures/london/august/20/1973/7310820BG.LON_eng/) | full lecture |
+| SP-LEC-TRANS-1975 | 1975-03-25 | Melbourne | Transmigration | [VedaBase](https://vedabase.io/en/library/lectures/march/25/1975/750325BG.MEL_eng/) | full lecture |
 
 ## 3. Source-grounded kathā references
 

@@ -14,6 +14,7 @@ STRUCTURAL = [
     "validate_age_bands.py",
     "validate_visual_assets.py",
     "validate_media_indexes.py",
+    "validate_internal_links.py",
 ]
 SEMANTIC = [
     "validate_gamma_briefs.py",

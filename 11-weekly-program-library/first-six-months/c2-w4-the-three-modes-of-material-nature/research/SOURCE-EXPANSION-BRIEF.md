@@ -25,9 +25,9 @@
 
 | Media ID | Date | Place | Title | URL | Topic | Segment |
 | --- | --- | --- | --- | --- | --- | --- |
-| SP-LEC-BG-14-5-1973 | 1973-11-23 | Los Angeles | BG 14.5 | [VedaBase](Three modes) | https://vedabase.io/en/library/lectures/november/23/1973/731123BG.LA_eng/ | full lecture |
-| SP-LEC-BG-14-1974 | 1974-06-08 | Paris | BG 14 | [VedaBase](Modes in life) | https://vedabase.io/en/library/lectures/june/08/1974/740608BG.PAR_eng/ | full lecture |
-| SP-LEC-MODES-1975 | 1975-07-01 | Denver | Material nature | [VedaBase](Transcending modes) | https://vedabase.io/en/library/lectures/july/01/1975/750701BG.DEN_eng/ | full lecture |
+| SP-LEC-BG-14-5-1973 | 1973-11-23 | Los Angeles | BG 14.5 | [VedaBase](https://vedabase.io/en/library/lectures/november/23/1973/731123BG.LA_eng/) | full lecture |
+| SP-LEC-BG-14-1974 | 1974-06-08 | Paris | BG 14 | [VedaBase](https://vedabase.io/en/library/lectures/june/08/1974/740608BG.PAR_eng/) | full lecture |
+| SP-LEC-MODES-1975 | 1975-07-01 | Denver | Material nature | [VedaBase](https://vedabase.io/en/library/lectures/july/01/1975/750701BG.DEN_eng/) | full lecture |
 
 ## 3. Source-grounded kathā references
 

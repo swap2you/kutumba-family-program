@@ -24,9 +24,9 @@
 
 | Media ID | Date | Place | Title | URL | Topic | Segment |
 | --- | --- | --- | --- | --- | --- | --- |
-| SP-LEC-CYCLE-1973 | 1973-12-28 | Los Angeles | Summary lecture | [VedaBase](Integration prep) | https://vedabase.io/en/library/lectures/december/28/1973/731228BG.LA_eng/ | full lecture |
-| SP-LEC-BG-18-63-1972 | 1972-11-25 | Hyderabad | BG 18.63 | [VedaBase](Choice under guidance) | https://vedabase.io/en/library/lectures/november/25/1972/721125BG.HYD_eng/ | full lecture |
-| SP-LEC-KARMA-1975 | 1975-03-23 | Melbourne | Karma overview | [VedaBase](Cycle 2 thread) | https://vedabase.io/en/library/lectures/march/23/1975/750323BG.MEL_eng/ | full lecture |
+| SP-LEC-CYCLE-1973 | 1973-12-28 | Los Angeles | Summary lecture | [VedaBase](https://vedabase.io/en/library/lectures/december/28/1973/731228BG.LA_eng/) | full lecture |
+| SP-LEC-BG-18-63-1972 | 1972-11-25 | Hyderabad | BG 18.63 | [VedaBase](https://vedabase.io/en/library/lectures/november/25/1972/721125BG.HYD_eng/) | full lecture |
+| SP-LEC-KARMA-1975 | 1975-03-23 | Melbourne | Karma overview | [VedaBase](https://vedabase.io/en/library/lectures/march/23/1975/750323BG.MEL_eng/) | full lecture |
 
 ## 3. Source-grounded kathā references
 

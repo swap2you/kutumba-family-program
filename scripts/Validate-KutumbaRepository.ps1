@@ -186,51 +186,67 @@ if ($unique.Count -ne 18) {
     Add-Failure "Week codes not unique: $($weekCodes -join ', ')"
 }
 
-# 15. Internal links — UTF-8 safe, NFC-normalized
+# 15. Internal links — UTF-8 safe, NFC-normalized (no Add-Type; PS 5+ and PS 7)
 $brokenLinks = 0
 $mojibakeLinks = 0
 $brokenList = @()
-
-Add-Type -AssemblyName System.Text
-$utf8 = New-Object System.Text.UTF8Encoding $false
+$utf8NoBom = [System.Text.UTF8Encoding]::new($false)
+$linkPattern = '\[[^\]]+\]\(([^)]+)\)'
 
 function Normalize-PathString([string]$s) {
     if ([string]::IsNullOrWhiteSpace($s)) { return $s }
-    return $s.Normalize([System.Globalization.NormalizationForm]::FormC)
+    try {
+        return $s.Normalize()  # FormC default
+    } catch {
+        return $s
+    }
+}
+
+function Test-MojibakeLink([string]$s) {
+    if ([string]::IsNullOrWhiteSpace($s)) { return $false }
+    # Latin-1 corruption marker (UTF-8 misread); ASCII-only pattern for PS parser safety
+    return ($s -match '\u00c3')
 }
 
 Get-ChildItem -Path $RepoRoot -Recurse -Filter "*.md" -File |
     Where-Object { $_.FullName -notmatch '\\\.git\\' } |
     ForEach-Object {
         $md = $_
-        $content = [System.IO.File]::ReadAllText($md.FullName, $utf8)
-        foreach ($line in $content -split "`n") {
-            if ($line -match '\[([^\]]+)\]\(([^)]+)\)') {
-                $target = $Matches[2]
-                if ($target -match '^(https?://|mailto:|#)') { continue }
-                $target = ($target -split '#')[0]
-                if ([string]::IsNullOrWhiteSpace($target)) { continue }
-                try { $target = [System.Uri]::UnescapeDataString($target) } catch {}
-                $target = Normalize-PathString $target
-                if ($target -match 'mÄ|á¹›|Å›|sÄ') {
-                    $script:mojibakeLinks++
-                    if ($mojibakeLinks -le 5) {
-                        Add-Warning "Mojibake link target in $($md.Name): $target"
-                    }
-                    continue
+        try {
+            $content = [System.IO.File]::ReadAllText($md.FullName, $utf8NoBom)
+        } catch {
+            Add-Warning "Cannot read markdown for link check: $($md.FullName)"
+            return
+        }
+        foreach ($match in [regex]::Matches($content, $linkPattern)) {
+            $target = $match.Groups[1].Value
+            if ($target -match '^(https?://|mailto:|#)') { continue }
+            $target = ($target -split '#')[0]
+            if ([string]::IsNullOrWhiteSpace($target)) { continue }
+            try { $target = [System.Uri]::UnescapeDataString($target) } catch {}
+            $target = Normalize-PathString $target
+            if ([string]::IsNullOrWhiteSpace($target)) { continue }
+            if (Test-MojibakeLink $target) {
+                $script:mojibakeLinks++
+                if ($mojibakeLinks -le 5) {
+                    Add-Warning "Mojibake link target in $($md.Name): $target"
                 }
-                $resolved = if ($target.StartsWith('/')) {
-                    Join-Path $RepoRoot $target.TrimStart('/')
-                } else {
-                    Join-Path $md.DirectoryName $target
-                }
-                $resolved = Normalize-PathString $resolved
-                if (-not (Test-Path -LiteralPath $resolved)) {
-                    $script:brokenLinks++
-                    $brokenList += "$($md.FullName): $target"
-                    if ($brokenLinks -le 20) {
-                        Add-Warning "Broken link in $($md.Name): $target"
-                    }
+                continue
+            }
+            $resolved = if ($target.StartsWith('/')) {
+                Join-Path $RepoRoot $target.TrimStart('/').Replace('/', [IO.Path]::DirectorySeparatorChar)
+            } elseif ($target -match '^(00-|01-|02-|09-|11-|12-|14-|17-|build-evidence/)') {
+                Join-Path $RepoRoot $target.Replace('/', [IO.Path]::DirectorySeparatorChar)
+            } else {
+                Join-Path $md.DirectoryName $target
+            }
+            $resolved = Normalize-PathString $resolved
+            if ([string]::IsNullOrWhiteSpace($resolved)) { continue }
+            if (-not (Test-Path -LiteralPath $resolved)) {
+                $script:brokenLinks++
+                $brokenList += "$($md.FullName): $target"
+                if ($brokenLinks -le 20) {
+                    Add-Warning "Broken link in $($md.Name): $target"
                 }
             }
         }

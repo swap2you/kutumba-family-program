@@ -1,7 +1,7 @@
 # V5 Validation Report
 
-Generated: 2026-06-30  
-Baseline tag: `kutumba-source-architecture-baseline-v1.0.0` @ `fe84ed0`
+Generated: 2026-06-30 (independent re-run)
+HEAD: `5b1b37638cc126a9d93aae39ce27c91b41157216`
 
 ## Automated suite (Phase 10)
 
@@ -12,7 +12,8 @@ Baseline tag: `kutumba-source-architecture-baseline-v1.0.0` @ `fe84ed0`
 | `validate_catalog_consistency.py` | **PASS** — 79 entries; tiers A=42, B=12, C=13, supplementary=12 |
 | `validate_public_source_catalog.py` | **PASS** (heuristic) — 43 ok, 12 restricted, 24 queued |
 | `run_curriculum_validation.py` | **PASS** — structural, semantic, source, catalog, links, repository |
-| `Validate-KutumbaRepository.ps1` | **PASS** — 0 failures, 0 mojibake warnings |
+| `Validate-KutumbaRepository.ps1` | **PASS** — 0 failures, 0 warnings |
+| `validate_internal_links.py` | **PASS** — UTF-8, NFC, 0 broken, 0 mojibake |
 
 ## Module count
 

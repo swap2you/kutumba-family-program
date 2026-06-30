@@ -1,8 +1,9 @@
 # V5 Independent Quality Audit
 
-Generated: 2026-06-30  
-Auditor: automated independent sample (`scripts/sources/independent_audit_sample.py`)  
-Repository: `swap2you/kutumba-family-program` (PUBLIC)
+Generated: 2026-06-30 (independent re-run)  
+Auditor: automated independent sample + full validator suite  
+Repository: `swap2you/kutumba-family-program` (PUBLIC)  
+HEAD: `5b1b37638cc126a9d93aae39ce27c91b41157216`
 
 ## Verdict
 
@@ -66,7 +67,20 @@ Repository: `swap2you/kutumba-family-program` (PUBLIC)
 | Media indexes | Architecture present; metadata-first candidates; not fully populated |
 | Education mapping | 18/18 modules explicitly mapped or honestly deferred |
 
-## Locked baseline
+## Validator results (re-run)
+
+| Gate | Result |
+|---|---|
+| `run_curriculum_validation.py` | **PASS** |
+| `validate_internal_links.py` | **PASS** — 0 broken, 0 mojibake |
+| `Validate-KutumbaRepository.ps1` | **PASS** — 0 failures, 0 warnings (PS1 NFC repair applied) |
+| `validate_source_manifest.py` | **PASS** — 14/14 |
+| `reconcile_source_map_urls.py` | **PASS** — 78/78 |
+| `validate_catalog_consistency.py` | **PASS** — 79 entries |
+
+External link sample: VedaBase HEAD returns 403 (bot-block) — logged as WARN, not FAIL.
+
+---
 
 Tag `kutumba-source-architecture-baseline-v1.0.0` preserves accepted architecture at `fe84ed0`. V5 corrections recorded in `00-foundation/LOCKED-BASELINE-REGISTER.yaml` and build-evidence reports.
 

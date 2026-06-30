@@ -24,9 +24,9 @@
 
 | Media ID | Date | Place | Title | URL | Topic | Segment |
 | --- | --- | --- | --- | --- | --- | --- |
-| SP-LEC-BG-7-14-1972 | 1972-02-19 | Vrindavan | BG 7.14 | [VedaBase](Māyā difficult to overcome) | https://vedabase.io/en/library/lectures/february/19/1972/720219BG.VRN_eng/ | full lecture |
-| SP-LEC-MAYA-1973 | 1973-09-05 | Stockholm | Māyā | [VedaBase](Material energy) | https://vedabase.io/en/library/lectures/september/05/1973/730905BG.STO_eng/ | full lecture |
-| SP-LEC-BG-2-62-1973 | 1973-08-17 | London | BG 2.62 | [VedaBase](Attention chain) | https://vedabase.io/en/library/lectures/august/17/1973/730817BG.LON_eng/ | full lecture |
+| SP-LEC-BG-7-14-1972 | 1972-02-19 | Vrindavan | BG 7.14 | [VedaBase](https://vedabase.io/en/library/lectures/february/19/1972/720219BG.VRN_eng/) | full lecture |
+| SP-LEC-MAYA-1973 | 1973-09-05 | Stockholm | Māyā | [VedaBase](https://vedabase.io/en/library/lectures/september/05/1973/730905BG.STO_eng/) | full lecture |
+| SP-LEC-BG-2-62-1973 | 1973-08-17 | London | BG 2.62 | [VedaBase](https://vedabase.io/en/library/lectures/august/17/1973/730817BG.LON_eng/) | full lecture |
 
 ## 3. Source-grounded kathā references
 

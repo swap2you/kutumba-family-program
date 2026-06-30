@@ -46,7 +46,9 @@ def main() -> int:
             sys.stdout.buffer.write((f"FAIL: {f}\n").encode("utf-8", errors="replace"))
         print("Result: structurally traceable — human doctrinal review required (FAILED structural gate)")
         return 1
-    print("PASS: scripture claims have source keys — structurally traceable; human doctrinal review required")
+    sys.stdout.buffer.write(
+        b"PASS: scripture claims have source keys \xe2\x80\x94 structurally traceable; human doctrinal review required\n"
+    )
     return 0
 
 
