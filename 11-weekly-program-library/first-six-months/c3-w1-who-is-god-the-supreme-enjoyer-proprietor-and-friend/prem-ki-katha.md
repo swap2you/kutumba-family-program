@@ -9,46 +9,81 @@ katha_type: source-grounded-devotional-narrative
 
 ## 1. Katha title
 
-**Kṛṣṇa lifts Govardhana — stewardship and supreme proprietorship**
+**Kṛṣṇa lifts Govardhana — stewardship and supreme proprietorship** — SB 10.24 Govardhana; SB 10.25 protection
 
 ## 2. Module connection
 
-Leads naturally to Bhagavad-gītā 5.29. See [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.yaml).
+Kṛṣṇa is supreme enjoyer, proprietor, and friend — stewardship replaces possessiveness.
+
+**Scope boundary:** SB 10.14 mislabeled as Govardhana; demigod minimization without respect
 
 ## 3. Primary source references
 
 | Source | Link | Use in katha |
 |---|---|---|
-| SB 10.24.7 | [vedabase](https://vedabase.io/en/library/sb/10/24/7/) | Setting — Vraja residents |
-| SB 10.24.19 | [vedabase](https://vedabase.io/en/library/sb/10/24/19/) | Govardhana worship instruction |
-| SB 10.25.9 | [vedabase](https://vedabase.io/en/library/sb/10/25/9/) | Hill lifted for protection |
-| BG 5.29 | [vedabase](https://vedabase.io/en/library/bg/5/29/) | Supreme enjoyer, proprietor, friend |
+| SB 10.24.7 | [vedabase](https://vedabase.io/en/library/sb/10/24/7/) | Setting |
+| SB 10.24.19 | [vedabase](https://vedabase.io/en/library/sb/10/24/19/) | Govardhana worship |
+| SB 10.25.9 | [vedabase](https://vedabase.io/en/library/sb/10/25/9/) | Hill lifted |
+| BG 5.29 | [vedabase](https://vedabase.io/en/library/bg/5/29/) | Peace formula |
+
+Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.yaml)
 
 ## 4. Setting and devotional mood
 
-_[Facilitator transition — set quiet, attentive atmosphere appropriate to this module]_
+_[Facilitator transition — quiet room, families seated together]_
 
 ## 5. Main personalities
 
-_See narrative below — paraphrase only; no invented direct quotations._
+- **Figures from śāstra** — as named in paraphrase — no invented dialogue
+- **KUTUMBA families** — listening together today
 
 ## 6. Source-grounded narrative
 
-_[Facilitator transition — quiet, devotional mood]_
+_[Source narrative / paraphrase — not invented dialogue]_
 
-**Paraphrase from ŚB 10.24:** In Vṛndāvana, Nanda Mahārāja and the residents prepared to worship Lord Indra for rainfall. Young Kṛṣṇa questioned this custom with gentle logic. He asked them to recognize that their real wealth — land, cows, children and hill — comes from the Lord's arrangement. He instructed them to worship Govardhana Hill, which nourishes them, as an offering to Him.
+**Paraphrase (source-grounded):** In Vṛndāvana, Nanda Mahārāja and the residents prepared to worship Lord Indra for rainfall. Young Kṛṣṇa questioned this custom with gentle logic, showing that their real wealth — land, cows, children, and Govardhana Hill — comes from the Lord's arrangement. He instructed them to worship Govardhana Hill, which nourishes them, as an offering to Him.
 
-**Paraphrase from ŚB 10.25:** When Indra became angry and sent devastating rains, Kṛṣṇa lifted Govardhana Hill on His little finger and sheltered the entire community for seven days. The residents saw that no demigod is independent of the Supreme Lord. Kṛṣṇa is not only their friend — He is the proprietor of everything they had tried to claim as "ours."
+**Paraphrase (source-grounded):** When Indra sent devastating rains, Kṛṣṇa lifted Govardhana Hill on His little finger and sheltered the entire community for seven days. The residents saw that no demigod is independent of the Supreme Lord.
 
-**Paraphrase aligned with BG 5.29:** Kṛṣṇa is the supreme enjoyer of sacrifice and austerity, the proprietor of all planets, and the well-wishing friend of every living being. The Govardhana pastime makes this visible: when families forget the Lord's proprietorship, anxiety and conflict increase; when they remember Him, care and stewardship replace possessiveness.
+**Paraphrase (source-grounded):** Kṛṣṇa is the supreme enjoyer of sacrifice, proprietor of all planets, and well-wishing friend of every living being. The Govardhana pastime makes this visible: forgetting the Lord's proprietorship increases anxiety; remembering Him restores stewardship.
+
+**Paraphrase from ŚB 10.24.7–10.24.19:** In Vṛndāvana, Nanda Mahārāja and the residents prepared to worship Lord Indra for rainfall. Young Kṛṣṇa questioned this custom with gentle logic, showing that their real wealth — land, cows, children, and Govardhana Hill — comes from the Lord's arrangement. He instructed them to worship Govardhana Hill, which nourishes them, as an offering to Him.
+
+**Paraphrase from ŚB 10.25.9:** When Indra sent devastating rains, Kṛṣṇa lifted Govardhana Hill on His little finger and sheltered the entire community for seven days. The residents saw that no demigod is independent of the Supreme Lord.
+
+**Paraphrase aligned with BG 5.29:** Kṛṣṇa is the supreme enjoyer of sacrifice, proprietor of all planets, and well-wishing friend of every living being. The Govardhana pastime makes this visible: forgetting the Lord's proprietorship increases anxiety; remembering Him restores stewardship.
+
+**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to win arguments, but to receive merciful instruction through authorized sources.
+
+**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and turning toward the Lord. This katha supplies that scene for **C3-W1** without inventing dialogue.
+
+**Paraphrase — BG 5.29 (application summary):** The verse is not a slogan. It names a distinction families can practice this week: see this week's teaching in one honest situation at home.
+
+**Paraphrase — memory line practice:** Repeat together: _Peace comes from knowing Kṛṣṇa as the supreme enjoyer, proprietor of everything and friend of all living beings._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).
+
+**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through frightening detail or public testing.
+
+**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work) and one private journal sentence — boundaries respected.
+
+**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when wrong, and return to practice next week.
+
+**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does not shut down feeling or professional care when needed.
+
+**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present invented quotes as śāstra or Prabhupāda's exact words.
+
+**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both serve Kṛṣṇa — neither replaces the other.
+
+**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the minimum practice connected to C3-W1.
+
+**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth, not information overload.
 
 ## 7. Turning point
 
-The turning point is honest recognition: "We thought Indra or our own planning was supreme, but Kṛṣṇa is the real proprietor." For families, the turning point is the same posture when conflict arises over toys, money, credit or schedule—pause and ask the three peace questions from BG 5.29.
+Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
 
 ## 8. Central teaching
 
-Peace comes from knowing Kṛṣṇa as supreme enjoyer, proprietor of everything, and friend of all beings. Stewardship replaces possessiveness.
+Peace comes from knowing Kṛṣṇa as the supreme enjoyer, proprietor of everything and friend of all living beings.
 
 **Memory line:** Peace comes from knowing Kṛṣṇa as the supreme enjoyer, proprietor of everything and friend of all living beings.
 
@@ -56,23 +91,25 @@ Peace comes from knowing Kṛṣṇa as supreme enjoyer, proprietor of everythin
 
 _[60 seconds silence]_
 
-Ask inwardly: "What one practice or understanding from this module can not leave me this week?"
+Ask inwardly: "What one understanding from this katha should not leave me this week?"
 
-Optional: one round of mahā-mantra together.
+Optional soft chant: one round of the mahā-mantra together.
 
 ## 10. Lāla–Lālī interaction cues
 
-1. **Picture or gesture:** One simple image or action representing this week's principle (facilitator-prepared, age-safe).
-2. **Recall game:** Children repeat the memory line in two call-and-response lines.
+1. **Chariot/picture cue:** Simple story picture tied to memory line.
+2. **Recall game:** Repeat memory line in call-and-response.
+3. **Safeguarding:** Age-safe content only; two adults in visible space.
 
 ## 11. Kiśora–Kiśorī reflection cues
 
-1. **Journal prompt:** "One sentence — how does this katha connect to Bhagavad-gītā 5.29?"
-2. **Pair share:** "What misconception does this story help correct?"
+1. **Journal prompt:** 'One sentence — how does this katha connect to the key verse and to a situation I face?'
+2. **Pair share:** 'What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'
+3. **Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.
 
 ## 12. Parent bridge
 
-Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md).
+Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md) and Stewardship Inventory. When children ask hard questions, turn toward śāstra together — permission to not have every answer immediately.
 
 ## 13. Transition to philosophy lesson
 
@@ -82,24 +119,23 @@ _"The katha opened the heart; the lesson trains precise understanding. Both serv
 
 ## 14. Narration cautions
 
-- No invented direct quotes in "Kṛṣṇa said…" form unless reading authorized text aloud
-- Age-appropriate content/applications only — see [`risks-and-sensitive-points.md`](risks-and-sensitive-points.md)
-- Keep narration within **12–15 minutes** plus interaction
-- No graphic or frightening imagery for young children
+- No invented sacred dialogue
+- Age-appropriate delivery
+- Do **not** invent direct quotes in "Kṛṣṇa said…" form unless reading from authorized text
+- Keep total narration within **12–15 minutes** plus interaction
 
 ## 15. Visual / storyboard plan
 
 | Beat | Visual | Source |
 |---|---|---|
-| 1 | Opening hook illustration | KUTUMBA storyboard |
-| 2 | Katha beat — main narrative | [`visuals/concept-map.md`](visuals/concept-map.md) |
-| 3 | Key verse reference card | VedaBase link on slide |
-| 4 | Home practice bridge | [`visuals/process-flow.md`](visuals/process-flow.md) |
+| 1 | Opening hook illustration | opening-hook.md |
+| 2 | Katha beat diagram | visuals/concept-map.md |
+| 3 | Key verse card | VedaBase link |
 
 ## 16. Rights and quotation status
 
-- Narrative is **paraphrase** from sources linked above
 - No full purports or book chapters in repository
+- Narrative is **paraphrase** from sources linked above
 - No invented sacred dialogue presented as direct quotation
 
 ## 17. Human doctrinal review status

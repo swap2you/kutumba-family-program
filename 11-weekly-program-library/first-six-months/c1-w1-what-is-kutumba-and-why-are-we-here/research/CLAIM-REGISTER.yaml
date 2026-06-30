@@ -1,102 +1,108 @@
 week_code: C1-W1
 claims:
-  - claim_id: C1-W1-CLM-001
-    statement: "C1-W1 is a disciplined family sādhana community with six charter purposes."
-    claim_type: kutumba-summary
-    primary_source_keys: []
-    audience: all
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: doctrinal
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-002
-    statement: "Key teaching anchored in Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā."
-    claim_type: scripture-text
-    primary_source_keys: []
-    audience: all
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: doctrinal
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-003
-    statement: "KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture series."
-    claim_type: kutumba-summary
-    primary_source_keys: []
-    audience: parent
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: doctrinal
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-004
-    statement: "Home practice supports family formation without comparison or public scoring."
-    claim_type: pedagogical-application
-    primary_source_keys: []
-    audience: parent
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: pedagogy
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-005
-    statement: "Contemporary case studies are pedagogical illustrations, not śāstra."
-    claim_type: contemporary-case
-    primary_source_keys: []
-    audience: parent
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: safeguarding
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-006
-    statement: "Facilitators use VedaBase links and KUTUMBA summaries — no invented Prabhupāda quotations."
-    claim_type: kutumba-summary
-    primary_source_keys: []
-    audience: all
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: citation
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-007
-    statement: "Age-track lessons avoid frightening death imagery unless module scope requires it."
-    claim_type: safeguarding-boundary
-    primary_source_keys: []
-    audience: lala-lali
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: safeguarding
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-008
-    statement: "Service identity does not justify coercion, unfair domestic labor, or abuse."
-    claim_type: safeguarding-boundary
-    primary_source_keys: []
-    audience: parent
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: safeguarding
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-009
-    statement: "Analogies are pedagogical tools with stated limits — not literal śāstra."
-    claim_type: analogy
-    primary_source_keys: []
-    audience: kisora-kisori
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: doctrinal
-    reviewer: ""
-    status: human-review-required
-  - claim_id: C1-W1-CLM-010
-    statement: "Prem-kī-kathā is source-grounded paraphrase with link-only purport references."
-    claim_type: kutumba-summary
-    primary_source_keys: []
-    audience: all
-    misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
-    exact_quote: false
-    review_required: rights
-    reviewer: ""
-    status: human-review-required
+- claim_id: C1-W1-CLM-001
+  statement: C1-W1 is a disciplined family sādhana community with six charter purposes.
+  claim_type: kutumba-summary
+  primary_source_keys: []
+  audience: all
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: doctrinal
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-002
+  statement: Key teaching anchored in Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā.
+  claim_type: scripture-text
+  primary_source_keys:
+  - SB-1-2-18
+  audience: all
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: doctrinal
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-003
+  statement: KUTUMBA is a disciplined family sādhana community—not a social club,
+    substitute temple, or lecture series.
+  claim_type: kutumba-summary
+  primary_source_keys: []
+  audience: parent
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: doctrinal
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-004
+  statement: Home practice supports family formation without comparison or public
+    scoring.
+  claim_type: pedagogical-application
+  primary_source_keys: []
+  audience: parent
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: pedagogy
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-005
+  statement: Contemporary case studies are pedagogical illustrations, not śāstra.
+  claim_type: contemporary-case
+  primary_source_keys: []
+  audience: parent
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: safeguarding
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-006
+  statement: Facilitators use VedaBase links and KUTUMBA summaries — no invented Prabhupāda
+    quotations.
+  claim_type: kutumba-summary
+  primary_source_keys: []
+  audience: all
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: citation
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-007
+  statement: Age-track lessons avoid frightening death imagery unless module scope
+    requires it.
+  claim_type: safeguarding-boundary
+  primary_source_keys: []
+  audience: lala-lali
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: safeguarding
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-008
+  statement: Service identity does not justify coercion, unfair domestic labor, or
+    abuse.
+  claim_type: safeguarding-boundary
+  primary_source_keys: []
+  audience: parent
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: safeguarding
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-009
+  statement: Analogies are pedagogical tools with stated limits — not literal śāstra.
+  claim_type: analogy
+  primary_source_keys: []
+  audience: kisora-kisori
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: doctrinal
+  reviewer: ''
+  status: human-review-required
+- claim_id: C1-W1-CLM-010
+  statement: Prem-kī-kathā is source-grounded paraphrase with link-only purport references.
+  claim_type: kutumba-summary
+  primary_source_keys: []
+  audience: all
+  misunderstanding_risk: See MISCONCEPTIONS-AND-BOUNDARIES.md
+  exact_quote: false
+  review_required: rights
+  reviewer: ''
+  status: human-review-required

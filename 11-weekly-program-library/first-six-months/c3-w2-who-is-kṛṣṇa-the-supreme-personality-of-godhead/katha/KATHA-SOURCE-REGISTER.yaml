@@ -1,33 +1,27 @@
 module_id: C3-W2
 katha_title: "Kṛṣṇa's appearance in Mathurā and transfer to Gokula"
-primary_book: Śrīmad-Bhāgavatam 10.3
-chapter_reference: "SB 10.3 — appearance in Kaṁsa's prison; transfer to Gokula"
+primary_book: ŚB 10.3
+chapter_reference: "SB 10.3 appearance; Gokula transfer"
 stable_links:
   - label: SB 10.3.1
     url: https://vedabase.io/en/library/sb/10/3/1/
-  - label: SB 10.3.43
-    url: https://vedabase.io/en/library/sb/10/3/43/
-  - label: SB 10.3.50
-    url: https://vedabase.io/en/library/sb/10/3/50/
   - label: BG 7.7
     url: https://vedabase.io/en/library/bg/7/7/
-  - label: SB 1.3.28
-    url: https://vedabase.io/en/library/sb/1/3/28/
 exact_verses_used:
   - BG 7.7
-  - SB 10.3.1
 direct_quotations: []
 paraphrased_portions:
-  - Supreme Lord appears in Mathurā prison to Devakī and Vasudeva (SB 10.3 — paraphrase)
-  - Transfer to Gokula under Yaśodā and Nanda (SB 10.3 — paraphrase)
+  - In the prison of Kaṁsa at Mathurā, at an auspicious moment, the Supreme Personality of Godhead appeared as the son of De
+  - By the Lord's arrangement, the child was brought to Gokula under the care of Mother Yaśodā and Nanda Mahārāja. Geography
+  - There is nothing superior to Kṛṣṇa; all incarnations expand from Him; everything rests upon Him as pearls on a thread.
 facilitator_transitions:
-  - Wonder and tenderness before narrative
+  - Modern family pause before philosophy block
   - Bridge to home practice
 omitted_complex_details:
-  - Kaṁsa's violence described graphically for young children
+
 audience_cautions:
-  - Use approved geography — appearance in Mathurā, childhood in Gokula/Vraja
-  - No invented quotes; age-appropriate narration
+  - No invented sacred dialogue
+  - Age-appropriate delivery
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required

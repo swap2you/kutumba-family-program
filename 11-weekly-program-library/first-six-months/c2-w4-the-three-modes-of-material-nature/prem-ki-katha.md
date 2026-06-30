@@ -13,19 +13,17 @@ katha_type: source-grounded-devotional-narrative
 
 ## 2. Module connection
 
-This katha supports **The Three Modes of Material Nature** and the key verse [14.5](https://vedabase.io/en/library/bg/14/5/).
+Modes are changing influences; describe conditions, not fixed identities.
 
-**Memory line:** Material nature has three modes—goodness, passion and ignorance—that condition the eternal living being.
-
-**Scope boundary:** BG 14.5–9, 14.17–18, 14.26; environment design; clarity before chanting. Exclusions: Labeling people/cultures; food policing; mental-health stereotypes
+**Scope boundary:** Labeling people/cultures; food policing; mental-health stereotypes
 
 ## 3. Primary source references
 
 | Source | Link | Use in katha |
 |---|---|---|
-| BG 14.5 | [https://vedabase.io/en/library/bg/14/5/](https://vedabase.io/en/library/bg/14/5/) | Katha anchor |
-| BG 14.6 | [https://vedabase.io/en/library/bg/14/6/](https://vedabase.io/en/library/bg/14/6/) | Katha anchor |
-| BG 14.7 | [https://vedabase.io/en/library/bg/14/7/](https://vedabase.io/en/library/bg/14/7/) | Katha anchor |
+| BG 14.5 | [vedabase](https://vedabase.io/en/library/bg/14/5/) | Katha anchor |
+| BG 14.6 | [vedabase](https://vedabase.io/en/library/bg/14/6/) | Katha anchor |
+| BG 14.7 | [vedabase](https://vedabase.io/en/library/bg/14/7/) | Katha anchor |
 
 Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.yaml)
 
@@ -33,19 +31,14 @@ Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.
 
 _[Facilitator transition — quiet room, families seated together]_
 
-The same family can experience three very different evenings. On one evening, the room is reasonably clean, the meal is timely, voices are calm, and a short reading feels possible. On another, everyone arrives hungry and irritated, and even a gentle question feels like an attack.
-
-The mood is **sober curiosity** — families willing to hear what Kṛṣṇa and the ācārya paramparā teach without sensationalism.
-
 ## 5. Main personalities
 
-- **Figures from śāstra** — as named in paraphrase below (no invented dialogue)
-- **The family** — listening as Kṛṣṇa's students today
-- **Facilitator** — gentle guide; stops misuse immediately
+- **Figures from śāstra** — as named in paraphrase — no invented dialogue
+- **KUTUMBA families** — listening together today
 
 ## 6. Source-grounded narrative
 
-_[Source narrative / paraphrase — not invented direct quotes]_
+_[Source narrative / paraphrase — not invented dialogue]_
 
 **Paraphrase (source-grounded):** A thoughtful brāhmaṇa in a busy town learned to watch his own day through the lens Kṛṣṇa gives in the Fourteenth Chapter: sometimes clarity and order prevailed; sometimes restlessness and grasping; sometimes fog, delay, and forgetfulness.
 
@@ -53,70 +46,95 @@ _[Source narrative / paraphrase — not invented direct quotes]_
 
 **Paraphrase (source-grounded):** His students learned that modes mix and change, that goodness can still bind through pride, and that devotion beyond the modes is possible through Kṛṣṇa's mercy.
 
+**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to win arguments, but to receive merciful instruction through authorized sources.
+
+**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and turning toward the Lord. This katha supplies that scene for **C2-W4** without inventing dialogue.
+
+**Paraphrase — Bhagavad-gītā 14.5 (application summary):** The verse is not a slogan. It names a distinction families can practice this week: see BG 14.5–9, 14.17–18, 14.26; environment design; clarity before chanting in one honest situation at home.
+
+**Paraphrase — memory line practice:** Repeat together: _Material nature has three modes—goodness, passion and ignorance—that condition the eternal living being._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).
+
+**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through frightening detail or public testing.
+
+**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work) and one private journal sentence — boundaries respected.
+
+**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when wrong, and return to practice next week.
+
+**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does not shut down feeling or professional care when needed.
+
+**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present invented quotes as śāstra or Prabhupāda's exact words.
+
+**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both serve Kṛṣṇa — neither replaces the other.
+
+**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the minimum practice connected to C2-W4.
+
+**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth, not information overload.
+
 ## 7. Turning point
 
-The turning point is **willingness to hear and adjust** — not perfect control of every result. Families turn toward Kṛṣṇa, śāstra, and practical repair.
+Willingness to hear and adjust — turning toward Kṛṣṇa and śāstra together.
 
 ## 8. Central teaching
 
 Material nature has three modes—goodness, passion and ignorance—that condition the eternal living being.
 
+**Memory line:** Material nature has three modes—goodness, passion and ignorance—that condition the eternal living being.
+
 ## 9. Heart reflection
 
 _[60 seconds silence]_
 
-Ask inwardly: "What one action, habit, or attitude is Kṛṣṇa inviting us to refine this week?"
+Ask inwardly: "What one understanding from this katha should not leave me this week?"
 
-Optional: one soft round of mahā-mantra.
+Optional soft chant: one round of the mahā-mantra together.
 
 ## 10. Lāla–Lālī interaction cues
 
-1. **Story picture:** Three weather faces on the wall: clear sky, windy storm, sleepy fog. Teacher tells three mini-stories about the same playroom under each weather face.
-2. **Recall:** I can choose habits that help me hear Kṛṣṇa.
+1. **Chariot/picture cue:** Three weather faces on the wall: clear sky, windy storm, sleepy fog. Teacher tells three mini-stories about the same playroom — tidy and quiet, noisy chase, messy and dark. Children match weather face to room, then do 3-item tidy reset.
+2. **Recall game:** I can choose habits that help me hear Kṛṣṇa.
+3. **Safeguarding:** Never call a child a mode. Weather describes the room, not the person's worth.
 
 ## 11. Kiśora–Kiśorī reflection cues
 
-1. **Journal:** "What part of this katha connects to a real situation I face?"
-2. **Pair share:** "What would blaming or helplessness look like? What would responsibility with Kṛṣṇa look like?"
+1. **Journal prompt:** 'One sentence — how does this katha connect to the key verse and to a situation I face?'
+2. **Pair share:** 'What misconception does this story help correct? What would responsibility with Kṛṣṇa look like?'
+3. **Source note:** Read KUTUMBA summary + VedaBase link — no invented purports in session.
 
 ## 12. Parent bridge
 
-Link to [`family-home-practice.md`](family-home-practice.md) and Clarity Before Chanting in [`bhakti-lab.md`](bhakti-lab.md).
+Parents carry the week's principle into home practice. Link to [`family-home-practice.md`](family-home-practice.md) and Clarity Before Chanting. When children ask hard questions, turn toward śāstra together — permission to not have every answer immediately.
 
 ## 13. Transition to philosophy lesson
 
-_"The katha opened the heart; the lesson trains discernment. Both serve Kṛṣṇa."_
+_"The katha opened the heart; the lesson trains precise understanding. Both serve Kṛṣṇa."_
 
-→ Continue with [`parent-lesson.md`](parent-lesson.md) or age track.
+→ Continue with [`parent-lesson.md`](parent-lesson.md) or age-track lessons.
 
 ## 14. Narration cautions
 
-- Fixed personality typing
-- Cultural or gender mode labels
-- Food shaming
 - Describe room conditions, not people as sattva/rajas/tamas labels
 - Medical diets and allergies are never criticized
-- Do **not** invent direct quotes in "Kṛṣṇa said…" form unless reading authorized text
-- Keep narration within **12–15 minutes** plus interaction
+- Do **not** invent direct quotes in "Kṛṣṇa said…" form unless reading from authorized text
+- Keep total narration within **12–15 minutes** plus interaction
 
 ## 15. Visual / storyboard plan
 
 | Beat | Visual | Source |
 |---|---|---|
-| 1 | Opening hook scenario | opening-hook.md |
-| 2 | Katha narrative beats | prem-ki-katha.md |
-| 3 | Key verse card | https://vedabase.io/en/library/bg/14/5/ |
-| 4 | Home practice | family-home-practice.md |
+| 1 | Opening hook illustration | opening-hook.md |
+| 2 | Katha beat diagram | visuals/concept-map.md |
+| 3 | Key verse card | VedaBase link |
 
 ## 16. Rights and quotation status
 
-- Paraphrase only — no full purports in repository
+- No full purports or book chapters in repository
+- Narrative is **paraphrase** from sources linked above
 - No invented sacred dialogue presented as direct quotation
 
 ## 17. Human doctrinal review status
 
-**Status:** `human-review-required` — see [reviews/DOCTRINAL-REVIEW.md](reviews/DOCTRINAL-REVIEW.md)
+**Status:** `human-review-required` — see [`reviews/DOCTRINAL-REVIEW.md`](reviews/DOCTRINAL-REVIEW.md)
 
 ---
 
-_Modern entry hook (not katha):_ [opening-hook.md](opening-hook.md)
+_Modern entry hook (not katha):_ [`opening-hook.md`](opening-hook.md)

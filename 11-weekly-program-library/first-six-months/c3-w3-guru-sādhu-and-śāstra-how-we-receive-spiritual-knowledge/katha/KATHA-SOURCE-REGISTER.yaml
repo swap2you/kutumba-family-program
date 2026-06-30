@@ -1,35 +1,27 @@
 module_id: C3-W3
-katha_title: "How Nārada instructed dissatisfied Vyāsadeva"
-primary_book: Śrīmad-Bhāgavatam 1.5
-chapter_reference: "SB 1.5 — Nārada instructs Vyāsadeva to directly glorify the Lord"
+katha_title: "Nārada instructs Vyāsa — receiving spiritual knowledge"
+primary_book: ŚB 1.5–1.6
+chapter_reference: "SB 1.5 Vyāsa; SB 1.6 Nārada childhood"
 stable_links:
-  - label: SB 1.5.12
-    url: https://vedabase.io/en/library/sb/1/5/12/
-  - label: SB 1.5.18
-    url: https://vedabase.io/en/library/sb/1/5/18/
-  - label: SB 1.5.19
-    url: https://vedabase.io/en/library/sb/1/5/19/
+  - label: SB 1.5.1
+    url: https://vedabase.io/en/library/sb/1/5/1/
   - label: BG 4.34
     url: https://vedabase.io/en/library/bg/4/34/
-  - label: SB 11.3.21
-    url: https://vedabase.io/en/library/sb/11/3/21/
 exact_verses_used:
   - BG 4.34
-  - SB 1.5.12
-  - SB 1.5.18
 direct_quotations: []
 paraphrased_portions:
-  - Vyāsadeva's dissatisfaction after compiling Mahābhārata (SB 1.4 context — brief paraphrase)
-  - Nārada's instruction to describe the Lord's glories directly (SB 1.5 — paraphrase)
-  - Guru–śāstra harmony — no personality replaces scripture (KUTUMBA teaching bridge)
+  - Vyāsadeva, although the compiler of Vedic literature, felt dissatisfied. Nārada Muni arrived and explained that without 
+  - Nārada received spiritual impression through association with devotees in his early life — showing that knowledge is rec
+  - Learn truth by approaching a spiritual master with humility, relevant inquiry, and service. Guru, sādhu, and śāstra must
 facilitator_transitions:
-  - Respectful, inquisitive mood
+  - Modern family pause before philosophy block
   - Bridge to home practice
 omitted_complex_details:
-  - Do not use SB 1.4.25 as "Nārada receiving Bhāgavatam" — that verse concerns Vyāsa's compassion in Mahābhārata
+
 audience_cautions:
-  - No invented quotes; age-appropriate narration
-  - Follow risks-and-sensitive-points.md
+  - No invented sacred dialogue
+  - Age-appropriate delivery
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required

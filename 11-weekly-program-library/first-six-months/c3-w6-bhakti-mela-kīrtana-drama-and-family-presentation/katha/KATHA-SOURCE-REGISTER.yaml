@@ -1,29 +1,29 @@
 module_id: C3-W6
 katha_title: "Six months of family bhakti — synthesis and offering"
-primary_book: Congregation synthesis (no new principal līlā)
-chapter_reference: "Review: BG 5.29, BG 7.7, BG 4.34, CC Antya 20.12, SB 7.5.23–24"
+primary_book: Cycle 1–3 review
+chapter_reference: "Integration showcase exception"
 stable_links:
   - label: BG 5.29
     url: https://vedabase.io/en/library/bg/5/29/
   - label: BG 7.7
     url: https://vedabase.io/en/library/bg/7/7/
-  - label: BG 4.34
-    url: https://vedabase.io/en/library/bg/4/34/
   - label: SB 7.5.23
     url: https://vedabase.io/en/library/sb/7/5/23/
 exact_verses_used:
-  - Śrīmad-Bhāgavatam 7.5.23–24 (review)
+  - SB 7.5.23
 direct_quotations: []
 paraphrased_portions:
-  - Main narrative from Review: BG 5.29, BG 7.7, BG 4.34, CC Antya 20.12, SB 7.5.23–24 — facilitator paraphrase
+  - **Paraphrase — integration exception (documented):** This module synthesizes prior weeks without introducing a new princ
+  - **Paraphrase — cycle review:** Facilitator recalls memory lines and one family-chosen practice. Scope: Showcase/integrat
+  - **Paraphrase — offering mood:** Families share only with consent — no competition, scoring, or forced testimony.
 facilitator_transitions:
   - Modern family pause before philosophy block
   - Bridge to home practice
 omitted_complex_details:
-  - Portions beyond module scope per complete-week.md exclusions
+
 audience_cautions:
-  - No invented quotes; age-appropriate narration
-  - Integration week: testimonies only with consent; no ranking
+  - No invented sacred dialogue
+  - Age-appropriate delivery
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required
