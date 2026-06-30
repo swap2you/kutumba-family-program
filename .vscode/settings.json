@@ -3,5 +3,10 @@
     "*.md": "vscode.markdown.preview.editor"
   },
   "markdown.validate.enabled": true,
-  "markdown.updateLinksOnFileMove.enabled": "prompt"
+  "markdown.updateLinksOnFileMove.enabled": "prompt",
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.scrollEditorWithPreview": true,
+  "markdown.styles": [
+    ".vscode/kutumba-markdown.css"
+  ]
 }
