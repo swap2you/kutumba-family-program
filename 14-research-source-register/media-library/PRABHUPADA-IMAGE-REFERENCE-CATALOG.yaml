@@ -1,0 +1,13 @@
+catalog_version: "1.0.0"
+authority_tier: A
+discovery_source: https://www.prabhupada.com/Collections/Images.html
+entries:
+  - image_id: SP-IMG-ARCHIVE-INDEX
+    title: Bhaktivedanta Archives Images Collection
+    stable_url: https://www.prabhupada.com/Collections/Images.html
+    type: archival-photograph-index
+    teaching_purpose: visual-plan-reference-only
+    rights_status: permission-required-before-republication
+    review_status: human-review-required
+    last_verified: "2026-06-30"
+    notes: No artwork committed to repository; metadata and link only

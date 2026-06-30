@@ -1,0 +1,20 @@
+catalog_version: "1.0.0"
+authority_tier: B
+discovery_sources:
+  - https://prabhupadavani.org/transcriptions/?type=Conversation
+  - https://vedabase.io/en/library/transcripts/
+entries:
+  - event_id: SP-WALK-INDEX
+    title: Morning walks and conversations (index)
+    date: ""
+    place: ""
+    type: morning-walk
+    speaker: Srila Prabhupada
+    stable_url: https://prabhupadavani.org/transcriptions/?type=Conversation
+    teaching_purpose: discovery-for-module-mapping
+    transcript_availability: prabhupadavani-tier-b
+    canonical_source: vedabase.io
+    mirror_url: https://prabhupadavani.org/transcriptions/?type=Conversation
+    rights_status: link-and-metadata-only
+    review_status: human-review-required
+    last_verified: "2026-06-30"

@@ -1,0 +1,18 @@
+catalog_version: "1.0.0"
+authority_tier: A
+discovery_source: https://vedabase.io/en/library/letters/
+entries:
+  - letter_id: SP-LTR-PLACEHOLDER-INDEX
+    title: VedaBase Letters Library (index)
+    date: ""
+    place: ""
+    type: letter
+    speaker: Srila Prabhupada
+    stable_url: https://vedabase.io/en/library/letters/
+    teaching_purpose: module-specific-letter-selection-pending
+    transcript_availability: vedabase-text
+    canonical_source: vedabase.io
+    rights_status: link-and-metadata-only
+    review_status: human-review-required
+    last_verified: "2026-06-30"
+    notes: Select exact letters per module during human research review
