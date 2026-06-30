@@ -68,7 +68,7 @@ This week teaches one foundational distinction: the **body changes** (childhood,
 | --- | --- |
 | Canonical detailed source | complete |
 | Weekly derivative pack | **enhancement-complete** (pilot) |
-| Automated validation | pending |
+| Automated semantic validation | **PASS** (structural + semantic gates at validated baseline) |
 | Doctrinal review | **required** — [reviews/DOCTRINAL-REVIEW.md](reviews/DOCTRINAL-REVIEW.md) |
 | Safeguarding review | **required** — [reviews/SAFEGUARDING-REVIEW.md](reviews/SAFEGUARDING-REVIEW.md) |
 | Citation audit | **required** — [reviews/CITATION-AUDIT.md](reviews/CITATION-AUDIT.md) |
@@ -77,7 +77,7 @@ This week teaches one foundational distinction: the **body changes** (childhood,
 | Worship review | **required** |
 | Publication | internal-development |
 
-Pilot audit: [17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md](../../17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md)
+Pilot audit: [C1-W2-GOLD-STANDARD-PILOT-AUDIT.md](../../../17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md)
 
 ---
 
@@ -95,7 +95,7 @@ Pilot audit: [17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md](../../17
 - Safeguarding sign-off on case studies and child activities
 - Rights sign-off before any non-Mermaid images enter `visuals/assets/`
 - Gamma decks not yet rendered in Gamma.app
-- Automated semantic validation not yet run
+- Human doctrinal, worship, safeguarding, rights, and pedagogy sign-off still required
 
 ---
 

@@ -80,8 +80,8 @@ if (-not (Test-Path $manifestYaml)) {
         if ($manifestText -notmatch [regex]::Escape($f.Name)) {
             Add-Failure "Unmanifested source file: $($f.Name)"
         }
-        $hashCmd = 'import hashlib,sys; print(hashlib.sha256(open(sys.argv[1],"rb").read()).hexdigest())'
-        $hash = (python -c $hashCmd -- "$($f.FullName)" 2>$null | Out-String).Trim()
+        $hashScript = Join-Path $RepoRoot "scripts\hash_file_sha256.py"
+        $hash = (python $hashScript "$($f.FullName)" 2>$null | Out-String).Trim()
         if (-not $hash) {
             Add-Warning "Could not hash $($f.Name) - skipping hash verify"
             continue

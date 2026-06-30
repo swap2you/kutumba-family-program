@@ -8,7 +8,7 @@
 | BG-2-22 | Bhagavad-gītā | 2.22 | [vedabase.io/.../bg/2/22/](https://vedabase.io/en/library/bg/2/22/) | Garment analogy | Yes | human-review-required |
 | BG-13-1 | Bhagavad-gītā | 13.1 | [vedabase.io/.../bg/13/1/](https://vedabase.io/en/library/bg/13/1/) | Field = body | Yes | human-review-required |
 | BG-13-2 | Bhagavad-gītā | 13.2 | [vedabase.io/.../bg/13/2/](https://vedabase.io/en/library/bg/13/2/) | Knower = living entity | Yes | human-review-required |
-| BG-13-3 | Bhagavad-gītā | 13.3 | [vedabase.io/.../bg/13/3/](https://vedabase.io/en/library/bg/13/3/) | Field description begins | Yes | human-review-required |
+| BG-13-3 | Bhagavad-gītā | 13.3 | [vedabase.io/.../bg/13/3/](https://vedabase.io/en/library/bg/13/3/) | Kṛṣṇa as knower in all bodies; supreme vs. individual knower | Yes | human-review-required |
 | SB-10-84-13 | Śrīmad-Bhāgavatam | 10.84.13 | [vedabase.io/.../sb/10/84/13/](https://vedabase.io/en/library/sb/10/84/13/) | Error of bodily identification | Yes | human-review-required |
 | CC-M-20-108 | Caitanya-caritāmṛta | Madhya 20.108 | [vedabase.io/.../cc/madhya/20/108/](https://vedabase.io/en/library/cc/madhya/20/108/) | Constitutional servant identity | Yes | human-review-required |
 | CC-M-20-109 | Caitanya-caritāmṛta | Madhya 20.109 | [vedabase.io/.../cc/madhya/20/109/](https://vedabase.io/en/library/cc/madhya/20/109/) | Lord Caitanya confirms | Yes | human-review-required |

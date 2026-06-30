@@ -40,7 +40,7 @@ derived_from:
 
 | Field | Detail |
 | --- | --- |
-| **Source status** | Śrīla Prabhupāda pedagogical extension (see lecture index) |
+| **Source status** | KUTUMBA pedagogical analogy (not attributed to Śrīla Prabhupāda — no verified lecture source on file) |
 | **Teaching value** | Clarifies agency: the conscious self uses the body as an instrument |
 | **Limitation** | Vehicle has no independent will; the soul is responsible. Vehicle damage still matters. |
 | **Age suitability** | 9+; simplified for 7–8 with toy car and driver figure |
