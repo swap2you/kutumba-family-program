@@ -1,0 +1,16 @@
+# C3-W1 — Concept Map
+
+```mermaid
+flowchart TB
+    subgraph MODULE["C3-W1"]
+        A["Who Is God? The Supreme Enjoyer, Pr"]
+        B["Key verse: Bhagavad-gītā 5.29"]
+        C["Katha: The gopīs' surrender — Kṛṣṇa a"]
+    end
+    A --> B
+    A --> C
+    B --> D[Memory line]
+    C --> E[Home practice]
+    D --> F[Family character]
+    E --> F
+```

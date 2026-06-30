@@ -1,22 +1,62 @@
 week_code: C3-W5
 claims:
   - claim_id: C3-W5-CLM-001
-    statement: "Give families a broad, scriptural map of devotional service so bhakti is experienced as a whole life of hearing, chantin"
-    claim_type: kutumba-summary
-    vedabase_link: ""
-    audience: all
-    review_required: doctrinal
-    status: draft
-  - claim_id: C3-W5-CLM-002
-    statement: "Key teaching anchored in Śrīmad-Bhāgavatam 7.5.23–24 — śravaṇaṁ kīrtanaṁ viṣṇoḥ smaraṇaṁ pāda-sevanam"
+    statement: "Nine processes offered to Viṣṇu become pure devotional service."
     claim_type: scripture-text
-    vedabase_link: ""
+    primary_source_keys: [ŚB 7.5.23–24]
     audience: all
+    exact_quote: false
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C3-W5-CLM-002
+    statement: "Principal katha is paraphrase from assigned sources — no invented dialogue"
+    claim_type: kutumba-summary
+    primary_source_keys: [ŚB 7.5.23–24]
+    audience: all
+    exact_quote: false
     review_required: doctrinal
     status: human-review-required
   - claim_id: C3-W5-CLM-003
-    statement: "Home practice supports family formation without comparison"
+    statement: "Home practice uses minimum/standard/stretch tiers without public shame"
     claim_type: pedagogical-application
     audience: parent
+    exact_quote: false
     review_required: pedagogy
-    status: draft
+    status: human-review-required
+  - claim_id: C3-W5-CLM-004
+    statement: "KUTUMBA does not replace temple authority or personal guru guidance"
+    claim_type: kutumba-summary
+    primary_source_keys: [BG 4.34 pattern]
+    audience: parent
+    exact_quote: false
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C3-W5-CLM-005
+    statement: "Bhakti laboratory connects katha to embodied practice same session"
+    claim_type: pedagogical-application
+    audience: all
+    exact_quote: false
+    review_required: pedagogy
+    status: human-review-required
+  - claim_id: C3-W5-CLM-006
+    statement: "Contemporary cases CS-01–CS-03 are illustrations — not śāstra"
+    claim_type: contemporary-case
+    primary_source_keys: [ŚB 7.5.23–24]
+    audience: parent
+    exact_quote: false
+    review_required: safeguarding
+    status: human-review-required
+  - claim_id: C3-W5-CLM-007
+    statement: "Age tracks run parallel with reunification via shared-family-transition.md"
+    claim_type: pedagogical-application
+    audience: all
+    exact_quote: false
+    review_required: pedagogy
+    status: human-review-required
+  - claim_id: C3-W5-CLM-008
+    statement: "No false approval or human-review-required on all publication gates"
+    claim_type: kutumba-summary
+    audience: all
+    exact_quote: false
+    review_required: doctrinal
+    status: human-review-required

@@ -1,2 +1,5 @@
 week_code: C3-W2
-images: []
+images:
+  - asset_id: C3-W2-VIS-001
+    file: concept-map.mmd
+    rights_status: kutumba-original

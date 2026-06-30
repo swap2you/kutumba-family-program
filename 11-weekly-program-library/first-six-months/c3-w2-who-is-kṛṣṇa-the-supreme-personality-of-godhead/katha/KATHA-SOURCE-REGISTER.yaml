@@ -1,0 +1,29 @@
+module_id: C3-W2
+katha_title: "Kṛṣṇa's birth in Vṛndāvana"
+primary_book: Śrīmad-Bhāgavatam 10.3
+chapter_reference: "SB 10.3 (selected — birth pastime)"
+stable_links:
+  - label: SB 10.3.1
+    url: https://vedabase.io/en/library/sb/10/3/1/
+  - label: SB 10.3.43
+    url: https://vedabase.io/en/library/sb/10/3/43/
+  - label: BG 7.7
+    url: https://vedabase.io/en/library/bg/7/7/
+  - label: SB 1.3.28
+    url: https://vedabase.io/en/library/sb/1/3/28/
+exact_verses_used:
+  - Bhagavad-gītā 7.7
+direct_quotations: []
+paraphrased_portions:
+  - Main narrative from SB 10.3 (selected — birth pastime) — facilitator paraphrase
+facilitator_transitions:
+  - Modern family pause before philosophy block
+  - Bridge to home practice
+omitted_complex_details:
+  - Portions beyond module scope per complete-week.md exclusions
+audience_cautions:
+  - No invented quotes; age-appropriate narration
+  - Follow risks-and-sensitive-points.md
+doctrinal_reviewer: pending
+rights_status: scripture-reference-links-only
+approval_status: human-review-required

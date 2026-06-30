@@ -1,70 +1,91 @@
 ---
 week_code: C3-W3
-week_title: Guru, Sādhu and Śāstra: How We Receive Spiritual Knowledge
-age_band: lala-lali
-ages: 4-8
+week_title: Guru, Sādhu and Śāstra
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Guru, Sādhu and Śāstra
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "We learn with humility from guru, sādhu and śāstra."  
+**Sanskrit phrase:** tad viddhi praṇipātena  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Three helpers picture: sacred book, trustworthy devotee and teacher who follows the book.
+## Core track — ages 4–6 (default delivery)
 
-- Follow-the-map game with visible route and adult guide.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Nārada receives the Bhāgavatam (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Practice asking: ‘Can you show me where this comes from?’
+### Story (8–10 min)
 
-- Safety truth: tell parents or designated adults if any adult asks for secrecy or makes you unsafe.
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "We learn with humility from guru, sādhu and śāstra."
 
-- Guru–sādhu–śāstra triangle puzzle.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Source sorting: book quote, teacher explanation, made-up claim and internet rumor.
+### Movement game
 
-- Write one respectful spiritual question.
+Four corners or relay aligned with `Three lamps — guru, sādhu, śāstra`. Two adults in visible space.
 
-- Learn that respect never means hiding unsafe behavior.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Read BG 4.34 and discuss difference between inquiry and argument for ego.
+---
 
-- Analyze authority claims: title, popularity, behavior, source consistency and accountability.
+## Extension — ages 7–8
 
-- Practice verifying a quote in an assigned primary source.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: tad viddhi praṇipātena |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Review digital and child-safety boundaries with spiritual teachers and mentors.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Guru–sādhu–śāstra triangle puzzle.
+## Facilitator cautions
 
-- Source sorting: book quote, teacher explanation, made-up claim and internet rumor.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Write one respectful spiritual question.
+## Materials
 
-- Learn that respect never means hiding unsafe behavior.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Read BG 4.34 and discuss difference between inquiry and argument for ego.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Analyze authority claims: title, popularity, behavior, source consistency and accountability.
+## Timing checklist for facilitators
 
-- Practice verifying a quote in an assigned primary source.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Review digital and child-safety boundaries with spiritual teachers and mentors.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

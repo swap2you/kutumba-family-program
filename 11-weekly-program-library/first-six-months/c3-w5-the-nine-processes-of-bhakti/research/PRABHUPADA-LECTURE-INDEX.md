@@ -1,5 +1,8 @@
-# PRABHUPADA LECTURE INDEX
+# C3-W5 Prabhupāda Lecture Index
 
-Module: C3-W5
+| Topic | Suggested search | Status |
+| --- | --- | --- |
+| The Nine Processes of Bhakti | VedaBase lecture search — Śrīmad-Bhāgavatam 7.5.23–24 | reference-only |
+| Module katha | SB 7.5.23–24 (Prahlāda's instruction) | reference-only |
 
-_Status: pending enhancement_
+Facilitators use VedaBase for prep; no audio files committed to Git.

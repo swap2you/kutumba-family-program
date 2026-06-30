@@ -1,0 +1,27 @@
+module_id: C3-W5
+katha_title: "Prahlāda's nine processes of devotion"
+primary_book: Śrīmad-Bhāgavatam 7.5
+chapter_reference: "SB 7.5.23–24 (Prahlāda's instruction)"
+stable_links:
+  - label: SB 7.5.23
+    url: https://vedabase.io/en/library/sb/7/5/23/
+  - label: SB 7.5.24
+    url: https://vedabase.io/en/library/sb/7/5/24/
+  - label: BG 9.14
+    url: https://vedabase.io/en/library/bg/9/14/
+exact_verses_used:
+  - Śrīmad-Bhāgavatam 7.5.23–24
+direct_quotations: []
+paraphrased_portions:
+  - Main narrative from SB 7.5.23–24 (Prahlāda's instruction) — facilitator paraphrase
+facilitator_transitions:
+  - Modern family pause before philosophy block
+  - Bridge to home practice
+omitted_complex_details:
+  - Portions beyond module scope per complete-week.md exclusions
+audience_cautions:
+  - No invented quotes; age-appropriate narration
+  - Follow risks-and-sensitive-points.md
+doctrinal_reviewer: pending
+rights_status: scripture-reference-links-only
+approval_status: human-review-required

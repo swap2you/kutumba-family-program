@@ -1,5 +1,8 @@
-# PRABHUPADA LECTURE INDEX
+# C3-W4 Prabhupāda Lecture Index
 
-Module: C3-W4
+| Topic | Suggested search | Status |
+| --- | --- | --- |
+| Śrī Caitanya Mahāprabhu and the Holy Nam | VedaBase lecture search — Caitanya-caritāmṛta Antya 20.12 (Śikṣāṣṭakam 1) | reference-only |
+| Module katha | CC Ādi 7.163; Ādi 17.21 (selected) | reference-only |
 
-_Status: pending enhancement_
+Facilitators use VedaBase for prep; no audio files committed to Git.

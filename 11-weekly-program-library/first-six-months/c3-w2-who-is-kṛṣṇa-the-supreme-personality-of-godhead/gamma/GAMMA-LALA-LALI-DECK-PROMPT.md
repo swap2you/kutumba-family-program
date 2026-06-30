@@ -1,8 +1,43 @@
-# Gamma lala-lali deck — C3-W2
+# Gamma Prompt — C3-W2 Lāla–Lālī Deck
 
-1. Title card
-2. Essential question
-3. Key verse (reference link)
-4. KUTUMBA summary
-5. Family practice
-6. Sources card
+10 cards · large text · no frightening imagery
+
+### Card 1
+**Content:** Who Is Kṛṣṇa? The Supreme Personality of Godhead — Lāla–Lālī
+**Visual:** bright, simple
+
+### Card 2
+**Content:** Story time!
+**Visual:** bright, simple
+
+### Card 3
+**Content:** There is no truth superior to Kṛṣṇa; everything rests upon Him like pearls on a 
+**Visual:** bright, simple
+
+### Card 4
+**Content:** Wonder question
+**Visual:** bright, simple
+
+### Card 5
+**Content:** Movement game
+**Visual:** bright, simple
+
+### Card 6
+**Content:** Kind action at home
+**Visual:** bright, simple
+
+### Card 7
+**Content:** Draw or craft
+**Visual:** bright, simple
+
+### Card 8
+**Content:** Recall together
+**Visual:** bright, simple
+
+### Card 9
+**Content:** Thank Kṛṣṇa
+**Visual:** bright, simple
+
+### Card 10
+**Content:** See you next week!
+**Visual:** bright, simple

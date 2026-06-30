@@ -1,22 +1,68 @@
-# Research Dossier — C3-W4
+# C3-W4 Research Dossier — Śrī Caitanya Mahāprabhu and the Holy Name
 
 ## Module identity
 
-- **Module ID:** C3-W4
-- **Title:** Śrī Caitanya Mahāprabhu and the Holy Name
-- **Essential question:** What does this module establish for family formation?
-- **Controlling principle:** Introduce Śrī Caitanya Mahāprabhu’s gift of congregational chanting and help families experience attentive, humble and joyful nāma practice without performance pressure or claims of advanced realization.
-- **Scope:** Per monolith `complete-week.md`
-- **Explicit exclusions:** Topics assigned to later modules — see `MISCONCEPTIONS-AND-BOUNDARIES.md`
+| Field | Detail |
+| --- | --- |
+| **Module ID** | C3-W4 |
+| **Title** | Śrī Caitanya Mahāprabhu and the Holy Name |
+| **Cycle** | Cycle 3 — Kṛṣṇa, Guru and the Process of Bhakti |
+| **Essential question** | What does this module establish for family formation? |
+| **Controlling principle** | Per `complete-week.md` Purpose field |
+| **Key verse** | CC Antya 20.12 |
+| **Memory line** | The holy name cleanses the heart when heard with attention. |
 
 ## Source hierarchy
 
-Tier 1 VedaBase references only in Git. KUTUMBA summaries — not full purports.
+1. Tier 1: Bhagavad-gītā, Śrīmad-Bhāgavatam, Caitanya-caritāmṛta (VedaBase links)
+2. Tier 1: Verified Śrīla Prabhupāda lectures in [PRABHUPADA-LECTURE-INDEX.md](PRABHUPADA-LECTURE-INDEX.md)
+3. Pedagogy: KUTUMBA analogies (clearly tagged)
+4. Blocked: unattributed quote sites, AI-only authority
 
-## Key verse
+## Primary source matrix
 
-Caitanya-caritāmṛta Antya 20.12 — Śikṣāṣṭakam 1 — ceto-darpaṇa-mārjanaṁ ... paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam
+See [SOURCE-MATRIX.md](SOURCE-MATRIX.md).
 
-## Human review
+## Research questions answered
 
-doctrinal, safeguarding, worship — required
+| # | Question | Answer (summary) |
+| --- | --- | --- |
+| 1 | Primary scriptural anchor? | CC Antya 20.12 — see VERSE-AND-REFERENCE-STUDY.md |
+| 2 | Principal katha? | prem-ki-katha.md + KATHA-SOURCE-REGISTER.yaml |
+| 3 | Misconceptions? | MISCONCEPTIONS-AND-BOUNDARIES.md |
+| 4 | Family applications? | CONTEMPORARY-APPLICATIONS.md CS-01–CS-03 |
+| 5 | Parent practice? | family-home-practice.md + bhakti-lab.md |
+| 6 | Lāla–Lālī capacity? | Timed lesson — story, movement, recall |
+| 7 | Kiśora–Kiśorī capacity? | Text observation, case, writing |
+| 8 | Visual needs? | visuals/VISUAL-PLAN.md + Mermaid sources |
+| 9 | Gamma outputs? | gamma/GAMMA-MASTER-DECK-BRIEF.md |
+| 10 | Integration boundaries? | complete-week.md exclusions |
+
+## Key distinctions
+
+- **Source vs opinion** — guru–sādhu–śāstra harmony
+- **Practice vs performance** — especially kīrtana and mela weeks
+- **Stewardship vs neglect** — C3-W1 proprietor teaching
+
+## Misconceptions and boundaries
+
+→ [MISCONCEPTIONS-AND-BOUNDARIES.md](MISCONCEPTIONS-AND-BOUNDARIES.md)
+
+## Contemporary applications
+
+→ [CONTEMPORARY-APPLICATIONS.md](CONTEMPORARY-APPLICATIONS.md)
+
+## Audience implications
+
+| Audience | Implication |
+| --- | --- |
+| **Parent** | 40-min plan with case studies |
+| **Lāla–Lālī** | Timed 40-min track; no frightening imagery |
+| **Kiśora–Kiśorī** | Text work, case, optional writing |
+
+## Open questions
+
+- Human reviewer to confirm verse numbering matches congregation edition
+- Sign claim register after doctrinal review
+
+_Status: enhancement-complete — pending human review_

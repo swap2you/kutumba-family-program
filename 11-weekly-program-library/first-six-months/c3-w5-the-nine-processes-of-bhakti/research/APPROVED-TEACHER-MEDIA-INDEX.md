@@ -1,5 +1,7 @@
-# APPROVED TEACHER MEDIA INDEX
+# C3-W5 Approved Teacher Media Index
 
-Module: C3-W5
+**Status:** empty pending authorized catalog entries.
 
-_Status: pending enhancement_
+See `14-research-source-register/media-library/APPROVED-TEACHER-CATALOG.yaml` when populated.
+
+No inferred or partial teacher names in Git.

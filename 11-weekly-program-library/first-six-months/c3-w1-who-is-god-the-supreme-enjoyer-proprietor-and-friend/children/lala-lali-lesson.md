@@ -1,70 +1,91 @@
 ---
 week_code: C3-W1
 week_title: Who Is God? The Supreme Enjoyer, Proprietor and Friend
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Who Is God? The Supreme Enjoyer, Proprietor and Friend
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "Kṛṣṇa is the enjoyer, proprietor and friend."  
+**Sanskrit phrase:** bhoktāraṁ yajña-tapasām  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Shared basket activity: materials belong to Kṛṣṇa and are cared for by everyone.
+## Core track — ages 4–6 (default delivery)
 
-- Three-picture chant: Kṛṣṇa receives, Kṛṣṇa owns, Kṛṣṇa is friend.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Gopīs' surrender — everything belongs to Kṛṣṇa (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Practice offering a flower or drawing with love, without teaching unapproved ritual details.
+### Story (8–10 min)
 
-- Stewardship job: return one item clean and complete.
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "Kṛṣṇa is the enjoyer, proprietor and friend."
 
-- Peace-formula triangle labeled Enjoyer, Proprietor and Friend.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Scenario sort: grabbing, wasting, sharing, caring and offering.
+### Movement game
 
-- Discuss why ‘Kṛṣṇa owns it’ means greater care, not careless use.
+Four corners or relay aligned with `Stewardship vs. ownership fight`. Two adults in visible space.
 
-- Write one gratitude note for an entrusted resource.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Read BG 5.29 and explain why each feature matters for peace.
+---
 
-- Analyze creator, owner and user claims in digital content or group projects.
+## Extension — ages 7–8
 
-- Discuss the difference between God as person and God as only energy.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: bhoktāraṁ yajña-tapasām |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Apply stewardship to money, talent, time or environmental care.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Peace-formula triangle labeled Enjoyer, Proprietor and Friend.
+## Facilitator cautions
 
-- Scenario sort: grabbing, wasting, sharing, caring and offering.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Discuss why ‘Kṛṣṇa owns it’ means greater care, not careless use.
+## Materials
 
-- Write one gratitude note for an entrusted resource.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Read BG 5.29 and explain why each feature matters for peace.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Analyze creator, owner and user claims in digital content or group projects.
+## Timing checklist for facilitators
 
-- Discuss the difference between God as person and God as only energy.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Apply stewardship to money, talent, time or environmental care.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

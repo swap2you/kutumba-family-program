@@ -1,70 +1,91 @@
 ---
 week_code: C3-W5
 week_title: The Nine Processes of Bhakti
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — The Nine Processes of Bhakti
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "Hearing and chanting are the most important."  
+**Sanskrit phrase:** śravaṇaṁ kīrtanaṁ  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Nine-process action circle with picture icons and simple gestures.
+## Core track — ages 4–6 (default delivery)
 
-- Prahlāda story focus: he remembers and speaks about Kṛṣṇa.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Prahlāda's nine processes (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Choose a favorite process picture and perform one safe action.
+### Story (8–10 min)
 
-- Make a nine-petal flower craft with adult help.
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "Hearing and chanting are the most important."
 
-- Match nine processes with famous examples from the purport at recognition level.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Bhakti charades using only respectful actions.
+### Movement game
 
-- Design a three-item family bhakti menu.
+Four corners or relay aligned with `Nine-step procession cards`. Two adults in visible space.
 
-- Practice the first line of the verse by rhythm and gesture.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Read ŚB 7.5.23–24 and categorize processes as receiving, expressing, serving and relating while noting overlap.
+---
 
-- Analyze why a process needs Kṛṣṇa-centered object and intention.
+## Extension — ages 7–8
 
-- Discuss one-process perfection without using it as an excuse to avoid other duties.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: śravaṇaṁ kīrtanaṁ |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Take responsibility for one trained service in the integration week.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Match nine processes with famous examples from the purport at recognition level.
+## Facilitator cautions
 
-- Bhakti charades using only respectful actions.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Design a three-item family bhakti menu.
+## Materials
 
-- Practice the first line of the verse by rhythm and gesture.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Read ŚB 7.5.23–24 and categorize processes as receiving, expressing, serving and relating while noting overlap.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Analyze why a process needs Kṛṣṇa-centered object and intention.
+## Timing checklist for facilitators
 
-- Discuss one-process perfection without using it as an excuse to avoid other duties.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Take responsibility for one trained service in the integration week.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

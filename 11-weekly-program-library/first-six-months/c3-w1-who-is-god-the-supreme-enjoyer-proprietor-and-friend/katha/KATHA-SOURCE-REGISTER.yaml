@@ -1,0 +1,27 @@
+module_id: C3-W1
+katha_title: "The gopīs' surrender — Kṛṣṇa as supreme proprietor"
+primary_book: Śrīmad-Bhāgavatam 10.14
+chapter_reference: "SB 10.14 (selected — gopīs' prayers)"
+stable_links:
+  - label: SB 10.14.7
+    url: https://vedabase.io/en/library/sb/10/14/7/
+  - label: SB 10.14.8
+    url: https://vedabase.io/en/library/sb/10/14/8/
+  - label: BG 5.29
+    url: https://vedabase.io/en/library/bg/5/29/
+exact_verses_used:
+  - Bhagavad-gītā 5.29
+direct_quotations: []
+paraphrased_portions:
+  - Main narrative from SB 10.14 (selected — gopīs' prayers) — facilitator paraphrase
+facilitator_transitions:
+  - Modern family pause before philosophy block
+  - Bridge to home practice
+omitted_complex_details:
+  - Portions beyond module scope per complete-week.md exclusions
+audience_cautions:
+  - No invented quotes; age-appropriate narration
+  - Follow risks-and-sensitive-points.md
+doctrinal_reviewer: pending
+rights_status: scripture-reference-links-only
+approval_status: human-review-required

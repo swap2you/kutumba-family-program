@@ -1,70 +1,91 @@
 ---
 week_code: C3-W4
 week_title: Śrī Caitanya Mahāprabhu and the Holy Name
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Śrī Caitanya Mahāprabhu and the Holy Name
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "The holy name brings joy when we chant together."  
+**Sanskrit phrase:** Hare Kṛṣṇa  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Mirror cleaning demonstration with a safely smudged acrylic mirror.
+## Core track — ages 4–6 (default delivery)
 
-- Pañca-tattva picture introduction and call-and-response names.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Lord Caitanya's kīrtana (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Animal movement kīrtana inspired by Jharikhaṇḍa, kept orderly and brief.
+### Story (8–10 min)
 
-- Listening game: raise a hand when the full mahā-mantra ends.
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "The holy name brings joy when we chant together."
 
-- Sequence Lord Caitanya’s gift: chant, hear, cleanse, remember, share.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Kīrtana role cards: leader, responder, kartāl support, respectful listener and space helper.
+### Movement game
 
-- Attention bead: move one bead after hearing one complete mantra.
+Four corners or relay aligned with `Call-and-response kīrtana circle`. Two adults in visible space.
 
-- Discuss why skill and devotion are not the same measurement.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Read the English meaning of Śikṣāṣṭakam 1 and interpret the three main images.
+---
 
-- Analyze performance motives in music and social media without judging individuals.
+## Extension — ages 7–8
 
-- Practice leading two moderate call-and-response mantras with a clear ending.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: Hare Kṛṣṇa |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Create an attention-recovery plan for japa or kīrtana.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Sequence Lord Caitanya’s gift: chant, hear, cleanse, remember, share.
+## Facilitator cautions
 
-- Kīrtana role cards: leader, responder, kartāl support, respectful listener and space helper.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Attention bead: move one bead after hearing one complete mantra.
+## Materials
 
-- Discuss why skill and devotion are not the same measurement.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Read the English meaning of Śikṣāṣṭakam 1 and interpret the three main images.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Analyze performance motives in music and social media without judging individuals.
+## Timing checklist for facilitators
 
-- Practice leading two moderate call-and-response mantras with a clear ending.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Create an attention-recovery plan for japa or kīrtana.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

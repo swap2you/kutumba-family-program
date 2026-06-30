@@ -1,2 +1,33 @@
 week_code: C3-W4
-media: []
+media:
+  - media_id: C3-W4-MEDIA-001
+    type: gamma-deck-parent
+    title: "C3-W4 Parent Deck"
+    location: gamma/GAMMA-PARENT-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+
+  - media_id: C3-W4-MEDIA-002
+    type: gamma-deck-lala-lali
+    title: "C3-W4 Lāla–Lālī Deck"
+    location: gamma/GAMMA-LALA-LALI-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+
+  - media_id: C3-W4-MEDIA-003
+    type: gamma-deck-kisora-kisori
+    title: "C3-W4 Kiśora–Kiśorī Deck"
+    location: gamma/GAMMA-KISORA-KISORI-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+
+  - media_id: C3-W4-MEDIA-004
+    type: scripture-reference
+    title: "Caitanya-caritāmṛta Antya 20.12 (Śikṣāṣṭakam 1)"
+    stable_url: "https://vedabase.io/en/library/cc/antya/20/12/"
+    status: reference-only
+    rights_status: vedabase-link
+
+approved_teacher_media: []
+
+notes: "No video files in repository. Katha: Lord Caitanya's kīrtana at Navadvīpa"

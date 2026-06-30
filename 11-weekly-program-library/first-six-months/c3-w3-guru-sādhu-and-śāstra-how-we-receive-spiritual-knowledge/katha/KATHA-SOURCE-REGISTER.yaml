@@ -1,0 +1,29 @@
+module_id: C3-W3
+katha_title: "How Nārada received the Bhāgavatam"
+primary_book: Śrīmad-Bhāgavatam 1.1 / 1.4
+chapter_reference: "SB 1.1 and 1.4 (selected — paramparā)"
+stable_links:
+  - label: SB 1.1.1
+    url: https://vedabase.io/en/library/sb/1/1/1/
+  - label: SB 1.4.25
+    url: https://vedabase.io/en/library/sb/1/4/25/
+  - label: BG 4.34
+    url: https://vedabase.io/en/library/bg/4/34/
+  - label: SB 11.3.21
+    url: https://vedabase.io/en/library/sb/11/3/21/
+exact_verses_used:
+  - Bhagavad-gītā 4.34
+direct_quotations: []
+paraphrased_portions:
+  - Main narrative from SB 1.1 and 1.4 (selected — paramparā) — facilitator paraphrase
+facilitator_transitions:
+  - Modern family pause before philosophy block
+  - Bridge to home practice
+omitted_complex_details:
+  - Portions beyond module scope per complete-week.md exclusions
+audience_cautions:
+  - No invented quotes; age-appropriate narration
+  - Follow risks-and-sensitive-points.md
+doctrinal_reviewer: pending
+rights_status: scripture-reference-links-only
+approval_status: human-review-required

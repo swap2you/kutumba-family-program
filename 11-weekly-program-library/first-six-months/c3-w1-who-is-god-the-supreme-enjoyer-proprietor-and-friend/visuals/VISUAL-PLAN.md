@@ -1,8 +1,22 @@
-# Visual Plan — C3-W1
+# C3-W1 Visual Plan
 
-| Visual | Type | Audience | Rights |
-| --- | --- | --- | --- |
-| Concept map | Mermaid `concept-map.mmd` | all | original |
-| Session flow | Mermaid `process-flow.mmd` | facilitator | original |
+## Design principles
 
-No BBT artwork in Git. Placeholders for photos: `rights-status: pending`.
+- Mermaid sources in git — no BBT copyrighted images
+- Render via [`concept-map.md`](concept-map.md) and [`process-flow.md`](process-flow.md)
+
+## Visual inventory
+
+| # | Visual | File | Audience | Purpose |
+| --- | --- | --- | --- | --- |
+| 1 | Module concept map | concept-map.mmd | All | Key verse + katha + practice |
+| 2 | Session flow | process-flow.mmd | Facilitator | Hook → katha → lab → home |
+| 3 | Gamma placeholders | ../gamma/ | All | Deck integration |
+
+## Gamma integration
+
+See [`../gamma/GAMMA-MASTER-DECK-BRIEF.md`](../gamma/GAMMA-MASTER-DECK-BRIEF.md).
+
+## Image rights
+
+[`image-rights-register.yaml`](image-rights-register.yaml)

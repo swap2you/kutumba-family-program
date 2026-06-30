@@ -1,70 +1,91 @@
 ---
 week_code: C3-W6
-week_title: Bhakti Mela: Kīrtana, Drama and Family Presentation
-age_band: lala-lali
-ages: 4-8
+week_title: Bhakti Mela — Integration and Family Presentation
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Bhakti Mela — Integration and Family Presentation
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "We serve Kṛṣṇa together with joy."  
+**Sanskrit phrase:** Hare Kṛṣṇa  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Join a short procession of nine-process icons.
+## Core track — ages 4–6 (default delivery)
 
-- Participate in two simple call-and-response mantras.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Family garden drama — nine processes (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Act one safe role in a brief Govardhana or ‘family garden’ drama.
+### Story (8–10 min)
 
-- Place a sticker on daily, weekly and monthly family practice pictures.
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "We serve Kṛṣṇa together with joy."
 
-- Present a nine-process petal, verse picture or Kṛṣṇa-quality card.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Complete a source-and-analogy treasure trail.
+### Movement game
 
-- Serve in welcome, materials or cleanup with adult oversight.
+Four corners or relay aligned with `Bhakti Mela procession and roles`. Two adults in visible space.
 
-- Help create the thirty-day family baseline poster.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Lead one supervised station, two-minute kīrtana segment or source-based explanation.
+---
 
-- Perform a misconception-repair drama involving guru authority, mode labels or kīrtana competition.
+## Extension — ages 7–8
 
-- Assist younger children without taking responsibility for discipline or safety.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: Hare Kṛṣṇa |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Write a personal service intention aligned with the family baseline.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Present a nine-process petal, verse picture or Kṛṣṇa-quality card.
+## Facilitator cautions
 
-- Complete a source-and-analogy treasure trail.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Serve in welcome, materials or cleanup with adult oversight.
+## Materials
 
-- Help create the thirty-day family baseline poster.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Lead one supervised station, two-minute kīrtana segment or source-based explanation.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Perform a misconception-repair drama involving guru authority, mode labels or kīrtana competition.
+## Timing checklist for facilitators
 
-- Assist younger children without taking responsibility for discipline or safety.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Write a personal service intention aligned with the family baseline.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.

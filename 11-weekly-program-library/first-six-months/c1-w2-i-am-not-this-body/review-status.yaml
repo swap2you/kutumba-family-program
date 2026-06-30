@@ -13,7 +13,9 @@ newcomer_adaptation: complete
 visual_plan: complete
 gamma_prompts: complete
 cycle_project: complete
-automated_semantic_validation: pending
+prem_ki_katha: complete
+opening_hook: complete
+automated_semantic_validation: pass
 doctrinal_review: required
 worship_review: required
 safeguarding_review: required
@@ -23,4 +25,5 @@ citation_audit: required
 publication_status: internal-development
 pilot_quality_gate: pass-pending-human-review
 enhancement_date: 2026-06-30
-enhancement_version: "3.0.0"
+enhancement_version: "3.0.1"
+notes: Gold-standard depth verified by sync_gold_review_status.py; human reviews still required.

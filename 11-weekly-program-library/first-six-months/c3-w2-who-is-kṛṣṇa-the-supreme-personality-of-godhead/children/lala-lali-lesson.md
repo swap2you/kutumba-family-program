@@ -1,70 +1,91 @@
 ---
 week_code: C3-W2
 week_title: Who Is Kṛṣṇa? The Supreme Personality of Godhead
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Who Is Kṛṣṇa? The Supreme Personality of Godhead
 
-## Core (ages 4–6)
+**Total time:** 40 minutes  
+**Memory line:** "Kṛṣṇa is the Supreme Person we can love."  
+**Sanskrit phrase:** mattaḥ parataraṁ nānyat  
+**No frightening death imagery.**
 
-### Age 4-6
+---
 
-- Tell Govardhana-līlā using authorized, simple details and a felt-board or figures.
+## Core track — ages 4–6 (default delivery)
 
-- Quality cards: strong, protective, playful, loving and all-attractive.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening song; recall prior week if applicable; show theme card |
+| 5–15 min | **Story** — Kṛṣṇa's birth in Vṛndāvana (8 min + wonder questions) |
+| 15–22 min | Movement game tied to module theme |
+| 22–28 min | Craft or sorting activity |
+| 28–32 min | **Movement break** — stretch and breathe |
+| 32–36 min | Verse rhythm — call and response for memory line |
+| 36–40 min | Recall + hand on heart; → `shared-family-transition.md` |
 
-- Pearl necklace demonstration with visible thread.
+### Story (8–10 min)
 
-- Recall: ‘Kṛṣṇa is the Supreme Lord and protects His devotees.’
+Facilitator tells using picture cards (paraphrase from `prem-ki-katha.md` — no invented dialogue):
 
-### Age 7-9
+> Opening scene from katha. Child-friendly wonder: "What did they learn?"  
+> Connect to memory line: "Kṛṣṇa is the Supreme Person we can love."
 
-- Sequence Govardhana events and identify what each event shows about Kṛṣṇa.
+**Wonder questions:** What changed? What stayed the same? How can our family practice this?
 
-- Read the English memory line of BG 7.7 and build a pearl-thread craft.
+### Movement game
 
-- Sort claims into verse-supported, story-supported and invented.
+Four corners or relay aligned with `Pearls on a thread — all rests on Kṛṣṇa`. Two adults in visible space.
 
-- Choose one Kṛṣṇa name and write its remembered quality.
+### Craft
 
-### Age 10-13
+Module-specific art: label memory line; take home one item for family altar area.
 
-- Compare the claims of BG 7.7, BG 10.8 and ŚB 1.3.28.
+---
 
-- Discuss why extraordinary childhood pastimes do not make Kṛṣṇa an ordinary mythic hero.
+## Extension — ages 7–8
 
-- Analyze respectful conviction versus aggressive debate and vague relativism.
+| Time | Activity |
+| --- | --- |
+| 5–12 min | Sequence cards — order story beats from katha |
+| 12–20 min | Sorting: "helps our bhakti" / "needs a boundary" |
+| 20–28 min | Bookmark or ticket for home practice trigger |
+| 28–35 min | Sanskrit phrase echo: mattaḥ parataraṁ nānyat |
+| 35–40 min | Pair share one kind action; reunite families |
 
-- Prepare a two-minute authorized pastime retelling with source, principle and application.
+### Extension sorting
 
-## Extension (ages 7–8)
+Use activities from `complete-week.md` age 7–9 list — adapted for 7–8 only (not duplicated in core).
 
-### Age 7-9
+---
 
-- Sequence Govardhana events and identify what each event shows about Kṛṣṇa.
+## Facilitator cautions
 
-- Read the English memory line of BG 7.7 and build a pearl-thread craft.
+- No frightening death imagery.
+- No public comparison between children.
+- Two-adult coverage in visible space.
 
-- Sort claims into verse-supported, story-supported and invented.
+## Materials
 
-- Choose one Kṛṣṇa name and write its remembered quality.
+See `materials.md` — Lāla–Lālī section.
 
-### Age 10-13
+## Sources
 
-- Compare the claims of BG 7.7, BG 10.8 and ŚB 1.3.28.
+- `prem-ki-katha.md`
+- Key verse link in `research/VERSE-AND-REFERENCE-STUDY.md`
 
-- Discuss why extraordinary childhood pastimes do not make Kṛṣṇa an ordinary mythic hero.
+## Timing checklist for facilitators
 
-- Analyze respectful conviction versus aggressive debate and vague relativism.
+| Minute | Checkpoint |
+| --- | --- |
+| 5 | All children seated; story begins |
+| 15 | Wonder questions complete |
+| 28 | Craft or sorting in progress |
+| 36 | Recall line practiced twice |
+| 40 | Transition to shared-family-transition.md |
 
-- Prepare a two-minute authorized pastime retelling with source, principle and application.
+## Volunteer briefing
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+Confirm two adults in visible space. No comparison between children. Route upset children to quiet corner with second adult.
