@@ -1,8 +1,8 @@
 ﻿# Validation Report
 
-Generated: 2026-06-30T12:01:54
+Generated: 2026-06-30T13:34:56
 Validated against branch: main
-Validated against HEAD: 11ec2ea8b72be3cb78d3cc7854c014cc47a398ef
+Validated against HEAD: f46910a95d3407a54660f49ba59ba03738e60ef5
 
 ## Verdict
 
@@ -11,9 +11,9 @@ Validated against HEAD: 11ec2ea8b72be3cb78d3cc7854c014cc47a398ef
 ## Summary
 
 - Critical failures: 0
-- Warnings: 13
+- Warnings: 15
 - Weekly folders: 18
-- Broken links (sampled): 1
+- Broken links (sampled): 53
 
 ## Privacy note
 
@@ -25,16 +25,18 @@ Automated heuristic checks passed; human review remains required.
 
 ## Warnings
 
-- Could not hash KUTUMBA Master Operating Model.docx - skipping hash verify
-- Could not hash KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.docx - skipping hash verify
-- Could not hash KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.pdf - skipping hash verify
-- Could not hash KUTUMBA_Three-Year_Curriculum_Architecture_v1.0.docx - skipping hash verify
-- Could not hash KUTUMBA_First_Six_Month_Detailed_Curriculum.docx - skipping hash verify
-- Could not hash KUTUMBA_First_Six_Month_Detailed_Curriculum.pdf - skipping hash verify
-- Could not hash KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.docx - skipping hash verify
-- Could not hash KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.pdf - skipping hash verify
-- Could not hash KUTUMBA_Parent_Formation_and_Family_Care_Operating_Model_v1.0.docx - skipping hash verify
-- Could not hash KUTUMBA_Prasada_Hospitality_Weekly_Operations_Manual.docx - skipping hash verify
-- Could not hash KUTUMBA_Chat_7_Kirtana_Worship_Prayers_Bhakti_Laboratories_Operating_Manual.docx - skipping hash verify
-- Could not hash KUTUMBA_Chat_8_Festivals_Yatras_Outdoor_Calendar_Working_Framework.docx - skipping hash verify
-- Broken link in README.md: ../../17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md
+- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c2-w5-mÄyÄ-decorating-the-prison-cell/README.md
+- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c3-w2-who-is-ká¹›á¹£á¹‡a-the-supreme-personality-of-godhead/README.md
+- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c3-w3-guru-sÄdhu-and-Å›Ästra-how-we-receive-spiritual-knowledge/README.md
+- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c3-w4-Å›rÄ«-caitanya-mahÄprabhu-and-the-holy-name/README.md
+- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c3-w6-bhakti-mela-kÄ«rtana-drama-and-family-presentation/README.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/parent-lesson.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/children/lala-lali-lesson.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/children/kisora-kisori-lesson.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/prem-ki-katha.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/opening-hook.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/visuals/VISUAL-PLAN.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/gamma/GAMMA-MASTER-DECK-BRIEF.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/project/MODULE-PROJECT-BRIEF.md
+- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/review-status.yaml
+- Broken link in CYCLE-3-READER.md: c3-w2-who-is-ká¹›á¹£á¹‡a-the-supreme-personality-of-godhead/parent-lesson.md

@@ -4,27 +4,25 @@
 
 - Overall verdict: **GO WITH CONDITIONS**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **Curriculum enhancement v3.0 — COMPLETE; independent review COMPLETE**
-- Independent verdict: **GO WITH CONDITIONS**
-- Prior phase: Repository completion and quality hardening — COMPLETE
-- Baseline commit (enhancement start): `3ceb46b`
+- Current phase: **Post-audit remediation — COMPLETE**
+- Prior phase: Curriculum enhancement v3.0 + independent review — COMPLETE
 - Status generated: 2026-06-30
-- Status verified against branch: `main` (via validation)
-- Enhancement HEAD: `4083169`
 
-## Curriculum enhancement summary
+## Curriculum summary
 
 | Metric | Value |
 |---|---|
-| Modules audited | 18 |
-| Modules enhanced | 18 (1 gold pilot + 17 baseline scaffolds) |
-| Gold-standard pilot | C1-W2 — **91/100 PASS** |
-| Empty shell sections (post-enhancement) | 0 critical |
-| Lāla–Lālī lessons | 18 |
-| Kiśora–Kiśorī lessons | 18 |
-| Visual plans | 18 |
-| Gamma brief sets | 18 |
-| Claim registers | 18 (pilot: 10 claims) |
+| Modules | 18 |
+| enhancement-complete | **18** |
+| Gold pilot (C1-W2) | 91/100 |
+| Authentic Prem-kī-Kathā | 18 |
+| Mermaid viewers | 36 |
+| Media library | architecture live |
+| Human approvals claimed | **0** |
+
+## Reader
+
+Start at [KUTUMBA-READER-HOME.md](KUTUMBA-READER-HOME.md) — Markdown preview enabled via `.vscode/settings.json`.
 
 ## Validation
 
@@ -32,37 +30,27 @@
 python scripts/curriculum/run_curriculum_validation.py
 ```
 
-Result: **PASS** — Automated heuristic checks passed; human review remains required.
+Structural, semantic, and source gates: **PASS** (human review gates OPEN).
 
 ## Open human-review gates
 
-| Gate | Status |
-|---|---|
-| Doctrinal | OPEN — all modules |
-| Worship | OPEN |
-| Safeguarding | OPEN |
-| Rights | OPEN |
-| Pedagogy | OPEN |
-| Citation audit (pilot) | OPEN |
-
-## Open source gaps (unchanged)
-
-- Workstream 9 — SOURCE NOT YET SUPPLIED
-- KUTUMBA Setu — DRAFT REQUIRED
+Doctrinal, worship, safeguarding, rights, pedagogy, citation — **OPEN** all modules.
 
 ## Evidence index
 
 | Report | Path |
 |---|---|
-| Enhancement ledger | `build-evidence/CURRICULUM-ENHANCEMENT-LEDGER.md` |
+| Post-audit baseline | `build-evidence/POST-AUDIT-REMEDIATION-BASELINE.md` |
+| Final post-audit report | `build-evidence/FINAL-POST-AUDIT-REPORT.md` |
+| Validation coverage | `build-evidence/VALIDATION-COVERAGE-REPORT.md` |
 | Week quality dashboard | `build-evidence/WEEK-QUALITY-DASHBOARD.md` |
-| Source/citation audit | `build-evidence/SOURCE-AND-CITATION-AUDIT.md` |
-| Final enhancement report | `build-evidence/FINAL-CURRICULUM-ENHANCEMENT-REPORT.md` |
-| C1-W2 pilot audit | `17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md` |
-| Independent curriculum audit | `17-reviews-and-audits/INDEPENDENT-CURRICULUM-ENHANCEMENT-AUDIT.md` |
+| Prem-kī-Kathā status | `build-evidence/PREM-KI-KATHA-STATUS.md` |
+| Media library status | `build-evidence/MEDIA-LIBRARY-STATUS.md` |
+| Reader report | `build-evidence/READER-IMPLEMENTATION-REPORT.md` |
+| Independent audit | `17-reviews-and-audits/INDEPENDENT-CURRICULUM-ENHANCEMENT-AUDIT.md` |
 
 ## Next exact work
 
-1. Human reviewers: doctrinal, worship, safeguarding per module `reviews/` (use C1-W2 as rubric)
-2. Deepen baseline-scaffold modules toward C1-W2 research depth (cycle order)
-3. Execute ROADMAP.md Year 1 remaining curriculum production
+1. Named human reviewers per module `reviews/`
+2. Optional: extend katha word count toward 12–15 min narration standard
+3. Approved-speaker entries when authorized
