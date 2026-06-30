@@ -1,0 +1,16 @@
+generated: '2026-06-30T02:51:44.175843+00:00'
+collections:
+- id: legacy-bhaktivriksha
+  name: LegacyBhaktivriksha
+  path: C:\Users\swap2\Downloads\Personal\5. Devotional\1. Baktivriksha
+  mode: index-only
+- id: granth
+  name: Granth
+  path: C:\Users\swap2\Downloads\Personal\5. Devotional\Granth
+  mode: index-only
+- id: jayapataka-bv
+  name: JayapatakaSwamiBV
+  path: C:\Users\swap2\Downloads\Personal\5. Devotional\1. Baktivriksha\BV Material
+  mode: index-only
+total_indexed: 1773
+duplicate_groups: 180

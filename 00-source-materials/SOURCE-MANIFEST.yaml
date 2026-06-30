@@ -1,0 +1,246 @@
+generated: '2026-06-30T02:51:43.919511+00:00'
+current_source_root: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA
+current_document_count: 12
+legacy_index_count: 1773
+entries:
+- source_id: KUT-SRC-0001
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\1. KUTUMBA
+    - Governance Charter & Policy Framework\KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/1. KUTUMBA
+    - Governance Charter & Policy Framework/KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.docx
+  original_filename: KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.docx
+  normalized_title: KUTUMBA Governance Charter and Policy Framework v1.0
+  file_type: docx
+  byte_size: 74138
+  sha256: 63e6efb32e05bd2400c59b88cbc6076542df0f2b3d9e6bb46ac8d5ad9dc7d010
+  dest_sha256: 63e6efb32e05bd2400c59b88cbc6076542df0f2b3d9e6bb46ac8d5ad9dc7d010
+  modified_timestamp: '2026-06-29T23:02:25.557158+00:00'
+  likely_workstream: governance
+  version: v1.0
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0002
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\1. KUTUMBA
+    - Governance Charter & Policy Framework\KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.pdf
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/1. KUTUMBA
+    - Governance Charter & Policy Framework/KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.pdf
+  original_filename: KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.pdf
+  normalized_title: KUTUMBA Governance Charter and Policy Framework v1.0
+  file_type: pdf
+  byte_size: 307498
+  sha256: 4a0f089765de9c56b2c28e5a02430eecec130aa816c2ccf4d7193ab0716066ff
+  dest_sha256: 4a0f089765de9c56b2c28e5a02430eecec130aa816c2ccf4d7193ab0716066ff
+  modified_timestamp: '2026-06-29T23:02:46.522363+00:00'
+  likely_workstream: governance
+  version: v1.0
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0003
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\2. KUTUMBA
+    Curriculum Architecture - 3 Yrs Model\KUTUMBA_Three-Year_Curriculum_Architecture_v1.0.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/2. KUTUMBA
+    Curriculum Architecture - 3 Yrs Model/KUTUMBA_Three-Year_Curriculum_Architecture_v1.0.docx
+  original_filename: KUTUMBA_Three-Year_Curriculum_Architecture_v1.0.docx
+  normalized_title: KUTUMBA Three-Year Curriculum Architecture v1.0
+  file_type: docx
+  byte_size: 473450
+  sha256: 98775e97a1252d233f1c6f6bf0e99e08198b4907776848ae47b9b35a6e954bec
+  dest_sha256: 98775e97a1252d233f1c6f6bf0e99e08198b4907776848ae47b9b35a6e954bec
+  modified_timestamp: '2026-06-30T02:36:45.683246+00:00'
+  likely_workstream: curriculum-architecture
+  version: v1.0
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0004
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\3. KUTUMBA
+    Program Curriculum - 6-Months model\KUTUMBA_First_Six_Month_Detailed_Curriculum.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/3. KUTUMBA
+    Program Curriculum - 6-Months model/KUTUMBA_First_Six_Month_Detailed_Curriculum.docx
+  original_filename: KUTUMBA_First_Six_Month_Detailed_Curriculum.docx
+  normalized_title: KUTUMBA First Six Month Detailed Curriculum
+  file_type: docx
+  byte_size: 202233
+  sha256: 7123781051c732bc82baee084284d0bcac6c6b5011baf12d07216c2e503a7f58
+  dest_sha256: 7123781051c732bc82baee084284d0bcac6c6b5011baf12d07216c2e503a7f58
+  modified_timestamp: '2026-06-29T23:42:27.884209+00:00'
+  likely_workstream: first-six-months
+  version: ''
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0005
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\3. KUTUMBA
+    Program Curriculum - 6-Months model\KUTUMBA_First_Six_Month_Detailed_Curriculum.pdf
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/3. KUTUMBA
+    Program Curriculum - 6-Months model/KUTUMBA_First_Six_Month_Detailed_Curriculum.pdf
+  original_filename: KUTUMBA_First_Six_Month_Detailed_Curriculum.pdf
+  normalized_title: KUTUMBA First Six Month Detailed Curriculum
+  file_type: pdf
+  byte_size: 1211211
+  sha256: 78d52c4d0555c29d4a130e0414ac1e0a6b0a4a9432c9747e2015b97d8a018ada
+  dest_sha256: 78d52c4d0555c29d4a130e0414ac1e0a6b0a4a9432c9747e2015b97d8a018ada
+  modified_timestamp: '2026-06-29T23:42:54.467441+00:00'
+  likely_workstream: first-six-months
+  version: ''
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0006
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\4. KUTUMBA
+    Children and Youth Model\KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/4. KUTUMBA
+    Children and Youth Model/KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.docx
+  original_filename: KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.docx
+  normalized_title: KUTUMBA Children Youth Formation Operating Model v1.0
+  file_type: docx
+  byte_size: 90217
+  sha256: d19121e2964e48ae7c7461dd5d813496a2f6adf15f68dbe3b318deab790f8ab6
+  dest_sha256: d19121e2964e48ae7c7461dd5d813496a2f6adf15f68dbe3b318deab790f8ab6
+  modified_timestamp: '2026-06-29T23:47:37.753825+00:00'
+  likely_workstream: children-youth
+  version: v1.0
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0007
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\4. KUTUMBA
+    Children and Youth Model\KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.pdf
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/4. KUTUMBA
+    Children and Youth Model/KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.pdf
+  original_filename: KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.pdf
+  normalized_title: KUTUMBA Children Youth Formation Operating Model v1.0
+  file_type: pdf
+  byte_size: 532793
+  sha256: 20b2914c29977cc172858dd6f75cdbd15ad49a4e817da888f4928595d4d6fcdd
+  dest_sha256: 20b2914c29977cc172858dd6f75cdbd15ad49a4e817da888f4928595d4d6fcdd
+  modified_timestamp: '2026-06-29T23:47:10.481914+00:00'
+  likely_workstream: children-youth
+  version: v1.0
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0008
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\5. KUTUMBA
+    Parent Formation and Family Care\KUTUMBA_Parent_Formation_and_Family_Care_Operating_Model_v1.0.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/5. KUTUMBA
+    Parent Formation and Family Care/KUTUMBA_Parent_Formation_and_Family_Care_Operating_Model_v1.0.docx
+  original_filename: KUTUMBA_Parent_Formation_and_Family_Care_Operating_Model_v1.0.docx
+  normalized_title: KUTUMBA Parent Formation and Family Care Operating Model v1.0
+  file_type: docx
+  byte_size: 599911
+  sha256: fc7050e53ec0e72ef693065622ca9a6e4bd488b197224e80ead1b19dc3abec5f
+  dest_sha256: fc7050e53ec0e72ef693065622ca9a6e4bd488b197224e80ead1b19dc3abec5f
+  modified_timestamp: '2026-06-30T02:34:35.203536+00:00'
+  likely_workstream: parent-formation
+  version: v1.0
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0009
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\6. KUTUMBA
+    Prasāda Operations Design\KUTUMBA_Prasada_Hospitality_Weekly_Operations_Manual.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/6. KUTUMBA
+    Prasāda Operations Design/KUTUMBA_Prasada_Hospitality_Weekly_Operations_Manual.docx
+  original_filename: KUTUMBA_Prasada_Hospitality_Weekly_Operations_Manual.docx
+  normalized_title: KUTUMBA Prasada Hospitality Weekly Operations Manual
+  file_type: docx
+  byte_size: 365379
+  sha256: 195a32a768ce62ca4bbde54bc4fa397bf881dc3d54bf87e6c2f8573fb2371366
+  dest_sha256: 195a32a768ce62ca4bbde54bc4fa397bf881dc3d54bf87e6c2f8573fb2371366
+  modified_timestamp: '2026-06-30T02:34:05.108358+00:00'
+  likely_workstream: prasadam-operations
+  version: ''
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0010
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\7. KUTUMBA
+    Devotional System Design - 9 Steps\KUTUMBA_Chat_7_Kirtana_Worship_Prayers_Bhakti_Laboratories_Operating_Manual.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/7. KUTUMBA
+    Devotional System Design - 9 Steps/KUTUMBA_Chat_7_Kirtana_Worship_Prayers_Bhakti_Laboratories_Operating_Manual.docx
+  original_filename: KUTUMBA_Chat_7_Kirtana_Worship_Prayers_Bhakti_Laboratories_Operating_Manual.docx
+  normalized_title: KUTUMBA Chat 7 Kirtana Worship Prayers Bhakti Laboratories Operating
+    Manual
+  file_type: docx
+  byte_size: 417051
+  sha256: 15b0212837629b2759fbe581b8823ba20e2670e2ca28065b274bb463bc21156f
+  dest_sha256: 15b0212837629b2759fbe581b8823ba20e2670e2ca28065b274bb463bc21156f
+  modified_timestamp: '2026-06-30T02:29:44.923628+00:00'
+  likely_workstream: kirtana-worship
+  version: ''
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0011
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\8. KUTUMBA
+    Annual Calendar Design\KUTUMBA_Chat_8_Festivals_Yatras_Outdoor_Calendar_Working_Framework.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/8. KUTUMBA
+    Annual Calendar Design/KUTUMBA_Chat_8_Festivals_Yatras_Outdoor_Calendar_Working_Framework.docx
+  original_filename: KUTUMBA_Chat_8_Festivals_Yatras_Outdoor_Calendar_Working_Framework.docx
+  normalized_title: KUTUMBA Chat 8 Festivals Yatras Outdoor Calendar Working Framework
+  file_type: docx
+  byte_size: 814145
+  sha256: 1a88458adc30a3ffe879dd1be0a7c1703034ca3d0145a20d7f1accd930645c63
+  dest_sha256: 1a88458adc30a3ffe879dd1be0a7c1703034ca3d0145a20d7f1accd930645c63
+  modified_timestamp: '2026-06-30T02:32:04.832400+00:00'
+  likely_workstream: festivals-calendar
+  version: ''
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
+- source_id: KUT-SRC-0012
+  source_folder: 0. KUTUMBA SANGA
+  original_absolute_path: C:\Users\swap2\Downloads\Personal\0. KUTUMBA SANGA\KUTUMBA
+    Master Operating Model.docx
+  repository_relative_path: 00-source-materials/01-current-kutumba-originals/KUTUMBA
+    Master Operating Model.docx
+  original_filename: KUTUMBA Master Operating Model.docx
+  normalized_title: KUTUMBA Master Operating Model
+  file_type: docx
+  byte_size: 49457
+  sha256: 7b25cbbf605b4c44a9c744b6f6be8a3eb223182ac3096b76017fa3a019f54d4f
+  dest_sha256: 7b25cbbf605b4c44a9c744b6f6be8a3eb223182ac3096b76017fa3a019f54d4f
+  modified_timestamp: '2026-06-29T22:43:13.669463+00:00'
+  likely_workstream: master-operating
+  version: ''
+  status: ingested
+  privacy_class: internal-project
+  rights_status: kutumba-authored-project-document
+  canonicalization_status: pending
+  notes: parity-verified
