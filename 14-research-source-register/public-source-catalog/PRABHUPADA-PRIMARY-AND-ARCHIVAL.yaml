@@ -1,0 +1,813 @@
+catalog_version: 1.0.0
+generated: '2026-06-30'
+entries:
+- source_id: PSC-0001-vedabase-io
+  source_name: Bhaktivedanta VedaBase
+  owner_or_publisher: Bhaktivedanta Book Trust / VedaBase
+  base_url: https://vedabase.io/
+  exact_entry_url: https://vedabase.io/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-text-transcripts-letters
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0002-vedabase-io-en-library
+  source_name: Bhaktivedanta VedaBase
+  owner_or_publisher: Bhaktivedanta Book Trust / VedaBase
+  base_url: https://vedabase.io/
+  exact_entry_url: https://vedabase.io/en/library/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-text-transcripts-letters
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0003-vedabase-io-en-library-transcripts
+  source_name: Bhaktivedanta VedaBase
+  owner_or_publisher: Bhaktivedanta Book Trust / VedaBase
+  base_url: https://vedabase.io/
+  exact_entry_url: https://vedabase.io/en/library/transcripts/
+  source_category: prabhupada-transcript-library
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-text-transcripts-letters
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0004-vedabase-io-en-library-letters
+  source_name: Bhaktivedanta VedaBase
+  owner_or_publisher: Bhaktivedanta Book Trust / VedaBase
+  base_url: https://vedabase.io/
+  exact_entry_url: https://vedabase.io/en/library/letters/
+  source_category: prabhupada-letters-library
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-text-transcripts-letters
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0005-vedabase-io-en-library-bg
+  source_name: Bhaktivedanta VedaBase
+  owner_or_publisher: Bhaktivedanta Book Trust / VedaBase
+  base_url: https://vedabase.io/
+  exact_entry_url: https://vedabase.io/en/library/bg/
+  source_category: bhagavad-gita
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-text-transcripts-letters
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0006-vedabase-io-en-library-sb
+  source_name: Bhaktivedanta VedaBase
+  owner_or_publisher: Bhaktivedanta Book Trust / VedaBase
+  base_url: https://vedabase.io/
+  exact_entry_url: https://vedabase.io/en/library/sb/
+  source_category: srimad-bhagavatam
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-text-transcripts-letters
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0007-vedabase-io-en-library-cc
+  source_name: Bhaktivedanta VedaBase
+  owner_or_publisher: Bhaktivedanta Book Trust / VedaBase
+  base_url: https://vedabase.io/
+  exact_entry_url: https://vedabase.io/en/library/cc/
+  source_category: caitanya-caritamrta
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-text-transcripts-letters
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0008-vedabase-io-es-library
+  source_name: Bhaktivedanta VedaBase
+  owner_or_publisher: Bhaktivedanta Book Trust / VedaBase
+  base_url: https://vedabase.io/
+  exact_entry_url: https://vedabase.io/es/library/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-text-transcripts-letters
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0009-www-prabhupada-com
+  source_name: Bhaktivedanta Archives
+  owner_or_publisher: Bhaktivedanta Archives
+  base_url: https://www.prabhupada.com/
+  exact_entry_url: https://www.prabhupada.com/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-archival-provenance
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0010-www-prabhupada-com-about-aabout-html
+  source_name: Bhaktivedanta Archives
+  owner_or_publisher: Bhaktivedanta Archives
+  base_url: https://www.prabhupada.com/
+  exact_entry_url: https://www.prabhupada.com/About/AAbout.html
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-archival-provenance
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0011-www-prabhupada-com-collections-collections-html
+  source_name: Bhaktivedanta Archives
+  owner_or_publisher: Bhaktivedanta Archives
+  base_url: https://www.prabhupada.com/
+  exact_entry_url: https://www.prabhupada.com/Collections/Collections.html
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-archival-provenance
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0012-www-prabhupada-com-collections-audio2-html
+  source_name: Bhaktivedanta Archives
+  owner_or_publisher: Bhaktivedanta Archives
+  base_url: https://www.prabhupada.com/
+  exact_entry_url: https://www.prabhupada.com/Collections/Audio2.html
+  source_category: prabhupada-audio
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-archival-provenance
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0013-www-prabhupada-com-collections-documents-html
+  source_name: Bhaktivedanta Archives
+  owner_or_publisher: Bhaktivedanta Archives
+  base_url: https://www.prabhupada.com/
+  exact_entry_url: https://www.prabhupada.com/Collections/Documents.html
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-archival-provenance
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0014-www-prabhupada-com-collections-images-html
+  source_name: Bhaktivedanta Archives
+  owner_or_publisher: Bhaktivedanta Archives
+  base_url: https://www.prabhupada.com/
+  exact_entry_url: https://www.prabhupada.com/Collections/Images.html
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-archival-provenance
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0015-www-prabhupada-com-collections-publications-html
+  source_name: Bhaktivedanta Archives
+  owner_or_publisher: Bhaktivedanta Archives
+  base_url: https://www.prabhupada.com/
+  exact_entry_url: https://www.prabhupada.com/Collections/Publications.html
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-archival-provenance
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0016-www-prabhupada-com-vedabase-vedabase-html
+  source_name: Bhaktivedanta Archives
+  owner_or_publisher: Bhaktivedanta Archives
+  base_url: https://www.prabhupada.com/
+  exact_entry_url: https://www.prabhupada.com/Vedabase/VedaBase.html
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: prabhupada-archival-provenance
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0017-bbt-org
+  source_name: Bhaktivedanta Book Trust
+  owner_or_publisher: BBT
+  base_url: https://bbt.org/
+  exact_entry_url: https://bbt.org/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bbt-publishing-rights
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: permission-required-before-republication
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0018-bbt-org-books
+  source_name: Bhaktivedanta Book Trust
+  owner_or_publisher: BBT
+  base_url: https://bbt.org/
+  exact_entry_url: https://bbt.org/books
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bbt-publishing-rights
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: permission-required-before-republication
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0019-bbt-org-online-publications
+  source_name: Bhaktivedanta Book Trust
+  owner_or_publisher: BBT
+  base_url: https://bbt.org/
+  exact_entry_url: https://bbt.org/online-publications
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bbt-publishing-rights
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: permission-required-before-republication
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0020-bbt-org-languages
+  source_name: Bhaktivedanta Book Trust
+  owner_or_publisher: BBT
+  base_url: https://bbt.org/
+  exact_entry_url: https://bbt.org/languages
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bbt-publishing-rights
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: permission-required-before-republication
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0021-bbtmedia-com
+  source_name: BBT Media
+  owner_or_publisher: BBT
+  base_url: https://bbtmedia.com/
+  exact_entry_url: https://bbtmedia.com/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bbt-digital-editions
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: permission-required-before-republication
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0022-krishna-com
+  source_name: Krishna.com
+  owner_or_publisher: BBT
+  base_url: https://krishna.com/
+  exact_entry_url: https://krishna.com/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bbt-online-reading
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0023-krishna-com-the-bhagavad-gita-info-bhagavad-gita
+  source_name: Krishna.com
+  owner_or_publisher: BBT
+  base_url: https://krishna.com/
+  exact_entry_url: https://krishna.com/the-bhagavad-gita-info/bhagavad-gita-online-versions/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bbt-online-reading
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0024-krishna-com-audio-audiobooks-bhagavad-gita-audio
+  source_name: Krishna.com
+  owner_or_publisher: BBT
+  base_url: https://krishna.com/
+  exact_entry_url: https://krishna.com/audio/audiobooks/bhagavad-gita-audiobook/
+  source_category: prabhupada-audio
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bbt-online-reading
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0025-www-asitis-com
+  source_name: As It Is — Bhagavad-gita
+  owner_or_publisher: BBT-affiliated Gita front end
+  base_url: https://www.asitis.com/
+  exact_entry_url: https://www.asitis.com/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bg-verse-deep-links
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0026-www-asitis-com-1
+  source_name: As It Is — Bhagavad-gita
+  owner_or_publisher: BBT-affiliated Gita front end
+  base_url: https://www.asitis.com/
+  exact_entry_url: https://www.asitis.com/1
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bg-verse-deep-links
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0027-www-asitis-com-gallery
+  source_name: As It Is — Bhagavad-gita
+  owner_or_publisher: BBT-affiliated Gita front end
+  base_url: https://www.asitis.com/
+  exact_entry_url: https://www.asitis.com/gallery/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bg-verse-deep-links
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map

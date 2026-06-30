@@ -1,0 +1,423 @@
+catalog_version: 1.0.0
+generated: '2026-06-30'
+entries:
+- source_id: PSC-0028-prabhupadavani-org
+  source_name: PrabhupadaVani
+  owner_or_publisher: PrabhupadaVani
+  base_url: https://prabhupadavani.org/
+  exact_entry_url: https://prabhupadavani.org/
+  source_category: site-homepage
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: prabhupada-audio-transcript-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0029-prabhupadavani-org-audio
+  source_name: PrabhupadaVani
+  owner_or_publisher: PrabhupadaVani
+  base_url: https://prabhupadavani.org/
+  exact_entry_url: https://prabhupadavani.org/audio/
+  source_category: prabhupada-audio
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: prabhupada-audio-transcript-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0030-prabhupadavani-org-transcriptions
+  source_name: PrabhupadaVani
+  owner_or_publisher: PrabhupadaVani
+  base_url: https://prabhupadavani.org/
+  exact_entry_url: https://prabhupadavani.org/transcriptions/
+  source_category: prabhupada-transcriptions
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: prabhupada-audio-transcript-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0031-prabhupadavani-org-transcriptions
+  source_name: PrabhupadaVani
+  owner_or_publisher: PrabhupadaVani
+  base_url: https://prabhupadavani.org/
+  exact_entry_url: https://prabhupadavani.org/transcriptions/?type=Conversation
+  source_category: prabhupada-transcriptions
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: prabhupada-audio-transcript-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0032-prabhupadavani-org-transcriptions
+  source_name: PrabhupadaVani
+  owner_or_publisher: PrabhupadaVani
+  base_url: https://prabhupadavani.org/
+  exact_entry_url: https://prabhupadavani.org/transcriptions/?type=Lectures+and+Addresses
+  source_category: prabhupada-transcriptions
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: prabhupada-audio-transcript-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0033-prabhupadavani-org-transcriptions
+  source_name: PrabhupadaVani
+  owner_or_publisher: PrabhupadaVani
+  base_url: https://prabhupadavani.org/
+  exact_entry_url: https://prabhupadavani.org/transcriptions/?audio=Has+audio
+  source_category: prabhupada-transcriptions
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: prabhupada-audio-transcript-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0034-prabhupadavani-org-blog-prabhupada-radio
+  source_name: PrabhupadaVani
+  owner_or_publisher: PrabhupadaVani
+  base_url: https://prabhupadavani.org/
+  exact_entry_url: https://prabhupadavani.org/blog/prabhupada-radio/
+  source_category: site-homepage
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: prabhupada-audio-transcript-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0035-vanisource-org-wiki-main-page
+  source_name: Vanisource
+  owner_or_publisher: Vanipedia Foundation
+  base_url: https://vanisource.org/
+  exact_entry_url: https://vanisource.org/wiki/Main_Page
+  source_category: entry-point
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: structured-prabhupada-text-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0036-vanisource-org-wiki-category-letters-from-srila-
+  source_name: Vanisource
+  owner_or_publisher: Vanipedia Foundation
+  base_url: https://vanisource.org/
+  exact_entry_url: https://vanisource.org/wiki/Category:Letters_from_Srila_Prabhupada_-_by_person
+  source_category: entry-point
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: structured-prabhupada-text-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0037-vanisource-org-wiki-category-books-vanisource
+  source_name: Vanisource
+  owner_or_publisher: Vanipedia Foundation
+  base_url: https://vanisource.org/
+  exact_entry_url: https://vanisource.org/wiki/Category:Books_-_Vanisource
+  source_category: entry-point
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: structured-prabhupada-text-discovery
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0038-vaniquotes-org-wiki-main-page
+  source_name: Vaniquotes
+  owner_or_publisher: Vanipedia Foundation
+  base_url: https://vaniquotes.org/
+  exact_entry_url: https://vaniquotes.org/wiki/Main_Page
+  source_category: entry-point
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: thematic-quote-clustering
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0039-vanipedia-org-wiki-main-page
+  source_name: Vanipedia
+  owner_or_publisher: Vanipedia Foundation
+  base_url: https://vanipedia.org/
+  exact_entry_url: https://vanipedia.org/wiki/Main_Page
+  source_category: entry-point
+  authority_tier: B
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: encyclopedic-prabhupada-research
+  mirror_of: vedabase.io
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0050-prabhupadabooks-com
+  source_name: PrabhupadaBooks.com
+  owner_or_publisher: PrabhupadaBooks.com
+  base_url: https://prabhupadabooks.com/
+  exact_entry_url: https://prabhupadabooks.com/
+  source_category: site-homepage
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: edition-comparison-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: edition-comparison-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0051-prabhupadabooks-com-bg
+  source_name: PrabhupadaBooks.com
+  owner_or_publisher: PrabhupadaBooks.com
+  base_url: https://prabhupadabooks.com/
+  exact_entry_url: https://prabhupadabooks.com/bg
+  source_category: entry-point
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: edition-comparison-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: edition-comparison-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map

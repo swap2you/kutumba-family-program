@@ -1,0 +1,453 @@
+catalog_version: 1.0.0
+generated: '2026-06-30'
+entries:
+- source_id: PSC-0052-iskconeducation-org
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0053-iskconeducation-org-media-library
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/media_library/
+  source_category: education-media-library
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0054-iskconeducation-org-materials
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/materials/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0055-iskconeducation-org-books-for-kids
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/books-for-kids/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0056-iskconeducation-org-philosophy-of-education
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/philosophy-of-education/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0057-iskconeducation-org-video
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/video/
+  source_category: site-homepage
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0058-iskconeducation-org-article-starting-a-sunday-sc
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/article/starting-a-sunday-school/
+  source_category: sunday-school
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0059-iskconeducation-org-media-library-old-01-cd20ind
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf
+  source_category: education-media-library
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0060-iskconeducation-org-media-library-old-01-cd20ind
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf
+  source_category: education-media-library
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0061-iskconeducation-org-media-library-old-devotional
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20TG.pdf
+  source_category: education-media-library
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0062-iskconeducation-org-media-library-old-devotional
+  source_name: ISKCON Ministry of Education
+  owner_or_publisher: ISKCON Ministry of Education
+  base_url: https://iskconeducation.org/
+  exact_entry_url: https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20WB.pdf
+  source_category: education-media-library
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: official-iskcon-education-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0063-iskconcongregation-com-programs-bhakti-vriksha
+  source_name: ISKCON Congregational Development
+  owner_or_publisher: ISKCON Congregation Ministry
+  base_url: https://iskconcongregation.com/
+  exact_entry_url: https://iskconcongregation.com/programs/bhakti-vriksha/
+  source_category: bhakti-vriksha
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bhakti-vriksha-congregation-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0064-iskconcongregation-com-wp-content-uploads-2018-1
+  source_name: ISKCON Congregational Development
+  owner_or_publisher: ISKCON Congregation Ministry
+  base_url: https://iskconcongregation.com/
+  exact_entry_url: https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-1_1.pdf
+  source_category: bhakti-vriksha
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bhakti-vriksha-congregation-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0065-iskconcongregation-com-wp-content-uploads-2018-1
+  source_name: ISKCON Congregational Development
+  owner_or_publisher: ISKCON Congregation Ministry
+  base_url: https://iskconcongregation.com/
+  exact_entry_url: https://iskconcongregation.com/wp-content/uploads/2018/11/Bhakti-Vriksha-Training-Module-Book-2_1.pdf
+  source_category: bhakti-vriksha
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: bhakti-vriksha-congregation-resources
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0066-www-iskconmumbai-com-about-about-iskcon
+  source_name: ISKCON Mumbai (Juhu)
+  owner_or_publisher: ISKCON Mumbai
+  base_url: https://www.iskconmumbai.com/
+  exact_entry_url: https://www.iskconmumbai.com/about/about-iskcon
+  source_category: entry-point
+  authority_tier: A
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: primary
+  canonical_for: temple-context-reference-only
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map

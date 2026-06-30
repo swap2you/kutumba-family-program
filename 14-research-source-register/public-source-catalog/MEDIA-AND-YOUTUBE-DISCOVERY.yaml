@@ -1,0 +1,333 @@
+catalog_version: 1.0.0
+generated: '2026-06-30'
+entries:
+- source_id: PSC-0040-www-youtube-com-channel-ucbn88f0nrlrmg1cnffvinxw
+  source_name: YouTube
+  owner_or_publisher: Google / channel owners
+  base_url: https://www.youtube.com/
+  exact_entry_url: https://www.youtube.com/channel/UCBN88f0nRlRMg1CnffvinXw
+  source_category: youtube-channel
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0041-www-youtube-com-channel-ucrcouc77ftahojjkmeunsoq
+  source_name: YouTube
+  owner_or_publisher: Google / channel owners
+  base_url: https://www.youtube.com/
+  exact_entry_url: https://www.youtube.com/channel/UCrCoUc77FtaHOJJKmeUnsOQ
+  source_category: youtube-channel
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0042-www-youtube-com-channel-ucz8s3qwowifztaqbrtawwfa
+  source_name: YouTube
+  owner_or_publisher: Google / channel owners
+  base_url: https://www.youtube.com/
+  exact_entry_url: https://www.youtube.com/channel/UCZ8S3qwowiFztAQBRTawWfA
+  source_category: youtube-channel
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0043-www-youtube-com-channel-uc9-r06c2swpjrvddvzoqg8q
+  source_name: YouTube
+  owner_or_publisher: Google / channel owners
+  base_url: https://www.youtube.com/
+  exact_entry_url: https://www.youtube.com/channel/UC9-R06c2SwpjrvDdVZOQG8Q
+  source_category: youtube-channel
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0044-audio-iskcondesiretree-com-index-php
+  source_name: ISKCON Desire Tree Audio
+  owner_or_publisher: ISKCON Desire Tree
+  base_url: https://audio.iskcondesiretree.com/
+  exact_entry_url: https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada&q=f
+  source_category: prabhupada-audio
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: vedabase.io
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0045-audio-iskcondesiretree-com-index-php
+  source_name: ISKCON Desire Tree Audio
+  owner_or_publisher: ISKCON Desire Tree
+  base_url: https://audio.iskcondesiretree.com/
+  exact_entry_url: https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F01_-_Lectures%2F01_-_English%2F01_-_Topic_wise&q=f
+  source_category: prabhupada-audio
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: vedabase.io
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0046-audio-iskcondesiretree-com-index-php
+  source_name: ISKCON Desire Tree Audio
+  owner_or_publisher: ISKCON Desire Tree
+  base_url: https://audio.iskcondesiretree.com/
+  exact_entry_url: https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F02_-_Bhajans%2FVol-01%2F05_-_Prabhupada_Bhajans&q=f
+  source_category: prabhupada-audio
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: vedabase.io
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0047-ebooks-iskcondesiretree-com
+  source_name: ISKCON Desire Tree Ebooks
+  owner_or_publisher: ISKCON Desire Tree
+  base_url: https://ebooks.iskcondesiretree.com/
+  exact_entry_url: https://ebooks.iskcondesiretree.com/
+  source_category: sanatana-ebook-portal
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0048-ebooks-iskcondesiretree-com-index-php
+  source_name: ISKCON Desire Tree Ebooks
+  owner_or_publisher: ISKCON Desire Tree
+  base_url: https://ebooks.iskcondesiretree.com/
+  exact_entry_url: https://ebooks.iskcondesiretree.com/index.php?f=%2Fpdf&q=f
+  source_category: sanatana-ebook-portal
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0049-ebooks-iskcondesiretree-com-index-php
+  source_name: ISKCON Desire Tree Ebooks
+  owner_or_publisher: ISKCON Desire Tree
+  base_url: https://ebooks.iskcondesiretree.com/
+  exact_entry_url: https://ebooks.iskcondesiretree.com/index.php?f=%2Fpdf%2FGaudiya_Books+&q=f
+  source_category: sanatana-ebook-portal
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: media-discovery-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0079-www-bbti-org
+  source_name: www.bbti.org
+  owner_or_publisher: unknown
+  base_url: https://www.bbti.org/
+  exact_entry_url: https://www.bbti.org/
+  source_category: site-homepage
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: pending-classification
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: rights-unclear
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map

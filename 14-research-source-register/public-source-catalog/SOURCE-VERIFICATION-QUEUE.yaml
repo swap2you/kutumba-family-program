@@ -1,0 +1,267 @@
+catalog_version: 1.0.0
+generated: '2026-06-30'
+queue:
+- item_id: PSC-0009-www-prabhupada-com
+  url: https://www.prabhupada.com/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.prabhupada.com/
+    checked_at: '2026-06-30T20:55:55.040927+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0010-www-prabhupada-com-about-aabout-html
+  url: https://www.prabhupada.com/About/AAbout.html
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.prabhupada.com/About/AAbout.html
+    checked_at: '2026-06-30T20:55:56.033893+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0011-www-prabhupada-com-collections-collections-html
+  url: https://www.prabhupada.com/Collections/Collections.html
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.prabhupada.com/Collections/Collections.html
+    checked_at: '2026-06-30T20:55:56.932840+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0012-www-prabhupada-com-collections-audio2-html
+  url: https://www.prabhupada.com/Collections/Audio2.html
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.prabhupada.com/Collections/Audio2.html
+    checked_at: '2026-06-30T20:55:57.830792+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0013-www-prabhupada-com-collections-documents-html
+  url: https://www.prabhupada.com/Collections/Documents.html
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.prabhupada.com/Collections/Documents.html
+    checked_at: '2026-06-30T20:55:58.723693+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0014-www-prabhupada-com-collections-images-html
+  url: https://www.prabhupada.com/Collections/Images.html
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.prabhupada.com/Collections/Images.html
+    checked_at: '2026-06-30T20:55:59.601767+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0015-www-prabhupada-com-collections-publications-html
+  url: https://www.prabhupada.com/Collections/Publications.html
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.prabhupada.com/Collections/Publications.html
+    checked_at: '2026-06-30T20:56:00.472160+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0016-www-prabhupada-com-vedabase-vedabase-html
+  url: https://www.prabhupada.com/Vedabase/VedaBase.html
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.prabhupada.com/Vedabase/VedaBase.html
+    checked_at: '2026-06-30T20:56:01.418829+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0052-iskconeducation-org
+  url: https://iskconeducation.org/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/
+    checked_at: '2026-06-30T20:56:29.372398+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0053-iskconeducation-org-media-library
+  url: https://iskconeducation.org/media_library/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/media_library/
+    checked_at: '2026-06-30T20:56:31.297245+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0054-iskconeducation-org-materials
+  url: https://iskconeducation.org/materials/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/materials/
+    checked_at: '2026-06-30T20:56:33.158181+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0055-iskconeducation-org-books-for-kids
+  url: https://iskconeducation.org/books-for-kids/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/books-for-kids/
+    checked_at: '2026-06-30T20:56:35.005176+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0056-iskconeducation-org-philosophy-of-education
+  url: https://iskconeducation.org/philosophy-of-education/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/philosophy-of-education/
+    checked_at: '2026-06-30T20:56:36.849553+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0057-iskconeducation-org-video
+  url: https://iskconeducation.org/video/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/video/
+    checked_at: '2026-06-30T20:56:38.678839+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0058-iskconeducation-org-article-starting-a-sunday-sc
+  url: https://iskconeducation.org/article/starting-a-sunday-school/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/article/starting-a-sunday-school/
+    checked_at: '2026-06-30T20:56:40.541454+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0059-iskconeducation-org-media-library-old-01-cd20ind
+  url: https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf
+    checked_at: '2026-06-30T20:56:42.421223+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0060-iskconeducation-org-media-library-old-01-cd20ind
+  url: https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf
+    checked_at: '2026-06-30T20:56:44.252266+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0061-iskconeducation-org-media-library-old-devotional
+  url: https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20TG.pdf
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20TG.pdf
+    checked_at: '2026-06-30T20:56:46.075697+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0062-iskconeducation-org-media-library-old-devotional
+  url: https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20WB.pdf
+  reason: network-error
+  status: open
+  evidence:
+    url: https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20WB.pdf
+    checked_at: '2026-06-30T20:56:47.902001+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0075-gitapress-org
+  url: https://gitapress.org/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://gitapress.org/
+    checked_at: '2026-06-30T20:57:09.878985+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0076-gitapress-org-ebook
+  url: https://gitapress.org/ebook
+  reason: network-error
+  status: open
+  evidence:
+    url: https://gitapress.org/ebook
+    checked_at: '2026-06-30T20:57:11.655088+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0077-gitapress-org-buybooks
+  url: https://gitapress.org/buybooks
+  reason: network-error
+  status: open
+  evidence:
+    url: https://gitapress.org/buybooks
+    checked_at: '2026-06-30T20:57:13.330562+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0078-gitapress-org-ebook
+  url: https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a
+  reason: network-error
+  status: open
+  evidence:
+    url: https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a
+    checked_at: '2026-06-30T20:57:14.995292+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'
+- item_id: PSC-0079-www-bbti-org
+  url: https://www.bbti.org/
+  reason: network-error
+  status: open
+  evidence:
+    url: https://www.bbti.org/
+    checked_at: '2026-06-30T20:57:30.243456+00:00'
+    method: GET
+    outcome: network-error
+    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+      has expired (_ssl.c:1028)'

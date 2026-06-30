@@ -1,0 +1,95 @@
+catalog_version: 1.0.0
+generated: '2026-06-30'
+classifications:
+  link-and-metadata-only:
+    description: Repository may store URL, title, and factual metadata only.
+    source_ids:
+    - PSC-0001-vedabase-io
+    - PSC-0002-vedabase-io-en-library
+    - PSC-0003-vedabase-io-en-library-transcripts
+    - PSC-0004-vedabase-io-en-library-letters
+    - PSC-0005-vedabase-io-en-library-bg
+    - PSC-0006-vedabase-io-en-library-sb
+    - PSC-0007-vedabase-io-en-library-cc
+    - PSC-0008-vedabase-io-es-library
+    - PSC-0009-www-prabhupada-com
+    - PSC-0010-www-prabhupada-com-about-aabout-html
+    - PSC-0011-www-prabhupada-com-collections-collections-html
+    - PSC-0012-www-prabhupada-com-collections-audio2-html
+    - PSC-0013-www-prabhupada-com-collections-documents-html
+    - PSC-0014-www-prabhupada-com-collections-images-html
+    - PSC-0015-www-prabhupada-com-collections-publications-html
+    - PSC-0016-www-prabhupada-com-vedabase-vedabase-html
+    - PSC-0022-krishna-com
+    - PSC-0023-krishna-com-the-bhagavad-gita-info-bhagavad-gita
+    - PSC-0024-krishna-com-audio-audiobooks-bhagavad-gita-audio
+    - PSC-0025-www-asitis-com
+    - PSC-0026-www-asitis-com-1
+    - PSC-0027-www-asitis-com-gallery
+    - PSC-0028-prabhupadavani-org
+    - PSC-0029-prabhupadavani-org-audio
+    - PSC-0030-prabhupadavani-org-transcriptions
+    - PSC-0031-prabhupadavani-org-transcriptions
+    - PSC-0032-prabhupadavani-org-transcriptions
+    - PSC-0033-prabhupadavani-org-transcriptions
+    - PSC-0034-prabhupadavani-org-blog-prabhupada-radio
+    - PSC-0035-vanisource-org-wiki-main-page
+    - PSC-0036-vanisource-org-wiki-category-letters-from-srila-
+    - PSC-0037-vanisource-org-wiki-category-books-vanisource
+    - PSC-0038-vaniquotes-org-wiki-main-page
+    - PSC-0039-vanipedia-org-wiki-main-page
+    - PSC-0052-iskconeducation-org
+    - PSC-0053-iskconeducation-org-media-library
+    - PSC-0054-iskconeducation-org-materials
+    - PSC-0055-iskconeducation-org-books-for-kids
+    - PSC-0056-iskconeducation-org-philosophy-of-education
+    - PSC-0057-iskconeducation-org-video
+    - PSC-0058-iskconeducation-org-article-starting-a-sunday-sc
+    - PSC-0059-iskconeducation-org-media-library-old-01-cd20ind
+    - PSC-0060-iskconeducation-org-media-library-old-01-cd20ind
+    - PSC-0061-iskconeducation-org-media-library-old-devotional
+    - PSC-0062-iskconeducation-org-media-library-old-devotional
+    - PSC-0063-iskconcongregation-com-programs-bhakti-vriksha
+    - PSC-0064-iskconcongregation-com-wp-content-uploads-2018-1
+    - PSC-0065-iskconcongregation-com-wp-content-uploads-2018-1
+    - PSC-0066-www-iskconmumbai-com-about-about-iskcon
+    - PSC-0067-www-purebhakti-com
+    - PSC-0068-www-purebhakti-com-resources-ebooks-magazines-bo
+    - PSC-0069-www-purebhakti-com-resources-ebooks-magazines-bh
+    - PSC-0070-www-purebhakti-com-resources-ebooks-magazines-bo
+    - PSC-0071-www-purebhakti-com-resources-ebooks-magazines-bh
+    - PSC-0072-harikatha-com
+    - PSC-0073-harikatha-com-audios
+    - PSC-0074-harikatha-com-about
+    - PSC-0075-gitapress-org
+    - PSC-0076-gitapress-org-ebook
+    - PSC-0077-gitapress-org-buybooks
+    - PSC-0078-gitapress-org-ebook
+    - PSC-0040-www-youtube-com-channel-ucbn88f0nrlrmg1cnffvinxw
+    - PSC-0041-www-youtube-com-channel-ucrcouc77ftahojjkmeunsoq
+    - PSC-0042-www-youtube-com-channel-ucz8s3qwowifztaqbrtawwfa
+    - PSC-0043-www-youtube-com-channel-uc9-r06c2swpjrvddvzoqg8q
+    - PSC-0044-audio-iskcondesiretree-com-index-php
+    - PSC-0045-audio-iskcondesiretree-com-index-php
+    - PSC-0046-audio-iskcondesiretree-com-index-php
+    - PSC-0047-ebooks-iskcondesiretree-com
+    - PSC-0048-ebooks-iskcondesiretree-com-index-php
+    - PSC-0049-ebooks-iskcondesiretree-com-index-php
+  permission-required-before-republication:
+    description: BBT and similar rights holders require permission beyond linking.
+    source_ids:
+    - PSC-0017-bbt-org
+    - PSC-0018-bbt-org-books
+    - PSC-0019-bbt-org-online-publications
+    - PSC-0020-bbt-org-languages
+    - PSC-0021-bbtmedia-com
+  edition-comparison-only:
+    description: Use for edition comparison workflows, not controlling doctrine.
+    source_ids:
+    - PSC-0050-prabhupadabooks-com
+    - PSC-0051-prabhupadabooks-com-bg
+  rights-unclear:
+    description: Requires human rights review before expanded use.
+    source_ids:
+    - PSC-0079-www-bbti-org
+human_review_required: true

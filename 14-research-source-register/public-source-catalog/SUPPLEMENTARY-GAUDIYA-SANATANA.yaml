@@ -1,0 +1,363 @@
+catalog_version: 1.0.0
+generated: '2026-06-30'
+entries:
+- source_id: PSC-0067-www-purebhakti-com
+  source_name: PureBhakti
+  owner_or_publisher: Gaudiya Vedanta Publications
+  base_url: https://www.purebhakti.com/
+  exact_entry_url: https://www.purebhakti.com/
+  source_category: site-homepage
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: recognized-gaudiya-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0068-www-purebhakti-com-resources-ebooks-magazines-bo
+  source_name: PureBhakti
+  owner_or_publisher: Gaudiya Vedanta Publications
+  base_url: https://www.purebhakti.com/
+  exact_entry_url: https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers
+  source_category: sanatana-ebook-portal
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: recognized-gaudiya-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0069-www-purebhakti-com-resources-ebooks-magazines-bh
+  source_name: PureBhakti
+  owner_or_publisher: Gaudiya Vedanta Publications
+  base_url: https://www.purebhakti.com/
+  exact_entry_url: https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english
+  source_category: sanatana-ebook-portal
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: recognized-gaudiya-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0070-www-purebhakti-com-resources-ebooks-magazines-bo
+  source_name: PureBhakti
+  owner_or_publisher: Gaudiya Vedanta Publications
+  base_url: https://www.purebhakti.com/
+  exact_entry_url: https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers/1376-jaiva-dharma
+  source_category: sanatana-ebook-portal
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: recognized-gaudiya-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0071-www-purebhakti-com-resources-ebooks-magazines-bh
+  source_name: PureBhakti
+  owner_or_publisher: Gaudiya Vedanta Publications
+  base_url: https://www.purebhakti.com/
+  exact_entry_url: https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english/21-jaiva-dharma
+  source_category: sanatana-ebook-portal
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: recognized-gaudiya-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0072-harikatha-com
+  source_name: Harikatha
+  owner_or_publisher: Gaudiya Vedanta Publications
+  base_url: https://harikatha.com/
+  exact_entry_url: https://harikatha.com/
+  source_category: site-homepage
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: recognized-gaudiya-supplementary-audio
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0073-harikatha-com-audios
+  source_name: Harikatha
+  owner_or_publisher: Gaudiya Vedanta Publications
+  base_url: https://harikatha.com/
+  exact_entry_url: https://harikatha.com/audios/
+  source_category: prabhupada-audio
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: recognized-gaudiya-supplementary-audio
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0074-harikatha-com-about
+  source_name: Harikatha
+  owner_or_publisher: Gaudiya Vedanta Publications
+  base_url: https://harikatha.com/
+  exact_entry_url: https://harikatha.com/about/
+  source_category: site-homepage
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: recognized-gaudiya-supplementary-audio
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0075-gitapress-org
+  source_name: Gita Press
+  owner_or_publisher: Gita Press Gorakhpur
+  base_url: https://gitapress.org/
+  exact_entry_url: https://gitapress.org/
+  source_category: site-homepage
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: sanatana-narrative-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0076-gitapress-org-ebook
+  source_name: Gita Press
+  owner_or_publisher: Gita Press Gorakhpur
+  base_url: https://gitapress.org/
+  exact_entry_url: https://gitapress.org/ebook
+  source_category: sanatana-ebook-portal
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: sanatana-narrative-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0077-gitapress-org-buybooks
+  source_name: Gita Press
+  owner_or_publisher: Gita Press Gorakhpur
+  base_url: https://gitapress.org/
+  exact_entry_url: https://gitapress.org/buybooks
+  source_category: entry-point
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: sanatana-narrative-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0078-gitapress-org-ebook
+  source_name: Gita Press
+  owner_or_publisher: Gita Press Gorakhpur
+  base_url: https://gitapress.org/
+  exact_entry_url: https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a
+  source_category: sanatana-ebook-portal
+  authority_tier: supplementary
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: sanatana-narrative-supplementary
+  mirror_of: ''
+  discovery_only: false
+  rights_posture: link-and-metadata-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: ''
+  verification_method: pending-automated-check
+  status: catalogued-pending-verification
+  notes: Derived from KUT-SRC-0013 public source map
