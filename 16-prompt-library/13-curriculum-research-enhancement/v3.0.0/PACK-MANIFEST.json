@@ -1,0 +1,130 @@
+{
+  "version": "3.0.0",
+  "file_count": 32,
+  "files": [
+    {
+      "path": "00-START-HERE.md",
+      "bytes": 1418
+    },
+    {
+      "path": "KUTUMBA-CURRICULUM-ENHANCEMENT-MASTER-PACK-v3.md",
+      "bytes": 1147
+    },
+    {
+      "path": "README-FIRST.md",
+      "bytes": 2851
+    },
+    {
+      "path": "prompts/00-STARTUP-PROMPT.md",
+      "bytes": 1009
+    },
+    {
+      "path": "prompts/01-MASTER-ORCHESTRATOR.md",
+      "bytes": 3949
+    },
+    {
+      "path": "prompts/02-FORENSIC-CONTENT-AUDIT.md",
+      "bytes": 2044
+    },
+    {
+      "path": "prompts/03-SOURCE-AUTHORITY-COPYRIGHT-CLAIMS.md",
+      "bytes": 4543
+    },
+    {
+      "path": "prompts/04-WEEK-PACK-INFORMATION-ARCHITECTURE.md",
+      "bytes": 3489
+    },
+    {
+      "path": "prompts/05-C1-W2-GOLD-STANDARD-PILOT.md",
+      "bytes": 5290
+    },
+    {
+      "path": "prompts/06-PILOT-QUALITY-GATE.md",
+      "bytes": 1495
+    },
+    {
+      "path": "prompts/07-BATCH-ENHANCE-REMAINING-WEEKS.md",
+      "bytes": 2213
+    },
+    {
+      "path": "prompts/08-AGE-BAND-MIGRATION.md",
+      "bytes": 1523
+    },
+    {
+      "path": "prompts/09-VISUALS-DIAGRAMS-IMAGE-RIGHTS.md",
+      "bytes": 1773
+    },
+    {
+      "path": "prompts/10-GAMMA-NOTEBOOKLM-PACKS.md",
+      "bytes": 2874
+    },
+    {
+      "path": "prompts/11-CYCLES-PROJECTS-CELEBRATIONS-OUTINGS.md",
+      "bytes": 3217
+    },
+    {
+      "path": "prompts/12-PRABHUPADA-LILAMRITA-READING-CIRCLE.md",
+      "bytes": 1274
+    },
+    {
+      "path": "prompts/13-VALIDATION-REPORTING-GIT.md",
+      "bytes": 3108
+    },
+    {
+      "path": "prompts/14-RESUME.md",
+      "bytes": 710
+    },
+    {
+      "path": "prompts/15-INDEPENDENT-REVIEW.md",
+      "bytes": 1439
+    },
+    {
+      "path": "reference/C1-W2-INITIAL-SOURCE-MAP.md",
+      "bytes": 1094
+    },
+    {
+      "path": "reference/MARKDOWN-READING-SETUP.md",
+      "bytes": 561
+    },
+    {
+      "path": "templates/APPROVED-SPEAKERS-EXAMPLE.yaml",
+      "bytes": 561
+    },
+    {
+      "path": "templates/CLAIM-REGISTER-SCHEMA.yaml",
+      "bytes": 425
+    },
+    {
+      "path": "templates/CYCLE-CELEBRATION-TEMPLATE.md",
+      "bytes": 450
+    },
+    {
+      "path": "templates/ENHANCED-REVIEW-STATUS-SCHEMA.yaml",
+      "bytes": 532
+    },
+    {
+      "path": "templates/GAMMA-DECK-BRIEF-TEMPLATE.md",
+      "bytes": 592
+    },
+    {
+      "path": "templates/SOURCE-ALLOWLIST-EXAMPLE.yaml",
+      "bytes": 909
+    },
+    {
+      "path": "templates/VISUAL-BRIEF-TEMPLATE.md",
+      "bytes": 310
+    },
+    {
+      "path": "templates/WEEK-RESEARCH-DOSSIER-TEMPLATE.md",
+      "bytes": 920
+    },
+    {
+      "path": "templates/WEEK-SOURCE-REGISTRY-SCHEMA.yaml",
+      "bytes": 586
+    },
+    {
+      "path": "utilities-spec/UTILITIES-SPEC.md",
+      "bytes": 1421
+    }
+  ]
+}

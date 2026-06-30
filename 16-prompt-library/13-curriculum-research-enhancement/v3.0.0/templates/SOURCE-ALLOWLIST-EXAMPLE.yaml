@@ -1,0 +1,27 @@
+version: "1.0"
+domains:
+  - domain: vedabase.io
+    purpose: "Śrīla Prabhupāda books, transcripts, and letters"
+    authority_tier: 1
+    storage_rule: "links, metadata, short excerpts, original summaries"
+  - domain: gbc.iskcon.org
+    purpose: "official institutional standards"
+    authority_tier: 1
+  - domain: childprotection.iskcon.org
+    purpose: "official child-protection resources when applicable"
+    authority_tier: 1
+  - domain: deityworship.com
+    purpose: "qualified worship ministry resources when applicable"
+    authority_tier: 1
+  - domain: help.gamma.app
+    purpose: "Gamma product documentation"
+    authority_tier: technical-primary
+  - domain: support.google.com
+    purpose: "NotebookLM official help"
+    authority_tier: technical-primary
+blocked_as_authority:
+  - random forums
+  - social-media comments
+  - unattributed quote sites
+  - AI summaries
+  - search-result snippets

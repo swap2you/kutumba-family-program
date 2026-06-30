@@ -1,0 +1,13 @@
+week_code: C1-W2
+claims:
+  - claim_id: C1-W2-CLM-001
+    statement: ""
+    claim_type: scripture-text|srila-prabhupada-explanation|kutumba-summary|analogy|pedagogical-application|contemporary-case|unresolved
+    primary_source_keys: []
+    context_note: ""
+    audience: parent|lala-lali|kisora-kisori|all
+    misunderstanding_risk: ""
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: draft

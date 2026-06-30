@@ -1,0 +1,23 @@
+week_code: C1-W2
+title: ""
+source_policy_version: "3.0.0"
+primary_sources:
+  - source_key: ""
+    tier: 1
+    source_type: scripture|book|lecture|conversation|letter|official-policy
+    author_or_speaker: ""
+    work: ""
+    reference: ""
+    stable_url: ""
+    teaching_function: ""
+    context_checked: false
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: ""
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: pending
+supplementary_sources: []
+approved_teacher_media: []
+pedagogy_sources: []
+forum_discovery_signals: []

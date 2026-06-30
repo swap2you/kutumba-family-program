@@ -1,0 +1,14 @@
+version: "1.0"
+policy: "Only exact named and approved speakers with verified source channels may be used."
+speakers:
+  - speaker_id: RGDGM
+    display_name: "Śrī Śrīmad Rādhā Govinda Dās Goswāmī Mahārāj"
+    approval_status: user-approved
+    source_channels: []
+    local_source_ids: []
+    notes: "Add exact official or user-controlled source locations before indexing."
+  - speaker_id: PENDING-EXACT-NAME
+    display_name: ""
+    approval_status: blocked
+    source_channels: []
+    notes: "Do not infer the identity of partially named teachers."
