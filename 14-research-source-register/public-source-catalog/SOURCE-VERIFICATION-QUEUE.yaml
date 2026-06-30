@@ -7,7 +7,7 @@ queue:
   status: open
   evidence:
     url: https://www.prabhupada.com/
-    checked_at: '2026-06-30T21:18:16.532089+00:00'
+    checked_at: '2026-06-30T21:53:27.834786+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -18,7 +18,7 @@ queue:
   status: open
   evidence:
     url: https://www.prabhupada.com/About/AAbout.html
-    checked_at: '2026-06-30T21:18:17.676438+00:00'
+    checked_at: '2026-06-30T21:53:28.837831+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -29,7 +29,7 @@ queue:
   status: open
   evidence:
     url: https://www.prabhupada.com/Collections/Collections.html
-    checked_at: '2026-06-30T21:18:18.585245+00:00'
+    checked_at: '2026-06-30T21:53:29.724064+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -40,7 +40,7 @@ queue:
   status: open
   evidence:
     url: https://www.prabhupada.com/Collections/Audio2.html
-    checked_at: '2026-06-30T21:18:19.474048+00:00'
+    checked_at: '2026-06-30T21:53:30.639883+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -51,7 +51,7 @@ queue:
   status: open
   evidence:
     url: https://www.prabhupada.com/Collections/Documents.html
-    checked_at: '2026-06-30T21:18:20.437722+00:00'
+    checked_at: '2026-06-30T21:53:31.518890+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -62,7 +62,7 @@ queue:
   status: open
   evidence:
     url: https://www.prabhupada.com/Collections/Images.html
-    checked_at: '2026-06-30T21:18:21.371573+00:00'
+    checked_at: '2026-06-30T21:53:32.457545+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -73,7 +73,7 @@ queue:
   status: open
   evidence:
     url: https://www.prabhupada.com/Collections/Publications.html
-    checked_at: '2026-06-30T21:18:22.355177+00:00'
+    checked_at: '2026-06-30T21:53:33.369446+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -84,7 +84,7 @@ queue:
   status: open
   evidence:
     url: https://www.prabhupada.com/Vedabase/VedaBase.html
-    checked_at: '2026-06-30T21:18:23.266755+00:00'
+    checked_at: '2026-06-30T21:53:34.278717+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -95,7 +95,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/
-    checked_at: '2026-06-30T21:18:24.236489+00:00'
+    checked_at: '2026-06-30T21:53:35.178495+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -106,7 +106,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/media_library/
-    checked_at: '2026-06-30T21:18:26.124451+00:00'
+    checked_at: '2026-06-30T21:53:37.048847+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -117,7 +117,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/materials/
-    checked_at: '2026-06-30T21:18:28.010332+00:00'
+    checked_at: '2026-06-30T21:53:38.905826+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -128,7 +128,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/books-for-kids/
-    checked_at: '2026-06-30T21:18:30.258556+00:00'
+    checked_at: '2026-06-30T21:53:40.721007+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -139,7 +139,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/philosophy-of-education/
-    checked_at: '2026-06-30T21:18:32.111928+00:00'
+    checked_at: '2026-06-30T21:53:42.571214+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -150,7 +150,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/video/
-    checked_at: '2026-06-30T21:18:36.169138+00:00'
+    checked_at: '2026-06-30T21:53:44.443870+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -161,7 +161,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/article/starting-a-sunday-school/
-    checked_at: '2026-06-30T21:18:38.137610+00:00'
+    checked_at: '2026-06-30T21:53:46.291266+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -172,7 +172,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf
-    checked_at: '2026-06-30T21:18:40.413083+00:00'
+    checked_at: '2026-06-30T21:53:48.139060+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -183,7 +183,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf
-    checked_at: '2026-06-30T21:18:42.845104+00:00'
+    checked_at: '2026-06-30T21:53:49.937668+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -194,7 +194,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20TG.pdf
-    checked_at: '2026-06-30T21:18:44.795882+00:00'
+    checked_at: '2026-06-30T21:53:51.757348+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -205,7 +205,7 @@ queue:
   status: open
   evidence:
     url: https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20WB.pdf
-    checked_at: '2026-06-30T21:18:46.794866+00:00'
+    checked_at: '2026-06-30T21:53:53.579053+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -216,7 +216,7 @@ queue:
   status: open
   evidence:
     url: https://gitapress.org/
-    checked_at: '2026-06-30T21:18:49.094518+00:00'
+    checked_at: '2026-06-30T21:53:55.411565+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -227,7 +227,7 @@ queue:
   status: open
   evidence:
     url: https://gitapress.org/ebook
-    checked_at: '2026-06-30T21:18:50.820818+00:00'
+    checked_at: '2026-06-30T21:53:57.102275+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -238,7 +238,7 @@ queue:
   status: open
   evidence:
     url: https://gitapress.org/buybooks
-    checked_at: '2026-06-30T21:18:52.551445+00:00'
+    checked_at: '2026-06-30T21:53:58.767831+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -249,7 +249,7 @@ queue:
   status: open
   evidence:
     url: https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a
-    checked_at: '2026-06-30T21:18:54.413923+00:00'
+    checked_at: '2026-06-30T21:54:00.458677+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
@@ -260,7 +260,7 @@ queue:
   status: open
   evidence:
     url: https://www.bbti.org/
-    checked_at: '2026-06-30T21:18:56.194544+00:00'
+    checked_at: '2026-06-30T21:54:02.157464+00:00'
     method: GET
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate

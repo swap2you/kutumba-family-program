@@ -27,9 +27,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0002-vedabase-io-en-library
   source_name: Bhaktivedanta VedaBase
@@ -57,9 +57,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0003-vedabase-io-en-library-transcripts
   source_name: Bhaktivedanta VedaBase
@@ -87,9 +87,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0004-vedabase-io-en-library-letters
   source_name: Bhaktivedanta VedaBase
@@ -117,9 +117,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0005-vedabase-io-en-library-bg
   source_name: Bhaktivedanta VedaBase
@@ -147,9 +147,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0006-vedabase-io-en-library-sb
   source_name: Bhaktivedanta VedaBase
@@ -177,9 +177,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0007-vedabase-io-en-library-cc
   source_name: Bhaktivedanta VedaBase
@@ -207,9 +207,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0008-vedabase-io-es-library
   source_name: Bhaktivedanta VedaBase
@@ -221,6 +221,7 @@ entries:
   content_types:
   - web
   languages:
+  - es
   - en
   primary_or_secondary: primary
   canonical_for: prabhupada-text-transcripts-letters
@@ -237,9 +238,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0009-www-prabhupada-com
   source_name: Bhaktivedanta Archives
@@ -267,9 +268,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0010-www-prabhupada-com-about-aabout-html
   source_name: Bhaktivedanta Archives
@@ -297,9 +298,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0011-www-prabhupada-com-collections-collections-html
   source_name: Bhaktivedanta Archives
@@ -327,9 +328,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0012-www-prabhupada-com-collections-audio2-html
   source_name: Bhaktivedanta Archives
@@ -357,9 +358,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0013-www-prabhupada-com-collections-documents-html
   source_name: Bhaktivedanta Archives
@@ -387,9 +388,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0014-www-prabhupada-com-collections-images-html
   source_name: Bhaktivedanta Archives
@@ -417,9 +418,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0015-www-prabhupada-com-collections-publications-html
   source_name: Bhaktivedanta Archives
@@ -447,9 +448,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0016-www-prabhupada-com-vedabase-vedabase-html
   source_name: Bhaktivedanta Archives
@@ -477,9 +478,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0017-bbt-org
   source_name: Bhaktivedanta Book Trust
@@ -507,9 +508,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0018-bbt-org-books
   source_name: Bhaktivedanta Book Trust
@@ -537,9 +538,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0019-bbt-org-online-publications
   source_name: Bhaktivedanta Book Trust
@@ -567,9 +568,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0020-bbt-org-languages
   source_name: Bhaktivedanta Book Trust
@@ -597,9 +598,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0021-bbtmedia-com
   source_name: BBT Media
@@ -627,9 +628,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0022-krishna-com
   source_name: Krishna.com
@@ -657,9 +658,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0023-krishna-com-the-bhagavad-gita-info-bhagavad-gita
   source_name: Krishna.com
@@ -687,9 +688,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0024-krishna-com-audio-audiobooks-bhagavad-gita-audio
   source_name: Krishna.com
@@ -717,9 +718,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0025-www-asitis-com
   source_name: As It Is — Bhagavad-gita
@@ -747,9 +748,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0026-www-asitis-com-1
   source_name: As It Is — Bhagavad-gita
@@ -777,9 +778,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0027-www-asitis-com-gallery
   source_name: As It Is — Bhagavad-gita
@@ -807,7 +808,7 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map

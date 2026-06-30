@@ -27,9 +27,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0053-iskconeducation-org-media-library
   source_name: ISKCON Ministry of Education
@@ -57,9 +57,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0054-iskconeducation-org-materials
   source_name: ISKCON Ministry of Education
@@ -87,9 +87,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0055-iskconeducation-org-books-for-kids
   source_name: ISKCON Ministry of Education
@@ -117,9 +117,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0056-iskconeducation-org-philosophy-of-education
   source_name: ISKCON Ministry of Education
@@ -147,9 +147,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0057-iskconeducation-org-video
   source_name: ISKCON Ministry of Education
@@ -177,9 +177,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0058-iskconeducation-org-article-starting-a-sunday-sc
   source_name: ISKCON Ministry of Education
@@ -207,9 +207,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0059-iskconeducation-org-media-library-old-01-cd20ind
   source_name: ISKCON Ministry of Education
@@ -220,6 +220,7 @@ entries:
   authority_tier: A
   content_types:
   - web
+  - pdf
   languages:
   - en
   primary_or_secondary: primary
@@ -237,9 +238,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0060-iskconeducation-org-media-library-old-01-cd20ind
   source_name: ISKCON Ministry of Education
@@ -250,6 +251,7 @@ entries:
   authority_tier: A
   content_types:
   - web
+  - pdf
   languages:
   - en
   primary_or_secondary: primary
@@ -267,9 +269,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0061-iskconeducation-org-media-library-old-devotional
   source_name: ISKCON Ministry of Education
@@ -280,6 +282,7 @@ entries:
   authority_tier: A
   content_types:
   - web
+  - pdf
   languages:
   - en
   primary_or_secondary: primary
@@ -297,9 +300,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0062-iskconeducation-org-media-library-old-devotional
   source_name: ISKCON Ministry of Education
@@ -310,6 +313,7 @@ entries:
   authority_tier: A
   content_types:
   - web
+  - pdf
   languages:
   - en
   primary_or_secondary: primary
@@ -327,9 +331,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0063-iskconcongregation-com-programs-bhakti-vriksha
   source_name: ISKCON Congregational Development
@@ -357,9 +361,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0064-iskconcongregation-com-wp-content-uploads-2018-1
   source_name: ISKCON Congregational Development
@@ -370,6 +374,7 @@ entries:
   authority_tier: A
   content_types:
   - web
+  - pdf
   languages:
   - en
   primary_or_secondary: primary
@@ -387,9 +392,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0065-iskconcongregation-com-wp-content-uploads-2018-1
   source_name: ISKCON Congregational Development
@@ -400,6 +405,7 @@ entries:
   authority_tier: A
   content_types:
   - web
+  - pdf
   languages:
   - en
   primary_or_secondary: primary
@@ -417,9 +423,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0066-www-iskconmumbai-com-about-about-iskcon
   source_name: ISKCON Mumbai (Juhu)
@@ -447,7 +453,7 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map

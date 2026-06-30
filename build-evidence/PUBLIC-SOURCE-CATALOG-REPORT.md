@@ -1,32 +1,28 @@
 # Public Source Catalog Report
 
-Generated: 2026-06-30
+Generated: 2026-06-30 (v5 synchronized)
 
-## Catalog location
+## Canonical dataset
 
-`14-research-source-register/public-source-catalog/`
+`MASTER-SOURCE-CATALOG.yaml` is the single source of truth. Split catalogs are regenerated from master.
 
 ## Entry counts by tier
 
-| Tier | Count (approx.) |
-|------|-----------------|
-| A | 35 |
+| Tier | Count |
+|------|-------|
+| A | 42 |
 | B | 12 |
-| C | 20 |
+| C | 13 |
 | supplementary | 12 |
 | **Total** | **79** |
 
-## Files
+## Reconciliation
 
-- MASTER-SOURCE-CATALOG.yaml
-- Tier-split catalogs (primary, secondary, education, supplementary, media)
-- SOURCE-ALIAS-AND-MIRROR-MAP.yaml
-- RIGHTS-AND-PERMISSIONS-REGISTER.yaml
-- SOURCE-VERIFICATION-QUEUE.yaml
-- SOURCE-TO-MODULE-MAP.yaml
+- Source-map URL reconciliation: **78 authoritative URLs — 0 missing**
+- See `build-evidence/SOURCE-MAP-URL-RECONCILIATION.md`
 
-## Dedupe
+## User directory
 
-Mirrors linked to VedaBase / Archives canonical anchors where applicable.
+`09-digital-repository-publishing/PUBLIC-SOURCE-DIRECTORY.md`
 
-No invented transcript or letter totals committed.
+Human rights and research review: **OPEN**

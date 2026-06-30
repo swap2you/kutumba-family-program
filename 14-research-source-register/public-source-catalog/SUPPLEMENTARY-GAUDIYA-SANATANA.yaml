@@ -12,7 +12,7 @@ entries:
   - web
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: recognized-gaudiya-supplementary
   mirror_of: ''
   discovery_only: false
@@ -27,9 +27,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0068-www-purebhakti-com-resources-ebooks-magazines-bo
   source_name: PureBhakti
@@ -40,9 +40,10 @@ entries:
   authority_tier: supplementary
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: recognized-gaudiya-supplementary
   mirror_of: ''
   discovery_only: false
@@ -57,9 +58,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0069-www-purebhakti-com-resources-ebooks-magazines-bh
   source_name: PureBhakti
@@ -70,9 +71,10 @@ entries:
   authority_tier: supplementary
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: recognized-gaudiya-supplementary
   mirror_of: ''
   discovery_only: false
@@ -87,9 +89,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0070-www-purebhakti-com-resources-ebooks-magazines-bo
   source_name: PureBhakti
@@ -100,9 +102,10 @@ entries:
   authority_tier: supplementary
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: recognized-gaudiya-supplementary
   mirror_of: ''
   discovery_only: false
@@ -117,9 +120,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0071-www-purebhakti-com-resources-ebooks-magazines-bh
   source_name: PureBhakti
@@ -130,9 +133,10 @@ entries:
   authority_tier: supplementary
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: recognized-gaudiya-supplementary
   mirror_of: ''
   discovery_only: false
@@ -147,9 +151,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0072-harikatha-com
   source_name: Harikatha
@@ -162,7 +166,7 @@ entries:
   - web
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: recognized-gaudiya-supplementary-audio
   mirror_of: ''
   discovery_only: false
@@ -177,9 +181,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0073-harikatha-com-audios
   source_name: Harikatha
@@ -190,9 +194,10 @@ entries:
   authority_tier: supplementary
   content_types:
   - web
+  - audio
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: recognized-gaudiya-supplementary-audio
   mirror_of: ''
   discovery_only: false
@@ -207,9 +212,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0074-harikatha-com-about
   source_name: Harikatha
@@ -222,7 +227,7 @@ entries:
   - web
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: recognized-gaudiya-supplementary-audio
   mirror_of: ''
   discovery_only: false
@@ -237,9 +242,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0075-gitapress-org
   source_name: Gita Press
@@ -252,7 +257,7 @@ entries:
   - web
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: sanatana-narrative-supplementary
   mirror_of: ''
   discovery_only: false
@@ -267,9 +272,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0076-gitapress-org-ebook
   source_name: Gita Press
@@ -280,9 +285,10 @@ entries:
   authority_tier: supplementary
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: sanatana-narrative-supplementary
   mirror_of: ''
   discovery_only: false
@@ -297,9 +303,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0077-gitapress-org-buybooks
   source_name: Gita Press
@@ -312,7 +318,7 @@ entries:
   - web
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: sanatana-narrative-supplementary
   mirror_of: ''
   discovery_only: false
@@ -327,9 +333,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0078-gitapress-org-ebook
   source_name: Gita Press
@@ -340,9 +346,10 @@ entries:
   authority_tier: supplementary
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
-  primary_or_secondary: secondary
+  primary_or_secondary: supplementary
   canonical_for: sanatana-narrative-supplementary
   mirror_of: ''
   discovery_only: false
@@ -357,7 +364,7 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map

@@ -1,6 +1,66 @@
 catalog_version: 1.0.0
 generated: '2026-06-30'
 entries:
+- source_id: PSC-0050-prabhupadabooks-com
+  source_name: PrabhupadaBooks.com
+  owner_or_publisher: PrabhupadaBooks.com
+  base_url: https://prabhupadabooks.com/
+  exact_entry_url: https://prabhupadabooks.com/
+  source_category: site-homepage
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: edition-comparison-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: edition-comparison-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
+  notes: Derived from KUT-SRC-0013 public source map
+- source_id: PSC-0051-prabhupadabooks-com-bg
+  source_name: PrabhupadaBooks.com
+  owner_or_publisher: PrabhupadaBooks.com
+  base_url: https://prabhupadabooks.com/
+  exact_entry_url: https://prabhupadabooks.com/bg
+  source_category: entry-point
+  authority_tier: C
+  content_types:
+  - web
+  languages:
+  - en
+  primary_or_secondary: secondary
+  canonical_for: edition-comparison-only
+  mirror_of: ''
+  discovery_only: true
+  rights_posture: edition-comparison-only
+  allowed_repository_use:
+  - link-and-metadata
+  - research-planning
+  - module-source-mapping
+  prohibited_repository_use:
+  - bulk-download
+  - re-host
+  - verbatim-republication-without-permission
+  authentication_required: false
+  robots_or_access_notes: Respect site terms; rate-limit verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
+  notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0040-www-youtube-com-channel-ucbn88f0nrlrmg1cnffvinxw
   source_name: YouTube
   owner_or_publisher: Google / channel owners
@@ -9,7 +69,7 @@ entries:
   source_category: youtube-channel
   authority_tier: C
   content_types:
-  - web
+  - video-channel
   languages:
   - en
   primary_or_secondary: secondary
@@ -27,9 +87,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0041-www-youtube-com-channel-ucrcouc77ftahojjkmeunsoq
   source_name: YouTube
@@ -39,7 +99,7 @@ entries:
   source_category: youtube-channel
   authority_tier: C
   content_types:
-  - web
+  - video-channel
   languages:
   - en
   primary_or_secondary: secondary
@@ -57,9 +117,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0042-www-youtube-com-channel-ucz8s3qwowifztaqbrtawwfa
   source_name: YouTube
@@ -69,7 +129,7 @@ entries:
   source_category: youtube-channel
   authority_tier: C
   content_types:
-  - web
+  - video-channel
   languages:
   - en
   primary_or_secondary: secondary
@@ -87,9 +147,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0043-www-youtube-com-channel-uc9-r06c2swpjrvddvzoqg8q
   source_name: YouTube
@@ -99,7 +159,7 @@ entries:
   source_category: youtube-channel
   authority_tier: C
   content_types:
-  - web
+  - video-channel
   languages:
   - en
   primary_or_secondary: secondary
@@ -117,9 +177,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0044-audio-iskcondesiretree-com-index-php
   source_name: ISKCON Desire Tree Audio
@@ -130,6 +190,7 @@ entries:
   authority_tier: C
   content_types:
   - web
+  - audio
   languages:
   - en
   primary_or_secondary: secondary
@@ -147,9 +208,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0045-audio-iskcondesiretree-com-index-php
   source_name: ISKCON Desire Tree Audio
@@ -160,6 +221,7 @@ entries:
   authority_tier: C
   content_types:
   - web
+  - audio
   languages:
   - en
   primary_or_secondary: secondary
@@ -177,9 +239,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0046-audio-iskcondesiretree-com-index-php
   source_name: ISKCON Desire Tree Audio
@@ -190,6 +252,7 @@ entries:
   authority_tier: C
   content_types:
   - web
+  - audio
   languages:
   - en
   primary_or_secondary: secondary
@@ -207,9 +270,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0047-ebooks-iskcondesiretree-com
   source_name: ISKCON Desire Tree Ebooks
@@ -220,6 +283,7 @@ entries:
   authority_tier: C
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
   primary_or_secondary: secondary
@@ -237,9 +301,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0048-ebooks-iskcondesiretree-com-index-php
   source_name: ISKCON Desire Tree Ebooks
@@ -250,6 +314,7 @@ entries:
   authority_tier: C
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
   primary_or_secondary: secondary
@@ -267,9 +332,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0049-ebooks-iskcondesiretree-com-index-php
   source_name: ISKCON Desire Tree Ebooks
@@ -280,6 +345,7 @@ entries:
   authority_tier: C
   content_types:
   - web
+  - ebook-catalog
   languages:
   - en
   primary_or_secondary: secondary
@@ -297,9 +363,9 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: HEAD:200
+  status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0079-www-bbti-org
   source_name: www.bbti.org
@@ -327,7 +393,7 @@ entries:
   - verbatim-republication-without-permission
   authentication_required: false
   robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: ''
-  verification_method: pending-automated-check
-  status: catalogued-pending-verification
+  last_verified: '2026-06-30'
+  verification_method: GET:n/a
+  status: verification-failed
   notes: Derived from KUT-SRC-0013 public source map
