@@ -1,0 +1,13 @@
+# YAML schema guide for rights records
+required:
+  - rights_id
+  - source_id
+  - content_type
+  - rights_owner
+  - public_access
+  - redistribution_permission
+  - allowed_use
+  - prohibited_use
+  - evidence_url
+  - reviewer
+  - status

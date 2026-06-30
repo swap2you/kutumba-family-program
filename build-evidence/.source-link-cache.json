@@ -65,56 +65,56 @@
   },
   "https://www.prabhupada.com/": {
     "url": "https://www.prabhupada.com/",
-    "checked_at": "2026-06-30T20:55:55.040927+00:00",
+    "checked_at": "2026-06-30T21:18:16.532089+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://www.prabhupada.com/About/AAbout.html": {
     "url": "https://www.prabhupada.com/About/AAbout.html",
-    "checked_at": "2026-06-30T20:55:56.033893+00:00",
+    "checked_at": "2026-06-30T21:18:17.676438+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://www.prabhupada.com/Collections/Collections.html": {
     "url": "https://www.prabhupada.com/Collections/Collections.html",
-    "checked_at": "2026-06-30T20:55:56.932840+00:00",
+    "checked_at": "2026-06-30T21:18:18.585245+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://www.prabhupada.com/Collections/Audio2.html": {
     "url": "https://www.prabhupada.com/Collections/Audio2.html",
-    "checked_at": "2026-06-30T20:55:57.830792+00:00",
+    "checked_at": "2026-06-30T21:18:19.474048+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://www.prabhupada.com/Collections/Documents.html": {
     "url": "https://www.prabhupada.com/Collections/Documents.html",
-    "checked_at": "2026-06-30T20:55:58.723693+00:00",
+    "checked_at": "2026-06-30T21:18:20.437722+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://www.prabhupada.com/Collections/Images.html": {
     "url": "https://www.prabhupada.com/Collections/Images.html",
-    "checked_at": "2026-06-30T20:55:59.601767+00:00",
+    "checked_at": "2026-06-30T21:18:21.371573+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://www.prabhupada.com/Collections/Publications.html": {
     "url": "https://www.prabhupada.com/Collections/Publications.html",
-    "checked_at": "2026-06-30T20:56:00.472160+00:00",
+    "checked_at": "2026-06-30T21:18:22.355177+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://www.prabhupada.com/Vedabase/VedaBase.html": {
     "url": "https://www.prabhupada.com/Vedabase/VedaBase.html",
-    "checked_at": "2026-06-30T20:56:01.418829+00:00",
+    "checked_at": "2026-06-30T21:18:23.266755+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
@@ -309,77 +309,77 @@
   },
   "https://iskconeducation.org/": {
     "url": "https://iskconeducation.org/",
-    "checked_at": "2026-06-30T20:56:29.372398+00:00",
+    "checked_at": "2026-06-30T21:18:24.236489+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/media_library/": {
     "url": "https://iskconeducation.org/media_library/",
-    "checked_at": "2026-06-30T20:56:31.297245+00:00",
+    "checked_at": "2026-06-30T21:18:26.124451+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/materials/": {
     "url": "https://iskconeducation.org/materials/",
-    "checked_at": "2026-06-30T20:56:33.158181+00:00",
+    "checked_at": "2026-06-30T21:18:28.010332+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/books-for-kids/": {
     "url": "https://iskconeducation.org/books-for-kids/",
-    "checked_at": "2026-06-30T20:56:35.005176+00:00",
+    "checked_at": "2026-06-30T21:18:30.258556+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/philosophy-of-education/": {
     "url": "https://iskconeducation.org/philosophy-of-education/",
-    "checked_at": "2026-06-30T20:56:36.849553+00:00",
+    "checked_at": "2026-06-30T21:18:32.111928+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/video/": {
     "url": "https://iskconeducation.org/video/",
-    "checked_at": "2026-06-30T20:56:38.678839+00:00",
+    "checked_at": "2026-06-30T21:18:36.169138+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/article/starting-a-sunday-school/": {
     "url": "https://iskconeducation.org/article/starting-a-sunday-school/",
-    "checked_at": "2026-06-30T20:56:40.541454+00:00",
+    "checked_at": "2026-06-30T21:18:38.137610+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf": {
     "url": "https://iskconeducation.org/media_library_old/01.CD20Index20Madhava.pdf",
-    "checked_at": "2026-06-30T20:56:42.421223+00:00",
+    "checked_at": "2026-06-30T21:18:40.413083+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf": {
     "url": "https://iskconeducation.org/media_library_old/01.CD20Index20Damodar.pdf",
-    "checked_at": "2026-06-30T20:56:44.252266+00:00",
+    "checked_at": "2026-06-30T21:18:42.845104+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20TG.pdf": {
     "url": "https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20TG.pdf",
-    "checked_at": "2026-06-30T20:56:46.075697+00:00",
+    "checked_at": "2026-06-30T21:18:44.795882+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20WB.pdf": {
     "url": "https://iskconeducation.org/media_library_old/Devotional20Practices20-20Part20120-20WB.pdf",
-    "checked_at": "2026-06-30T20:56:47.902001+00:00",
+    "checked_at": "2026-06-30T21:18:46.794866+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
@@ -482,28 +482,28 @@
   },
   "https://gitapress.org/": {
     "url": "https://gitapress.org/",
-    "checked_at": "2026-06-30T20:57:09.878985+00:00",
+    "checked_at": "2026-06-30T21:18:49.094518+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://gitapress.org/ebook": {
     "url": "https://gitapress.org/ebook",
-    "checked_at": "2026-06-30T20:57:11.655088+00:00",
+    "checked_at": "2026-06-30T21:18:50.820818+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://gitapress.org/buybooks": {
     "url": "https://gitapress.org/buybooks",
-    "checked_at": "2026-06-30T20:57:13.330562+00:00",
+    "checked_at": "2026-06-30T21:18:52.551445+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
   },
   "https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a": {
     "url": "https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a",
-    "checked_at": "2026-06-30T20:57:14.995292+00:00",
+    "checked_at": "2026-06-30T21:18:54.413923+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"
@@ -590,7 +590,7 @@
   },
   "https://www.bbti.org/": {
     "url": "https://www.bbti.org/",
-    "checked_at": "2026-06-30T20:57:30.243456+00:00",
+    "checked_at": "2026-06-30T21:18:56.194544+00:00",
     "method": "GET",
     "outcome": "network-error",
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)"

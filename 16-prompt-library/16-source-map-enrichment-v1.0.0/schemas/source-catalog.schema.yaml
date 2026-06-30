@@ -1,0 +1,14 @@
+# YAML schema guide for MASTER-SOURCE-CATALOG.yaml
+required:
+  - source_id
+  - source_name
+  - owner_or_publisher
+  - exact_entry_url
+  - authority_tier
+  - source_category
+  - content_types
+  - rights_posture
+  - allowed_repository_use
+  - prohibited_repository_use
+  - last_verified
+  - status

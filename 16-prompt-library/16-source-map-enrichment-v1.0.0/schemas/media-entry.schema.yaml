@@ -1,0 +1,14 @@
+# YAML schema guide for media entries
+required:
+  - media_id
+  - title
+  - speaker
+  - media_type
+  - canonical_url
+  - source_owner
+  - relevant_timestamp
+  - topic
+  - teaching_purpose
+  - authority_tier
+  - rights_status
+  - review_status

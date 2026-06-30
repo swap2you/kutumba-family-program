@@ -1,0 +1,13 @@
+# YAML schema guide for SOURCE-TO-MODULE-MAP.yaml
+required:
+  - module_id
+  - controlling_sources
+  - spoken_prabhupada_sources
+  - katha_sources
+  - education_sources
+  - child_sources
+  - media_sources
+  - supplementary_sources
+  - excluded_sources
+  - rights_review
+  - doctrinal_review
