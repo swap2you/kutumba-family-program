@@ -1,0 +1,13 @@
+---
+description: KUTUMBA documentation repository constraints
+globs: **/*
+---
+
+# KUTUMBA documentation-only repository
+
+- No application development
+- No nested git roots
+- Preserve source document depth
+- Index legacy references; do not bulk-copy copyrighted PDFs
+- Update CURRENT-STATUS.md at phase boundaries
+- Link canonical docs to source_id and source_hash

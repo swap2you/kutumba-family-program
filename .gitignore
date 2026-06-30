@@ -1,0 +1,26 @@
+# Office lock files
+~$*
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build working
+build-evidence/extraction-working/
+*.log
+
+# Secrets
+.env
+*.pem
+credentials.json
+
+# Large binaries policy — reference collections stay local
+KUTUMBA_CURSOR_PROMPT_LIBRARY_v2.0.zip
