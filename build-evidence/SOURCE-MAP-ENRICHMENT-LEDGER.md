@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | Phase | 16-source-map-enrichment-v1.0.0 |
-| Baseline HEAD | `acf3edbc6eef7d6a9b04e743e0437fafe96bbad1` |
+| Final HEAD | `cb65c5d` |
 | Started | 2026-06-30 |
 | Authoritative source | KUT-SRC-0013 (DOCX) |
 | Source group | KUT-SRC-GRP-0013 |
@@ -23,7 +23,7 @@
 | 08 Supplementary | complete |
 | 09 v4 remediation | complete (critical corrections) |
 | 10 Audit | complete |
-| 11 Publish | pending commit/push |
+| 11 Publish | complete — `cb65c5d` pushed to origin/main |
 
 ## Open gates
 
