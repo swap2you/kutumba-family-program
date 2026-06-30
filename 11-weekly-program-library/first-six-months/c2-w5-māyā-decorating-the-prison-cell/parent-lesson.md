@@ -1,7 +1,13 @@
 ---
 week_code: C2-W5
 week_title: Māyā: Decorating the Prison Cell
-source: 03-first-six-months/FIRST-SIX-MONTH-DETAILED-CURRICULUM.md
+derived_from:
+  canonical_file: 03-first-six-months/FIRST-SIX-MONTH-DETAILED-CURRICULUM.md
+  source_id: KUT-SRC-0004
+  source_hash: 7123781051c732bc82baee084284d0bcac6c6b5011baf12d07216c2e503a7f58
+  extraction_heading: "C2-W5 — Māyā: Decorating the Prison Cell"
+  extraction_date: 2026-06-30
+  component: parent-lesson.md
 ---
 
 ## Parent Lesson — 40 Minutes
