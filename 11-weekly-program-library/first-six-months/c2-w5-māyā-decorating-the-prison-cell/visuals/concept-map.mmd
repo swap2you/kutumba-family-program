@@ -1,4 +1,13 @@
-flowchart TD
-  A[C2-W5: Māyā: Decorating the Prison Ce] --> B[Source]
-  A --> C[Practice]
-  A --> D[Character]
+flowchart TB
+    subgraph TEACHING["C2-W5 core teaching"]
+        A["Māyā: Decorating the Pris"]
+        B["Bhagavad-gītā 7.14"]
+        C["Attention Boundary and Japa Shelter"]
+    end
+    subgraph SOURCES["Sources"]
+        S1[Scripture]
+        S2[Practice]
+    end
+    A --> B --> C
+    S1 --> A
+    S2 --> C

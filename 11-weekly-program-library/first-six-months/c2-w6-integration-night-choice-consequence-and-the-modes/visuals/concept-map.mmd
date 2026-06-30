@@ -1,4 +1,13 @@
-flowchart TD
-  A[C2-W6: Integration Night: Choice, Con] --> B[Source]
-  A --> C[Practice]
-  A --> D[Character]
+flowchart TB
+    subgraph TEACHING["C2-W6 core teaching"]
+        A["Integration Night: Choice"]
+        B["Bhagavad-gītā 18.63"]
+        C["Five-Lens Family Case Lab"]
+    end
+    subgraph SOURCES["Sources"]
+        S1[Scripture]
+        S2[Practice]
+    end
+    A --> B --> C
+    S1 --> A
+    S2 --> C

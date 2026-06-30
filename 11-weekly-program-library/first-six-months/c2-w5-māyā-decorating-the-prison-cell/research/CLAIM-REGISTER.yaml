@@ -1,22 +1,113 @@
 week_code: C2-W5
 claims:
   - claim_id: C2-W5-CLM-001
-    statement: "Teach māyā as Kṛṣṇa’s difficult-to-overcome material energy that covers and misdirects the conditioned soul, while showi"
-    claim_type: kutumba-summary
-    vedabase_link: ""
-    audience: all
-    review_required: doctrinal
-    status: draft
-  - claim_id: C2-W5-CLM-002
-    statement: "Key teaching anchored in Bhagavad-gītā 7.14 — daivī hy eṣā guṇa-mayī mama māyā duratyayā"
+    statement: "Kṛṣṇa's material energy (māyā) is difficult to overcome without surrender to Him."
     claim_type: scripture-text
-    vedabase_link: ""
+    primary_source_keys:
+      - BG-7-14
     audience: all
+    misunderstanding_risk: "Self-sufficiency"
+    exact_quote: false
     review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W5-CLM-002
+    statement: "Māyā consists of the three modes and covers knowledge of Kṛṣṇa."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-7-14
+    audience: parent
+    misunderstanding_risk: "Calling matter totally unreal"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
     status: human-review-required
   - claim_id: C2-W5-CLM-003
-    statement: "Home practice supports family formation without comparison"
-    claim_type: pedagogical-application
+    statement: "Contemplating sense objects leads through attachment to desire and loss of intelligence."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-2-62
+      - BG-2-63
+    audience: kisora-kisori
+    misunderstanding_risk: "Blaming objects only"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W5-CLM-004
+    statement: "Decorating the prison cell means making comfort, image, or control the ultimate project."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-7-14
     audience: parent
-    review_required: pedagogy
-    status: draft
+    misunderstanding_risk: "Neglecting household duty"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W5-CLM-005
+    statement: "Women, children, and all persons are souls — never 'māyā.'"
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-7-14
+    audience: all
+    misunderstanding_risk: "Misogynistic misuse"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W5-CLM-006
+    statement: "Boundary plus shelter — limit, replacement practice, devotee support — beats prohibition alone."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-7-14
+    audience: all
+    misunderstanding_risk: "Willpower-only plans"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W5-CLM-007
+    statement: "The fish-in-the-well analogy illustrates limited vision, not literal geography."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - SB-7-5-23
+    audience: all
+    misunderstanding_risk: "Mocking family life"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W5-CLM-008
+    statement: "Stop–name–redirect trains attention without shame spirals."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-2-62
+    audience: all
+    misunderstanding_risk: "Hiding compulsive behavior publicly while shaming privately"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W5-CLM-009
+    statement: "Responsible material arrangement for Kṛṣṇa differs from ultimate absorption in decoration."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-9-10
+    audience: parent
+    misunderstanding_risk: "World-rejection"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W5-CLM-010
+    statement: "Children learn shiny distractions pull away from helping; people remain sacred."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-7-14
+    audience: lala-lali
+    misunderstanding_risk: "Displaying inappropriate ads"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required

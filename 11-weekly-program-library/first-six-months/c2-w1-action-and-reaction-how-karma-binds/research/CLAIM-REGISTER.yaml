@@ -1,22 +1,113 @@
 week_code: C2-W1
 claims:
   - claim_id: C2-W1-CLM-001
-    statement: "Introduce karma as the law by which materially motivated actions produce consequences and bind the living being, while s"
-    claim_type: kutumba-summary
-    vedabase_link: ""
-    audience: all
-    review_required: doctrinal
-    status: draft
-  - claim_id: C2-W1-CLM-002
-    statement: "Key teaching anchored in Bhagavad-gītā 3.9 — yajñārthāt karmaṇo ’nyatra ... karma-bandhanaḥ"
+    statement: "Work performed only for separate material interest binds the living being."
     claim_type: scripture-text
-    vedabase_link: ""
+    primary_source_keys:
+      - BG-3-9
     audience: all
+    misunderstanding_risk: "Reducing karma to fate"
+    exact_quote: false
     review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W1-CLM-002
+    statement: "Work done as sacrifice for Viṣṇu should be performed without selfish attachment."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-3-9
+    audience: all
+    misunderstanding_risk: "Careless action justified by slogan"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
     status: human-review-required
   - claim_id: C2-W1-CLM-003
-    statement: "Home practice supports family formation without comparison"
-    claim_type: pedagogical-application
+    statement: "Intention, method, and consequence together shape the moral quality of an action."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-4-16
+      - BG-4-17
     audience: parent
-    review_required: pedagogy
-    status: draft
+    misunderstanding_risk: "Intention alone excuses harm"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W1-CLM-004
+    statement: "Karma in this module means action and reaction under material nature, not simplistic punishment."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-3-9
+    audience: all
+    misunderstanding_risk: "Fatalism or revenge thinking"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W1-CLM-005
+    statement: "We cannot confidently diagnose another person's suffering as the result of a specific past action."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-4-17
+    audience: all
+    misunderstanding_risk: "Victim-blaming"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W1-CLM-006
+    statement: "Good intention does not excuse dishonest or careless method."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-4-16
+    audience: kisora-kisori
+    misunderstanding_risk: "Moral excuse for harm"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W1-CLM-007
+    statement: "Offering work to Kṛṣṇa includes careful execution before, during, and after the act."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-3-9
+    audience: parent
+    misunderstanding_risk: "Labeling careless work 'for Kṛṣṇa'"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W1-CLM-008
+    statement: "King Nṛga's account illustrates procedural care and accountability, not fear for children."
+    claim_type: scripture-text
+    primary_source_keys:
+      - SB-9-4-4
+    audience: parent
+    misunderstanding_risk: "Frightening children with cosmic punishment"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W1-CLM-009
+    statement: "Children can learn that choices plant seeds producing results without shame-based karma talk."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-3-9
+    audience: lala-lali
+    misunderstanding_risk: "Public comparison of children's mistakes"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W1-CLM-010
+    statement: "Repair — apology, return, replace, clarify — is part of responsible action."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-3-9
+    audience: all
+    misunderstanding_risk: "Avoiding restitution"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required

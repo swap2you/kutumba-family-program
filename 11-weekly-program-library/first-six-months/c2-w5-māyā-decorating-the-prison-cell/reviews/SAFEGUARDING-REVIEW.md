@@ -1,5 +1,12 @@
-# SAFEGUARDING-REVIEW.md
+# C2-W5 SAFEGUARDING REVIEW
 
-Module: C2-W5
+**Status:** human-review-required  
+**Focus:** Say clearly: People are not māyā. No inappropriate media displayed in class.
 
-Status: human-review-required
+## Checklist
+
+- [ ] Human reviewer assigned
+- [ ] Module-specific risks addressed
+- [ ] Sign-off recorded externally when complete
+
+No automated approval claimed.

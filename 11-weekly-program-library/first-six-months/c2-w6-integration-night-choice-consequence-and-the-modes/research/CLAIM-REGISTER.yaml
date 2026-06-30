@@ -1,22 +1,116 @@
 week_code: C2-W6
 claims:
   - claim_id: C2-W6-CLM-001
-    statement: "Consolidate karma, responsibility, reincarnation, modes and māyā through family decisions, scenario analysis and one pra"
+    statement: "Cycle 2 knowledge should produce thoughtful, responsible choice — not fatalism."
     claim_type: kutumba-summary
-    vedabase_link: ""
+    primary_source_keys:
+      - BG-18-63
     audience: all
+    misunderstanding_risk: "'Nothing can change' resignation"
+    exact_quote: false
     review_required: doctrinal
-    status: draft
+    reviewer: ""
+    status: human-review-required
   - claim_id: C2-W6-CLM-002
-    statement: "Key teaching anchored in Bhagavad-gītā 18.63 — vimṛśyaitad ... yathecchasi tathā kuru"
-    claim_type: scripture-text
-    vedabase_link: ""
+    statement: "Five-lens analysis includes action, choice, modes, false promise, and shelter."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-3-9
+      - BG-18-63
+      - BG-14-5
+      - BG-7-14
     audience: all
+    misunderstanding_risk: "Single-lens blame"
+    exact_quote: false
     review_required: doctrinal
+    reviewer: ""
     status: human-review-required
   - claim_id: C2-W6-CLM-003
-    statement: "Home practice supports family formation without comparison"
+    statement: "Karma diagnosis of another person's suffering is prohibited in case work."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-3-9
+    audience: all
+    misunderstanding_risk: "Victim-blaming cases"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W6-CLM-004
+    statement: "Mode language describes conditions, not permanent identities."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-14-5
+    audience: all
+    misunderstanding_risk: "Mode-labeling classmates"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W6-CLM-005
+    statement: "Integration week uses synthesis, not a new overloaded principal līlā."
     claim_type: pedagogical-application
+    primary_source_keys:
+      []
+    audience: all
+    misunderstanding_risk: "Narrative overload"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W6-CLM-006
+    statement: "Families choose one Cycle 2 method to continue during the off week."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-18-63
+    audience: all
+    misunderstanding_risk: "No practical continuity"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W6-CLM-007
+    statement: "Children demonstrate at least one tool: pause, seed, remembrance, reset, or boundary."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      []
+    audience: lala-lali
+    misunderstanding_risk: "Performative testing"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W6-CLM-008
+    statement: "Case discussions use fictional facts only — no indirect gossip."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      []
+    audience: all
+    misunderstanding_risk: "Real family exposure"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W6-CLM-009
+    statement: "Assessment is private — no winning table or public score."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      []
+    audience: all
+    misunderstanding_risk: "Competitive shaming"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W6-CLM-010
+    statement: "Surrender includes practical boundaries and responsible action together."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-7-14
+      - BG-18-63
     audience: parent
-    review_required: pedagogy
-    status: draft
+    misunderstanding_risk: "Splitting devotion from duty"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required

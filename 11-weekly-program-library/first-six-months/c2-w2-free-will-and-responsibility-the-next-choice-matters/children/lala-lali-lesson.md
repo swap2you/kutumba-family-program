@@ -1,70 +1,88 @@
 ---
 week_code: C2-W2
 week_title: Free Will and Responsibility: The Next Choice Matters
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Free Will and Responsibility: The Next Choice Matters
 
-## Core (ages 4–6)
+**Total time:** 40 minutes (aligns with parent track)  
+**Memory line:** "Stop — remember Kṛṣṇa — choose care."  
+**Sanskrit phrase:** *icchā — desire/will (say: ich-CHAH, lightly)*  
+**Safeguarding:** Traffic-light pause is for low-risk triggers only. Danger = tell adult immediately. No blame for victims.
 
-### Age 4-6
+---
 
-- Traffic-light routine: red stop, yellow remember Kṛṣṇa and the rule, green choose a safe action.
+## Core track — ages 4–6 (default delivery)
 
-- Puppet scenario: toy taken, strong anger, two possible choices.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening: recall prior Cycle 2 week if attended; one short song; show today's picture card |
+| 5–15 min | **Story** (below) — 8 minutes + 2 min wonder questions |
+| 15–22 min | Movement or hands-on activity tied to lesson |
+| 22–28 min | Game or sorting activity |
+| 28–32 min | **Movement break** — reset bodies safely |
+| 32–36 min | Simple craft or card making |
+| 36–40 min | Recall line + hand to heart; transition to [shared-family-transition.md](shared-family-transition.md) |
 
-- Body signal game: identify tight fists, loud voice and fast breathing as signals to pause.
+### Story — facilitator narrative (8–10 min)
 
-- Practice asking an adult for help.
+Puppet Kāka sees his toy taken. His fists tighten and his voice gets loud. Teacher holds up red card: STOP. Yellow: remember — Kṛṣṇa sees me; what is the kind rule? Green: choose — ask adult for help, use words, or walk away. Kāka practices twice.
 
-### Age 7-9
+**Wonder questions (no wrong answers):**  
+- What choice happened first?  
+- What happened after?  
+- What can we do for Kṛṣṇa next time?
 
-- Arjuna choice story: confused, asks Kṛṣṇa, hears, thinks and acts.
+### Movement / game
 
-- Control/influence/no-control sorting with school and family situations.
+Follow activities in [complete-week.md](../complete-week.md) Age 4–6 section — seed planting, traffic-light, doll clothes, weather faces, or shiny-choice puppet as appropriate.
 
-- Traffic-light role plays with a respectful redo after an unhelpful choice.
+### Craft
 
-- Create a pocket pause card.
+Children make a recall card with picture + memory line: "Stop — remember Kṛṣṇa — choose care."
 
-### Age 10-13
+---
 
-- Read BG 18.63 and discuss whether choice means ‘do whatever you feel.’
+## Extension — ages 7–8
 
-- Map one digital habit trigger and identify the smallest point of intervention.
+Add after story (do not replace core):
 
-- Discuss coercion, peer pressure and when to seek a trusted adult rather than manage alone.
+| Addition | Detail |
+| --- | --- |
+| **Verse rhythm** | Key verse summary in call-and-response (English) — link parent [overview.md](../overview.md) |
+| **Scenario cards** | Low-stakes choice practice with respectful redo |
+| **Deeper recall** | Connect memory line to one home practice step |
+| **Sanskrit** | Repeat *icchā* once |
 
-- Write a choice statement: ‘I cannot control ___; I can choose ___.’
+---
 
-## Extension (ages 7–8)
+## Take-home
 
-### Age 7-9
+One recall card with memory line and child drawing of today's story beat.
 
-- Arjuna choice story: confused, asks Kṛṣṇa, hears, thinks and acts.
+## Closing transition
 
-- Control/influence/no-control sorting with school and family situations.
+Hand to heart; walk quietly to family reunification — see [shared-family-transition.md](shared-family-transition.md).
 
-- Traffic-light role plays with a respectful redo after an unhelpful choice.
+---
 
-- Create a pocket pause card.
+## Facilitator cautions
 
-### Age 10-13
+- Traffic-light pause is for low-risk triggers only. Danger = tell adult immediately. No blame for victims.
+- Do not invite trauma disclosure in group.
+- Route graphic death or abuse questions to parents privately.
+- Two adults in visible space.
 
-- Read BG 18.63 and discuss whether choice means ‘do whatever you feel.’
+---
 
-- Map one digital habit trigger and identify the smallest point of intervention.
+## Materials
 
-- Discuss coercion, peer pressure and when to seek a trusted adult rather than manage alone.
+See [materials.md](../materials.md) — Lāla–Lālī section.
 
-- Write a choice statement: ‘I cannot control ___; I can choose ___.’
+## Sources
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+- [Bhagavad-gītā 18.63](https://vedabase.io/en/library/bg/18/63/)
+- [prem-ki-katha.md](../prem-ki-katha.md)
+- [research/CONTEMPORARY-APPLICATIONS.md](../research/CONTEMPORARY-APPLICATIONS.md)

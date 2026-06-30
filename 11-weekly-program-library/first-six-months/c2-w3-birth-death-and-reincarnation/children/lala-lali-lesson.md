@@ -1,70 +1,88 @@
 ---
 week_code: C2-W3
 week_title: Birth, Death and Reincarnation
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Birth, Death and Reincarnation
 
-## Core (ages 4–6)
+**Total time:** 40 minutes (aligns with parent track)  
+**Memory line:** "Kṛṣṇa, please help me remember You."  
+**Sanskrit phrase:** *dehī — the one inside the body (say: DAY-hee)*  
+**Safeguarding:** NO frightening death imagery. Feelings cards: sad, confused, peaceful, worried — all OK to share with trusted adult. Redirect graphic questions to parents.
 
-### Age 4-6
+---
 
-- Use a doll with changeable clothes: the doll/person stays while clothes change; explain simply that the soul stays while bodies change.
+## Core track — ages 4–6 (default delivery)
 
-- Read a gentle original story about a caterpillar leaving one stage and continuing, while noting it is only a picture, not proof.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening: recall prior Cycle 2 week if attended; one short song; show today's picture card |
+| 5–15 min | **Story** (below) — 8 minutes + 2 min wonder questions |
+| 15–22 min | Movement or hands-on activity tied to lesson |
+| 22–28 min | Game or sorting activity |
+| 28–32 min | **Movement break** — reset bodies safely |
+| 32–36 min | Simple craft or card making |
+| 36–40 min | Recall line + hand to heart; transition to [shared-family-transition.md](shared-family-transition.md) |
 
-- Feelings cards: sad, confused, peaceful, worried. All can be shared with a trusted adult.
+### Story — facilitator narrative (8–10 min)
 
-- Practice a bedtime prayer: ‘Kṛṣṇa, please help me remember You.’
+Doll Devi has three dresses: baby blue, school yellow, warm shawl. Teacher changes dresses while children hold Devi's name card. 'Dress changed — Devi is still Devi.' Caterpillar picture: 'Sometimes nature shows change — our proof is Kṛṣṇa's words in BG 2.22.'
 
-### Age 7-9
+**Wonder questions (no wrong answers):**  
+- What choice happened first?  
+- What happened after?  
+- What can we do for Kṛṣṇa next time?
 
-- Sequence BG 2.13: baby, child, adult, old body, another body.
+### Movement / game
 
-- Clothes analogy and its limit: bodies are not chosen from a closet.
+Follow activities in [complete-week.md](../complete-week.md) Age 4–6 section — seed planting, traffic-light, doll clothes, weather faces, or shiny-choice puppet as appropriate.
 
-- Question sorting: what scripture tells us, what we can infer and what we should not guess.
+### Craft
 
-- Create a remembrance card for bedtime.
+Children make a recall card with picture + memory line: "Kṛṣṇa, please help me remember You."
 
-### Age 10-13
+---
 
-- Compare BG 2.13, 2.20 and 2.22 in a three-column chart.
+## Extension — ages 7–8
 
-- Discuss how repeated media, desires and habits shape consciousness.
+Add after story (do not replace core):
 
-- Analyze compassionate and uncompassionate responses to grief.
+| Addition | Detail |
+| --- | --- |
+| **Verse rhythm** | Key verse summary in call-and-response (English) — link parent [overview.md](../overview.md) |
+| **Scenario cards** | Low-stakes choice practice with respectful redo |
+| **Deeper recall** | Connect memory line to one home practice step |
+| **Sanskrit** | Repeat *dehī* once |
 
-- Prepare a two-sentence answer to ‘Why should present choices matter if the soul continues?’
+---
 
-## Extension (ages 7–8)
+## Take-home
 
-### Age 7-9
+One recall card with memory line and child drawing of today's story beat.
 
-- Sequence BG 2.13: baby, child, adult, old body, another body.
+## Closing transition
 
-- Clothes analogy and its limit: bodies are not chosen from a closet.
+Hand to heart; walk quietly to family reunification — see [shared-family-transition.md](shared-family-transition.md).
 
-- Question sorting: what scripture tells us, what we can infer and what we should not guess.
+---
 
-- Create a remembrance card for bedtime.
+## Facilitator cautions
 
-### Age 10-13
+- NO frightening death imagery. Feelings cards: sad, confused, peaceful, worried — all OK to share with trusted adult. Redirect graphic questions to parents.
+- Do not invite trauma disclosure in group.
+- Route graphic death or abuse questions to parents privately.
+- Two adults in visible space.
 
-- Compare BG 2.13, 2.20 and 2.22 in a three-column chart.
+---
 
-- Discuss how repeated media, desires and habits shape consciousness.
+## Materials
 
-- Analyze compassionate and uncompassionate responses to grief.
+See [materials.md](../materials.md) — Lāla–Lālī section.
 
-- Prepare a two-sentence answer to ‘Why should present choices matter if the soul continues?’
+## Sources
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+- [Bhagavad-gītā 2.22](https://vedabase.io/en/library/bg/2/22/)
+- [prem-ki-katha.md](../prem-ki-katha.md)
+- [research/CONTEMPORARY-APPLICATIONS.md](../research/CONTEMPORARY-APPLICATIONS.md)

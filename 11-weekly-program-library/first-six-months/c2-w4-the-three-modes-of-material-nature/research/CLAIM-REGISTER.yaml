@@ -1,22 +1,113 @@
 week_code: C2-W4
 claims:
   - claim_id: C2-W4-CLM-001
-    statement: "Introduce goodness, passion and ignorance as changing influences that condition perception and behavior, while preventin"
-    claim_type: kutumba-summary
-    vedabase_link: ""
-    audience: all
-    review_required: doctrinal
-    status: draft
-  - claim_id: C2-W4-CLM-002
-    statement: "Key teaching anchored in Bhagavad-gītā 14.5 — sattvaṁ rajas tama iti guṇāḥ prakṛti-sambhavāḥ"
+    statement: "Material nature has three modes — goodness, passion, and ignorance — born of prakṛti."
     claim_type: scripture-text
-    vedabase_link: ""
+    primary_source_keys:
+      - BG-14-5
     audience: all
+    misunderstanding_risk: "Fourth mode inventing"
+    exact_quote: false
     review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W4-CLM-002
+    statement: "Modes describe tendencies and influences, not fixed labels on persons."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-14-9
+    audience: all
+    misunderstanding_risk: "Calling people 'tamasic'"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
     status: human-review-required
   - claim_id: C2-W4-CLM-003
-    statement: "Home practice supports family formation without comparison"
-    claim_type: pedagogical-application
+    statement: "Goodness tends toward clarity and order but can bind through pride and comfort."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-14-6
+      - BG-14-17
     audience: parent
-    review_required: pedagogy
-    status: draft
+    misunderstanding_risk: "Superiority over others"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W4-CLM-004
+    statement: "Passion tends toward restlessness, craving, and competition."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-14-7
+    audience: all
+    misunderstanding_risk: "Celebrating hustle as virtue"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W4-CLM-005
+    statement: "Ignorance tends toward dullness, neglect, and confusion."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-14-8
+    audience: all
+    misunderstanding_risk: "Mocking struggle as identity"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W4-CLM-006
+    statement: "Environmental design — remove, add, move earlier, simplify — supports bhakti."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-14-5
+    audience: parent
+    misunderstanding_risk: "External purity without devotion"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W4-CLM-007
+    statement: "Bhakti practiced with determination helps one transcend the modes."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-14-26
+    audience: all
+    misunderstanding_risk: "Modes talk replacing chanting"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W4-CLM-008
+    statement: "Children can identify calm, restless, and dull patterns in stories without labeling classmates."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-14-5
+    audience: lala-lali
+    misunderstanding_risk: "Public mode labeling"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W4-CLM-009
+    statement: "Food examples illustrate general tendencies; do not police medical or family food needs."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-17-8
+    audience: all
+    misunderstanding_risk: "Food shaming"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W4-CLM-010
+    statement: "Colored-filter lamp demonstrates perception shift — pedagogical analogy, not literal physics."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-14-5
+    audience: all
+    misunderstanding_risk: "Over-literalizing analogy"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required

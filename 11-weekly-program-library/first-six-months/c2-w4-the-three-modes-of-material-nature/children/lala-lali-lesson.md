@@ -1,70 +1,88 @@
 ---
 week_code: C2-W4
 week_title: The Three Modes of Material Nature
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — The Three Modes of Material Nature
 
-## Core (ages 4–6)
+**Total time:** 40 minutes (aligns with parent track)  
+**Memory line:** "I can choose habits that help me hear Kṛṣṇa."  
+**Sanskrit phrase:** *sattva — goodness/clarity (say: SUT-tva)*  
+**Safeguarding:** Never call a child a mode. Weather describes the room, not the person's worth.
 
-### Age 4-6
+---
 
-- Three weather faces: clear sky, windy storm and dark fog. Match simple behaviors without calling children a mode.
+## Core track — ages 4–6 (default delivery)
 
-- Room reset game: tidy three items, lower noise and sit for one chant.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening: recall prior Cycle 2 week if attended; one short song; show today's picture card |
+| 5–15 min | **Story** (below) — 8 minutes + 2 min wonder questions |
+| 15–22 min | Movement or hands-on activity tied to lesson |
+| 22–28 min | Game or sorting activity |
+| 28–32 min | **Movement break** — reset bodies safely |
+| 32–36 min | Simple craft or card making |
+| 36–40 min | Recall line + hand to heart; transition to [shared-family-transition.md](shared-family-transition.md) |
 
-- Food picture discussion focused on freshness and moderation, not shame.
+### Story — facilitator narrative (8–10 min)
 
-- Recall: ‘I can choose habits that help me hear Kṛṣṇa.’
+Three weather faces on the wall: clear sky, windy storm, sleepy fog. Teacher tells three mini-stories about the same playroom — tidy and quiet, noisy chase, messy and dark. Children match weather face to room, then do 3-item tidy reset.
 
-### Age 7-9
+**Wonder questions (no wrong answers):**  
+- What choice happened first?  
+- What happened after?  
+- What can we do for Kṛṣṇa next time?
 
-- Mode detectives: identify clues in short stories and suggest one better choice.
+### Movement / game
 
-- Colored-filter lamp demonstration.
+Follow activities in [complete-week.md](../complete-week.md) Age 4–6 section — seed planting, traffic-light, doll clothes, weather faces, or shiny-choice puppet as appropriate.
 
-- Create a before-bed clarity checklist: tidy, wash, reduce screen, chant, sleep.
+### Craft
 
-- Discuss why people can change and should not be labeled.
+Children make a recall card with picture + memory line: "I can choose habits that help me hear Kṛṣṇa."
 
-### Age 10-13
+---
 
-- Read BG 14.5 and summarize each mode in one sentence.
+## Extension — ages 7–8
 
-- Analyze an algorithm-driven media feed for passion and ignorance influences.
+Add after story (do not replace core):
 
-- Discuss how goodness can create superiority.
+| Addition | Detail |
+| --- | --- |
+| **Verse rhythm** | Key verse summary in call-and-response (English) — link parent [overview.md](../overview.md) |
+| **Scenario cards** | Low-stakes choice practice with respectful redo |
+| **Deeper recall** | Connect memory line to one home practice step |
+| **Sanskrit** | Repeat *sattva* once |
 
-- Design a two-hour evening environment that supports school duties and bhakti.
+---
 
-## Extension (ages 7–8)
+## Take-home
 
-### Age 7-9
+One recall card with memory line and child drawing of today's story beat.
 
-- Mode detectives: identify clues in short stories and suggest one better choice.
+## Closing transition
 
-- Colored-filter lamp demonstration.
+Hand to heart; walk quietly to family reunification — see [shared-family-transition.md](shared-family-transition.md).
 
-- Create a before-bed clarity checklist: tidy, wash, reduce screen, chant, sleep.
+---
 
-- Discuss why people can change and should not be labeled.
+## Facilitator cautions
 
-### Age 10-13
+- Never call a child a mode. Weather describes the room, not the person's worth.
+- Do not invite trauma disclosure in group.
+- Route graphic death or abuse questions to parents privately.
+- Two adults in visible space.
 
-- Read BG 14.5 and summarize each mode in one sentence.
+---
 
-- Analyze an algorithm-driven media feed for passion and ignorance influences.
+## Materials
 
-- Discuss how goodness can create superiority.
+See [materials.md](../materials.md) — Lāla–Lālī section.
 
-- Design a two-hour evening environment that supports school duties and bhakti.
+## Sources
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+- [Bhagavad-gītā 14.5](https://vedabase.io/en/library/bg/14/5/)
+- [prem-ki-katha.md](../prem-ki-katha.md)
+- [research/CONTEMPORARY-APPLICATIONS.md](../research/CONTEMPORARY-APPLICATIONS.md)

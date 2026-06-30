@@ -1,1 +1,21 @@
-# Speaker notes — C2-W3
+# C2-W3 Speaker Notes
+
+## Before session
+
+- Read prem-ki-katha.md and key verse on VedaBase
+- Review MISCONCEPTIONS-AND-BOUNDARIES.md
+- Check safeguarding for C2-W3 — risks-and-sensitive-points.md
+
+## Timing
+
+- Opening hook: 2–3 min
+- Prem-kī-kathā: 12–15 min with interaction
+- Parent lesson: 40 min parallel tracks
+
+## Critical corrections
+
+NO frightening death imagery. Feelings cards: sad, confused, peaceful, worried — all OK to share with trusted adult. Redirect graphic questions to parents.
+
+## Human review
+
+human-review-required — do not claim doctrinal approval.

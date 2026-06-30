@@ -1,8 +1,31 @@
-# Visual Plan — C2-W4
+# C2-W4 Visual Plan
 
-| Visual | Type | Audience | Rights |
-| --- | --- | --- | --- |
-| Concept map | Mermaid `concept-map.mmd` | all | original |
-| Session flow | Mermaid `process-flow.mmd` | facilitator | original |
+## Design principles
 
-No BBT artwork in Git. Placeholders for photos: `rights-status: pending`.
+- Mermaid originals in git — no BBT copyrighted images
+- Render `.mmd` in Markdown preview
+- Safeguarding visuals per age track
+
+## Visual inventory
+
+| # | Visual | File | Audience | Purpose |
+| --- | --- | --- | --- | --- |
+| 1 | Concept map | concept-map.mmd | 9+ | Core distinctions |
+| 2 | Session flow | process-flow.mmd | facilitator | Lesson arc |
+| 3 | Means / does-not-mean | VISUAL-PLAN § below | Parent | Misconception guard |
+
+## Means / does-not-mean
+
+| Means | Does not mean |
+| --- | --- |
+| Modes are changing influences; describe conditions, not fixe... | Labeling people/cultures |
+| Source-grounded practice | Invented quotes |
+| Compassionate delivery | Fear or shame |
+
+## Gamma integration
+
+See [../gamma/GAMMA-MASTER-DECK-BRIEF.md](../gamma/GAMMA-MASTER-DECK-BRIEF.md).
+
+## Image rights
+
+[image-rights-register.yaml](image-rights-register.yaml)

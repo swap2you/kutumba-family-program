@@ -1,2 +1,30 @@
 week_code: C2-W2
-media: []
+media:
+  - media_id: C2-W2-MEDIA-001
+    type: gamma-deck
+    title: "C2-W2 deck 1"
+    location: gamma/GAMMA-PARENT-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+  - media_id: C2-W2-MEDIA-002
+    type: gamma-deck
+    title: "C2-W2 deck 2"
+    location: gamma/GAMMA-LALA-LALI-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+  - media_id: C2-W2-MEDIA-003
+    type: gamma-deck
+    title: "C2-W2 deck 3"
+    location: gamma/GAMMA-KISORA-KISORI-DECK-PROMPT.md
+    status: prompt-ready-not-rendered
+    rights_status: internal
+  - media_id: C2-W2-MEDIA-004
+    type: prabhupada-lecture
+    title: "BG 18.63"
+    stable_url: "https://vedabase.io/en/library/lectures/november/25/1972/721125BG.HYD_eng/"
+    status: reference-only
+    rights_status: vedabase-link
+
+approved_teacher_media: []
+
+notes: "No video files in repository. Facilitators use live delivery + optional VedaBase lecture playback in private prep."

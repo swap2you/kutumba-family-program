@@ -1,5 +1,12 @@
-# SAFEGUARDING-REVIEW.md
+# C2-W3 SAFEGUARDING REVIEW
 
-Module: C2-W3
+**Status:** human-review-required  
+**Focus:** NO frightening death imagery. Feelings cards: sad, confused, peaceful, worried — all OK to share with trusted adult. Redirect graphic questions to parents.
 
-Status: human-review-required
+## Checklist
+
+- [ ] Human reviewer assigned
+- [ ] Module-specific risks addressed
+- [ ] Sign-off recorded externally when complete
+
+No automated approval claimed.

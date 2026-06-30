@@ -1,22 +1,82 @@
-# Research Dossier — C2-W2
+# C2-W2 Research Dossier — Free Will and Responsibility: The Next Choice Matters
 
 ## Module identity
 
-- **Module ID:** C2-W2
-- **Title:** Free Will and Responsibility: The Next Choice Matters
-- **Essential question:** What does this module establish for family formation?
-- **Controlling principle:** Teach that the conditioned soul does not control every circumstance but retains meaningful, minute choice and responsibility, especially in how one responds to guidance, habits and present conditions.
-- **Scope:** Per monolith `complete-week.md`
-- **Explicit exclusions:** Topics assigned to later modules — see `MISCONCEPTIONS-AND-BOUNDARIES.md`
+| Field | Detail |
+| --- | --- |
+| **Module ID** | C2-W2 |
+| **Title** | Free Will and Responsibility: The Next Choice Matters |
+| **Cycle** | Cycle 2 — Karma, Rebirth and Material Nature |
+| **Essential question** | What can we control, what influences us, and how does the next choice matter? |
+| **Controlling principle** | Conditioning is real; meaningful choice and responsibility remain under Kṛṣṇa's guidance. |
+| **Scope** | BG 18.61–63, 18.73, 3.33–34, 5.14–15; pause–remember–choose practice |
+| **Explicit exclusions** | Unlimited independence from Kṛṣṇa; blaming victims; excusing abuse |
+| **Prerequisites** | C2-W1 karma foundation |
+| **Leads to** | C2-W3 consciousness direction; C2-W6 integration |
 
-## Source hierarchy
+## Source hierarchy used
 
-Tier 1 VedaBase references only in Git. KUTUMBA summaries — not full purports.
+1. **Tier 1:** Bhagavad-gītā, Śrīmad-Bhāgavatam (VedaBase links + KUTUMBA summaries)
+2. **Tier 1:** Verified Śrīla Prabhupāda lectures in [PRABHUPADA-LECTURE-INDEX.md](PRABHUPADA-LECTURE-INDEX.md)
+3. **Pedagogy:** KUTUMBA case studies (tagged fictional composites)
+4. **Blocked:** Random forums, unattributed quotes, AI-only authority
 
-## Key verse
+## Primary source matrix
 
-Bhagavad-gītā 18.63 — vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru
+See [SOURCE-MATRIX.md](SOURCE-MATRIX.md) — 9 entries minimum.
 
-## Human review
+## Research questions answered
 
-doctrinal, safeguarding, worship — required
+| # | Question | Answer (summary) |
+| --- | --- | --- |
+| 1 | What is the controlling teaching? | Conditioning is real; meaningful choice and responsibility remain under Kṛṣṇa's guidance. |
+| 2 | Key verse? | [Bhagavad-gītā 18.63](https://vedabase.io/en/library/bg/18/63/) |
+| 3 | What does it NOT mean? | See [MISCONCEPTIONS-AND-BOUNDARIES.md](MISCONCEPTIONS-AND-BOUNDARIES.md) |
+| 4 | Contemporary cases? | 7 in [CONTEMPORARY-APPLICATIONS.md](CONTEMPORARY-APPLICATIONS.md) |
+| 5 | Child capacity Lāla–Lālī? | Story, movement, recall — Stop — remember Kṛṣṇa — choose care. |
+| 6 | Youth capacity? | Text observation, cases, optional writing/debate |
+| 7 | Parent practice? | Pause–Remember–Choose Practice |
+| 8 | Safeguarding? | See module `risks-and-sensitive-points.md` |
+
+## Key distinctions
+
+- **Means vs. does-not-mean** — MISCONCEPTIONS-AND-BOUNDARIES.md
+- **Scripture vs. pedagogical analogy** — analogy-and-application.md
+- **Human review** — all claims `human-review-required` until sign-off
+
+## Misconceptions and boundaries
+
+→ [MISCONCEPTIONS-AND-BOUNDARIES.md](MISCONCEPTIONS-AND-BOUNDARIES.md)
+
+## Contemporary applications
+
+→ [CONTEMPORARY-APPLICATIONS.md](CONTEMPORARY-APPLICATIONS.md)
+
+## Audience implications
+
+| Audience | Implication |
+| --- | --- |
+| **Parent** | 40-min plan with cases and Pause–Remember–Choose Practice |
+| **Lāla–Lālī** | Timed lesson — no inappropriate imagery |
+| **Kiśora–Kiśorī** | Text work, cases, structured debate where noted |
+
+## Visual-learning needs
+
+→ [../visuals/VISUAL-PLAN.md](../visuals/VISUAL-PLAN.md)
+
+## Gamma outputs
+
+→ [../gamma/GAMMA-MASTER-DECK-BRIEF.md](../gamma/GAMMA-MASTER-DECK-BRIEF.md)
+
+## Open questions
+
+- Human reviewer to confirm verse numbering vs congregation Gītā edition
+- Sign claim register after doctrinal review
+
+## Human review required
+
+- Doctrinal accuracy of claim register
+- Safeguarding on all case studies
+- Rights before external images
+
+_Status: enhancement-complete — pending human review_

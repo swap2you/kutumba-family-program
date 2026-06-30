@@ -1,5 +1,12 @@
-# RIGHTS-REVIEW.md
+# C2-W2 RIGHTS REVIEW
 
-Module: C2-W2
+**Status:** human-review-required  
+**Focus:** Mermaid originals; no BBT images in git
 
-Status: human-review-required
+## Checklist
+
+- [ ] Human reviewer assigned
+- [ ] Module-specific risks addressed
+- [ ] Sign-off recorded externally when complete
+
+No automated approval claimed.

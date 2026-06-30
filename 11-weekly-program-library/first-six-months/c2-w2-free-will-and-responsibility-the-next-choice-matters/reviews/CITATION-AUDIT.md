@@ -1,5 +1,12 @@
-# CITATION-AUDIT.md
+# C2-W2 CITATION AUDIT
 
-Module: C2-W2
+**Status:** human-review-required  
+**Focus:** VedaBase links and claim traceability
 
-Status: human-review-required
+## Checklist
+
+- [ ] Human reviewer assigned
+- [ ] Module-specific risks addressed
+- [ ] Sign-off recorded externally when complete
+
+No automated approval claimed.

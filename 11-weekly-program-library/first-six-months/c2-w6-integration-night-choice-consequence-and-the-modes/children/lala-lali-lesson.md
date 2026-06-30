@@ -1,70 +1,88 @@
 ---
 week_code: C2-W6
 week_title: Integration Night: Choice, Consequence and the Modes
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Integration Night: Choice, Consequence and the Modes
 
-## Core (ages 4–6)
+**Total time:** 40 minutes (aligns with parent track)  
+**Memory line:** "We have tools: seeds, pause, remembrance, tidy sky, boundaries."  
+**Sanskrit phrase:** *review — no new term required*  
+**Safeguarding:** Fictional puppets only. No quizzes on deceased relatives or karma diagnosis.
 
-### Age 4-6
+---
 
-- Puppet case: rushed morning. Children choose one helpful seed, use traffic-light pause and tidy the space.
+## Core track — ages 4–6 (default delivery)
 
-- Mode-weather matching with actions that clear the sky.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening: recall prior Cycle 2 week if attended; one short song; show today's picture card |
+| 5–15 min | **Story** (below) — 8 minutes + 2 min wonder questions |
+| 15–22 min | Movement or hands-on activity tied to lesson |
+| 22–28 min | Game or sorting activity |
+| 28–32 min | **Movement break** — reset bodies safely |
+| 32–36 min | Simple craft or card making |
+| 36–40 min | Recall line + hand to heart; transition to [shared-family-transition.md](shared-family-transition.md) |
 
-- Bedtime remembrance demonstration.
+### Story — facilitator narrative (8–10 min)
 
-- Choose one tool card to take home.
+Puppet family rushes on Friday. Children pick tool cards: seed (prepare snack), traffic light (pause before shouting), tidy sky (reset rug), bedtime star (remember Kṛṣṇa). Puppet family tries again — calmer kīrtana.
 
-### Age 7-9
+**Wonder questions (no wrong answers):**  
+- What choice happened first?  
+- What happened after?  
+- What can we do for Kṛṣṇa next time?
 
-- Solve illustrated cases using action, result, choice and helpful environment.
+### Movement / game
 
-- Verse picture match: seed, rudder, clothes, filters and shelter.
+Follow activities in [complete-week.md](../complete-week.md) Age 4–6 section — seed planting, traffic-light, doll clothes, weather faces, or shiny-choice puppet as appropriate.
 
-- Role-play a respectful redo after a poor choice.
+### Craft
 
-- Create a family tool wheel.
+Children make a recall card with picture + memory line: "We have tools: seeds, pause, remembrance, tidy sky, boundaries."
 
-### Age 10-13
+---
 
-- Facilitate a case using the five-lens method.
+## Extension — ages 7–8
 
-- Identify victim-blaming, fatalism and mode-labeling in sample statements.
+Add after story (do not replace core):
 
-- Design a realistic intervention for a digital attention loop.
+| Addition | Detail |
+| --- | --- |
+| **Verse rhythm** | Key verse summary in call-and-response (English) — link parent [overview.md](../overview.md) |
+| **Scenario cards** | Low-stakes choice practice with respectful redo |
+| **Deeper recall** | Connect memory line to one home practice step |
+| **Sanskrit** | Repeat *review* once |
 
-- Give one evidence-based reason for the selected family method.
+---
 
-## Extension (ages 7–8)
+## Take-home
 
-### Age 7-9
+One recall card with memory line and child drawing of today's story beat.
 
-- Solve illustrated cases using action, result, choice and helpful environment.
+## Closing transition
 
-- Verse picture match: seed, rudder, clothes, filters and shelter.
+Hand to heart; walk quietly to family reunification — see [shared-family-transition.md](shared-family-transition.md).
 
-- Role-play a respectful redo after a poor choice.
+---
 
-- Create a family tool wheel.
+## Facilitator cautions
 
-### Age 10-13
+- Fictional puppets only. No quizzes on deceased relatives or karma diagnosis.
+- Do not invite trauma disclosure in group.
+- Route graphic death or abuse questions to parents privately.
+- Two adults in visible space.
 
-- Facilitate a case using the five-lens method.
+---
 
-- Identify victim-blaming, fatalism and mode-labeling in sample statements.
+## Materials
 
-- Design a realistic intervention for a digital attention loop.
+See [materials.md](../materials.md) — Lāla–Lālī section.
 
-- Give one evidence-based reason for the selected family method.
+## Sources
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+- [Bhagavad-gītā 18.63](https://vedabase.io/en/library/bg/18/63/)
+- [prem-ki-katha.md](../prem-ki-katha.md)
+- [research/CONTEMPORARY-APPLICATIONS.md](../research/CONTEMPORARY-APPLICATIONS.md)

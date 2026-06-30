@@ -1,4 +1,13 @@
-flowchart TD
-  A[C2-W2: Free Will and Responsibility: ] --> B[Source]
-  A --> C[Practice]
-  A --> D[Character]
+flowchart TB
+    subgraph TEACHING["C2-W2 core teaching"]
+        A["Free Will and Responsibil"]
+        B["Bhagavad-gītā 18.63"]
+        C["Pause–Remember–Choose Practice"]
+    end
+    subgraph SOURCES["Sources"]
+        S1[Scripture]
+        S2[Practice]
+    end
+    A --> B --> C
+    S1 --> A
+    S2 --> C

@@ -1,22 +1,114 @@
 week_code: C2-W3
 claims:
   - claim_id: C2-W3-CLM-001
-    statement: "Teach transmigration as the soul’s movement through changing bodies under karma and consciousness, in a calm and age-app"
-    claim_type: kutumba-summary
-    vedabase_link: ""
-    audience: all
-    review_required: doctrinal
-    status: draft
-  - claim_id: C2-W3-CLM-002
-    statement: "Key teaching anchored in Bhagavad-gītā 2.22 — vāsāṁsi jīrṇāni yathā vihāya"
+    statement: "The embodied soul passes through bodily stages and accepts new bodies as garments change."
     claim_type: scripture-text
-    vedabase_link: ""
+    primary_source_keys:
+      - BG-2-13
+      - BG-2-22
     audience: all
+    misunderstanding_risk: "Bodies chosen like closet clothes"
+    exact_quote: false
     review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W3-CLM-002
+    statement: "The soul is not destroyed when the body stops working."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-2-20
+    audience: all
+    misunderstanding_risk: "Frightening children with destruction imagery"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
     status: human-review-required
   - claim_id: C2-W3-CLM-003
-    statement: "Home practice supports family formation without comparison"
-    claim_type: pedagogical-application
+    statement: "The garment analogy is helpful but limited — bodies are not casually selected."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-2-22
+    audience: all
+    misunderstanding_risk: "Oversimplifying rebirth"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W3-CLM-004
+    statement: "Repeated consciousness and remembrance shape future direction."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-8-6
     audience: parent
-    review_required: pedagogy
-    status: draft
+    misunderstanding_risk: "Superstition about one final thought"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W3-CLM-005
+    statement: "Grief for the bodily separation of loved ones is compatible with spiritual truth."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-2-27
+    audience: all
+    misunderstanding_risk: "Dismissing grief as 'ignorance'"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W3-CLM-006
+    statement: "We do not guess a specific deceased person's destination or species."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-2-22
+    audience: all
+    misunderstanding_risk: "Speculation and gossip"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W3-CLM-007
+    statement: "Bedtime remembrance replaces uncontrolled media with one minute of Kṛṣṇa focus."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-8-5
+    audience: all
+    misunderstanding_risk: "Forced emotional disclosure"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W3-CLM-008
+    statement: "Young children learn continuity through doll-clothes and life-stage pictures — not horror."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-2-13
+    audience: lala-lali
+    misunderstanding_risk: "Graphic death content"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W3-CLM-009
+    statement: "Present choices matter because consciousness is being shaped daily."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-8-6
+      - SB-5-9-1
+    audience: kisora-kisori
+    misunderstanding_risk: "Fatalism"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W3-CLM-010
+    statement: "Answers to children should be truthful, calm, brief, and developmentally appropriate."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-2-20
+    audience: all
+    misunderstanding_risk: "Avoidance or blunt overload"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required

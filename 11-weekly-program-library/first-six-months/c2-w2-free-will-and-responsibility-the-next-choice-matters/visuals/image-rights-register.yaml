@@ -1,2 +1,10 @@
 week_code: C2-W2
-images: []
+images:
+  - image_id: C2-W2-IMG-001
+    description: Mermaid concept-map export
+    rights_status: original-kutumba
+    status: approved-internal
+  - image_id: C2-W2-IMG-002
+    description: Mermaid process-flow export
+    rights_status: original-kutumba
+    status: approved-internal

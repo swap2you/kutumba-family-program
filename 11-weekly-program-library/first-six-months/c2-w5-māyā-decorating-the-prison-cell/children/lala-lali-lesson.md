@@ -1,70 +1,88 @@
 ---
 week_code: C2-W5
 week_title: Māyā: Decorating the Prison Cell
-age_band: lala-lali
-ages: 4-8
+audience: Lāla–Lālī (ages 4–8)
+component: children/lala-lali-lesson.md
 ---
 
-# Lāla–Lālī Lesson — 40 Minutes
+# Lāla–Lālī Lesson — Māyā: Decorating the Prison Cell
 
-## Core (ages 4–6)
+**Total time:** 40 minutes (aligns with parent track)  
+**Memory line:** "People are not māyā. I can stop, chant once, and choose help."  
+**Sanskrit phrase:** *māyā — Kṛṣṇa's material energy (say: MAH-yah)*  
+**Safeguarding:** Say clearly: People are not māyā. No inappropriate media displayed in class.
 
-### Age 4-6
+---
 
-- Shiny-choice puppet: a flashing toy distracts from helping; children practice stop and choose.
+## Core track — ages 4–6 (default delivery)
 
-- Sticky-note path: each repeated look adds a note until the path is hard to leave.
+| Time | Activity |
+| --- | --- |
+| 0–5 min | Opening: recall prior Cycle 2 week if attended; one short song; show today's picture card |
+| 5–15 min | **Story** (below) — 8 minutes + 2 min wonder questions |
+| 15–22 min | Movement or hands-on activity tied to lesson |
+| 22–28 min | Game or sorting activity |
+| 28–32 min | **Movement break** — reset bodies safely |
+| 32–36 min | Simple craft or card making |
+| 36–40 min | Recall line + hand to heart; transition to [shared-family-transition.md](shared-family-transition.md) |
 
-- Say clearly: ‘People are not māyā. Māyā is the energy that makes us forget Kṛṣṇa.’
+### Story — facilitator narrative (8–10 min)
 
-- Redirect action: put down, take three breaths, chant once, choose help.
+Shiny puppet toy flashes and beeps during cleanup time. Children practice: put down, three breaths, one chant, pick up one toy for Kṛṣṇa. Sticky-note path shows how each 'just one look' adds up.
 
-### Age 7-9
+**Wonder questions (no wrong answers):**  
+- What choice happened first?  
+- What happened after?  
+- What can we do for Kṛṣṇa next time?
 
-- Attention chain cards based on BG 2.62–63.
+### Movement / game
 
-- Decorated-cage analogy: a beautiful cage is still not the bird’s freedom; discuss limits respectfully.
+Follow activities in [complete-week.md](../complete-week.md) Age 4–6 section — seed planting, traffic-light, doll clothes, weather faces, or shiny-choice puppet as appropriate.
 
-- Identify false promises in toy, game and popularity advertisements.
+### Craft
 
-- Create one home device boundary with parents.
+Children make a recall card with picture + memory line: "People are not māyā. I can stop, chant once, and choose help."
 
-### Age 10-13
+---
 
-- Read BG 7.14 and map surrender as the exit rather than mere self-control.
+## Extension — ages 7–8
 
-- Analyze a recommendation algorithm as an engineered attention loop.
+Add after story (do not replace core):
 
-- Discuss how spiritual language can be misused to demean women or avoid responsibility.
+| Addition | Detail |
+| --- | --- |
+| **Verse rhythm** | Key verse summary in call-and-response (English) — link parent [overview.md](../overview.md) |
+| **Scenario cards** | Low-stakes choice practice with respectful redo |
+| **Deeper recall** | Connect memory line to one home practice step |
+| **Sanskrit** | Repeat *māyā* once |
 
-- Create stop–name–redirect plans for one personal trap.
+---
 
-## Extension (ages 7–8)
+## Take-home
 
-### Age 7-9
+One recall card with memory line and child drawing of today's story beat.
 
-- Attention chain cards based on BG 2.62–63.
+## Closing transition
 
-- Decorated-cage analogy: a beautiful cage is still not the bird’s freedom; discuss limits respectfully.
+Hand to heart; walk quietly to family reunification — see [shared-family-transition.md](shared-family-transition.md).
 
-- Identify false promises in toy, game and popularity advertisements.
+---
 
-- Create one home device boundary with parents.
+## Facilitator cautions
 
-### Age 10-13
+- Say clearly: People are not māyā. No inappropriate media displayed in class.
+- Do not invite trauma disclosure in group.
+- Route graphic death or abuse questions to parents privately.
+- Two adults in visible space.
 
-- Read BG 7.14 and map surrender as the exit rather than mere self-control.
+---
 
-- Analyze a recommendation algorithm as an engineered attention loop.
+## Materials
 
-- Discuss how spiritual language can be misused to demean women or avoid responsibility.
+See [materials.md](../materials.md) — Lāla–Lālī section.
 
-- Create stop–name–redirect plans for one personal trap.
+## Sources
 
-## Recall line
-
-See parent lesson key verse and memory line in `overview.md`.
-
-## Safeguarding
-
-No frightening death imagery. Two adults in visible space. No public comparison of bodies.
+- [Bhagavad-gītā 7.14](https://vedabase.io/en/library/bg/7/14/)
+- [prem-ki-katha.md](../prem-ki-katha.md)
+- [research/CONTEMPORARY-APPLICATIONS.md](../research/CONTEMPORARY-APPLICATIONS.md)
