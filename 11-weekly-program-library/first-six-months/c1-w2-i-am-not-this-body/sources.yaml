@@ -1,5 +1,191 @@
 week_code: C1-W2
 title: "I Am Not This Body"
+source_policy_version: "3.0.0"
 canonical: 03-first-six-months/FIRST-SIX-MONTH-DETAILED-CURRICULUM.md
 source_id: KUT-SRC-0004
 source_hash: 7123781051c732bc82baee084284d0bcac6c6b5011baf12d07216c2e503a7f58
+
+primary_sources:
+  - source_key: BG-2-13
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Vyāsadeva (spoken by Lord Kṛṣṇa)"
+    work: "Bhagavad-gītā As It Is"
+    reference: "2.13"
+    stable_url: "https://vedabase.io/en/library/bg/2/13/"
+    teaching_function: "Continuity of the embodied self through childhood, youth, and old age; sober observation of bodily change"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "The embodied soul passes through bodily stages while remaining the same conscious subject; a sober person is not bewildered by this change."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: BG-2-16
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Vyāsadeva (spoken by Lord Kṛṣṇa)"
+    work: "Bhagavad-gītā As It Is"
+    reference: "2.16"
+    stable_url: "https://vedabase.io/en/library/bg/2/16/"
+    teaching_function: "Distinction between changing matter and enduring spirit; basis for not mistaking the temporary for the permanent"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "What is real has no end; what is unreal has no beginning. Seers who know both conclude that spirit endures while matter changes."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: BG-2-20
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Vyāsadeva (spoken by Lord Kṛṣṇa)"
+    work: "Bhagavad-gītā As It Is"
+    reference: "2.20"
+    stable_url: "https://vedabase.io/en/library/bg/2/20/"
+    teaching_function: "The soul does not undergo the six transformations of the body (birth, growth, disease, etc.)"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "The soul is not born, does not die, and is not slain when the body is slain; it is eternal and unchanging in nature."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: BG-2-22
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Vyāsadeva (spoken by Lord Kṛṣṇa)"
+    work: "Bhagavad-gītā As It Is"
+    reference: "2.22"
+    stable_url: "https://vedabase.io/en/library/bg/2/22/"
+    teaching_function: "Garment analogy — the soul changes bodies as one changes worn-out garments"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "As a person gives up old garments for new ones, the soul accepts new material bodies, leaving old ones behind."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: BG-13-1
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Vyāsadeva (spoken by Lord Kṛṣṇa)"
+    work: "Bhagavad-gītā As It Is"
+    reference: "13.1"
+    stable_url: "https://vedabase.io/en/library/bg/13/1/"
+    teaching_function: "Field (kṣetra) and knower of the field (kṣetrajña) — body as field, soul as knower"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "This body is called the field; one who knows this body is called the knower of the field — the distinction between observed body and conscious knower."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: BG-13-2
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Vyāsadeva (spoken by Lord Kṛṣṇa)"
+    work: "Bhagavad-gītā As It Is"
+    reference: "13.2"
+    stable_url: "https://vedabase.io/en/library/bg/13/2/"
+    teaching_function: "Confirms the knower is the living entity; body is matter"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "The living entity is the knower of the field; the field itself is material. Understanding this distinction is knowledge."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: BG-13-3
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Vyāsadeva (spoken by Lord Kṛṣṇa)"
+    work: "Bhagavad-gītā As It Is"
+    reference: "13.3"
+    stable_url: "https://vedabase.io/en/library/bg/13/3/"
+    teaching_function: "Opens description of the field; supports body/self distinction without teaching full cosmology here"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "Kṛṣṇa begins describing what the field comprises — elements, senses, and related factors — establishing the body as an object of knowledge, not the self."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: SB-10-84-13
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Vyāsadeva"
+    work: "Śrīmad-Bhāgavatam"
+    reference: "10.84.13"
+    stable_url: "https://vedabase.io/en/library/sb/10/84/13/"
+    teaching_function: "Critique of bodily self-identification; sober warning against mistaking the body for the self"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "Persons who identify the self with the body, home, children, or wealth are compared to animals in human form — bodily identification obscures spiritual vision."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: CC-M-20-108
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī"
+    work: "Śrī Caitanya-caritāmṛta"
+    reference: "Madhya 20.108"
+    stable_url: "https://vedabase.io/en/library/cc/madhya/20/108/"
+    teaching_function: "Constitutional identity — jīvera svarūpa is eternal service to Kṛṣṇa"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "The living entity's constitutional position is to be an eternal servant of Kṛṣṇa — positive identity beyond mere negation of the body."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: CC-M-20-109
+    tier: 1
+    source_type: scripture
+    author_or_speaker: "Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī"
+    work: "Śrī Caitanya-caritāmṛta"
+    reference: "Madhya 20.109"
+    stable_url: "https://vedabase.io/en/library/cc/madhya/20/109/"
+    teaching_function: "Lord Caitanya teaches that service attitude defines real identity"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "Lord Caitanya confirms the jīva's eternal relationship as servant of Kṛṣṇa — the 'I' that continues is meant for devotional service."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+  - source_key: SP-LEC-BG-2-13-1973
+    tier: 1
+    source_type: lecture
+    author_or_speaker: "Śrīla Prabhupāda"
+    work: "Bhagavad-gītā lecture"
+    reference: "BG 2.13 — London, 1973-08-07"
+    stable_url: "https://vedabase.io/en/library/lectures/london/august/07/1973/7310807BG.LON_eng/"
+    teaching_function: "Practical explanation of dehī passing through deha stages; sober observation"
+    context_checked: true
+    exact_quote_used: false
+    quoted_word_count: 0
+    kutumba_summary: "Śrīla Prabhupāda explains that the person within the body remains while the body changes from childhood to old age; this is direct perception, not mere theory."
+    rights_status: rights-reserved-link-and-summary
+    reviewer: ""
+    review_status: human-review-required
+
+supplementary_sources: []
+
+approved_teacher_media: []
+
+pedagogy_sources: []
+
+forum_discovery_signals: []

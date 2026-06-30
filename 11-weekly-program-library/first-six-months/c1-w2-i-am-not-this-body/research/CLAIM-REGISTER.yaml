@@ -1,0 +1,121 @@
+week_code: C1-W2
+claims:
+  - claim_id: C1-W2-CLM-001
+    statement: "The embodied soul passes through bodily stages from childhood to youth to old age without ceasing to be the same conscious subject."
+    claim_type: scripture-text
+    primary_source_keys: [BG-2-13]
+    context_note: "Primary module anchor; sober observation emphasized"
+    audience: all
+    misunderstanding_risk: "Confusing continuity with unchanged personality expression"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-002
+    statement: "The soul accepts new bodies as one gives up worn garments."
+    claim_type: scripture-text
+    primary_source_keys: [BG-2-22]
+    context_note: "Garment analogy; transmigration detail deferred to C1-W3"
+    audience: all
+    misunderstanding_risk: "Contempt for current body or disability"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-003
+    statement: "The body is the field (kṣetra); the living entity is the knower of the field."
+    claim_type: scripture-text
+    primary_source_keys: [BG-13-1, BG-13-2]
+    context_note: "Introductory only; full chapter 13 not taught this week"
+    audience: parent
+    misunderstanding_risk: "Treating body as worthless"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-004
+    statement: "Bodily self-identification obscures spiritual understanding."
+    claim_type: scripture-text
+    primary_source_keys: [SB-10-84-13]
+    context_note: "Used for status/appearance attachment discussion"
+    audience: parent
+    misunderstanding_risk: "Shaming persons with body-image struggle"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-005
+    statement: "The jīva's constitutional identity is eternal service to Kṛṣṇa."
+    claim_type: scripture-text
+    primary_source_keys: [CC-M-20-108, CC-M-20-109]
+    context_note: "Positive identity after 'not the body'"
+    audience: all
+    misunderstanding_risk: "Skipping negation step; premature rasa talk"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-006
+    statement: "'I am not the body' does not mean neglecting sleep, medicine, or medical care."
+    claim_type: kutumba-summary
+    primary_source_keys: [BG-2-13, BG-2-16]
+    context_note: "Safeguarding claim; instrument-care doctrine"
+    audience: all
+    misunderstanding_risk: "Spiritual bypassing of health"
+    exact_quote: false
+    review_required: safeguarding
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-007
+    statement: "The soul is not destroyed when the body is injured or disabled."
+    claim_type: kutumba-summary
+    primary_source_keys: [BG-2-20]
+    context_note: "Disability dignity; paired with practical accommodation"
+    audience: kisora-kisori
+    misunderstanding_risk: "Denying real disability needs"
+    exact_quote: false
+    review_required: safeguarding
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-008
+    statement: "Driver-and-vehicle is a pedagogical analogy; the soul is conscious and responsible."
+    claim_type: analogy
+    primary_source_keys: [BG-2-13]
+    context_note: "KUTUMBA/Prabhupāda pedagogy; not literal śāstra"
+    audience: kisora-kisori
+    misunderstanding_risk: "Denying ethical responsibility"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-009
+    statement: "Device-and-user is a modern KUTUMBA analogy for social-media appearance pressure."
+    claim_type: analogy
+    primary_source_keys: []
+    context_note: "Clearly marked KUTUMBA-created"
+    audience: kisora-kisori
+    misunderstanding_risk: "Minimizing online harm"
+    exact_quote: false
+    review_required: pedagogy
+    reviewer: ""
+    status: human-review-required
+
+  - claim_id: C1-W2-CLM-010
+    statement: "Anonymized contemporary cases illustrate application; they are not śāstra."
+    claim_type: contemporary-case
+    primary_source_keys: [BG-2-13, BG-2-16]
+    context_note: "See CONTEMPORARY-APPLICATIONS.md CS-01 through CS-08"
+    audience: parent
+    misunderstanding_risk: "Treating case narrative as doctrine"
+    exact_quote: false
+    review_required: safeguarding
+    reviewer: ""
+    status: human-review-required

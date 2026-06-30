@@ -1,0 +1,51 @@
+week_code: C1-W2
+register_version: "1.0"
+policy: "No BBT copyrighted images in git; Mermaid originals only until rights review"
+
+assets:
+  - asset_id: C1-W2-VIS-001
+    filename: concept-map.mmd
+    type: mermaid-diagram
+    creator: KUTUMBA
+    license: repository-internal
+    commercial_use: not-applicable
+    sacred_imagery: false
+    status: approved-for-internal-use
+    notes: "Body/self concept map; teaser node links C1-W3"
+
+  - asset_id: C1-W2-VIS-002
+    filename: process-flow.mmd
+    type: mermaid-diagram
+    creator: KUTUMBA
+    license: repository-internal
+    commercial_use: not-applicable
+    sacred_imagery: false
+    status: approved-for-internal-use
+    notes: "Life stages + garment + care flow"
+
+  - asset_id: C1-W2-VIS-003
+    filename: visuals/VISUAL-PLAN.md
+    type: markdown-table
+    creator: KUTUMBA
+    license: repository-internal
+    commercial_use: not-applicable
+    sacred_imagery: false
+    status: approved-for-internal-use
+    notes: "Means / does not mean comparison table"
+
+blocked_until_review:
+  - asset_id: C1-W2-VIS-BLOCK-001
+    description: "BBT book cover or Prabhupāda photo from published edition"
+    reason: "Copyright — link VedaBase instead"
+    alternative: "Text slide with verse reference URL"
+
+  - asset_id: C1-W2-VIS-BLOCK-002
+    description: "Deity photograph for Gamma deck"
+    reason: "Worship standards + rights"
+    alternative: "Om symbol or plain text card pending deity ministry approval"
+
+external_placeholders:
+  - placeholder_id: GAMMA-STOCK-001
+    intended_use: "Generic family photo timeline in parent deck"
+    required_license: "Royalty-free stock or congregation-owned photos"
+    status: human-review-required
