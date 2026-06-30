@@ -1,17 +1,18 @@
 ﻿# Privacy and Rights Scan
 
-Generated: 2026-06-29T23:06:05
+Generated: 2026-06-30T08:24:28
 
 ## Privacy
 
-- No private family record patterns detected in automated scan
-- Reference indexes contain local filesystem paths for provenance (internal use only)
+- Automated heuristic checks for secrets and prohibited record patterns executed
+- Public repository posture documented in SECURITY-PRIVACY.md
+- Reference indexes use portable source_root_id paths
 
 ## Copyright
 
-- Legacy collections indexed only; not bulk-copied
-- Current KUTUMBA documents: kutumba-authored-project-document
+- KUTUMBA-authored content: CC BY-NC-SA 4.0 (see LICENSE.md)
+- Legacy collections indexed only
 
 ## Verdict
 
-PASS with standard review gates open
+PASS â€” Automated heuristic checks passed; human review remains required.

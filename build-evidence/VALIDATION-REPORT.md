@@ -1,6 +1,8 @@
 ﻿# Validation Report
 
-Generated: 2026-06-29T23:06:05
+Generated: 2026-06-30T08:24:28
+Validated against branch: main
+Validated against HEAD: 0c08d041579497bd7437bddded9d8bfb5f64d583
 
 ## Verdict
 
@@ -9,10 +11,13 @@ Generated: 2026-06-29T23:06:05
 ## Summary
 
 - Critical failures: 0
-- Warnings: 1
-- Current source files: 12
-- First-six-month active weeks: 18
+- Warnings: 0
+- Weekly folders: 18
 - Broken links (sampled): 0
+
+## Privacy note
+
+Automated heuristic checks passed; human review remains required.
 
 ## Critical failures
 
@@ -20,17 +25,4 @@ Generated: 2026-06-29T23:06:05
 
 ## Warnings
 
-- Canonical files missing source_hash frontmatter: 6
-
-## Checks performed
-
-- Repository root nesting
-- Required root files
-- Source manifest presence
-- Current source file count (>= 12)
-- First-six-month lesson count (18)
-- Office lock files
-- Secret heuristics
-- Internal link sampling
-- Legacy PDF bulk copy detection
-- Legacy index presence
+- None

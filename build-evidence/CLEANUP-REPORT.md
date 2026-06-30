@@ -1,28 +1,56 @@
 # Cleanup Report
 
-Generated: 2026-06-29
+Generated: 2026-06-30 (repository-completion pass)
+
+## Scope
+
+Review of the **actual** repository tree after independent audit and completion hardening — not the prior Phase 08 cleanup report alone.
 
 ## Actions taken
 
-| Item | Action | Rationale |
-|---|---|---|
-| `KUTUMBA_CURSOR_PROMPT_LIBRARY_v2/` at root | Preserved; copied to `16-prompt-library/00-orchestration/external-bootstrap-pack/` | Bootstrap pack version record |
-| `KUTUMBA_CURSOR_STARTUP_PROMPT_v2.md` | Retained at root for traceability | Startup reference |
-| `KUTUMBA_CURSOR_PROMPT_LIBRARY_v2.0.zip` | Listed in .gitignore consideration — retained untracked | User-supplied archive; not required in Git |
-| Empty decorative nesting | Not created | Per no-clutter rule |
-| Legacy PDF bulk copy | Not performed | Copyright/reference-only policy |
-| `build-evidence/extraction-working/` | Gitignored | Temporary conversion area |
+| Action | Detail |
+|---|---|
+| Portable reference paths | Migrated 1,773 legacy index rows to `source_root_id` + `portable_source_path` columns |
+| Local path config | Added `config/local-source-roots.example.yaml`; gitignored `config/local-source-roots.yaml` |
+| Bootstrap duplicates | Retained under `99-archive/` — canonical copies live in `16-prompt-library/00-orchestration/external-bootstrap-pack/` |
+| Weekly pack extraction | Regenerated 18 complete derivative packs from monolith via `scripts/extract-weekly-packs.py` |
+| Library indexes | Populated `12-family-facing-library/` and `13-facilitator-library/` with INDEX files (planned — not yet published) |
+| Source manifest | Regenerated with portable paths and accurate canonicalization statuses |
+| Documentation alignment | Public visibility documented in README, SECURITY-PRIVACY, RIGHTS-AND-USE, LICENSE |
+| Validation | Expanded `Validate-KutumbaRepository.ps1` to 25 check categories |
 
 ## Not removed
 
-- Original DOCX sources in `00-source-materials/01-current-kutumba-originals/` (immutable)
-- All build-evidence reports (audit trail)
-- External bootstrap pack copy in prompt library
+| Item | Reason |
+|---|---|
+| `00-source-materials/01-current-kutumba-originals/` (12 files) | Immutable sources |
+| `SOURCE-MANIFEST.yaml` | Provenance |
+| Canonical operating models | Authoritative working copies |
+| `build-evidence/` audit trail | Required evidence |
+| `99-archive/bootstrap-prompt-library-v2/` | Prompt history preserved |
+| `17-reviews-and-audits/INDEPENDENT-REPOSITORY-AUDIT.md` | Audit record |
 
-## Archive
+## Not deleted (no candidates found)
 
-`99-archive/` created for future obsolete draft preservation.
+- Office lock files (`~$*`): none in tree
+- Generated caches (`__pycache__`): gitignored; none committed
+- Duplicate source copies: none beyond intentional PDF companions
+- Empty unused top-level workstream folders: none requiring removal
 
-## Verdict
+## Accuracy corrections
 
-No immutable sources or evidence deleted.
+| Prior claim | Current reality |
+|---|---|
+| Repository private | **PUBLIC by intentional governing decision** during development |
+| `canonicalization_status: pending` | Updated to `text-extraction-complete` / `hash-verified-only` |
+| Weekly folders partial | 18 folders with full 20-file derivative packs + `complete-week.md` |
+| Family/facilitator libraries empty | Indexes populated; publication status `planned — not yet published` |
+| Machine paths in committed indexes | Portable `source_root_id` columns added; local mapping example provided |
+
+## Verification
+
+```powershell
+powershell -File scripts/Validate-KutumbaRepository.ps1
+```
+
+Result at pass completion: **PASS** (0 critical failures)

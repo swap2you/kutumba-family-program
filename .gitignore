@@ -22,5 +22,8 @@ build-evidence/extraction-working/
 *.pem
 credentials.json
 
+# Local machine path mapping (use local-source-roots.example.yaml as template)
+config/local-source-roots.yaml
+
 # Large binaries policy — reference collections stay local
 KUTUMBA_CURSOR_PROMPT_LIBRARY_v2.0.zip

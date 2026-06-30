@@ -1,0 +1,23 @@
+# Local Source Roots (example)
+
+# Copy to config/local-source-roots.yaml (gitignored) and set your machine paths.
+# Committed indexes use source_root_id + relative paths only.
+
+source_roots:
+  kutumba-sanga:
+    description: Current KUTUMBA operating document originals
+    local_absolute_path: "C:/Users/YOUR_USER/Downloads/Personal/0. KUTUMBA SANGA"
+  legacy-bhaktivriksha:
+    description: Legacy Bhaktivriksha reference collection (not bulk-copied)
+    local_absolute_path: "C:/Users/YOUR_USER/Downloads/Personal/5. Devotional/1. Baktivriksha"
+  granth:
+    description: Granth PDF reference catalog root (not bulk-copied)
+    local_absolute_path: "C:/Users/YOUR_USER/Downloads/Personal/5. Devotional/Granth"
+  jayapataka-bv:
+    description: Jayapataka Swami BV Material reference folder (not bulk-copied)
+    local_absolute_path: "C:/Users/YOUR_USER/Downloads/Personal/5. Devotional/1. Baktivriksha/BV Material"
+
+notes:
+  - Repository copies of current KUTUMBA originals live under 00-source-materials/01-current-kutumba-originals/
+  - Legacy collections are indexed metadata-only in 00-source-materials/03-external-reference-index/
+  - Never commit credentials, tokens, or private participant records

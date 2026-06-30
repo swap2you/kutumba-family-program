@@ -1,16 +1,34 @@
-generated: '2026-06-30T02:51:44.175843+00:00'
+generated: '2026-06-30T12:00:00+00:00'
 collections:
+- id: kutumba-sanga
+  name: KUTUMBA SANGA
+  source_root_id: kutumba-sanga
+  mode: copied-to-repository
+  repository_path: 00-source-materials/01-current-kutumba-originals
+  licence: CC-BY-NC-SA-4.0
+  rights_status: kutumba-authored-cc-by-nc-sa-4.0
 - id: legacy-bhaktivriksha
   name: LegacyBhaktivriksha
-  path: C:\Users\swap2\Downloads\Personal\5. Devotional\1. Baktivriksha
+  source_root_id: legacy-bhaktivriksha
   mode: index-only
+  index_file: LEGACY-BHAKTIVRIKSHA-FILE-INDEX.csv
+  rights_status: reference-only-index-only
+  licence: not-applicable-third-party
 - id: granth
   name: Granth
-  path: C:\Users\swap2\Downloads\Personal\5. Devotional\Granth
+  source_root_id: granth
   mode: index-only
+  index_file: GRANTH-PDF-CATALOG.csv
+  rights_status: reference-only-rights-review-required
+  licence: not-applicable-third-party
 - id: jayapataka-bv
   name: JayapatakaSwamiBV
-  path: C:\Users\swap2\Downloads\Personal\5. Devotional\1. Baktivriksha\BV Material
+  source_root_id: jayapataka-bv
   mode: index-only
+  index_file: JAYAPATAKA-SWAMI-BV-MATERIAL-INDEX.csv
+  rights_status: reference-only-rights-review-required
+  licence: not-applicable-third-party
 total_indexed: 1773
 duplicate_groups: 180
+portable_paths: true
+local_mapping: config/local-source-roots.example.yaml

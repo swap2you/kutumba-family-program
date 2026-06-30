@@ -1,30 +1,25 @@
-# 13-facilitator-library
+# Facilitator Library — Index
 
-## Purpose
+**Publication status:** `internal-development`
 
-Facilitator guides and preparation
+Indexes facilitator resources. Complete weekly packs live under `11-weekly-program-library/`.
 
-## Canonical content
+## Index sections
 
-Operating documents, curriculum materials, and controlled derivatives for this KUTUMBA workstream.
+| Section | Index file | Source | Status |
+|---|---|---|---|
+| Complete weekly packs | [weekly-packs/INDEX.md](weekly-packs/INDEX.md) | `11-weekly-program-library/first-six-months/` | derivative packs complete (18) |
+| Teacher preparation | [teacher-preparation/INDEX.md](teacher-preparation/INDEX.md) | `*/facilitator-guide.md` | internal-development |
+| Prem-kī-Kathā scripts | [prem-ki-katha/INDEX.md](prem-ki-katha/INDEX.md) | `*/prem-ki-katha.md` | internal-development |
+| Child teaching | [child-teaching/INDEX.md](child-teaching/INDEX.md) | `*/children/lesson.md` | safety-review-required |
+| Bhakti laboratories | [bhakti-laboratories/INDEX.md](bhakti-laboratories/INDEX.md) | `*/bhakti-lab.md` | internal-development |
+| Materials lists | [materials/INDEX.md](materials/INDEX.md) | `*/materials.md` | internal-development |
+| Assessment tools | [assessment/INDEX.md](assessment/INDEX.md) | `*/assessment.md` | internal-development |
+| Risks and sensitive points | [risks-and-sensitive-points/INDEX.md](risks-and-sensitive-points/INDEX.md) | `*/risks-and-sensitive-points.md` | internal-development |
+| Worship-review items | [worship-review/INDEX.md](worship-review/INDEX.md) | `07-kirtana-worship-bhakti-labs/`, weekly packs | worship-review-required |
+| Safeguarding-review items | [safeguarding-review/INDEX.md](safeguarding-review/INDEX.md) | `04-children-youth/`, weekly children lessons | safety-review-required |
 
-## Expected files
+## Rules
 
-- Canonical Markdown working copies linked to source IDs in `00-source-materials/SOURCE-MANIFEST.yaml`
-- Workstream-specific README and gap records where sources are not yet supplied
-- Review status metadata where applicable
-
-## Review owner
-
-Facilitation Lead
-
-## Publication status
-
-active
-
-## What does not belong here
-
-- Bulk copyrighted PDF libraries or third-party training packs
-- Private family records or completed personal forms
-- Application code, databases, or deployment artifacts
-- Unreviewed worship procedures presented as approved
+- Family-facing publication requires separate approval — see `12-family-facing-library/`
+- Do not mark worship or safeguarding content approved until human review completes
