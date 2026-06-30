@@ -10,7 +10,7 @@
 - Remote: `https://github.com/swap2you/kutumba-family-program.git`
 - Branch: `main`
 - Working tree: clean
-- Latest commit: `4886405`
+- Latest commit: `91cb3ab`
 - Push status: **pushed** to `origin/main`
 - Last updated: 2026-06-29
 
@@ -26,7 +26,7 @@
 | Legacy analysis | COMPLETE | phase commit | crosswalks in `14-research-source-register/` | No adoption |
 | Prompt library | COMPLETE | phase commit | `16-prompt-library/` v1.0.0 | 19 prompts |
 | Validation and cleanup | COMPLETE | phase commit | `VALIDATION-REPORT.md` PASS | 0 critical failures |
-| Git publish and handoff | COMPLETE | bdea00a | `FINAL-BUILD-REPORT.md` | Pushed to origin/main |
+| Git publish and handoff | COMPLETE | 91cb3ab | `FINAL-BUILD-REPORT.md` | Pushed to origin/main |
 | Independent review | PENDING | — | `17-reviews-and-audits/INDEPENDENT-REVIEW-STARTUP.md` | Fresh context |
 
 ## Inventory
