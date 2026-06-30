@@ -2,91 +2,65 @@
 
 ## Executive status
 
-- Overall verdict: **GO WITH CONDITIONS** (human review gates open)
-- Repository visibility: **PUBLIC** (intentional during development and review)
-- Current phase: Repository completion and quality hardening — **COMPLETE**
-- Independent review (Prompt 10): **COMPLETE**
-- Canonical repository root: `C:\Development\Workspace\DevotionalRepo\kutumba-family-program`
-- Remote: `https://github.com/swap2you/kutumba-family-program.git`
-- Branch: `main`
-- Baseline commit (completion pass start): `0c08d04`
+- Overall verdict: **GO WITH CONDITIONS**
+- Repository visibility: **PUBLIC** (intentional)
+- Current phase: **Curriculum research enhancement v3.0 — COMPLETE**
+- Prior phase: Repository completion and quality hardening — COMPLETE
+- Baseline commit (enhancement start): `3ceb46b`
 - Status generated: 2026-06-30
-- Status verified against branch: `main` (via validation script)
-- Current HEAD: obtained dynamically during validation — see `build-evidence/VALIDATION-REPORT.md`
+- Status verified against branch: `main` (via validation)
+- Enhancement HEAD: `4083169`
 
-## Phase tracker
+## Curriculum enhancement summary
 
-| Phase | Status | Evidence |
-|---|---|---|
-| Root normalization | COMPLETE | `.git` at canonical root |
-| Source ingestion | COMPLETE | `SOURCE-MANIFEST.yaml`, 12 originals |
-| Canonical normalization | COMPLETE | 9 DOCX → MD |
-| First-six-month weekly packs | COMPLETE | 18 derivative packs with `complete-week.md` |
-| Curriculum navigation | COMPLETE | `02-curriculum-architecture/*-MAP.md`, backlog |
-| Public documentation alignment | COMPLETE | README, SECURITY-PRIVACY, LICENSE |
-| Independent review | COMPLETE | `INDEPENDENT-REPOSITORY-AUDIT.md` |
-| Repository completion hardening | COMPLETE | `REPOSITORY-COMPLETION-AUDIT.md` |
-| Worship review | OPEN | RQ-005 |
-| Safeguarding review | OPEN | RQ-006 |
-| Workstream 9 | GAP | SOURCE NOT YET SUPPLIED |
-| KUTUMBA Setu | GAP | DRAFT REQUIRED |
-
-## Inventory
-
-| Item | Count |
+| Metric | Value |
 |---|---|
-| Current source originals | 12 |
-| Legacy/reference indexed | 1,773 (metadata only) |
-| Canonical operating documents | 9 |
-| First-six-month active weeks (monolith) | 18 |
-| Weekly derivative packs complete | 18 |
-| Roadmap phases documented | 78 rows in `ROADMAP.md` |
-| Production backlog rows | 120 active weeks |
-
-## Weekly completeness
-
-| Status | Count |
-|---|---|
-| `canonical-detailed-source-complete` | 18 |
-| `weekly-derivative-pack-complete` | 18 (validation PASS) |
-
-## Library status
-
-| Library | Status |
-|---|---|
-| `12-family-facing-library/` | Indexes populated — **planned — not yet published** |
-| `13-facilitator-library/` | Indexes populated — **internal-development** |
+| Modules audited | 18 |
+| Modules enhanced | 18 |
+| Gold-standard pilot | C1-W2 — **91/100 PASS** |
+| Empty shell sections (post-enhancement) | 0 critical |
+| Lāla–Lālī lessons | 18 |
+| Kiśora–Kiśorī lessons | 18 |
+| Visual plans | 18 |
+| Gamma brief sets | 18 |
+| Claim registers | 18 (pilot: 10 claims) |
 
 ## Validation
 
-- Command: `powershell -File scripts/Validate-KutumbaRepository.ps1`
-- Result: **PASS**
-- Note: Automated heuristic checks passed; human review remains required.
+```powershell
+python scripts/curriculum/run_curriculum_validation.py
+```
 
-## Open source gaps
-
-- Workstream 9 Digital Repository — **SOURCE NOT YET SUPPLIED**
-- KUTUMBA Setu — **DRAFT REQUIRED**
-- Three-year detailed lessons beyond month 6 — architecture and backlog only
+Result: **PASS** — Automated heuristic checks passed; human review remains required.
 
 ## Open human-review gates
 
-| Gate | Owner | Status |
-|---|---|---|
-| Worship review | Worship Lead | OPEN |
-| Safeguarding review | Children Formation Lead | OPEN |
-| Rights review (legacy adoption) | Research Lead | OPEN before any adoption |
-| Doctrinal review | Governance Lead | OPEN for extensions |
+| Gate | Status |
+|---|---|
+| Doctrinal | OPEN — all modules |
+| Worship | OPEN |
+| Safeguarding | OPEN |
+| Rights | OPEN |
+| Pedagogy | OPEN |
+| Citation audit (pilot) | OPEN |
+
+## Open source gaps (unchanged)
+
+- Workstream 9 — SOURCE NOT YET SUPPLIED
+- KUTUMBA Setu — DRAFT REQUIRED
+
+## Evidence index
+
+| Report | Path |
+|---|---|
+| Enhancement ledger | `build-evidence/CURRICULUM-ENHANCEMENT-LEDGER.md` |
+| Week quality dashboard | `build-evidence/WEEK-QUALITY-DASHBOARD.md` |
+| Source/citation audit | `build-evidence/SOURCE-AND-CITATION-AUDIT.md` |
+| Final enhancement report | `build-evidence/FINAL-CURRICULUM-ENHANCEMENT-REPORT.md` |
+| C1-W2 pilot audit | `17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md` |
 
 ## Next exact work
 
-1. Worship Lead — complete review per `16-prompt-library/11-quality-review/review-worship-content.md`
-2. Children Formation Lead — safeguarding review per `review-safeguarding-content.md`
-3. Setu Lead — draft KUTUMBA Setu when ready (do not fabricate)
-4. Digital Lead — supply Workstream 9 source when available
-5. Execute Year 1 remaining curriculum production per `ROADMAP.md` phase RM-Y1-R*
-
-## Blockers
-
-- None for repository structure or first-six-month derivative packs
-- Unconditional operational GO still blocked on worship and safeguarding human sign-off
+1. Human reviewers: doctrinal, worship, safeguarding per module `reviews/`
+2. Deepen non-pilot modules toward C1-W2 research depth incrementally
+3. Execute ROADMAP.md Year 1 remaining curriculum production

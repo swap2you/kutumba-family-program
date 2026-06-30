@@ -2,8 +2,11 @@
 
 Started: 2026-06-30  
 Baseline commit: `3ceb46b`  
+Enhancement HEAD: `4083169`  
 Pack version: 3.0.0  
 Pilot module: **C1-W2** — score **91/100 PASS**
+
+Commits: `c8d624e` audit · `d22b6dd` source framework · `0cba8db` C1-W2 pilot · `b456022` batch packs · `bf4f594` cycles/companion · `4083169` validation
 
 | Module ID | Title | Research | Lāla–Lālī | Kiśora–Kiśorī | Visuals | Gamma | Pilot | Status |
 |---|---|---|---|---|---|---|---|---|

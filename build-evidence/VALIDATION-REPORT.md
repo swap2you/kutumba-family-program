@@ -1,8 +1,8 @@
 ﻿# Validation Report
 
-Generated: 2026-06-30T08:27:55
+Generated: 2026-06-30T11:06:35
 Validated against branch: main
-Validated against HEAD: 3ceb46bd7639eb777f323f58cb3c0877195aba66
+Validated against HEAD: 40831690c43dbf884a45abc3bf91f852e7ff8482
 
 ## Verdict
 
@@ -11,9 +11,9 @@ Validated against HEAD: 3ceb46bd7639eb777f323f58cb3c0877195aba66
 ## Summary
 
 - Critical failures: 0
-- Warnings: 0
+- Warnings: 13
 - Weekly folders: 18
-- Broken links (sampled): 0
+- Broken links (sampled): 1
 
 ## Privacy note
 
@@ -25,4 +25,16 @@ Automated heuristic checks passed; human review remains required.
 
 ## Warnings
 
-- None
+- Could not hash KUTUMBA Master Operating Model.docx - skipping hash verify
+- Could not hash KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.docx - skipping hash verify
+- Could not hash KUTUMBA_Governance_Charter_and_Policy_Framework_v1.0.pdf - skipping hash verify
+- Could not hash KUTUMBA_Three-Year_Curriculum_Architecture_v1.0.docx - skipping hash verify
+- Could not hash KUTUMBA_First_Six_Month_Detailed_Curriculum.docx - skipping hash verify
+- Could not hash KUTUMBA_First_Six_Month_Detailed_Curriculum.pdf - skipping hash verify
+- Could not hash KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.docx - skipping hash verify
+- Could not hash KUTUMBA_Children_Youth_Formation_Operating_Model_v1.0.pdf - skipping hash verify
+- Could not hash KUTUMBA_Parent_Formation_and_Family_Care_Operating_Model_v1.0.docx - skipping hash verify
+- Could not hash KUTUMBA_Prasada_Hospitality_Weekly_Operations_Manual.docx - skipping hash verify
+- Could not hash KUTUMBA_Chat_7_Kirtana_Worship_Prayers_Bhakti_Laboratories_Operating_Manual.docx - skipping hash verify
+- Could not hash KUTUMBA_Chat_8_Festivals_Yatras_Outdoor_Calendar_Working_Framework.docx - skipping hash verify
+- Broken link in README.md: ../../17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md
