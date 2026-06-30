@@ -1,0 +1,72 @@
+register_version: "1.0.0"
+accepted_baseline_tag: kutumba-source-architecture-baseline-v1.0.0
+accepted_at_head: fe84ed0b374917c849e1774b3a7e3173037c5b3e
+last_updated: "2026-06-30"
+v5_stabilization_complete: true
+structural_acceptance: true
+human_doctrinal_approval: false
+publication_ready: false
+
+locked_areas:
+  - id: LOCK-001
+    area: repository-folder-architecture
+    status: locked
+    human_approval: open
+    notes: Top-level workstream folders and weekly library structure accepted
+  - id: LOCK-002
+    area: source-originals-14
+    status: locked
+    human_approval: open
+    source_ids: KUT-SRC-0001 through KUT-SRC-0014
+    notes: Immutable originals with SHA-256 provenance; corrections require evidence
+  - id: LOCK-003
+    area: canonical-operating-models
+    status: locked
+    human_approval: open
+    notes: Foundation through festivals canonical MD extractions
+  - id: LOCK-004
+    area: public-source-map
+    status: locked
+    human_approval: open
+    source_ids: [KUT-SRC-0013, KUT-SRC-0014]
+    canonical_path: 09-digital-repository-publishing/PUBLIC-SOURCE-MAP-FOR-PRABHUPADA-AND-SANATANA-CONTENT.md
+  - id: LOCK-005
+    area: source-authority-hierarchy
+    status: locked
+    human_approval: open
+    policy_path: 14-research-source-register/SOURCE-AUTHORITY-POLICY.md
+  - id: LOCK-006
+    area: rights-posture-conservative
+    status: locked
+    human_approval: open
+    notes: link-and-metadata-only default; no bulk third-party republication
+  - id: LOCK-007
+    area: two-group-child-model
+    status: locked
+    human_approval: open
+    notes: Lāla–Lālī and Kiśora–Kiśorī only
+  - id: LOCK-008
+    area: markdown-reader-architecture
+    status: locked
+    human_approval: open
+    entry: KUTUMBA-READER-HOME.md
+  - id: LOCK-009
+    area: c1-w2-gold-pilot-draft
+    status: locked
+    human_approval: open
+    module: C1-W2
+    notes: Gold-pilot draft; do not bulk-overwrite; human review required
+  - id: LOCK-010
+    area: workstream-9-gap
+    status: open-gap
+    human_approval: open
+    notes: Public source map complete; operating manual not supplied
+  - id: LOCK-011
+    area: kutumba-setu-gap
+    status: open-gap
+    human_approval: open
+    notes: Setu operating package not approved
+
+correction_policy: >
+  Locked files may receive reviewed corrections. Each correction must record
+  reason, source, reviewer status, and before/after evidence in build-evidence/.
