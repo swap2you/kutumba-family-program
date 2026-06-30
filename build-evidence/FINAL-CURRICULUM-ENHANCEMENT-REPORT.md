@@ -7,9 +7,9 @@ Repository: `swap2you/kutumba-family-program` (PUBLIC)
 
 ## Verdict
 
-**ENHANCEMENT COMPLETE — GO WITH CONDITIONS**
+**ENHANCEMENT COMPLETE — GO WITH CONDITIONS** (independent audit 2026-06-30)
 
-Structural derivative packs upgraded to source-grounded, two-group, research-layer architecture across all 18 first-six-month modules. C1-W2 gold-standard pilot scored **91/100**. Human review gates remain open.
+Structural derivative packs upgraded to source-grounded, two-group, research-layer architecture across all 18 first-six-month modules. C1-W2 gold-standard pilot scored **91/100**. Seventeen modules are honest **baseline scaffolds**. Human review gates remain open.
 
 ## Phases executed
 
@@ -27,6 +27,7 @@ Structural derivative packs upgraded to source-grounded, two-group, research-lay
 | 11 | Cycle projects and celebrations | COMPLETE |
 | 12 | Prabhupāda-līlāmṛta reading circle (planned) | COMPLETE |
 | 13 | Semantic validation scripts | COMPLETE |
+| 15 | Independent read-only audit | COMPLETE — GO WITH CONDITIONS |
 
 ## Validation
 
@@ -34,7 +35,9 @@ Structural derivative packs upgraded to source-grounded, two-group, research-lay
 python scripts/curriculum/run_curriculum_validation.py
 ```
 
-Result: **PASS** (repository validator + curriculum schema + age bands + copyright heuristics)
+Result: **PASS** (repository validator + curriculum schema + age bands + copyright heuristics + review-status honesty)
+
+Independent audit: `17-reviews-and-audits/INDEPENDENT-CURRICULUM-ENHANCEMENT-AUDIT.md`
 
 ## Conditions
 

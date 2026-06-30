@@ -4,7 +4,8 @@
 
 - Overall verdict: **GO WITH CONDITIONS**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **Curriculum research enhancement v3.0 — COMPLETE**
+- Current phase: **Curriculum enhancement v3.0 — COMPLETE; independent review COMPLETE**
+- Independent verdict: **GO WITH CONDITIONS**
 - Prior phase: Repository completion and quality hardening — COMPLETE
 - Baseline commit (enhancement start): `3ceb46b`
 - Status generated: 2026-06-30
@@ -16,7 +17,7 @@
 | Metric | Value |
 |---|---|
 | Modules audited | 18 |
-| Modules enhanced | 18 |
+| Modules enhanced | 18 (1 gold pilot + 17 baseline scaffolds) |
 | Gold-standard pilot | C1-W2 — **91/100 PASS** |
 | Empty shell sections (post-enhancement) | 0 critical |
 | Lāla–Lālī lessons | 18 |
@@ -58,9 +59,10 @@ Result: **PASS** — Automated heuristic checks passed; human review remains req
 | Source/citation audit | `build-evidence/SOURCE-AND-CITATION-AUDIT.md` |
 | Final enhancement report | `build-evidence/FINAL-CURRICULUM-ENHANCEMENT-REPORT.md` |
 | C1-W2 pilot audit | `17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md` |
+| Independent curriculum audit | `17-reviews-and-audits/INDEPENDENT-CURRICULUM-ENHANCEMENT-AUDIT.md` |
 
 ## Next exact work
 
-1. Human reviewers: doctrinal, worship, safeguarding per module `reviews/`
-2. Deepen non-pilot modules toward C1-W2 research depth incrementally
+1. Human reviewers: doctrinal, worship, safeguarding per module `reviews/` (use C1-W2 as rubric)
+2. Deepen baseline-scaffold modules toward C1-W2 research depth (cycle order)
 3. Execute ROADMAP.md Year 1 remaining curriculum production

@@ -11,6 +11,7 @@ SCRIPTS = [
     "validate_week_schema.py",
     "validate_age_bands.py",
     "detect_copyright_risk.py",
+    "validate_review_status_honesty.py",
 ]
 
 def main() -> int:

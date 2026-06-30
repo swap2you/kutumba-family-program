@@ -1,18 +1,28 @@
 # Source and Citation Audit
 
 Generated: 2026-06-30  
+Independent review: 2026-06-30  
 Enhancement pack: v3.0.0
 
 ## Summary
 
 | Metric | Count |
 |---|---|
-| Modules enhanced | 18 |
+| Modules with schema | 18 |
 | Gold-standard pilot | C1-W2 (score 91/100) |
+| Baseline scaffolds | 17 (`baseline-scaffold`) |
 | Tier-1 VedaBase links in pilot | 11 |
 | Claim register entries (pilot) | 10 |
+| Claim register entries (baseline avg) | 3 (stub — deepen required) |
 | Full purports in Git | **0** (verified by `detect_copyright_risk.py`) |
 | BBT images committed | **0** |
+| Fabricated quotations found | **0** (independent audit sample) |
+
+## Independent review verdict
+
+**GO WITH CONDITIONS** — see `17-reviews-and-audits/INDEPENDENT-CURRICULUM-ENHANCEMENT-AUDIT.md`
+
+Citation traceability is **production-ready on C1-W2 only**. Baseline modules link to `complete-week.md` monoliths; claim registers need expansion before publication.
 
 ## Source authority framework
 
@@ -33,6 +43,9 @@ Enhancement pack: v3.0.0
 
 All modules: doctrinal, worship, safeguarding, rights, pedagogy — `human-review-required`
 
-## Pilot evidence
+## Evidence
 
-`17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md`
+| Report | Path |
+|---|---|
+| Pilot audit | `17-reviews-and-audits/C1-W2-GOLD-STANDARD-PILOT-AUDIT.md` |
+| Independent audit | `17-reviews-and-audits/INDEPENDENT-CURRICULUM-ENHANCEMENT-AUDIT.md` |
