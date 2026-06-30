@@ -1,8 +1,8 @@
 ﻿# Validation Report
 
-Generated: 2026-06-30T17:19:03
+Generated: 2026-06-30T17:53:12
 Validated against branch: main
-Validated against HEAD: 152031ffcfebea0c484266424f92f964dbeb1690
+Validated against HEAD: fe84ed0b374917c849e1774b3a7e3173037c5b3e
 
 ## Verdict
 
@@ -11,9 +11,9 @@ Validated against HEAD: 152031ffcfebea0c484266424f92f964dbeb1690
 ## Summary
 
 - Critical failures: 0
-- Warnings: 15
+- Warnings: 0
 - Weekly folders: 18
-- Broken links (sampled): 53
+- Broken links (sampled): 0
 
 ## Privacy note
 
@@ -25,18 +25,4 @@ Automated heuristic checks passed; human review remains required.
 
 ## Warnings
 
-- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c2-w5-mÄyÄ-decorating-the-prison-cell/README.md
-- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c3-w2-who-is-ká¹›á¹£á¹‡a-the-supreme-personality-of-godhead/README.md
-- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c3-w3-guru-sÄdhu-and-Å›Ästra-how-we-receive-spiritual-knowledge/README.md
-- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c3-w4-Å›rÄ«-caitanya-mahÄprabhu-and-the-holy-name/README.md
-- Broken link in KUTUMBA-READER-HOME.md: 11-weekly-program-library/first-six-months/c3-w6-bhakti-mela-kÄ«rtana-drama-and-family-presentation/README.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/parent-lesson.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/children/lala-lali-lesson.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/children/kisora-kisori-lesson.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/prem-ki-katha.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/opening-hook.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/visuals/VISUAL-PLAN.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/gamma/GAMMA-MASTER-DECK-BRIEF.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/project/MODULE-PROJECT-BRIEF.md
-- Broken link in CYCLE-2-READER.md: c2-w5-mÄyÄ-decorating-the-prison-cell/review-status.yaml
-- Broken link in CYCLE-3-READER.md: c3-w2-who-is-ká¹›á¹£á¹‡a-the-supreme-personality-of-godhead/parent-lesson.md
+- None

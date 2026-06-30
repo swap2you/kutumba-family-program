@@ -1,6 +1,8 @@
 # Curriculum Status Snapshot
 
 - Modules: 18
-- enhancement-complete: 0
-- Authentic Prem-kī-Kathā (600+ words): 13
+- gold-pilot-draft: 1
+- deepened-draft (partial or full): 17
+- Prem-kī-Kathā 900+ words: 15
 - Human review gates: OPEN all modules
+- Publication: not-ready

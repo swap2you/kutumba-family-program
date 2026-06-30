@@ -13,7 +13,9 @@
 |-----------|--------|
 | Public Source Map for Prabhupāda and Sanātana Content | **INGESTED** — KUT-SRC-0013 / KUT-SRC-GRP-0013 |
 | Canonical extraction | `09-digital-repository-publishing/PUBLIC-SOURCE-MAP-FOR-PRABHUPADA-AND-SANATANA-CONTENT.md` |
+| Public source directory (v5) | `09-digital-repository-publishing/PUBLIC-SOURCE-DIRECTORY.md` |
 | Machine-readable catalog | `14-research-source-register/public-source-catalog/` |
+| URL reconciliation evidence | `build-evidence/SOURCE-MAP-URL-RECONCILIATION.md` |
 
 ## Still missing
 
