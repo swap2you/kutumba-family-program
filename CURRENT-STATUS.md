@@ -2,81 +2,91 @@
 
 ## Executive status
 
-- Overall verdict: **GO WITH CONDITIONS**
-- Current phase: Build complete — awaiting independent review (Prompt 10)
-- Last completed phase: Phase 08 — Validation and Cleanup
-- Next phase: Independent review (Prompt 10)
+- Overall verdict: **GO WITH CONDITIONS** (human review gates open)
+- Repository visibility: **PUBLIC** (intentional during development and review)
+- Current phase: Repository completion and quality hardening — **COMPLETE**
+- Independent review (Prompt 10): **COMPLETE**
 - Canonical repository root: `C:\Development\Workspace\DevotionalRepo\kutumba-family-program`
 - Remote: `https://github.com/swap2you/kutumba-family-program.git`
 - Branch: `main`
-- Working tree: clean
-- Latest commit: `91cb3ab`
-- Push status: **pushed** to `origin/main`
-- Last updated: 2026-06-29
+- Baseline commit (completion pass start): `0c08d04`
+- Status generated: 2026-06-30
+- Status verified against branch: `main` (via validation script)
+- Current HEAD: obtained dynamically during validation — see `build-evidence/VALIDATION-REPORT.md`
 
 ## Phase tracker
 
-| Phase | Status | Commit | Evidence | Notes |
-|---|---|---|---|---|
-| Root normalization | COMPLETE | — | `.git` at canonical root | Pre-existing |
-| Source ingestion | COMPLETE | phase commit | `build-evidence/SOURCE-INGESTION-REPORT.md` | 12 originals, 1773 indexed |
-| Repository foundation | COMPLETE | phase commit | `README.md`, folder structure | 23 folders |
-| Canonical normalization | COMPLETE | phase commit | `DOCUMENT-PARITY-REPORT.md` | 9 DOCX → MD |
-| Workstream assembly | COMPLETE | phase commit | 18 weekly folders | Monolith preserved |
-| Legacy analysis | COMPLETE | phase commit | crosswalks in `14-research-source-register/` | No adoption |
-| Prompt library | COMPLETE | phase commit | `16-prompt-library/` v1.0.0 | 19 prompts |
-| Validation and cleanup | COMPLETE | phase commit | `VALIDATION-REPORT.md` PASS | 0 critical failures |
-| Git publish and handoff | COMPLETE | 91cb3ab | `FINAL-BUILD-REPORT.md` | Pushed to origin/main |
-| Independent review | PENDING | — | `17-reviews-and-audits/INDEPENDENT-REVIEW-STARTUP.md` | Fresh context |
+| Phase | Status | Evidence |
+|---|---|---|
+| Root normalization | COMPLETE | `.git` at canonical root |
+| Source ingestion | COMPLETE | `SOURCE-MANIFEST.yaml`, 12 originals |
+| Canonical normalization | COMPLETE | 9 DOCX → MD |
+| First-six-month weekly packs | COMPLETE | 18 derivative packs with `complete-week.md` |
+| Curriculum navigation | COMPLETE | `02-curriculum-architecture/*-MAP.md`, backlog |
+| Public documentation alignment | COMPLETE | README, SECURITY-PRIVACY, LICENSE |
+| Independent review | COMPLETE | `INDEPENDENT-REPOSITORY-AUDIT.md` |
+| Repository completion hardening | COMPLETE | `REPOSITORY-COMPLETION-AUDIT.md` |
+| Worship review | OPEN | RQ-005 |
+| Safeguarding review | OPEN | RQ-006 |
+| Workstream 9 | GAP | SOURCE NOT YET SUPPLIED |
+| KUTUMBA Setu | GAP | DRAFT REQUIRED |
 
 ## Inventory
 
-- Current source originals: **12**
-- Legacy/reference indexed: **1,773** (metadata only)
-- Canonical operating documents: **9** (Markdown from DOCX)
-- Detailed weekly lessons: **18** active sessions
-- Templates: **2** (lesson template, style guide)
-- Prompts: **19** internal + external bootstrap pack
-- Validation scripts: **5** (ingest, convert, split, assemble, validate)
+| Item | Count |
+|---|---|
+| Current source originals | 12 |
+| Legacy/reference indexed | 1,773 (metadata only) |
+| Canonical operating documents | 9 |
+| First-six-month active weeks (monolith) | 18 |
+| Weekly derivative packs complete | 18 |
+| Roadmap phases documented | 78 rows in `ROADMAP.md` |
+| Production backlog rows | 120 active weeks |
 
-## Completed this phase
+## Weekly completeness
 
-- Full repository build Phases 02–08
-- Validation PASS (0 critical failures, 1 warning)
-- Final build report and independent review handoff created
-- Bootstrap duplicates archived to `99-archive/`
+| Status | Count |
+|---|---|
+| `canonical-detailed-source-complete` | 18 |
+| `weekly-derivative-pack-complete` | 18 (validation PASS) |
 
-## Files created or changed
+## Library status
 
-- See `build-evidence/BUILD-LEDGER.md` and `build-evidence/REPOSITORY-TREE.txt`
+| Library | Status |
+|---|---|
+| `12-family-facing-library/` | Indexes populated — **planned — not yet published** |
+| `13-facilitator-library/` | Indexes populated — **internal-development** |
 
 ## Validation
 
 - Command: `powershell -File scripts/Validate-KutumbaRepository.ps1`
 - Result: **PASS**
-- Critical failures: 0
-- Warnings: 1 (minor link sampling)
+- Note: Automated heuristic checks passed; human review remains required.
 
-## Missing inputs
+## Open source gaps
 
-- Workstream 9 Digital Repository — SOURCE NOT YET SUPPLIED
-- KUTUMBA Setu — DRAFT REQUIRED
-- Three-year detailed lessons beyond month 6 — architecture only
+- Workstream 9 Digital Repository — **SOURCE NOT YET SUPPLIED**
+- KUTUMBA Setu — **DRAFT REQUIRED**
+- Three-year detailed lessons beyond month 6 — architecture and backlog only
 
-## Required human review
+## Open human-review gates
 
-- Worship review: Chat 7 manual, liturgical content
-- Safeguarding review: children/youth curriculum and model
-- Rights review: before any legacy adoption
-- Doctrinal review: before extending teachings
-- Digital Lead: when Workstream 9 source supplied
+| Gate | Owner | Status |
+|---|---|---|
+| Worship review | Worship Lead | OPEN |
+| Safeguarding review | Children Formation Lead | OPEN |
+| Rights review (legacy adoption) | Research Lead | OPEN before any adoption |
+| Doctrinal review | Governance Lead | OPEN for extensions |
+
+## Next exact work
+
+1. Worship Lead — complete review per `16-prompt-library/11-quality-review/review-worship-content.md`
+2. Children Formation Lead — safeguarding review per `review-safeguarding-content.md`
+3. Setu Lead — draft KUTUMBA Setu when ready (do not fabricate)
+4. Digital Lead — supply Workstream 9 source when available
+5. Execute Year 1 remaining curriculum production per `ROADMAP.md` phase RM-Y1-R*
 
 ## Blockers
 
-- None for repository structure build
-- Cannot claim unconditional GO until worship/safeguarding reviews complete
-
-## Next exact action
-
-- Complete Git commits and push to private remote
-- Run independent review (Prompt 10) in fresh Cursor context
+- None for repository structure or first-six-month derivative packs
+- Unconditional operational GO still blocked on worship and safeguarding human sign-off
