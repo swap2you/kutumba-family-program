@@ -1,0 +1,31 @@
+module_id: C1-W2
+katha_title: "Arjuna's sorrow and Kṛṣṇa's compassionate instruction"
+primary_book: Bhagavad-gītā
+chapter_reference: "Chapter 2 (opening — dehī/deha teaching through 2.13)"
+stable_links:
+  - label: BG 2.11
+    url: https://vedabase.io/en/library/bg/2/11/
+  - label: BG 2.13
+    url: https://vedabase.io/en/library/bg/2/13/
+  - label: BG 2.20
+    url: https://vedabase.io/en/library/bg/2/20/
+exact_verses_used:
+  - BG 2.13
+  - BG 2.11
+direct_quotations: []
+paraphrased_portions:
+  - Arjuna's grief at seeing relatives on the battlefield (BG ch. 1 summary — paraphrase)
+  - Kṛṣṇa's call to spiritual courage and introduction of the soul's continuity (BG 2.11–2.13 — paraphrase)
+facilitator_transitions:
+  - Modern family pause before philosophy block
+  - Bridge to identity pause home practice
+omitted_complex_details:
+  - Full battlefield violence description
+  - Transmigration mechanics (deferred to C1-W3)
+  - Detailed karma arguments (deferred to Cycle 2)
+audience_cautions:
+  - No graphic war imagery for young children — focus on compassion and confusion, not violence
+  - Do not use katha to dismiss grief or medical care
+doctrinal_reviewer: pending
+rights_status: scripture-reference-links-only
+approval_status: human-review-required
