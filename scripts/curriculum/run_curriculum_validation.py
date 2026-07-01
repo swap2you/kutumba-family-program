@@ -17,6 +17,23 @@ STRUCTURAL = [
     "validate_media_indexes.py",
     "validate_internal_links.py",
 ]
+VISUAL_V8 = [
+    "classify_visual_substance.py",
+    "validate_visual_substance.py",
+    "validate_visual_rights.py",
+    "validate_visual_source_registers.py",
+    "validate_visual_alt_text.py",
+    "validate_visual_catalog_consistency.py",
+]
+CITATION_V8 = [
+    "validate_canonical_fact_source_keys.py",
+    "validate_claim_point_of_use_consistency.py",
+]
+GAMMA_V8 = [
+    "validate_gamma_briefs.py",
+    "validate_gamma_asset_references.py",
+]
+MEDIA_V8 = ["validate_media_candidate_records.py"]
 SEMANTIC = [
     "validate_gamma_briefs.py",
     "validate_gamma_asset_references.py",
@@ -65,6 +82,10 @@ def main() -> int:
     results = {}
     for cat, scripts in [
         ("structural", STRUCTURAL),
+        ("visual_substance", VISUAL_V8),
+        ("citations", CITATION_V8),
+        ("gamma_packaging", GAMMA_V8),
+        ("media", MEDIA_V8),
         ("semantic", SEMANTIC),
         ("source", SOURCE),
         ("source_catalog", SOURCE_CATALOG),
@@ -95,6 +116,10 @@ HEAD: `{head}`
 | Category | Verdict |
 |---|---|
 | Structural validation | **{'PASS' if results['structural'] else 'FAIL'}** |
+| Visual substance (V8) | **{'PASS' if results.get('visual_substance') else 'FAIL'}** |
+| Citation closure (V8) | **{'PASS' if results.get('citations') else 'FAIL'}** |
+| Gamma packaging (V8) | **{'PASS' if results.get('gamma_packaging') else 'FAIL'}** |
+| Media curation (V8) | **{'PASS' if results.get('media') else 'FAIL'}** |
 | Semantic validation | **{'PASS' if results['semantic'] else 'FAIL'}** |
 | Source validation | **{'PASS' if results['source'] else 'FAIL'}** |
 | Source catalog validation | **{'PASS' if results.get('source_catalog') else 'FAIL'}** |

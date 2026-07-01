@@ -27,3 +27,4 @@ config/local-source-roots.yaml
 
 # Large binaries policy — reference collections stay local
 KUTUMBA_CURSOR_PROMPT_LIBRARY_v2.0.zip
+build-evidence/exports/*.zip
