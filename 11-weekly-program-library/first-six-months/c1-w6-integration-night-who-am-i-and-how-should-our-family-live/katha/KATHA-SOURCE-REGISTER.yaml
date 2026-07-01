@@ -32,3 +32,42 @@ audience_cautions:
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required
+
+narrative_metrics:
+  narrative_words: 437
+  estimated_minutes: "3.2-3.8"
+  integration_exception: true
+  validation_method: section-6-only-v6
+paragraph_source_mappings:
+  - paragraph: 1
+    source_range: "Cycle 1 synthesis"
+    narrative_snippet: "Tonight is not another introduction to a new scene from the Bhāgavatam. Cycle 1 closes by gathering "
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 2
+    source_range: "Cycle 1 synthesis"
+    narrative_snippet: "Begin with breath and gratitude. Name the cycle honestly: Week 1 oriented hearts toward hearing like"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 3
+    source_range: "Cycle 1 synthesis"
+    narrative_snippet: "Invite families to recall one memory line only — the line that actually surfaced at home, not the li"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 4
+    source_range: "Cycle 1 synthesis"
+    narrative_snippet: "The facilitator weaves a short spoken recollection — not a new story — linking the scenes: hearing r"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 5
+    source_range: "Cycle 1 synthesis"
+    narrative_snippet: "Offer mood turns toward gratitude and practical saṅkalpa. Each family writes one minimum practice fo"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 6
+    source_range: "Cycle 1 synthesis"
+    narrative_snippet: "Close with kīrtana or silent prayer as the community normally does. Remind all that integration succ"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 7
+    source_range: "Cycle 1 synthesis"
+    narrative_snippet: "Estimated narrative timing: 8–12 minutes at 115–135 words/minute (integration band 350–700 narrative"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 8
+    source_range: "Cycle 1 synthesis"
+    narrative_snippet: "Source anchors: synthesis of Cycle 1 registers — BG 2.13, 2.20, SB 11.9.29, BG 8.15; see register."
+    mapping_status: paraphrase-aligned-human-review-required

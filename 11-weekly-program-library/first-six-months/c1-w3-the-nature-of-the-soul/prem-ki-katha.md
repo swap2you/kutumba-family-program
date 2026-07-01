@@ -41,35 +41,25 @@ _[Facilitator transition — quiet room, families seated together]_
 
 _[Source narrative / paraphrase — not invented dialogue]_
 
-**Paraphrase from Śrīmad-Bhāgavatam 5.10–5.13 (selected) (summary):** See controlling sources in register.
+In the Fifth Canto of Śrīmad-Bhāgavatam, a powerful king named Rahūgaṇa traveled with a royal palanquin. He expected swift service and visible respect. The men carrying the palanquin were supposed to remain coordinated, silent, and strong. But one bearer moved differently. He was careful not to step on ants or worms. He adjusted his pace to avoid harming living beings even when the king grew impatient. To the king's eyes, this looked like incompetence. To the eyes of scripture, it was the behavior of an advanced soul living beneath a disguise.
 
-**Paraphrase from SB 5.10–5.11 (Jaḍa Bharata — summary):** King Rahūgaṇa treated the palanquin bearer as mere body; Jaḍa Bharata replied with spiritual wisdom — the soul is distinct from the covering.
+That bearer was Jaḍa Bharata — a soul who had already passed through royal enjoyment, renunciation, and deep realization, yet now appeared as a simple worker. Rahūgaṇa did not know whom he was insulting. When the palanquin shook, the king rebuked the bearers harshly. His words assumed the usual worldly hierarchy: the king is the important person; the carrier is merely the body that serves. Jaḍa Bharata answered without pride and without violence. His reply was not a political protest. It was **spiritual instruction wrapped in plain language**.
 
-**Paraphrase aligned with BG 2.20:** The soul is unborn and eternal — positive identity beyond 'not the body.'
+Jaḍa Bharata explained that the king was mistaken in taking the moving palanquin as the only reality before him. The body of the carrier, the body of the king, and the bodies of all who walk on the road are coverings. The living being who animates the body is distinct. One who identifies the self with the external covering — with muscle, status, anger, or humiliation — remains bound in ignorance. Rahūgaṇa had been proud of his kingship. The palanquin incident stripped away that pride not by argument alone, but by confronting him with a person he could not classify.
 
-**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to win arguments, but to receive merciful instruction through authorized sources.
+The scene is physically modest — a road, a palanquin, an irritated ruler — but philosophically enormous. It answers the child's question, "Who am I if my job changes?" and the teenager's question, "Am I only my grades, my appearance, or my reputation?" Jaḍa Bharata's life shows that **identity is not identical with role**. A king may be a bearer; a bearer may be a teacher of kings. What continues is the conscious self.
 
-**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and turning toward the Lord. This katha supplies that scene for **C1-W3** without inventing dialogue.
+The Bhagavad-gītā supports this with verses families study this week: the soul is not slain when the body changes (2.20); the embodied self passes through life stages (2.13); the living entity is different from the material field and is guided by the Supersoul (13.23); the living being is an eternal fragmental part of Kṛṣṇa (15.7). Jaḍa Bharata's story makes those verses **visible**. Without such a narrative, "I am not this body" can sound like a slogan. With the story, it sounds like a lived truth discovered under pressure.
 
-**Paraphrase — Bhagavad-gītā 2.20 — ajo nityaḥ śāśvato ’yaṁ purāṇo (application summary):** The verse is not a slogan. It names a distinction families can practice this week: see BG 2.20 soul qualities; BG 15.7 fragmental part; BG 13.23 jīva vs Paramātmā; service reframing in one honest situation at home.
+The turning point comes when Rahūgaṇa realizes he has spoken to a mahā-bhāgavata. Humiliation becomes repentance. The king who demanded external service now asks for internal instruction. That reversal is the devotional heart of the kathā: **when pride breaks, hearing becomes possible**. KUTUMBA families need not imitate royal palanquins, but they do know how quickly we judge others by externals — by accent, clothing, age, or usefulness. The narrative invites a softer gaze.
 
-**Paraphrase — memory line practice:** Repeat together: _The soul is unborn, eternal and not destroyed when the body is destroyed._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).
+Jaḍa Bharata's patience also teaches non-violence in speech. He could have shamed the king. Instead he spoke to liberate. Parents can notice how often children learn identity from comparison — who is faster, prettier, smarter. This kathā offers a counter-message: your worth is not exhausted by the body's temporary role. Service to Kṛṣṇa can appear in any ashrama of life when consciousness is purified.
 
-**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through frightening detail or public testing.
+For Lāla–Lālī, the story may be shown as "the quiet carrier who protected little creatures." For Kiśora–Kiśorī, the same story raises questions about dignity, labor, and respect. Who in our school or community is treated as invisible because of their role? The module does not ask for public confession. It asks for **honest reflection**.
 
-**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work) and one private journal sentence — boundaries respected.
+By the end of the narrative, families should remember one image: a king learning from a servant because the servant knew what the king had forgotten. The soul is eternal, conscious, and meant for Kṛṣṇa's service — not for the endless anxiety of bodily identification. That is the bridge to the philosophy lesson: precise terms come after the heart has seen the truth in a person.
 
-**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when wrong, and return to practice next week.
-
-**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does not shut down feeling or professional care when needed.
-
-**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present invented quotes as śāstra or Prabhupāda's exact words.
-
-**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both serve Kṛṣṇa — neither replaces the other.
-
-**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the minimum practice connected to C1-W3.
-
-**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth, not information overload.
+**Source anchors:** Śrīmad-Bhāgavatam 5.10–5.13 (Jaḍa Bharata and Rahūgaṇa); Bhagavad-gītā 2.13, 2.17, 2.20, 13.23, 15.7 — paraphrase only; see register.
 
 ## 7. Turning point
 

@@ -41,35 +41,31 @@ _[Facilitator transition — quiet room, families seated together]_
 
 _[Source narrative / paraphrase — not invented dialogue]_
 
-**Paraphrase from Śrīmad-Bhāgavatam 1.1 (summary):** See controlling sources in register.
+Long after Lord Kṛṣṇa returned to His own abode, the earth herself felt the weight of Kali-yuga approaching. Sacred places still held power, but human beings were growing distracted, short-lived, and confused about the purpose of life. In that setting, a great company of sages made their way to the forest of Naimiṣāraṇya on the bank of the Gomati River. They had not come for comfort or fame. They had come because a serious question was burning in their hearts.
 
-**Paraphrase from ŚB 1.1 (summary):** At Naimiṣāraṇya, sages led by Śaunaka gathered after Kṛṣṇa's departure. They inquired how to act in Kali — opening the Bhāgavatam.
+The sages were led by Śaunaka Ṛṣi, respected for learning and gravity. They lit the sacrificial fire, seated themselves with discipline, and turned their attention to the real problem of the age: **What should thoughtful persons do now that Kṛṣṇa has departed?** How can families, rulers, and seekers still find the highest good when quarrel and hypocrisy are increasing everywhere?
 
-**Paraphrase aligned with SB 1.2.18:** Regular hearing and service cleanse the heart and fix devotion — KUTUMBA's weekly protected time.
+Into that assembly came Sūta Gosvāmī, who had heard the Śrīmad-Bhāgavatam from great authorities. The sages did not ask him for political news or heavenly rewards. They asked the question that opens the Bhāgavatam itself — the question KUTUMBA families echo each week when they gather: **What is worth hearing and doing with this human life?** Sūta honored their sincerity. He prepared to speak not from imagination, but from the paramparā he had received.
 
-**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to win arguments, but to receive merciful instruction through authorized sources.
+The setting matters devotionally. Naimiṣāraṇya is not presented as a tourist destination. It is a place where serious persons withdraw from trivial talk to hear about the Lord. The sages had already simplified their lives. They were not pretending that material arrangements alone could satisfy the soul. Their inquiry arose because they understood that **time in Kali-yuga passes quickly** and that human beings need a clear direction before old age and death remove the chance to reform.
 
-**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and turning toward the Lord. This katha supplies that scene for **C1-W1** without inventing dialogue.
+As the narration unfolds in the First Canto, the sages learn that the remedy for the age is not a new invention. It is **hearing the glories of the Lord in the association of devotees**. The Bhāgavatam will later explain that regular hearing and service cleanse the heart and make devotion steady (Śrīmad-Bhāgavatam 1.2.18). But at the opening of the work, the emphasis falls on humility before śāstra: qualified hearers, respectful questions, and willingness to act on what is heard.
 
-**Paraphrase — Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā (application summary):** The verse is not a slogan. It names a distinction families can practice this week: see Six charter purposes; Friday rhythm; realistic saṅkalpa; temple alignment in one honest situation at home.
+Picture the mood in the assembly. Hundreds of sages, quiet fire, the river nearby, and one speaker about to unfold a literature meant for the welfare of all peoples. No one is competing for attention. No one is checking a device. The scene trains the heart in the opposite direction from the scattered modern household — yet without condemning families. It invites them: **Can we protect even one hour a week for this quality of hearing?**
 
-**Paraphrase — memory line practice:** Repeat together: _Regular hearing and service cleanse the heart and make devotion steady._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).
+The sages' inquiry also reveals what KUTUMBA is trying to recover in miniature. A family program is not a substitute temple, not a social club, and not a lecture series for entertainment. It is a **disciplined weekly assembly** where parents and children turn toward authorized instruction together. The charter purposes of KUTUMBA — formation, continuity, worshipful culture, and honest boundaries — are modern expressions of the same instinct that brought the sages to Naimiṣāraṇya: we need regular, protected, source-grounded hearing.
 
-**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through frightening detail or public testing.
+The narrative tension is not a battlefield but a **spiritual urgency**. The sages know Kṛṣṇa has left visible presence. They know the age is difficult. They refuse cynicism. They choose inquiry. That choice is the turning point of the opening chapter: instead of drowning in distraction, they place themselves under the Bhāgavatam's care.
 
-**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work) and one private journal sentence — boundaries respected.
+For children, the scene can be shown simply: many respectful learners, one holy forest, one important question — "How should we live for Kṛṣṇa now?" For youth, the same scene raises a sharper challenge: **Will I spend my attention on what disappears, or on what the sages traveled to hear?** For parents, the scene offers relief. One does not need perfect knowledge to begin. One needs a protected time, a humble posture, and faithful sources.
 
-**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when wrong, and return to practice next week.
+The Bhāgavatam's opening therefore does more than introduce a book. It introduces a **culture of hearing** — the culture KUTUMBA attempts in family form. When the sages ask their question, they model how newcomers should enter: not with boasting, but with curiosity; not with chaos, but with reverence; not alone in isolation, but in saṅga.
 
-**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does not shut down feeling or professional care when needed.
+By the end of this kathā beat, families should feel the weight of the question personally. Not "What is KUTUMBA organizationally?" but "Why are **we** here this week?" The answer suggested by the scene is gentle and demanding at once: we are here to hear what the sages wanted to hear — how to remember Kṛṣṇa faithfully in an age that pulls attention elsewhere.
 
-**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present invented quotes as śāstra or Prabhupāda's exact words.
+The devotional resolution is not a finished lesson in philosophy. It is **orientation**. The heart turns toward śāstra. The family accepts that weekly hearing is not optional decoration on an otherwise material life. It is the center from which every other duty becomes clearer. Sūta is about to speak; the sages are ready to listen; and KUTUMBA families, in their own modest setting, are invited to join that same lineage of hearing — one verse, one practice, one sincere week at a time.
 
-**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both serve Kṛṣṇa — neither replaces the other.
-
-**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the minimum practice connected to C1-W1.
-
-**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth, not information overload.
+**Source anchors:** Śrīmad-Bhāgavatam 1.1.1–1.1.4 (setting and inquiry); 1.2.17–1.2.19 (fruit of Bhāgavatam and steadiness through hearing) — paraphrase only; see [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.yaml).
 
 ## 7. Turning point
 

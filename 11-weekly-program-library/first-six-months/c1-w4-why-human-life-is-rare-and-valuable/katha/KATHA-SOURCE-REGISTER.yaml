@@ -32,3 +32,58 @@ audience_cautions:
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required
+
+narrative_metrics:
+  narrative_words: 755
+  estimated_minutes: "5.6-6.6"
+  integration_exception: false
+  validation_method: section-6-only-v6
+paragraph_source_mappings:
+  - paragraph: 1
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "Before he became a teacher of the world, Nārada Muni once passed through a forest where a hunter liv"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 2
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "Nārada did not respond with ordinary fear or flattery. He asked a question that cut through the hunt"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 3
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "Nārada then spoke with devastating simplicity. If half-killing animals creates bad karma, what karma"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 4
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "Nārada did not leave the hunter in guilt alone. He gave practical mercy: 'I will take responsibility"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 5
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "What followed is one of the most beloved conversion narratives in the Bhāgavatam. Mṛgāri trembled be"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 6
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "Soon Mṛgāri's heart softened further. He wept. He asked how anyone so sinful could be delivered. Nār"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 7
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "The narrative teaches why human life is rare and valuable (Śrīmad-Bhāgavatam 11.9.29). It is not val"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 8
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "Prahlāda's instruction to children (Śrīmad-Bhāgavatam 7.6.1) echoes in the background: spiritual tra"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 9
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "The turning point is Mṛgāri's broken bow — a visible sign of decision. KUTUMBA families may choose s"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 10
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "Youth often ask whether people really change. This kathā answers with a named life. Adults ask wheth"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 11
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "By the end, the forest road is no longer a place of terror. It becomes a place where travelers remem"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 12
+    source_range: "SB 1.5-1.6"
+    narrative_snippet: "Source anchors: Śrīmad-Bhāgavatam 6.x (Mṛgāri narrative); 11.9.29; 7.6.1; Bhagavad-gītā 7.19 — parap"
+    mapping_status: paraphrase-aligned-human-review-required

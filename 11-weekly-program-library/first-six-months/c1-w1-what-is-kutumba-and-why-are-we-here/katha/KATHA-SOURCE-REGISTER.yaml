@@ -32,3 +32,62 @@ audience_cautions:
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required
+
+narrative_metrics:
+  narrative_words: 893
+  estimated_minutes: "6.6-7.8"
+  integration_exception: false
+  validation_method: section-6-only-v6
+paragraph_source_mappings:
+  - paragraph: 1
+    source_range: "SB 1.1"
+    narrative_snippet: "Long after Lord Kṛṣṇa returned to His own abode, the earth herself felt the weight of Kali-yuga appr"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 2
+    source_range: "SB 1.1"
+    narrative_snippet: "The sages were led by Śaunaka Ṛṣi, respected for learning and gravity. They lit the sacrificial fire"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 3
+    source_range: "SB 1.1"
+    narrative_snippet: "Into that assembly came Sūta Gosvāmī, who had heard the Śrīmad-Bhāgavatam from great authorities. Th"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 4
+    source_range: "SB 1.1"
+    narrative_snippet: "The setting matters devotionally. Naimiṣāraṇya is not presented as a tourist destination. It is a pl"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 5
+    source_range: "SB 1.1"
+    narrative_snippet: "As the narration unfolds in the First Canto, the sages learn that the remedy for the age is not a ne"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 6
+    source_range: "SB 1.1"
+    narrative_snippet: "Picture the mood in the assembly. Hundreds of sages, quiet fire, the river nearby, and one speaker a"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 7
+    source_range: "SB 1.1"
+    narrative_snippet: "The sages' inquiry also reveals what KUTUMBA is trying to recover in miniature. A family program is "
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 8
+    source_range: "SB 1.1"
+    narrative_snippet: "The narrative tension is not a battlefield but a spiritual urgency. The sages know Kṛṣṇa has left vi"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 9
+    source_range: "SB 1.1"
+    narrative_snippet: "For children, the scene can be shown simply: many respectful learners, one holy forest, one importan"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 10
+    source_range: "SB 1.1"
+    narrative_snippet: "The Bhāgavatam's opening therefore does more than introduce a book. It introduces a culture of heari"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 11
+    source_range: "SB 1.1"
+    narrative_snippet: "By the end of this kathā beat, families should feel the weight of the question personally. Not 'What"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 12
+    source_range: "SB 1.1"
+    narrative_snippet: "The devotional resolution is not a finished lesson in philosophy. It is orientation. The heart turns"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 13
+    source_range: "SB 1.1"
+    narrative_snippet: "Source anchors: Śrīmad-Bhāgavatam 1.1.1–1.1.4 (setting and inquiry); 1.2.17–1.2.19 (fruit of Bhāgava"
+    mapping_status: paraphrase-aligned-human-review-required

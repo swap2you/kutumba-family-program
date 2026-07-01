@@ -41,35 +41,27 @@ _[Facilitator transition — quiet room, families seated together]_
 
 _[Source narrative / paraphrase — not invented dialogue]_
 
-**Paraphrase from Śrīmad-Bhāgavatam 4.8–4.9 (selected) (summary):** See controlling sources in register.
+Dhruva Mahārāja was only a boy when he discovered how unstable worldly honor can be. He went to sit on the lap of his father, the king. His stepmother spoke cruelly. She told him he had no right to the throne of his father because he was not born in her womb. A child who expected affection received instead a lesson in material hierarchy. Dhruva's mother, Sunīti, did not fill his heart with revenge. She told him the truth gently: if he wanted a kingdom no one could remove, he should seek the shelter of the Supreme Lord.
 
-**Paraphrase from SB 4.8–4.9 (Dhruva — summary):** Dhruva sought temporary power but learned permanent shelter in Kṛṣṇa's lotus feet.
+Dhruva left the palace. That departure is the emotional center of the story. He was not rejecting family life as such. He was rejecting the **illusion that bodily relation without Kṛṣṇa can satisfy the heart**. In the forest he met Nārada Muni, who tested his seriousness. Boys often speak in dramatic vows. Nārada wanted to see whether Dhruva's pain had become devotion or merely ambition dressed in spiritual language.
 
-**Paraphrase aligned with BG 8.15:** The material world is temporary; returning to Kṛṣṇa is the goal.
+Nārada instructed him with compassion and realism. Dhruva was young; severe practices were not required. He should return home, but within he should meditate on the beautiful form of the Lord as Nārada described. Dhruva, however, felt urgency sharper than ordinary instruction. He went deeper into the forest, bathed, controlled his senses, and fixed his mind in austerity and prayer. The narrative shows both **childlike intensity** and the danger of mixed motive: at first Dhruva still wanted a kingdom greater than his father's.
 
-**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to win arguments, but to receive merciful instruction through authorized sources.
+In the forest, Dhruva's determination astonished the demigods. The earth shook under the power of his austerity — not because pain itself is worship, but because exclusive longing can attract the Lord's attention when directed toward Him. Dhruva chanted the mantra given by Nārada and meditated with one-pointed heart. Months passed. His body became thin. His desire purified.
 
-**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and turning toward the Lord. This katha supplies that scene for **C1-W5** without inventing dialogue.
+The Lord appeared. Dhruva had wanted to complain at the beginning of the vision, but when he saw the beauty and mercy of the Personality of Godhead, **he forgot the kingdom he had wanted**. He could not even speak his prepared prayers at first. The Bhāgavatam's point is not that material desire is never present at the start of spiritual life. The point is that real encounter with Kṛṣṇa changes what the heart considers valuable.
 
-**Paraphrase — Bhagavad-gītā 8.15 — duḥkhālayam aśāśvatam (application summary):** The verse is not a slogan. It names a distinction families can practice this week: see BG 2.14, 5.22, 8.15, 9.27; pleasure vs permanent need; offering ordinary life in one honest situation at home.
+Kṛṣṇa touched Dhruva's cheek with His conchshell. The boy's ignorance and remaining mixture were burned away. He spoke prayers of wonder. Even after receiving the Lord's favor, Dhruva remembered his mother's instruction and Nārada's mercy. He did not become a proud mystic. He returned to duty with transformed consciousness.
 
-**Paraphrase — memory line practice:** Repeat together: _This material world is temporary and cannot provide permanent freedom from distress; lasting fulfillment comes through attaining Kṛṣṇa._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).
+For modern families, the story answers a subtle question: why do we still feel restless even when we have comforts? Dhruva had royal birth, yet one insult revealed the emptiness of status without spiritual shelter. Children learn that hurt feelings can become a doorway to prayer rather than to endless competition. Teenagers see that **temporary popularity cannot substitute for permanent relationship with Kṛṣṇa**. Parents see that good instruction — like Sunīti's — does not deny pain but redirects it.
 
-**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through frightening detail or public testing.
+The Bhagavad-gītā verses for this week frame the same truth philosophically. Pleasure and pain come and go like winter and summer (2.14). The wise do not become derailed by either. The material worlds are places of return and suffering for those attached to temporary enjoyment (8.15). Sense objects taste bitter to the wise while still in material bondage (5.22). Whatever you do, offer it to Kṛṣṇa (9.27). Dhruva's life shows what offering looks like when a child actually tries.
 
-**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work) and one private journal sentence — boundaries respected.
+The turning point is not the throne. It is the moment Dhruva forgets his complaint before the Lord's beauty. KUTUMBA families may experience smaller versions of that turn: one Friday evening when complaining stops because kīrtana or hearing makes the room quiet; one apology that ends a week-long coldness; one decision to reduce screen noise and protect prayer. The narrative does not promise instant perfection. It shows **direction**.
 
-**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when wrong, and return to practice next week.
+Dhruva eventually ruled, but the story's devotional resolution is internal. Lasting happiness is not found by securing every worldly throne. It is found when the heart takes shelter of Kṛṣṇa's lotus feet and acts from that shelter in whatever role one occupies. That is why the temporary world can be spoken of honestly without hatred: we are not asked to pretend matter does not exist, but to stop expecting matter to carry what only Kṛṣṇa can carry.
 
-**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does not shut down feeling or professional care when needed.
-
-**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present invented quotes as śāstra or Prabhupāda's exact words.
-
-**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both serve Kṛṣṇa — neither replaces the other.
-
-**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the minimum practice connected to C1-W5.
-
-**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth, not information overload.
+**Source anchors:** Śrīmad-Bhāgavatam 4.8–4.9; Bhagavad-gītā 2.14, 5.22, 8.15, 9.27 — paraphrase only; see register.
 
 ## 7. Turning point
 

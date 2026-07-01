@@ -32,3 +32,50 @@ audience_cautions:
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required
+
+narrative_metrics:
+  narrative_words: 730
+  estimated_minutes: "5.4-6.3"
+  integration_exception: false
+  validation_method: section-6-only-v6
+paragraph_source_mappings:
+  - paragraph: 1
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "In the Fifth Canto of Śrīmad-Bhāgavatam, a powerful king named Rahūgaṇa traveled with a royal palanq"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 2
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "That bearer was Jaḍa Bharata — a soul who had already passed through royal enjoyment, renunciation, "
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 3
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "Jaḍa Bharata explained that the king was mistaken in taking the moving palanquin as the only reality"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 4
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "The scene is physically modest — a road, a palanquin, an irritated ruler — but philosophically enorm"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 5
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "The Bhagavad-gītā supports this with verses families study this week: the soul is not slain when the"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 6
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "The turning point comes when Rahūgaṇa realizes he has spoken to a mahā-bhāgavata. Humiliation become"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 7
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "Jaḍa Bharata's patience also teaches non-violence in speech. He could have shamed the king. Instead "
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 8
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "For Lāla–Lālī, the story may be shown as 'the quiet carrier who protected little creatures.' For Kiś"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 9
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "By the end of the narrative, families should remember one image: a king learning from a servant beca"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 10
+    source_range: "SB 5.10-5.13"
+    narrative_snippet: "Source anchors: Śrīmad-Bhāgavatam 5.10–5.13 (Jaḍa Bharata and Rahūgaṇa); Bhagavad-gītā 2.13, 2.17, 2"
+    mapping_status: paraphrase-aligned-human-review-required

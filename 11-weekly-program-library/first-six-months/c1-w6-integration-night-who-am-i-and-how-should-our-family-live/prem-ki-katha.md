@@ -41,29 +41,23 @@ _[Facilitator transition — quiet room, families seated together]_
 
 ## 6. Source-grounded narrative
 
-_[Source narrative / paraphrase — not invented dialogue]_
+_[Integration exception — facilitator-led synthesis; no new principal līlā]_
 
-**Paraphrase — integration exception (documented):** This module synthesizes prior weeks without introducing a new principal līlā in the repository.
+Tonight is not another introduction to a new scene from the Bhāgavatam. Cycle 1 closes by **gathering what families have already heard** and asking what will continue when the room is quiet again. The facilitator stands not as a performer of fresh līlā, but as a servant of memory — helping parents, children, and youth recognize one thread running through six weeks.
 
-**Paraphrase — cycle review:** Facilitator recalls memory lines and one family-chosen practice. Scope: Review W1–W5; stations; presentations; continuity saṅkalpa; Cycle 2 preview.
+Begin with breath and gratitude. Name the cycle honestly: Week 1 oriented hearts toward hearing like the sages at Naimiṣāraṇya. Week 2 softened fear through Arjuna's sorrow and Kṛṣṇa's compassionate instruction about the changing body. Week 3 strengthened identity through Jaḍa Bharata's humility before Rahūgaṇa. Week 4 showed the rare value of human life through Nārada's mercy to Mṛgāri. Week 5 turned desire toward permanence through Dhruva's determination. None of these scenes compete with one another. Together they answer the cycle question: **Who am I, and how should our family live?**
 
-**Paraphrase — offering mood:** Families share only with consent — no competition, scoring, or forced testimony.
+Invite families to recall one memory line only — the line that actually surfaced at home, not the line they wish they had practiced. Allow silence. If a family volunteers a share, require **explicit consent** and stop immediately if comparison begins. This is integration, not competition. Stations may include: (1) a verse card table with BG 2.13 and 2.20; (2) a simple body-change timeline for children; (3) a parent prompt on protected weekly time; (4) a quiet writing corner for youth.
 
-**Paraphrase — continuity:** Choose one minimum home practice for the off week; preview next cycle briefly.
+The facilitator weaves a short spoken recollection — not a new story — linking the scenes: hearing requires protected time; the body changes but the self continues; human life can reform; temporary honor cannot satisfy the heart. Use only paraphrase already established in prior weeks. Do not introduce a new principal narrative such as a fresh līlā to impress guests.
 
-**Paraphrase — integration exception (documented):** This week synthesizes prior modules. No new principal līlā is introduced in the repository.
+Offer mood turns toward **gratitude and practical saṅkalpa**. Each family writes one minimum practice for the off-week: a meal prayer, one page of hearing, one apology ritual, one charitable act, or one protected Friday hour. Smaller than a mela display, but steady. Preview Cycle 2 briefly — karma, choice, and consequence — without overwhelming newcomers.
 
-**Paraphrase — station recall:** Families rotate through memory-line stations or consent-based shares — not competitive presentations.
+Close with kīrtana or silent prayer as the community normally does. Remind all that integration success is not measured by eloquence tonight, but by whether kindness, hearing, and honesty continue when the facilitators are not watching.
 
-**Paraphrase — continuity:** Choose one practice from the cycle to continue: A sober person understands bodily change and acts from spiritual identity.
+**Estimated narrative timing:** 8–12 minutes at 115–135 words/minute (integration band 350–700 narrative words). Not a full 12–15 minute principal kathā.
 
-**Paraphrase — offering mood:** Integration is gratitude and honest review — what actually changed at home?
-
-**Paraphrase — preview:** Name the next cycle theme briefly without overwhelming newcomers.
-
-**Paraphrase — consent:** Any family share requires explicit consent; facilitator stops comparison or ranking immediately.
-
-**Paraphrase — thirty-day baseline:** Choose one realistic practice — smaller than the mela display, but steady.
+**Source anchors:** synthesis of Cycle 1 registers — BG 2.13, 2.20, SB 11.9.29, BG 8.15; see register.
 
 ## 7. Turning point
 

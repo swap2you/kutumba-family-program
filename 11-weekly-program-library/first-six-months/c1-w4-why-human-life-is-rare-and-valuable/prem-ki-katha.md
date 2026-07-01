@@ -41,35 +41,29 @@ _[Facilitator transition — quiet room, families seated together]_
 
 _[Source narrative / paraphrase — not invented dialogue]_
 
-**Paraphrase from Śrīmad-Bhāgavatam 6.x / Prabhupāda summary (summary):** See controlling sources in register.
+Before he became a teacher of the world, Nārada Muni once passed through a forest where a hunter lived. The hunter's name was Mṛgāri — one who injures animals. His livelihood was cruel. He half-killed creatures so their cries would attract other animals. He thought pain was simply the way of survival. When Nārada appeared, Mṛgāri did not greet a saint with reverence. He prepared to attack. The scene is shocking on purpose: **human life can sink very low when mercy is forgotten**.
 
-**Paraphrase from SB 6.1–6.2 (Mṛgāri — summary):** Nārada's mercy transformed a cruel hunter — human intelligence can turn toward Kṛṣṇa.
+Nārada did not respond with ordinary fear or flattery. He asked a question that cut through the hunter's entire life: "Why do you cause suffering in this way?" Mṛgāri answered honestly. He had been taught that half-violence brought material benefit. His father had lived the same way. The hunter was not cartoon evil; he was **conditioned**. That distinction matters for families discussing sin and reform without despair.
 
-**Paraphrase aligned with SB 11.9.29:** Human life is rare, temporary, and able to deliver the highest value.
+Nārada then spoke with devastating simplicity. If half-killing animals creates bad karma, what karma awaits one who fully kills? And if one should not fully kill, why half-kill at all? The hunter's logic collapsed. For the first time, he saw his actions as a chain rather than a tradition. This is the beginning of human life's real value: the capacity to **question inherited habits** and turn toward the Lord.
 
-**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to win arguments, but to receive merciful instruction through authorized sources.
+Nārada did not leave the hunter in guilt alone. He gave practical mercy: "I will take responsibility for your household needs. Stop this work." That combination — clear moral truth and tangible help — is essential in family formation. Children learn both conscience and care. Mṛgāri agreed. He broke his bow. The forest changed.
 
-**Paraphrase — setting the heart:** Before precise philosophy, the heart needs a real scene: persons, struggle, and turning toward the Lord. This katha supplies that scene for **C1-W4** without inventing dialogue.
+What followed is one of the most beloved conversion narratives in the Bhāgavatam. Mṛgāri trembled before Nārada, fearing punishment for past deeds. Nārada directed him to sit in the cottage, worship Tulasī, and chant the holy names. The hunter was so afraid of committing further offense that he walked toward the cottage **sideways**, trying not to harm ants. Outsiders laughed at the rough man moving so awkwardly. Nārada did not laugh. He told them they could not see what he saw: the hunter was already transformed within.
 
-**Paraphrase — Śrīmad-Bhāgavatam 11.9.29 — labdhvā su-durlabham idaṁ ... mānuṣyam artha-dam (application summary):** The verse is not a slogan. It names a distinction families can practice this week: see SB 11.9.29; SB 7.6.1 childhood formation; time audit; protected appointment in one honest situation at home.
+Soon Mṛgāri's heart softened further. He wept. He asked how anyone so sinful could be delivered. Nārada explained that sincere repentance and devotion attract Kṛṣṇa's mercy. The hunter who once delighted in pain became famous for giving up his own comfort to protect living beings. Travelers would leave their paths to receive his blessings. The same forest that had smelled of violence began to carry the fame of mercy.
 
-**Paraphrase — memory line practice:** Repeat together: _Human life is rare, temporary and able to give the highest value when used for spiritual realization._ — then name one place this week the line might actually help (mealtime, bedtime, conflict, service).
+The narrative teaches why human life is rare and valuable (Śrīmad-Bhāgavatam 11.9.29). It is not valuable because of luxury. It is valuable because **reform is possible**. A cruel hunter can become a saint. A distracted modern family can also turn one weekly hour toward hearing and chanting, even if the change looks awkward at first.
 
-**Paraphrase — Lāla–Lālī bridge:** Children learn the same truth through picture, gesture, and recall — not through frightening detail or public testing.
+Prahlāda's instruction to children (Śrīmad-Bhāgavatam 7.6.1) echoes in the background: spiritual training should begin early, gently, and consistently. Mṛgāri was not a child, yet he became teachable like one. The story therefore supports parents who worry they began "too late" or who grieve a child's hardness of heart. The Bhāgavatam's logic is not naive optimism. It is **mercy realism**: where there is honest turning, Kṛṣṇa sends help.
 
-**Paraphrase — Kiśora–Kiśorī bridge:** Youth connect the narrative to one contemporary case (fictional in group work) and one private journal sentence — boundaries respected.
+The turning point is Mṛgāri's broken bow — a visible sign of decision. KUTUMBA families may choose smaller but real signs: removing one cruel habit, apologizing once without excuse, protecting one hour for hearing. The devotional resolution is joy without boasting. Mṛgāri did not become proud of his reputation as a saint. He remained aware of his past. That humility kept him safe.
 
-**Paraphrase — parent bridge:** Parents need not perform perfect devotion. They model willingness to hear, repair when wrong, and return to practice next week.
+Youth often ask whether people really change. This kathā answers with a named life. Adults ask whether social improvement matters if the soul is eternal. The story answers: **mercy to living beings and mercy to the soul are not opponents**. Nārada stopped violence and opened devotion. Families can likewise reject cruelty in speech at home while teaching eternal identity.
 
-**Paraphrase — safeguarding:** Honor grief, fear, and confusion where present. Philosophy serves compassion; it does not shut down feeling or professional care when needed.
+By the end, the forest road is no longer a place of terror. It becomes a place where travelers remember that human intelligence exists to serve Kṛṣṇa, not to refine brutality. That is the rare gift of human birth — not guaranteed sainthood, but the chance to hear, repent, and begin again under authorized guidance.
 
-**Paraphrase — rights posture:** All narrative here is **paraphrase** with VedaBase links. Facilitators do not present invented quotes as śāstra or Prabhupāda's exact words.
-
-**Paraphrase — transition to lesson:** The katha opens the heart; the philosophy block trains precise language. Both serve Kṛṣṇa — neither replaces the other.
-
-**Paraphrase — home practice seed:** Before leaving, each family names one trigger (time, place, or event) for the minimum practice connected to C1-W4.
-
-**Paraphrase — closing posture:** End with one round of mahā-mantra or silent prayer — families leave with warmth, not information overload.
+**Source anchors:** Śrīmad-Bhāgavatam 6.x (Mṛgāri narrative); 11.9.29; 7.6.1; Bhagavad-gītā 7.19 — paraphrase only; see register.
 
 ## 7. Turning point
 

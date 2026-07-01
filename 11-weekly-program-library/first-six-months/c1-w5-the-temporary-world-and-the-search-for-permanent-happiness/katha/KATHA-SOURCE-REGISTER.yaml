@@ -32,3 +32,54 @@ audience_cautions:
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required
+
+narrative_metrics:
+  narrative_words: 764
+  estimated_minutes: "5.7-6.6"
+  integration_exception: false
+  validation_method: section-6-only-v6
+paragraph_source_mappings:
+  - paragraph: 1
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "Dhruva Mahārāja was only a boy when he discovered how unstable worldly honor can be. He went to sit "
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 2
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "Dhruva left the palace. That departure is the emotional center of the story. He was not rejecting fa"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 3
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "Nārada instructed him with compassion and realism. Dhruva was young; severe practices were not requi"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 4
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "In the forest, Dhruva's determination astonished the demigods. The earth shook under the power of hi"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 5
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "The Lord appeared. Dhruva had wanted to complain at the beginning of the vision, but when he saw the"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 6
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "Kṛṣṇa touched Dhruva's cheek with His conchshell. The boy's ignorance and remaining mixture were bur"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 7
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "For modern families, the story answers a subtle question: why do we still feel restless even when we"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 8
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "The Bhagavad-gītā verses for this week frame the same truth philosophically. Pleasure and pain come "
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 9
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "The turning point is not the throne. It is the moment Dhruva forgets his complaint before the Lord's"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 10
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "Dhruva eventually ruled, but the story's devotional resolution is internal. Lasting happiness is not"
+    mapping_status: paraphrase-aligned-human-review-required
+  - paragraph: 11
+    source_range: "SB 4.8-4.12"
+    narrative_snippet: "Source anchors: Śrīmad-Bhāgavatam 4.8–4.9; Bhagavad-gītā 2.14, 5.22, 8.15, 9.27 — paraphrase only; s"
+    mapping_status: paraphrase-aligned-human-review-required
