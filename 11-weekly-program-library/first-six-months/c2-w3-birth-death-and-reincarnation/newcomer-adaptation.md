@@ -16,7 +16,7 @@ The soul continues through changing bodies; consciousness and choice shape direc
 
 ### Terms to define (once, plain English)
 
-- **dehī** — Kṛṣṇa, please help me remember You.
+- **dehī** — the embodied living being who dwells within the body (the "indweller"); distinct from the external body (deha). Source context: Bhagavad-gītā 2.13–2.20 (KUTUMBA summary).
 
 ### Terms to defer (optional reading / later weeks)
 
