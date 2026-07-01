@@ -33,13 +33,14 @@ def main() -> int:
         m = narrative_metrics(prem)
         narr_w = m["narrative_words"]
         if d.name.startswith("c1-w"):
-            if d.name == "c1-w2-i-am-not-this-body":
-                pass  # gold pilot preserved — depth not enforced in v6
-            elif not m["meets_depth"]:
+            if not m["meets_depth"]:
                 failures.append(
                     f"{d.name}: narrative section {narr_w}w "
                     f"(need {m['min_narrative']}-{m['max_narrative']})"
                 )
+            short = d / "prem-ki-katha-short.md"
+            if not short.exists():
+                failures.append(f"{d.name}: missing prem-ki-katha-short.md (V7)")
         # Cycles 2–3: narrative depth deferred in v6 — structural checks only below
         if any(mo in text for mo in MODERN_ONLY) and narr_w < 300:
             failures.append(f"{d.name}: prem-ki-katha appears to be modern hook only")

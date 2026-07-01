@@ -4,6 +4,7 @@ accepted_at_head: fe84ed0b374917c849e1774b3a7e3173037c5b3e
 last_updated: "2026-06-29"
 v5_stabilization_complete: true
 v6_cycle1_content_truth_complete: true
+v7_visual_citation_media_complete: true
 structural_acceptance: true
 human_doctrinal_approval: false
 publication_ready: false
@@ -56,7 +57,7 @@ locked_areas:
     status: locked
     human_approval: open
     module: C1-W2
-    notes: Gold-pilot draft; do not bulk-overwrite; human review required
+    notes: Gold-structure-reference; narrative deepened V7; strong section architecture preserved
   - id: LOCK-010
     area: workstream-9-gap
     status: open-gap

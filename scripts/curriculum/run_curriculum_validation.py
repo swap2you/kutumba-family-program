@@ -12,15 +12,18 @@ SCRIPT_DIR = Path(__file__).parent
 STRUCTURAL = [
     "validate_week_schema.py",
     "validate_age_bands.py",
-    "validate_visual_assets.py",
+    "validate_mermaid_viewers.py",
+    "validate_visual_asset_manifests.py",
     "validate_media_indexes.py",
     "validate_internal_links.py",
 ]
 SEMANTIC = [
     "validate_gamma_briefs.py",
+    "validate_gamma_asset_references.py",
     "validate_prem_ki_katha.py",
     "validate_review_status_honesty.py",
     "detect_truncation_artifacts.py",
+    "detect_stale_fact_phrases.py",
     "measure_live_session_load.py",
     "audit_katha_narrative_depth.py",
     "validate_claim_source_support.py",
