@@ -10,7 +10,7 @@
 | GitHub visibility | `PUBLIC` |
 | Working tree before writes | clean |
 | Untracked files before writes | none |
-| V9 audit baseline | `C:\Users\swap2\Downloads\KUTUMBA-V9-READ-ONLY-AUDIT-9c2eebe` |
+| V9 audit baseline | external audit package: KUTUMBA-V9-READ-ONLY-AUDIT-9c2eebe (not committed to this public repository) |
 | Safety tag | `v10a-pre-truth-freeze-9c2eebe` |
 
 ## Scope rule
@@ -27,4 +27,3 @@ V10A uses the completed V9 audit as the controlling evidence baseline. It does n
 | Family-facing distribution | NO GO |
 | Public publication | NO GO |
 | Human approvals | open |
-

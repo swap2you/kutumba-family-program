@@ -8,7 +8,7 @@ baseline_finding_ids:
   - F-V9-003
   - F-V9-007
   - F-V9-009
-status_rule: internal pilot remains NO GO while any blocking gate is open
+status_rule: internal pilot remains NO GO while any blocking-unconditional gate is open, or any blocking-if-feature-enabled gate is enabled and open
 approval_rule: no automated validation result may infer a human gate decision
 gates:
   - gate_id: GATE-SAFE-001
@@ -17,7 +17,7 @@ gates:
       - 04-children-youth/CHILDREN-YOUTH-FORMATION-OPERATING-MODEL.md
       - 11-weekly-program-library/first-six-months/*/children/*.md
       - 11-weekly-program-library/first-six-months/*/risks-and-sensitive-points.md
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: safeguarding reviewer qualified for local children/youth operations
     reviewer_name: null
     decision: open
@@ -31,7 +31,7 @@ gates:
     repository_artifacts_in_scope:
       - 04-children-youth/CHILDREN-YOUTH-FORMATION-OPERATING-MODEL.md
       - 13-facilitator-library/safeguarding-review/INDEX.md
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: child protection operations lead
     reviewer_name: null
     decision: open
@@ -46,7 +46,7 @@ gates:
       - 07-kirtana-worship-bhakti-labs/
       - 11-weekly-program-library/first-six-months/*/bhakti-lab.md
       - 11-weekly-program-library/first-six-months/*/facilitator-guide.md
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: worship or liturgical reviewer
     reviewer_name: null
     decision: open
@@ -60,7 +60,7 @@ gates:
     repository_artifacts_in_scope:
       - 11-weekly-program-library/first-six-months/*/research/
       - 14-research-source-register/theology-visual-library/
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: doctrinal reviewer
     reviewer_name: null
     decision: open
@@ -75,7 +75,7 @@ gates:
       - 14-research-source-register/
       - 11-weekly-program-library/first-six-months/*/research/
       - 00-source-materials/SOURCE-MANIFEST.yaml
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: citation/source reviewer
     reviewer_name: null
     decision: open
@@ -89,7 +89,7 @@ gates:
     repository_artifacts_in_scope:
       - 11-weekly-program-library/first-six-months/
       - 13-facilitator-library/
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: pedagogy reviewer
     reviewer_name: null
     decision: open
@@ -103,7 +103,10 @@ gates:
     repository_artifacts_in_scope:
       - 11-weekly-program-library/first-six-months/c1-w*/visuals/
       - 14-research-source-register/visual-asset-library/
-    classification: blocking
+    classification: blocking-if-feature-enabled
+    feature_enabled_in_founding_pilot: false
+    activation_condition: generated visuals are enabled for founding pilot delivery, family-facing distribution, or public publication
+    excluded_by_scope_path: 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md
     named_reviewer_role_required: visual design and accessibility reviewer
     reviewer_name: null
     decision: open
@@ -117,7 +120,10 @@ gates:
     repository_artifacts_in_scope:
       - 11-weekly-program-library/first-six-months/*/audio-video/MEDIA-INDEX.yaml
       - 14-research-source-register/media-library/
-    classification: blocking
+    classification: blocking-if-feature-enabled
+    feature_enabled_in_founding_pilot: false
+    activation_condition: external media playback is enabled for founding pilot delivery, family-facing distribution, or public publication
+    excluded_by_scope_path: 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md
     named_reviewer_role_required: media curator/reviewer
     reviewer_name: null
     decision: open
@@ -132,13 +138,13 @@ gates:
       - RIGHTS-AND-USE.md
       - 00-source-materials/03-external-reference-index/
       - 18-published-exports/
-    classification: blocking
+    classification: distribution-publication-only
     named_reviewer_role_required: rights reviewer
     reviewer_name: null
     decision: open
     decision_date: null
     evidence_path: null
-    conditions: rights disposition required before distribution or publication
+    conditions: unconditional for any third-party content actually distributed or played; distribution/publication blocking for family-facing or public release; not automatically satisfied merely because external media and exports are excluded
     expiry_or_re_review_trigger: any export, media, source, or third-party material change
     current_status: open
   - gate_id: GATE-GAM-010
@@ -146,7 +152,10 @@ gates:
     repository_artifacts_in_scope:
       - 11-weekly-program-library/first-six-months/c1-w*/gamma/
       - build-evidence/exports/Cycle-1-Gamma-Bundle/
-    classification: blocking
+    classification: blocking-if-feature-enabled
+    feature_enabled_in_founding_pilot: false
+    activation_condition: Gamma decks are rendered or enabled for founding pilot delivery, family-facing distribution, or public publication
+    excluded_by_scope_path: 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md
     named_reviewer_role_required: Gamma post-render QA reviewer
     reviewer_name: null
     decision: open
@@ -161,7 +170,7 @@ gates:
       - CURRENT-STATUS.md
       - ROADMAP.md
       - 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: program director
     reviewer_name: null
     decision: open
@@ -175,7 +184,7 @@ gates:
     repository_artifacts_in_scope:
       - 01-governance/GOVERNANCE-CHARTER-AND-TEMPLE-RELATIONSHIP.md
       - 07-kirtana-worship-bhakti-labs/
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: local temple liaison or authorized temple relationship reviewer
     reviewer_name: null
     decision: open
@@ -190,7 +199,7 @@ gates:
       - 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md
       - 13-facilitator-library/
       - 04-children-youth/
-    classification: blocking
+    classification: blocking-unconditional
     named_reviewer_role_required: pilot operations lead
     reviewer_name: null
     decision: open
@@ -199,4 +208,3 @@ gates:
     conditions: operational checklist and named sign-off required before pilot
     expiry_or_re_review_trigger: cohort, venue, staffing, scope, or schedule change
     current_status: open
-

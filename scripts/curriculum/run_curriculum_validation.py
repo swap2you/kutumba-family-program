@@ -34,7 +34,7 @@ GAMMA_V8 = [
     "validate_gamma_asset_references.py",
 ]
 MEDIA_V8 = ["validate_media_candidate_records.py"]
-V10A_CONTROLS = ["validate_v10a_truth_freeze.py"]
+V10A_CONTROLS = ["validate_v10a_truth_freeze.py --write-report"]
 SEMANTIC = [
     "validate_gamma_briefs.py",
     "validate_gamma_asset_references.py",
@@ -68,11 +68,17 @@ REPORTING = [
 
 
 def run_script(name: str | Path) -> bool:
-    path = Path(name) if not isinstance(name, Path) else name
+    extra_args: list[str] = []
+    if isinstance(name, str):
+        parts = name.split()
+        path = Path(parts[0])
+        extra_args = parts[1:]
+    else:
+        path = name
     if not path.is_absolute():
         path = SCRIPT_DIR / path
     print(f"\n=== {path.name} ===")
-    r = subprocess.run([sys.executable, str(path)], cwd=ROOT)
+    r = subprocess.run([sys.executable, str(path), *extra_args], cwd=ROOT)
     return r.returncode == 0
 
 
@@ -118,16 +124,16 @@ HEAD: `{head}`
 | Category | Verdict |
 |---|---|
 | Structural validation | **{'PASS' if results['structural'] else 'FAIL'}** |
-| Visual substance (V8) | **{'PASS' if results.get('visual_substance') else 'FAIL'}** |
-| Citation closure (V8) | **{'PASS' if results.get('citations') else 'FAIL'}** |
-| Gamma packaging (V8) | **{'PASS' if results.get('gamma_packaging') else 'FAIL'}** |
-| Media curation (V8) | **{'PASS' if results.get('media') else 'FAIL'}** |
+| Visual file/substance structural checks (design review open) | **{'PASS' if results.get('visual_substance') else 'FAIL'}** |
+| Citation consistency checks (human citation review open) | **{'PASS' if results.get('citations') else 'FAIL'}** |
+| Gamma package/reference checks (not rendered or approved) | **{'PASS' if results.get('gamma_packaging') else 'FAIL'}** |
+| Media record structural checks (curation incomplete) | **{'PASS' if results.get('media') else 'FAIL'}** |
 | V10A truth freeze controls | **{'PASS' if results.get('v10a_truth_freeze') else 'FAIL'}** |
 | Semantic validation | **{'PASS' if results['semantic'] else 'FAIL'}** |
 | Source validation | **{'PASS' if results['source'] else 'FAIL'}** |
 | Source catalog validation | **{'PASS' if results.get('source_catalog') else 'FAIL'}** |
 | External link check | **{'PASS' if link_ok else 'FAIL'}** |
-| Rights validation | **PASS** (heuristic — human review required) |
+| Rights heuristic scan (human rights review open) | **PASS** |
 | Repository validation | **{'PASS' if repo_ok else 'FAIL'}** |
 | Human-review status | **OPEN** — not publication-ready |
 | Publication readiness | **NO GO** — human gates open |
@@ -142,7 +148,7 @@ Reporting: {', '.join(REPORTING)}
 
 ## Note
 
-Warnings in repository validator (e.g. hash verify skips) are classified separately — not suppressed.
+Automated PASS confirms only what the named scripts check. Media curation remains incomplete; Gamma remains unrendered; visuals remain structural drafts; human gates remain open; publication remains `NO GO`. Warnings in repository validator (e.g. hash verify skips) are classified separately — not suppressed.
 """,
         encoding="utf-8",
     )

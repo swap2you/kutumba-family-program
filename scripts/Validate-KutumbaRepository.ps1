@@ -334,8 +334,12 @@ foreach ($p in @($v10aRegister, $v10aScope, $v10aValidator)) {
 }
 if (Test-Path -LiteralPath $v10aRegister) {
     $gateText = Get-Content -LiteralPath $v10aRegister -Raw -Encoding UTF8
-    $blockingOpen = ([regex]::Matches($gateText, 'classification:\s*blocking[\s\S]{0,500}?current_status:\s*open')).Count
-    if ($blockingOpen -lt 13) { Add-Failure "V10A blocking pilot gates are not all open" }
+    $blockingOpen = ([regex]::Matches($gateText, 'classification:\s*blocking-unconditional[\s\S]{0,500}?current_status:\s*open')).Count
+    $featureOpen = ([regex]::Matches($gateText, 'classification:\s*blocking-if-feature-enabled')).Count
+    $featureDisabled = ([regex]::Matches($gateText, 'feature_enabled_in_founding_pilot:\s*false')).Count
+    if ($blockingOpen -lt 9) { Add-Failure "V10A unconditional blocking pilot gates are not open" }
+    if ($featureOpen -lt 3 -or $featureDisabled -lt 3) { Add-Failure "V10A feature-dependent gates are not open and disabled for founding pilot" }
+    if ($gateText -notmatch 'classification:\s*distribution-publication-only') { Add-Failure "V10A rights gate classification missing distribution-publication-only" }
 }
 if (Test-Path -LiteralPath (Join-Path $RepoRoot "CURRENT-STATUS.md")) {
     $statusText = Get-Content -LiteralPath (Join-Path $RepoRoot "CURRENT-STATUS.md") -Raw -Encoding UTF8

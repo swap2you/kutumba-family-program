@@ -50,8 +50,9 @@ Every phase row includes: **Phase ID**, **Outcome**, **Deliverables**, **Source 
 | Metric | Value | Evidence path |
 |---|---|---|
 | Source originals ingested | **14** | `00-source-materials/SOURCE-MANIFEST.yaml` |
-| Public source catalog | **78** entries | `14-research-source-register/public-source-catalog/MASTER-SOURCE-CATALOG.yaml` |
-| Source-map URL reconciliation | **78/78** | `scripts/sources/reconcile_source_map_urls.py` |
+| Authoritative source-map URLs | **77** | `09-digital-repository-publishing/PUBLIC-SOURCE-MAP-FOR-PRABHUPADA-AND-SANATANA-CONTENT.md` |
+| Master source catalog entries | **78** | `14-research-source-register/public-source-catalog/MASTER-SOURCE-CATALOG.yaml` |
+| Authoritative URLs catalogued | **77/77** | `build-evidence/SOURCE-MAP-URL-RECONCILIATION.md` |
 | First-six-month active weeks | 18 (C1-W1 … C3-W6) | `11-weekly-program-library/first-six-months/` |
 | Cycle 1 pilot pack | draft internal | `13-facilitator-library/cycle-1-pilot/` |
 | C1-W2 gold pilot | preserved | `c1-w2-i-am-not-this-body/` |

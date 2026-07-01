@@ -1,6 +1,6 @@
 # V7 Cycle 1 Kathā Runtime and Depth
 
-Generated: 2026-07-01T16:12:27Z
+Generated: 2026-07-01T19:05:50Z
 
 V7 standard: 1,350–1,800 narrative words (~10–15 min narration + 3–5 min interaction = 15–20 min block).
 Integration C1-W6: 400–800 words. Short forms: `prem-ki-katha-short.md` per module.

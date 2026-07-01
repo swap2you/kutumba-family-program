@@ -48,7 +48,7 @@
 |---|---|
 | V8 audit | `17-reviews-and-audits/V8-INDEPENDENT-REAL-VISUAL-CITATION-MEDIA-AUDIT.md` |
 | V8 baseline | `build-evidence/V8-V7-TRUTH-AUDIT.md` |
-| V9 audit baseline | `C:\Users\swap2\Downloads\KUTUMBA-V9-READ-ONLY-AUDIT-9c2eebe` |
+| V9 audit baseline | external audit package: KUTUMBA-V9-READ-ONLY-AUDIT-9c2eebe (not committed to this public repository) |
 | V10A traceability | `build-evidence/V10A-FINDINGS-TRACEABILITY.yaml` |
 | Pilot gate register | `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` |
 | Visual contact sheets | `build-evidence/visual-contact-sheets/INDEX.md` |

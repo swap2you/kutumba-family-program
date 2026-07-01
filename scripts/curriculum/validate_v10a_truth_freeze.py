@@ -3,7 +3,7 @@
 
 from __future__ import annotations
 
-import csv
+import argparse
 import hashlib
 import subprocess
 import sys
@@ -20,6 +20,13 @@ THEO_MAP = REPO / "14-research-source-register" / "theology-visual-library" / "k
 VISUAL_CATALOG = REPO / "14-research-source-register" / "visual-asset-library" / "VISUAL-ASSET-CATALOG.yaml"
 DUP_REPORT = REPO / "build-evidence" / "V10A-VISUAL-DUPLICATE-REPORT.csv"
 VALIDATION_REPORT = REPO / "build-evidence" / "V10A-VALIDATION-REPORT.md"
+ACTIVE_PORTABILITY_FILES = [
+    REPO / "CURRENT-STATUS.md",
+    REPO / "build-evidence" / "V10A-FINDINGS-TRACEABILITY.yaml",
+    REPO / "build-evidence" / "V10A-EXECUTION-LEDGER.md",
+    REPO / "build-evidence" / "V10A-VALIDATION-REPORT.md",
+    REPO / "17-reviews-and-audits" / "PILOT-READINESS-GATE-REGISTER.yaml",
+]
 
 PRIORITY_MEDIA = [
     "c1-w1-what-is-kutumba-and-why-are-we-here",
@@ -75,7 +82,7 @@ def git_head() -> str:
 def check_status(failures: list[str]) -> None:
     text = CURRENT_STATUS.read_text(encoding="utf-8")
     required = [
-        "Current phase: **internal-development**",
+        "Current phase: **internal-development",
         "| Internal pilot | **NO GO**",
         "| Family-facing distribution | **NO GO**",
         "| Public publication | **NO GO**",
@@ -86,12 +93,21 @@ def check_status(failures: list[str]) -> None:
             failures.append(f"CURRENT-STATUS missing required V10A marker: {marker}")
 
     gate_data = load_yaml(GATE_REGISTER)
-    blocking_open = [
-        g for g in gate_data.get("gates", []) if g.get("classification") == "blocking" and g.get("current_status") == "open"
+    unconditional_open = [
+        g
+        for g in gate_data.get("gates", [])
+        if g.get("classification") == "blocking-unconditional" and g.get("current_status") == "open"
     ]
-    if not blocking_open:
-        failures.append("No open blocking pilot gates found")
-    if blocking_open and ("Internal pilot | **GO" in text or "Public publication | **GO" in text):
+    enabled_feature_open = [
+        g
+        for g in gate_data.get("gates", [])
+        if g.get("classification") == "blocking-if-feature-enabled"
+        and g.get("feature_enabled_in_founding_pilot") is True
+        and g.get("current_status") == "open"
+    ]
+    if not unconditional_open:
+        failures.append("No open blocking-unconditional pilot gates found")
+    if (unconditional_open or enabled_feature_open) and ("Internal pilot | **GO" in text or "Public publication | **GO" in text):
         failures.append("CURRENT-STATUS claims GO while blocking gates are open")
 
 
@@ -117,10 +133,55 @@ def check_gates(failures: list[str]) -> None:
     if seen != expected:
         failures.append(f"Pilot gate IDs mismatch: expected {sorted(expected)}, got {sorted(seen)}")
     for g in gates:
+        classification = g.get("classification")
+        if classification not in {
+            "blocking-unconditional",
+            "blocking-if-feature-enabled",
+            "distribution-publication-only",
+        }:
+            failures.append(f"{g.get('gate_id')}: invalid classification {classification}")
+        if classification == "blocking-if-feature-enabled":
+            if g.get("feature_enabled_in_founding_pilot") is not False:
+                failures.append(f"{g.get('gate_id')}: feature-dependent gate must be disabled for founding pilot")
+            if not g.get("activation_condition"):
+                failures.append(f"{g.get('gate_id')}: missing activation_condition")
+            if g.get("excluded_by_scope_path") != "03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md":
+                failures.append(f"{g.get('gate_id')}: missing founding-pilot scope exclusion path")
         if g.get("decision") != "open" and not all([g.get("reviewer_name"), g.get("decision_date"), g.get("evidence_path")]):
             failures.append(f"{g.get('gate_id')}: non-open decision missing named evidence")
         if g.get("reviewer_name") not in (None, "") and g.get("decision") == "open":
             failures.append(f"{g.get('gate_id')}: reviewer name populated while decision still open")
+    classifications = {g.get("gate_id"): g.get("classification") for g in gates}
+    for gate_id in {
+        "GATE-SAFE-001",
+        "GATE-CPO-002",
+        "GATE-WOR-003",
+        "GATE-DOC-004",
+        "GATE-CIT-005",
+        "GATE-PED-006",
+        "GATE-PD-011",
+        "GATE-TMP-012",
+        "GATE-OPS-013",
+    }:
+        if classifications.get(gate_id) != "blocking-unconditional":
+            failures.append(f"{gate_id}: must be blocking-unconditional")
+    for gate_id in {"GATE-VIS-007", "GATE-MED-008", "GATE-GAM-010"}:
+        if classifications.get(gate_id) != "blocking-if-feature-enabled":
+            failures.append(f"{gate_id}: must be blocking-if-feature-enabled")
+    if classifications.get("GATE-RGT-009") != "distribution-publication-only":
+        failures.append("GATE-RGT-009: must be distribution-publication-only")
+
+
+def check_active_portability(failures: list[str]) -> None:
+    forbidden = ("C:\\Users\\", "/Users/", "/home/")
+    for path in ACTIVE_PORTABILITY_FILES:
+        if not path.exists():
+            failures.append(f"Active portability file missing: {path.relative_to(REPO).as_posix()}")
+            continue
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        for marker in forbidden:
+            if marker in text:
+                failures.append(f"{path.relative_to(REPO).as_posix()}: contains machine-specific path marker {marker}")
 
 
 def check_theology(failures: list[str]) -> None:
@@ -243,11 +304,15 @@ def write_report(failures: list[str], warnings: list[str]) -> None:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--write-report", action="store_true")
+    args = parser.parse_args()
     failures: list[str] = []
     warnings: list[str] = []
     for fn in [
         check_status,
         check_gates,
+        check_active_portability,
         check_theology,
         check_media,
         check_gamma,
@@ -255,7 +320,8 @@ def main() -> int:
     ]:
         fn(failures)
     check_visuals(failures, warnings)
-    write_report(failures, warnings)
+    if args.write_report:
+        write_report(failures, warnings)
     if failures:
         for failure in failures:
             print(f"FAIL: {failure}")
@@ -269,4 +335,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-

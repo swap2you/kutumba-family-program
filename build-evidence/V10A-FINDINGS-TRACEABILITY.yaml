@@ -1,6 +1,6 @@
 v10a_traceability:
   baseline_head: 9c2eebe987f267cdb4181fc6298ff4b8f4d93eb6
-  v9_audit_folder: C:\Users\swap2\Downloads\KUTUMBA-V9-READ-ONLY-AUDIT-9c2eebe
+  v9_audit_folder: "external audit package: KUTUMBA-V9-READ-ONLY-AUDIT-9c2eebe (not committed to this public repository)"
   safety_tag: v10a-pre-truth-freeze-9c2eebe
   findings:
     F-V9-001:
@@ -32,7 +32,7 @@ v10a_traceability:
       v10a_action: keep deferred; do not manufacture missing operating manual
       evidence_paths:
         - CURRENT-STATUS.md
-        - build-evidence/V10A-INDEPENDENT-VERIFICATION-HANDOFF.md
+        - build-evidence/V10A-IMPLEMENTER-VERIFICATION-HANDOFF.md
     F-V9-006:
       domain: Setu
       v10a_action: keep not approved; prohibit late joiners until approved
@@ -74,5 +74,4 @@ v10a_traceability:
       v10a_action: distinguish production, audit, handoff/reporting, and current HEAD in V10A evidence
       evidence_paths:
         - build-evidence/V10A-EXECUTION-LEDGER.md
-        - build-evidence/V10A-INDEPENDENT-VERIFICATION-HANDOFF.md
-
+        - build-evidence/V10A-IMPLEMENTER-VERIFICATION-HANDOFF.md
