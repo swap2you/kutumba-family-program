@@ -33,6 +33,10 @@ No human approval, pilot approval, family-facing distribution approval, or publi
 
 Do not reopen broad curriculum production as part of resume unless a new bounded prompt authorizes it.
 
+## When you return as project owner
+
+Start with [START-HERE.md](START-HERE.md). Use the [weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) to open a week, the [human-review start page](17-reviews-and-audits/HUMAN-REVIEW-START-HERE.md) to review gates, and [CURRENT-STATUS.md](CURRENT-STATUS.md) to confirm the current verdicts.
+
 ## Resume entry point
 
 1. Fetch the remote and resolve current state:
