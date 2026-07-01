@@ -1,0 +1,44 @@
+module_id: C1-W5
+assets:
+  - asset_id: c1-w5-concept-temporary-permanent
+    asset_class: concept-diagram
+    path: visuals/rendered/c1-w5-concept-temporary-permanent.svg
+    rights_status: kutumba-original
+    alt_text: "Material pleasure cycle vs devotional fulfillment"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w5-storyboard-dhruva
+    asset_class: storyboard
+    path: visuals/rendered/c1-w5-storyboard-dhruva.svg
+    rights_status: kutumba-original
+    alt_text: "Aspiration transformed by devotion"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w5-analogy-pleasure-cycle
+    asset_class: analogy-diagram
+    path: visuals/rendered/c1-w5-analogy-pleasure-cycle.svg
+    rights_status: kutumba-original
+    alt_text: "Temporary enjoyment with gratitude"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w5-verse-bg-5-22
+    asset_class: scripture-reference-card
+    path: visuals/rendered/c1-w5-verse-bg-5-22.svg
+    rights_status: kutumba-original
+    alt_text: "Pleasures born of contact are temporary"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w5-session-map
+    asset_class: process-flow
+    path: visuals/rendered/c1-w5-session-map.svg
+    rights_status: kutumba-original
+    alt_text: "Facilitator flow for C1-W5"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w5-home-practice
+    asset_class: family-practice-card
+    path: visuals/rendered/c1-w5-home-practice.svg
+    rights_status: kutumba-original
+    alt_text: "Gratitude before enjoyment"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w5-family-affection
+    asset_class: comparison-chart
+    path: visuals/rendered/c1-w5-family-affection.svg
+    rights_status: kutumba-original
+    alt_text: "Ordinary affection is not meaningless"
+    doctrinal_review: human-review-required

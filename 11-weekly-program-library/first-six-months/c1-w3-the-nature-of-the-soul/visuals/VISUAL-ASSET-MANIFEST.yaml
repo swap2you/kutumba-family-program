@@ -1,0 +1,44 @@
+module_id: C1-W3
+assets:
+  - asset_id: c1-w3-concept-jiva-qualities
+    asset_class: concept-diagram
+    path: visuals/rendered/c1-w3-concept-jiva-qualities.svg
+    rights_status: kutumba-original
+    alt_text: "Eternal conscious fragment of Kṛṣṇa"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w3-storyboard-jada-bharata
+    asset_class: storyboard
+    path: visuals/rendered/c1-w3-storyboard-jada-bharata.svg
+    rights_status: kutumba-original
+    alt_text: "King Rahūgaṇa learns soul lesson"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w3-analogy-sunray
+    asset_class: analogy-diagram
+    path: visuals/rendered/c1-w3-analogy-sunray.svg
+    rights_status: kutumba-original
+    alt_text: "Part and parcel — with limits"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w3-verse-bg-2-20
+    asset_class: scripture-reference-card
+    path: visuals/rendered/c1-w3-verse-bg-2-20.svg
+    rights_status: kutumba-original
+    alt_text: "Soul not cut burned wetted dried"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w3-session-map
+    asset_class: process-flow
+    path: visuals/rendered/c1-w3-session-map.svg
+    rights_status: kutumba-original
+    alt_text: "Facilitator flow for C1-W3"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w3-home-practice
+    asset_class: family-practice-card
+    path: visuals/rendered/c1-w3-home-practice.svg
+    rights_status: kutumba-original
+    alt_text: "Remember the soul in daily care"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w3-body-soul-care
+    asset_class: comparison-chart
+    path: visuals/rendered/c1-w3-body-soul-care.svg
+    rights_status: kutumba-original
+    alt_text: "Care for body without contempt"
+    doctrinal_review: human-review-required

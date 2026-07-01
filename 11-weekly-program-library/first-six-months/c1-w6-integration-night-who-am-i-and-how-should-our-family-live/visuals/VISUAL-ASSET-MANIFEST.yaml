@@ -1,0 +1,44 @@
+module_id: C1-W6
+assets:
+  - asset_id: c1-w6-cycle-synthesis-map
+    asset_class: concept-diagram
+    path: visuals/rendered/c1-w6-cycle-synthesis-map.svg
+    rights_status: kutumba-original
+    alt_text: "Six-week learning integration"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w6-memory-line-path
+    asset_class: comparison-chart
+    path: visuals/rendered/c1-w6-memory-line-path.svg
+    rights_status: kutumba-original
+    alt_text: "Six-week recall without ranking"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w6-family-presentation
+    asset_class: analogy-diagram
+    path: visuals/rendered/c1-w6-family-presentation.svg
+    rights_status: kutumba-original
+    alt_text: "Offering without performance pressure"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w6-integration-verses
+    asset_class: scripture-reference-card
+    path: visuals/rendered/c1-w6-integration-verses.svg
+    rights_status: kutumba-original
+    alt_text: "Cycle 1 key verses review"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w6-session-map
+    asset_class: process-flow
+    path: visuals/rendered/c1-w6-session-map.svg
+    rights_status: kutumba-original
+    alt_text: "Stations and recall flow"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w6-home-practice
+    asset_class: family-practice-card
+    path: visuals/rendered/c1-w6-home-practice.svg
+    rights_status: kutumba-original
+    alt_text: "One family living decision"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w6-gamma-asset-sheet
+    asset_class: process-flow
+    path: visuals/rendered/c1-w6-gamma-asset-sheet.svg
+    rights_status: kutumba-original
+    alt_text: "Asset selection for integration night"
+    doctrinal_review: human-review-required

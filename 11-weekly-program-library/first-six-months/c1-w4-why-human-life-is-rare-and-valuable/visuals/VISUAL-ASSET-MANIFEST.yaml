@@ -1,0 +1,44 @@
+module_id: C1-W4
+assets:
+  - asset_id: c1-w4-concept-opportunity-path
+    asset_class: concept-diagram
+    path: visuals/rendered/c1-w4-concept-opportunity-path.svg
+    rights_status: kutumba-original
+    alt_text: "Capacity inquiry practice compassion"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w4-storyboard-mrgari
+    asset_class: storyboard
+    path: visuals/rendered/c1-w4-storyboard-mrgari.svg
+    rights_status: kutumba-original
+    alt_text: "Mercy transforms violent habit"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w4-analogy-crossroads
+    asset_class: analogy-diagram
+    path: visuals/rendered/c1-w4-analogy-crossroads.svg
+    rights_status: kutumba-original
+    alt_text: "Human form as inquiry opportunity"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w4-verse-bg-2-40
+    asset_class: scripture-reference-card
+    path: visuals/rendered/c1-w4-verse-bg-2-40.svg
+    rights_status: kutumba-original
+    alt_text: "No effort in Krishna consciousness is lost"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w4-session-map
+    asset_class: process-flow
+    path: visuals/rendered/c1-w4-session-map.svg
+    rights_status: kutumba-original
+    alt_text: "Facilitator flow for C1-W4"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w4-home-practice
+    asset_class: family-practice-card
+    path: visuals/rendered/c1-w4-home-practice.svg
+    rights_status: kutumba-original
+    alt_text: "One compassionate action this week"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w4-compassion-map
+    asset_class: comparison-chart
+    path: visuals/rendered/c1-w4-compassion-map.svg
+    rights_status: kutumba-original
+    alt_text: "No degrading of animals"
+    doctrinal_review: human-review-required

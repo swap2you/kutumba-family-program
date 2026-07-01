@@ -1,0 +1,44 @@
+module_id: C1-W1
+assets:
+  - asset_id: c1-w1-concept-hearing-flow
+    asset_class: concept-diagram
+    path: visuals/rendered/c1-w1-concept-hearing-flow.svg
+    rights_status: kutumba-original
+    alt_text: "Distraction to inquiry to authorized hearing to family practice"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w1-storyboard-naimisharanya
+    asset_class: storyboard
+    path: visuals/rendered/c1-w1-storyboard-naimisharanya.svg
+    rights_status: kutumba-original
+    alt_text: "Sages gather; Sūta Gosvāmī prepares to speak"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w1-analogy-garden
+    asset_class: analogy-diagram
+    path: visuals/rendered/c1-w1-analogy-garden.svg
+    rights_status: kutumba-original
+    alt_text: "Protected weekly hearing time"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w1-verse-sb-1-2-18
+    asset_class: scripture-reference-card
+    path: visuals/rendered/c1-w1-verse-sb-1-2-18.svg
+    rights_status: kutumba-original
+    alt_text: "Regular Bhāgavata hearing and service"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w1-session-map
+    asset_class: process-flow
+    path: visuals/rendered/c1-w1-session-map.svg
+    rights_status: kutumba-original
+    alt_text: "Facilitator flow for C1-W1"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w1-home-practice
+    asset_class: family-practice-card
+    path: visuals/rendered/c1-w1-home-practice.svg
+    rights_status: kutumba-original
+    alt_text: "One weekly hearing step at home"
+    doctrinal_review: human-review-required
+  - asset_id: c1-w1-charter-wheel
+    asset_class: comparison-chart
+    path: visuals/rendered/c1-w1-charter-wheel.svg
+    rights_status: kutumba-original
+    alt_text: "Charter-sourced purpose wheel — not scripture quote"
+    doctrinal_review: human-review-required
