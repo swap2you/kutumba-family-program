@@ -1,0 +1,202 @@
+register_id: KUTUMBA-PILOT-READINESS-GATE-REGISTER
+version: V10A
+baseline_finding_ids:
+  - F-V9-004
+  - F-V9-010
+  - F-V9-001
+  - F-V9-002
+  - F-V9-003
+  - F-V9-007
+  - F-V9-009
+status_rule: internal pilot remains NO GO while any blocking gate is open
+approval_rule: no automated validation result may infer a human gate decision
+gates:
+  - gate_id: GATE-SAFE-001
+    scope: safeguarding policy and children-track launch readiness
+    repository_artifacts_in_scope:
+      - 04-children-youth/CHILDREN-YOUTH-FORMATION-OPERATING-MODEL.md
+      - 11-weekly-program-library/first-six-months/*/children/*.md
+      - 11-weekly-program-library/first-six-months/*/risks-and-sensitive-points.md
+    classification: blocking
+    named_reviewer_role_required: safeguarding reviewer qualified for local children/youth operations
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: local temple/CPO/counsel/insurer review evidence required before child program launch
+    expiry_or_re_review_trigger: any policy, venue, staffing, or jurisdiction change
+    current_status: open
+  - gate_id: GATE-CPO-002
+    scope: child protection operations and live-session staffing controls
+    repository_artifacts_in_scope:
+      - 04-children-youth/CHILDREN-YOUTH-FORMATION-OPERATING-MODEL.md
+      - 13-facilitator-library/safeguarding-review/INDEX.md
+    classification: blocking
+    named_reviewer_role_required: child protection operations lead
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: named operational sign-off required before any child program
+    expiry_or_re_review_trigger: staffing, venue, intake, or incident-response process change
+    current_status: open
+  - gate_id: GATE-WOR-003
+    scope: worship, kirtana, prayer, and bhakti-lab practices
+    repository_artifacts_in_scope:
+      - 07-kirtana-worship-bhakti-labs/
+      - 11-weekly-program-library/first-six-months/*/bhakti-lab.md
+      - 11-weekly-program-library/first-six-months/*/facilitator-guide.md
+    classification: blocking
+    named_reviewer_role_required: worship or liturgical reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: no worship procedure may be represented as approved until reviewed
+    expiry_or_re_review_trigger: worship content or local temple practice change
+    current_status: open
+  - gate_id: GATE-DOC-004
+    scope: doctrinal claims and theology teaching suitability
+    repository_artifacts_in_scope:
+      - 11-weekly-program-library/first-six-months/*/research/
+      - 14-research-source-register/theology-visual-library/
+    classification: blocking
+    named_reviewer_role_required: doctrinal reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: named doctrinal decision required; theology diagram currently excluded
+    expiry_or_re_review_trigger: any doctrinal content or source-map change
+    current_status: open
+  - gate_id: GATE-CIT-005
+    scope: citation sufficiency and point-of-use source support
+    repository_artifacts_in_scope:
+      - 14-research-source-register/
+      - 11-weekly-program-library/first-six-months/*/research/
+      - 00-source-materials/SOURCE-MANIFEST.yaml
+    classification: blocking
+    named_reviewer_role_required: citation/source reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: count consistency is not sufficient; point-of-use support required
+    expiry_or_re_review_trigger: any source, citation, or claim-register change
+    current_status: open
+  - gate_id: GATE-PED-006
+    scope: pedagogy, age suitability, timing, and family usability
+    repository_artifacts_in_scope:
+      - 11-weekly-program-library/first-six-months/
+      - 13-facilitator-library/
+    classification: blocking
+    named_reviewer_role_required: pedagogy reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: live/facilitator usability review required before pilot
+    expiry_or_re_review_trigger: curriculum, audience, or timing change
+    current_status: open
+  - gate_id: GATE-VIS-007
+    scope: visual design, accessibility, readability, and source fit
+    repository_artifacts_in_scope:
+      - 11-weekly-program-library/first-six-months/c1-w*/visuals/
+      - 14-research-source-register/visual-asset-library/
+    classification: blocking
+    named_reviewer_role_required: visual design and accessibility reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: Cycle 1 visuals remain structural instructional drafts pending review
+    expiry_or_re_review_trigger: visual, export, or audience-format change
+    current_status: open
+  - gate_id: GATE-MED-008
+    scope: media curation, playback suitability, and link status
+    repository_artifacts_in_scope:
+      - 11-weekly-program-library/first-six-months/*/audio-video/MEDIA-INDEX.yaml
+      - 14-research-source-register/media-library/
+    classification: blocking
+    named_reviewer_role_required: media curator/reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: no unreviewed external media playback in pilot
+    expiry_or_re_review_trigger: media candidate, URL, audience, or rights change
+    current_status: open
+  - gate_id: GATE-RGT-009
+    scope: rights and third-party material use
+    repository_artifacts_in_scope:
+      - RIGHTS-AND-USE.md
+      - 00-source-materials/03-external-reference-index/
+      - 18-published-exports/
+    classification: blocking
+    named_reviewer_role_required: rights reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: rights disposition required before distribution or publication
+    expiry_or_re_review_trigger: any export, media, source, or third-party material change
+    current_status: open
+  - gate_id: GATE-GAM-010
+    scope: Gamma exported deck artifacts and post-render QA
+    repository_artifacts_in_scope:
+      - 11-weekly-program-library/first-six-months/c1-w*/gamma/
+      - build-evidence/exports/Cycle-1-Gamma-Bundle/
+    classification: blocking
+    named_reviewer_role_required: Gamma post-render QA reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: exported Gamma artifact, reviewer name, review date, QA record, and approval decision required
+    expiry_or_re_review_trigger: any deck render or content change
+    current_status: open
+  - gate_id: GATE-PD-011
+    scope: program director launch authorization
+    repository_artifacts_in_scope:
+      - CURRENT-STATUS.md
+      - ROADMAP.md
+      - 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md
+    classification: blocking
+    named_reviewer_role_required: program director
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: may not override unresolved blocking gates without explicit governance record
+    expiry_or_re_review_trigger: any readiness-status or pilot-scope change
+    current_status: open
+  - gate_id: GATE-TMP-012
+    scope: local temple relationship and delivery alignment
+    repository_artifacts_in_scope:
+      - 01-governance/GOVERNANCE-CHARTER-AND-TEMPLE-RELATIONSHIP.md
+      - 07-kirtana-worship-bhakti-labs/
+    classification: blocking
+    named_reviewer_role_required: local temple liaison or authorized temple relationship reviewer
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: local temple relationship decision required before pilot launch
+    expiry_or_re_review_trigger: venue, sponsor, worship, or delivery relationship change
+    current_status: open
+  - gate_id: GATE-OPS-013
+    scope: pilot operations, cohort rules, facilitator readiness, and incident handling
+    repository_artifacts_in_scope:
+      - 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md
+      - 13-facilitator-library/
+      - 04-children-youth/
+    classification: blocking
+    named_reviewer_role_required: pilot operations lead
+    reviewer_name: null
+    decision: open
+    decision_date: null
+    evidence_path: null
+    conditions: operational checklist and named sign-off required before pilot
+    expiry_or_re_review_trigger: cohort, venue, staffing, scope, or schedule change
+    current_status: open
+

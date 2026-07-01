@@ -6,3 +6,5 @@ README.md,update,"F-V9-004;F-V9-008;F-V9-009",public repository status clarifica
 build-evidence/V10A-EXECUTION-LEDGER.md,create,F-V9-012,startup and status ledger
 build-evidence/V10A-FINDINGS-TRACEABILITY.yaml,create,F-V9-001;F-V9-002;F-V9-003;F-V9-004;F-V9-005;F-V9-006;F-V9-007;F-V9-008;F-V9-009;F-V9-010;F-V9-011;F-V9-012,V9 to V10A mapping
 build-evidence/V10A-FILE-CHANGE-MANIFEST.csv,create,F-V9-012,V10A changed-file manifest
+17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml,create,F-V9-004;F-V9-010;F-V9-001;F-V9-002;F-V9-003;F-V9-007;F-V9-009,pilot gate register with all gates open by default
+03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md,create,F-V9-004;F-V9-006;F-V9-001;F-V9-002;F-V9-003;F-V9-010,founding pilot NO GO scope declaration
