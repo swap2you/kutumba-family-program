@@ -5,7 +5,7 @@ flowchart TB
     subgraph MODULE["C3-W2"]
         A["Who Is Kṛṣṇa? The Supreme Personali"]
         B["Key verse: Bhagavad-gītā 7.7"]
-        C["Katha: Kṛṣṇa's birth in Vṛndāvana"]
+        C["Katha: Kṛṣṇa's appearance in Mathurā and childhood pastimes in Vraja"]
     end
     A --> B
     A --> C

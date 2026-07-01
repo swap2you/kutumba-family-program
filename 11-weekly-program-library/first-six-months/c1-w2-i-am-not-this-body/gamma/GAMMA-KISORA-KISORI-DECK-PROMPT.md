@@ -75,7 +75,7 @@ The soul passes through childhood, youth, and old age. The sober are not bewilde
 Hours editing photos. Mood crashes with likes.  
 **Mistaken idea:** Profile = whole self
 
-**Visual:** `[IMAGE: phone with filter sliders — generic]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** CONTEMPORARY-APPLICATIONS.md
 
@@ -135,7 +135,7 @@ Prompt (private, optional share):
 Eternal servant of Kṛṣṇa.  
 Template: "This body can be used to ___ this week."
 
-**Visual:** `[IMAGE: seva action — helping, chanting]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Source:** https://vedabase.io/en/library/cc/madhya/20/108/
 
 ---

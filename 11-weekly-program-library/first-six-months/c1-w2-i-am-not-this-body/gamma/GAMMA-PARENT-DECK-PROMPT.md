@@ -26,7 +26,7 @@ C1-W2 — I Am Not This Body
 Cycle 1 · Identity and the Human Problem  
 KUTUMBA Family Program
 
-**Visual:** `[IMAGE: simple line art — three silhouettes child/adult/elder, one golden thread connecting]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** KUTUMBA module README
 
@@ -51,7 +51,7 @@ How should we live?
 A child finds old photos: "That can't be you!"  
 Everyone laughs — but who is the "me" in every picture?
 
-**Visual:** `[IMAGE: generic photo album — stock or congregation-owned]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** prem-ki-katha.md
 
@@ -88,7 +88,7 @@ Precise language: "I **have** a body."
 **BG 2.22** — As one changes worn garments, the soul accepts new bodies.  
 **Today:** costume relay — outfit changes, person stays.
 
-**Visual:** `[IMAGE: jackets on chair with name tag]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** https://vedabase.io/en/library/bg/2/22/
 
@@ -130,7 +130,7 @@ Precise language: "I **have** a body."
 Constitutional identity: eternal servant of Kṛṣṇa.  
 "I am not only this body — I am Kṛṣṇa's servant."
 
-**Visual:** `[IMAGE: hands offering flower or simple service icon]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Speaker note:** Home practice: one realistic step; write it down.
 **Source:** https://vedabase.io/en/library/cc/madhya/20/108/
 

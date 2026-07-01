@@ -21,7 +21,7 @@ Paste below into Gamma. No invented Prabhupāda quotes. Link-only purports.
 We know who we are — and how our family will live.
 Lāla–Lālī · C1-W6
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
@@ -32,7 +32,7 @@ Lāla–Lālī · C1-W6
 **Content:**  
 Traveler, vehicle, map — opening
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
@@ -43,7 +43,7 @@ Traveler, vehicle, map — opening
 **Content:**  
 Wonder question — what changed?
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
@@ -54,7 +54,7 @@ Wonder question — what changed?
 **Content:**  
 We know who we are — and how our family will live.
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
@@ -65,7 +65,7 @@ We know who we are — and how our family will live.
 **Content:**  
 Four-part chain and continuity practice
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
@@ -76,7 +76,7 @@ Four-part chain and continuity practice
 **Content:**  
 Take-home art for family altar area
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
@@ -87,7 +87,7 @@ Take-home art for family altar area
 **Content:**  
 dhīra — sober, steady person
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
@@ -98,7 +98,7 @@ dhīra — sober, steady person
 **Content:**  
 One way to help family remember Kṛṣṇa
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
@@ -109,7 +109,7 @@ One way to help family remember Kṛṣṇa
 **Content:**  
 Care for living beings — no mockery
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
@@ -120,7 +120,7 @@ Care for living beings — no mockery
 **Content:**  
 Minimum version with parent
 
-**Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w6-cycle-synthesis-map.svg]`
 **Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 

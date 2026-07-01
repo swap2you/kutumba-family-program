@@ -22,7 +22,7 @@ C1-W5 — The Temporary World and the Search for Permanent Happiness
 Cycle 1 · Identity and the Human Problem
 KUTUMBA Family Program
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
@@ -33,7 +33,7 @@ KUTUMBA Family Program
 **Content:**  
 Can temporary things give permanent fulfillment — and where should desire go?
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
@@ -44,7 +44,7 @@ Can temporary things give permanent fulfillment — and where should desire go?
 **Content:**  
 A family plans the perfect holiday — place, clothes, food, smiling photos. Then weather changes, a child becomes sick, the room is noisy, and two people argue. The holiday was not evil. The hidden dem…
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
@@ -59,7 +59,7 @@ Memory line: This material world is temporary and cannot provide permanent freed
 
 Link-only purport on VedaBase
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
@@ -70,7 +70,7 @@ Link-only purport on VedaBase
 **Content:**  
 The material world is temporary; lasting fulfillment comes through attaining Kṛṣṇa.
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
@@ -82,7 +82,7 @@ The material world is temporary; lasting fulfillment comes through attaining K�
 Primary: https://vedabase.io/en/library/bg/8/15/
 See SOURCE-MATRIX.md
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
@@ -93,7 +93,7 @@ See SOURCE-MATRIX.md
 **Content:**  
 One anonymized case from CONTEMPORARY-APPLICATIONS.md
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
@@ -104,7 +104,7 @@ One anonymized case from CONTEMPORARY-APPLICATIONS.md
 **Content:**  
 See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
@@ -115,7 +115,7 @@ See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 **Content:**  
 Offering an Ordinary Activity to Kṛṣṇa
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
@@ -126,7 +126,7 @@ Offering an Ordinary Activity to Kṛṣṇa
 **Content:**  
 Before one enjoyable activity, pause for gratitude and three mahā-mantras.
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
@@ -137,7 +137,7 @@ Before one enjoyable activity, pause for gratitude and three mahā-mantras.
 **Content:**  
 Specific action + frequency + trigger + minimum version
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Safeguarding: two adults visible; honor opt-out.
 **Source:** research/ or prem-ki-katha.md
 
@@ -148,7 +148,7 @@ Specific action + frequency + trigger + minimum version
 **Content:**  
 human-review-required — no invented Prabhupāda quotes
 
-**Visual:** `[IMAGE: Temporary enjoyment with gratitude and boundaries — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w5-concept-temporary-permanent.svg]`
 **Speaker note:** Close with gratitude and next-week pointer only.
 **Source:** research/ or prem-ki-katha.md
 

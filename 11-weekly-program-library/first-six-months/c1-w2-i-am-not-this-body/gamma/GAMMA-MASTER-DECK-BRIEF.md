@@ -13,7 +13,7 @@
 - Use only supplied card content and KUTUMBA summaries
 - Do not invent quotations or attribute fake śāstra
 - Sanskrit diacritics: dehī, deha, kṣetra, kṣetrajña
-- Image placeholders: `[IMAGE: description]` until rights resolved
+- Visual assets: see `GAMMA-ASSET-MAP.yaml` and `../visuals/rendered/*.svg`
 - Source note card on every deck
 - Style: warm, family-friendly, high readability; avoid cluttered slides
 - No BBT copyrighted images — use simple icons or Mermaid exports
@@ -40,3 +40,8 @@
 - [ ] Human rights review before stock photos
 
 Speaker notes: [SPEAKER-NOTES.md](SPEAKER-NOTES.md)
+
+
+## V7 render status
+
+**render-ready** — local KUTUMBA SVG assets linked; human review required before export.

@@ -24,7 +24,7 @@ Large fonts. No death imagery. No frightening transitions. Paste card content ex
 I Have a Body — I Am Me Inside!  
 Lāla–Lālī Week · C1-W2
 
-**Visual:** `[IMAGE: smiling child with hand on heart]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 
 ---
@@ -47,7 +47,7 @@ Rādhā finds Amma's baby photo.
 "That tiny baby can't be Amma!"  
 Amma smiles: "The body changed. I am still Amma."
 
-**Visual:** `[IMAGE: puppet or illustration — mother and child]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 
 ---
@@ -70,7 +70,7 @@ Hat → Vest → Shawl
 **Name card stays the same!**  
 "Outfit changed — [Name] stayed!"
 
-**Visual:** `[IMAGE: name tag on lanyard]`  
+**Visual:** `[ASSET: visuals/rendered/c1-w2-concept-life-stages.svg]`  
 **Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 
 ---

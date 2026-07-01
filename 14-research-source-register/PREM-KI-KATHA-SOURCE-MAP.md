@@ -20,7 +20,7 @@ Each module has one principal katha — not the same story type every week. Mode
 | C2-W5 | The fish in the well (Prahlāda instruction context) | ŚB 7.5 / pedagogical frame | Māyā's covering — age-appropriate |
 | C2-W6 | Integration — choice and consequence review | Facilitator synthesis | No new principal līlā |
 | C3-W1 | Kṛṣṇa as proprietor — the gopīs' surrender | ŚB 10.14 / Kṛṣṇa book summary | Supreme enjoyer, proprietor, friend |
-| C3-W2 | Kṛṣṇa's birth in Vṛndāvana | ŚB 10.3 | Supreme Personality of Godhead |
+| C3-W2 | Kṛṣṇa's appearance in Mathurā and childhood pastimes in Vraja | ŚB 10.3 | Supreme Personality of Godhead |
 | C3-W3 | How Nārada received the Bhāgavatam | ŚB 1.1 / 1.4 | Guru–sādhu–śāstra paramparā |
 | C3-W4 | Lord Caitanya's kīrtana at Navadvīpa | CC Ādi (selected) | Holy name |
 | C3-W5 | Prahlāda's nine processes | ŚB 7.5 | Hearing, chanting, remembering… |

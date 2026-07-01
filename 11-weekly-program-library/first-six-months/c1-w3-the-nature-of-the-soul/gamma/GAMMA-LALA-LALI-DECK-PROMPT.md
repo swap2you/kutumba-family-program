@@ -21,7 +21,7 @@ Paste below into Gamma. No invented Prabhupāda quotes. Link-only purports.
 I am an eternal soul, a tiny part of Kṛṣṇa.
 Lāla–Lālī · C1-W3
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
@@ -32,7 +32,7 @@ Lāla–Lālī · C1-W3
 **Content:**  
 Spark and lamp demonstration — opening
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
@@ -43,7 +43,7 @@ Spark and lamp demonstration — opening
 **Content:**  
 Wonder question — what changed?
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
@@ -54,7 +54,7 @@ Wonder question — what changed?
 **Content:**  
 I am an eternal soul, a tiny part of Kṛṣṇa.
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
@@ -65,7 +65,7 @@ I am an eternal soul, a tiny part of Kṛṣṇa.
 **Content:**  
 Spark, fire, and service identity
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
@@ -76,7 +76,7 @@ Spark, fire, and service identity
 **Content:**  
 Take-home art for family altar area
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
@@ -87,7 +87,7 @@ Take-home art for family altar area
 **Content:**  
 ajo nityaḥ — unborn and eternal
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
@@ -98,7 +98,7 @@ ajo nityaḥ — unborn and eternal
 **Content:**  
 One way to help family remember Kṛṣṇa
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
@@ -109,7 +109,7 @@ One way to help family remember Kṛṣṇa
 **Content:**  
 Care for living beings — no mockery
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
@@ -120,7 +120,7 @@ Care for living beings — no mockery
 **Content:**  
 Minimum version with parent
 
-**Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w3-concept-jiva-qualities.svg]`
 **Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 

@@ -4,7 +4,7 @@
 A: Bhagavad-gītā 7.7 — [https://vedabase.io/en/library/bg/7/7/](https://vedabase.io/en/library/bg/7/7/)
 
 **Q: What is the principal katha?**  
-A: Kṛṣṇa's birth in Vṛndāvana from SB 10.3 (selected — birth pastime). See `prem-ki-katha.md`.
+A: Kṛṣṇa's appearance in Mathurā and childhood pastimes in Vraja from SB 10.3 (selected — birth pastime). See `prem-ki-katha.md`.
 
 **Q: Is human approval required?**  
 A: Yes — doctrinal, safeguarding, worship, rights, pedagogy, citation reviews remain open.

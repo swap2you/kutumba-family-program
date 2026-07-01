@@ -32,3 +32,10 @@ audience_cautions:
 doctrinal_reviewer: pending
 rights_status: scripture-reference-links-only
 approval_status: human-review-required
+narrative_depth:
+  standard_file: prem-ki-katha.md
+  short_file: prem-ki-katha-short.md
+  v7_note: >-
+    gold-structure-reference deepened to standard narrative in V7; section 6
+    expanded from outline to full source-grounded paraphrase (BG ch 1–2);
+    human-review-required

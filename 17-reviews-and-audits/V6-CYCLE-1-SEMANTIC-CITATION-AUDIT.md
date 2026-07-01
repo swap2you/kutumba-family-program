@@ -20,7 +20,7 @@ Cycle 1 claims are **traceable and correctly typed** at the register level after
 
 ## Corrected mislabels (v6)
 
-1. **SB 1.2.17** — must not be summarized as “Bhāgavata as the ripened fruit of Vedic knowledge” without verse-accurate wording (C1-W1 brief review).
+1. **SB 1.2.17** — must not be summarized as “The Lord in the heart cleanses material desire from one who hears Kṛṣṇa-kathā with faith (SB 1.2.17 — paraphrase)” without verse-accurate wording (C1-W1 brief review).
 2. **SB 1.2.19** — must not be cited as establishing irrevocable devotion after daily Bhāgavata service without exact purport alignment (C1-W1).
 3. **Charter vs scripture** — “KUTUMBA is not a social club or substitute temple” classified as `kutumba-governance`, not direct SB 1.2.18 quotation.
 4. **Pedagogy** — grief, child-development, and safeguarding methods must cite KUTUMBA policy/education resources; scripture supports values only.

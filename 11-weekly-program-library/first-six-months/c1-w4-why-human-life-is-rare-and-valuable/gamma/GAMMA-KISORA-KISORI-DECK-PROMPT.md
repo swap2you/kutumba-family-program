@@ -20,7 +20,7 @@ Paste below into Gamma. No invented Prabhupāda quotes. Link-only purports.
 **Content:**  
 C1-W4 — Youth Track
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
@@ -31,7 +31,7 @@ C1-W4 — Youth Track
 **Content:**  
 Why is human intelligence a special opportunity — and how do we use time without panic?
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
@@ -42,7 +42,7 @@ Why is human intelligence a special opportunity — and how do we use time witho
 **Content:**  
 SB 11.9.29 — KUTUMBA summary + VedaBase link
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
@@ -53,7 +53,7 @@ SB 11.9.29 — KUTUMBA summary + VedaBase link
 **Content:**  
 Import from visuals/concept-map.mmd
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
@@ -64,7 +64,7 @@ Import from visuals/concept-map.mmd
 **Content:**  
 CS-01 from CONTEMPORARY-APPLICATIONS.md
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
@@ -75,7 +75,7 @@ CS-01 from CONTEMPORARY-APPLICATIONS.md
 **Content:**  
 One row from MISCONCEPTIONS table
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
@@ -86,7 +86,7 @@ One row from MISCONCEPTIONS table
 **Content:**  
 Respectful debate — rules on slide
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
@@ -97,7 +97,7 @@ Respectful debate — rules on slide
 **Content:**  
 Redesign one family routine
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
@@ -108,7 +108,7 @@ Redesign one family routine
 **Content:**  
 One concrete action this week
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
@@ -119,7 +119,7 @@ One concrete action this week
 **Content:**  
 Optional reflective paragraph
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
@@ -130,7 +130,7 @@ Optional reflective paragraph
 **Content:**  
 Shared transition recall line
 
-**Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
+**Visual:** `[ASSET: visuals/rendered/c1-w4-concept-opportunity-path.svg]`
 **Speaker note:** Safeguarding: two adults visible; honor opt-out.
 **Source:** research/ or prem-ki-katha.md
 

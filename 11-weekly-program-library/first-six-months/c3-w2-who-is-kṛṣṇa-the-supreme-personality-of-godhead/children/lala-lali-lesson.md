@@ -19,7 +19,7 @@ component: children/lala-lali-lesson.md
 | Time | Activity |
 | --- | --- |
 | 0–5 min | Opening song; recall prior week if applicable; show theme card |
-| 5–15 min | **Story** — Kṛṣṇa's birth in Vṛndāvana (8 min + wonder questions) |
+| 5–15 min | **Story** — Kṛṣṇa's appearance in Mathurā and childhood pastimes in Vraja (8 min + wonder questions) |
 | 15–22 min | Movement game tied to module theme |
 | 22–28 min | Craft or sorting activity |
 | 28–32 min | **Movement break** — stretch and breathe |

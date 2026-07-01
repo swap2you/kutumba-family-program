@@ -56,7 +56,7 @@ There is no truth superior to Kṛṣṇa; everything rests upon Him like pearls
 ### Card 5 — Katha title
 
 **Content:**  
-Kṛṣṇa's birth in Vṛndāvana
+Kṛṣṇa's appearance in Mathurā and childhood pastimes in Vraja
 
 **Visual:** `[IMAGE: story illustration]`  
 **Speaker note:** Introduce prem-ki-katha  

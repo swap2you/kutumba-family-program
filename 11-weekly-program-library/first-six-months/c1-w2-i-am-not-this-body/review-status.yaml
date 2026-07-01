@@ -2,7 +2,7 @@ week_code: C1-W2
 structural_pack_complete: complete
 automated_enhancement_complete: pass
 source_audit_complete: in-progress
-prem_katha_depth: gold-pilot-draft
+prem_katha_depth: gold-structure-reference-deepened-v7
 human_review_complete: required
 publication_ready: not-ready
 weekly_derivative_pack: gold-pilot-draft
@@ -19,7 +19,8 @@ newcomer_adaptation: thin
 visual_plan: complete
 gamma_prompts: complete
 cycle_project: complete
-prem_ki_katha: gold-pilot-draft
+prem_ki_katha: standard-narrative-v7
+prem_ki_katha_short: compressed-v7
 opening_hook: complete
 automated_semantic_validation: pass-pending-human-review
 doctrinal_review: required
@@ -32,4 +33,7 @@ publication_status: internal-development
 pilot_quality_gate: open
 enhancement_date: 2026-06-30
 enhancement_version: "4.0.0"
-notes: Field-by-field status from sync_gold_review_status.py v4; no false gold promotion.
+notes: >-
+  V7 katha runtime correction — gold-structure-reference deepened to standard
+  narrative (~1350–1800 words section 6) plus prem-ki-katha-short.md compressed
+  variant; human-review-required for doctrinal and narration QA.

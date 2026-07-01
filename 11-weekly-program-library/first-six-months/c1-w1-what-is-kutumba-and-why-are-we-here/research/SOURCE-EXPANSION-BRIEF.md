@@ -12,9 +12,9 @@
 | Reference | VedaBase URL | Module use |
 | --- | --- | --- |
 | Śrīmad-Bhāgavatam 1.2.18 | [https://vedabase.io/en/library/sb/1/2/18/](https://vedabase.io/en/library/sb/1/2/18/) | Regular hearing and service cleanse the heart |
-| Śrīmad-Bhāgavatam 1.2.17 | [https://vedabase.io/en/library/sb/1/2/17/](https://vedabase.io/en/library/sb/1/2/17/) | Bhāgavata as the ripened fruit of Vedic knowledge |
-| Śrīmad-Bhāgavatam 1.2.19 | [https://vedabase.io/en/library/sb/1/2/19/](https://vedabase.io/en/library/sb/1/2/19/) | Devotion fixed after taste develops |
-| Śrīmad-Bhāgavatam 1.1.1 | [https://vedabase.io/en/library/sb/1/1/1/](https://vedabase.io/en/library/sb/1/1/1/) | Inquiry at Naimiṣāraṇya opens the Bhāgavatam |
+| Śrīmad-Bhāgavatam 1.2.17 | [https://vedabase.io/en/library/sb/1/2/17/](https://vedabase.io/en/library/sb/1/2/17/) | The Lord in the heart cleanses material desire from one who hears Kṛṣṇa-kathā with faith (SB 1.2.17 — paraphrase) |
+| Śrīmad-Bhāgavatam 1.2.19 | [https://vedabase.io/en/library/sb/1/2/19/](https://vedabase.io/en/library/sb/1/2/19/) | Passion and ignorance recede; the devotee becomes established in goodness and happiness (SB 1.2.19 — paraphrase) |
+| Śrīmad-Bhāgavatam 1.1.1 | [https://vedabase.io/en/library/sb/1/1/1/](https://vedabase.io/en/library/sb/1/1/1/) | Invocation of the Absolute Truth as the source of all emanations (SB 1.1.1 — not the sages' inquiry verse) |
 | Bhagavad-gītā 9.14 | [https://vedabase.io/en/library/bg/9/14/](https://vedabase.io/en/library/bg/9/14/) | Always chanting and striving with determination |
 | Caitanya-caritāmṛta Madhya 22.128 | [https://vedabase.io/en/library/cc/madhya/22/128/](https://vedabase.io/en/library/cc/madhya/22/128/) | Five powerful practices of bhakti |
 | Caitanya-caritāmṛta Madhya 22.129 | [https://vedabase.io/en/library/cc/madhya/22/129/](https://vedabase.io/en/library/cc/madhya/22/129/) | Lord Caitanya confirms the practices |
@@ -33,9 +33,9 @@
 | Range | VedaBase URL | Kathā use |
 | --- | --- | --- |
 | Śrīmad-Bhāgavatam 1.2.18 | [https://vedabase.io/en/library/sb/1/2/18/](https://vedabase.io/en/library/sb/1/2/18/) | Regular hearing and service cleanse the heart |
-| Śrīmad-Bhāgavatam 1.2.17 | [https://vedabase.io/en/library/sb/1/2/17/](https://vedabase.io/en/library/sb/1/2/17/) | Bhāgavata as the ripened fruit of Vedic knowledge |
-| Śrīmad-Bhāgavatam 1.2.19 | [https://vedabase.io/en/library/sb/1/2/19/](https://vedabase.io/en/library/sb/1/2/19/) | Devotion fixed after taste develops |
-| Śrīmad-Bhāgavatam 1.1.1 | [https://vedabase.io/en/library/sb/1/1/1/](https://vedabase.io/en/library/sb/1/1/1/) | Inquiry at Naimiṣāraṇya opens the Bhāgavatam |
+| Śrīmad-Bhāgavatam 1.2.17 | [https://vedabase.io/en/library/sb/1/2/17/](https://vedabase.io/en/library/sb/1/2/17/) | The Lord in the heart cleanses material desire from one who hears Kṛṣṇa-kathā with faith (SB 1.2.17 — paraphrase) |
+| Śrīmad-Bhāgavatam 1.2.19 | [https://vedabase.io/en/library/sb/1/2/19/](https://vedabase.io/en/library/sb/1/2/19/) | Passion and ignorance recede; the devotee becomes established in goodness and happiness (SB 1.2.19 — paraphrase) |
+| Śrīmad-Bhāgavatam 1.1.1 | [https://vedabase.io/en/library/sb/1/1/1/](https://vedabase.io/en/library/sb/1/1/1/) | Invocation of the Absolute Truth as the source of all emanations (SB 1.1.1 — not the sages' inquiry verse) |
 | Bhagavad-gītā 9.14 | [https://vedabase.io/en/library/bg/9/14/](https://vedabase.io/en/library/bg/9/14/) | Always chanting and striving with determination |
 | Caitanya-caritāmṛta Madhya 22.128 | [https://vedabase.io/en/library/cc/madhya/22/128/](https://vedabase.io/en/library/cc/madhya/22/128/) | Five powerful practices of bhakti |
 
