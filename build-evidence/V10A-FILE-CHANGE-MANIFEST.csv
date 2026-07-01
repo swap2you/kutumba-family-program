@@ -26,3 +26,5 @@ scripts/curriculum/validate_v10a_truth_freeze.py,create,F-V9-001;F-V9-002;F-V9-0
 scripts/curriculum/run_curriculum_validation.py,update,F-V9-008,wire V10A controls into validation runner
 scripts/Validate-KutumbaRepository.ps1,update,F-V9-008,wire V10A controls into repository validator
 build-evidence/V10A-VALIDATION-REPORT.md,create,F-V9-008,V10A validator execution report
+17-reviews-and-audits/V10A-INDEPENDENT-TRUTH-FREEZE-AUDIT.md,create,F-V9-004;F-V9-008;F-V9-012,independent V10A truth freeze audit
+build-evidence/V10A-INDEPENDENT-VERIFICATION-HANDOFF.md,create,F-V9-004;F-V9-005;F-V9-006;F-V9-008;F-V9-012,V10A final handoff evidence
