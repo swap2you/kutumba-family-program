@@ -1,6 +1,6 @@
 ﻿# Privacy and Rights Scan
 
-Generated: 2026-06-30T22:17:38
+Generated: 2026-06-30T22:42:58
 
 ## Privacy
 
