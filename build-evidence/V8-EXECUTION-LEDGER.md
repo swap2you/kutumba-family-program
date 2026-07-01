@@ -13,7 +13,7 @@
 | 8 | Final-state independent audit | DONE |
 | 9 | Git handoff | DONE |
 
-Starting HEAD: `16fbb34c96711c786127290756255fc682e4014c`
+Final HEAD: `959380e`
 
 ## Metrics
 
