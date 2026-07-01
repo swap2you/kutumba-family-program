@@ -22,7 +22,7 @@ I am an eternal soul, a tiny part of Kṛṣṇa.
 Lāla–Lālī · C1-W3
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -33,7 +33,7 @@ Lāla–Lālī · C1-W3
 Spark and lamp demonstration — opening
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -44,7 +44,7 @@ Spark and lamp demonstration — opening
 Wonder question — what changed?
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -55,7 +55,7 @@ Wonder question — what changed?
 I am an eternal soul, a tiny part of Kṛṣṇa.
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -66,7 +66,7 @@ I am an eternal soul, a tiny part of Kṛṣṇa.
 Spark, fire, and service identity
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -77,7 +77,7 @@ Spark, fire, and service identity
 Take-home art for family altar area
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -88,7 +88,7 @@ Take-home art for family altar area
 ajo nityaḥ — unborn and eternal
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -99,7 +99,7 @@ ajo nityaḥ — unborn and eternal
 One way to help family remember Kṛṣṇa
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -110,7 +110,7 @@ One way to help family remember Kṛṣṇa
 Care for living beings — no mockery
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -121,7 +121,7 @@ Care for living beings — no mockery
 Minimum version with parent
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
 ---

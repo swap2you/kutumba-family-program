@@ -22,7 +22,7 @@ Kiśora–Kiśorī · C1-W2
 Observe · Distinguish · Serve
 
 **Visual:** Split screen: mirror vs. heart icon  
-**Speaker note:** No forced personal sharing this week.
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 
 ---
 
@@ -34,7 +34,7 @@ What **continues**?
 What should we **do**?
 
 **Visual:** concept-map.mmd simplified  
-**Speaker note:** Index card word exercise.
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 
 ---
 
@@ -63,7 +63,7 @@ The soul passes through childhood, youth, and old age. The sober are not bewilde
 | Social labels | Service to Kṛṣṇa |
 
 **Visual:** Two-column table  
-**Speaker note:** BG 13.1 — field vs knower (one sentence).  
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** https://vedabase.io/en/library/bg/13/1/
 
 ---
@@ -76,7 +76,7 @@ Hours editing photos. Mood crashes with likes.
 **Mistaken idea:** Profile = whole self
 
 **Visual:** `[IMAGE: phone with filter sliders — generic]`  
-**Speaker note:** Device/user analogy — edits are costumes.  
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** CONTEMPORARY-APPLICATIONS.md
 
 ---
@@ -89,7 +89,7 @@ Profile picture changes like a costume.
 Online harm still hurts — pixels don't cancel kindness.
 
 **Visual:** Avatar icons with arrow to person icon  
-**Speaker note:** KUTUMBA-created analogy — not literal śāstra.
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 
 ---
 
@@ -100,7 +100,7 @@ Online harm still hurts — pixels don't cancel kindness.
 Mocking is never OK. Include · accommodate · respect.
 
 **Visual:** Inclusion symbols  
-**Speaker note:** Case CS-03 — fictional scenario only.  
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** https://vedabase.io/en/library/bg/2/20/
 
 ---
@@ -112,7 +112,7 @@ Mocking is never OK. Include · accommodate · respect.
 **Rules:** Ideas not people · cite source · facilitator can pause
 
 **Visual:** Two podiums  
-**Speaker note:** 12–14 extension; close with correct view.  
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** MISCONCEPTIONS-AND-BOUNDARIES.md
 
 ---
@@ -124,7 +124,7 @@ Prompt (private, optional share):
 "When I remember I am not only my appearance, I will…"
 
 **Visual:** Lined card graphic  
-**Speaker note:** 3–4 sentences; no grading.
+**Speaker note:** Home practice: one realistic step; write it down.
 
 ---
 
@@ -148,7 +148,7 @@ vedabase.io
 Join family identity pause tonight.
 
 **Visual:** URL list  
-**Speaker note:** shared-family-transition.md next.
+**Speaker note:** Safeguarding: two adults visible; honor opt-out.
 
 ---
 

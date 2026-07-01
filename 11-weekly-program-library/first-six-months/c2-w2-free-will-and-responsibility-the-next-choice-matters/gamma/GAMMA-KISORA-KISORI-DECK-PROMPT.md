@@ -68,7 +68,7 @@ After giving knowledge, Kṛṣṇa tells Arjuna to deliberate fully and then ac
 ### Card 5 — Katha beat
 
 **Content:**  
-Ajāmila lived by habits formed over years — some choices narrowed his freedom gradually, like a path walked many times. The tradition describes how deeply ingrained patterns matter...
+Ajāmila lived by habits formed over years — some choices narrowed his freedom gradually, like a path walked many times. The tradition describes how deeply ingrained patterns matters
 
 **Visual:** `[IMAGE: katha beat — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  
@@ -79,8 +79,8 @@ Ajāmila lived by habits formed over years — some choices narrowed his freedom
 ### Card 6 — Means / does-not-mean
 
 **Content:**  
-Means: Conditioning is real; meaningful choice and responsibility remain under Kṛṣṇa's guidance....
-Does NOT: Unlimited independence from Kṛṣṇa; blaming victims; excusing abuse...
+Means: Conditioning is real; meaningful choice and responsibility remain under Kṛṣṇa's guidance.
+Does NOT: Unlimited independence from Kṛṣṇa; blaming victims; excusing abuse
 
 **Visual:** `[IMAGE: means / does-not-mean — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

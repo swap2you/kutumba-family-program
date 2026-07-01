@@ -21,7 +21,7 @@ Paste below into Gamma. No invented Prabhupāda quotes. Link-only purports.
 C1-W6 — Youth Track
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -32,7 +32,7 @@ C1-W6 — Youth Track
 How do identity, human purpose, and temporary circumstances form one sustainable family practice?
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -43,7 +43,7 @@ How do identity, human purpose, and temporary circumstances form one sustainable
 BG 2.13 — KUTUMBA summary + VedaBase link
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -54,7 +54,7 @@ BG 2.13 — KUTUMBA summary + VedaBase link
 Import from visuals/concept-map.mmd
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -65,7 +65,7 @@ Import from visuals/concept-map.mmd
 CS-01 from CONTEMPORARY-APPLICATIONS.md
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -76,7 +76,7 @@ CS-01 from CONTEMPORARY-APPLICATIONS.md
 One row from MISCONCEPTIONS table
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -87,7 +87,7 @@ One row from MISCONCEPTIONS table
 Respectful debate — rules on slide
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -98,7 +98,7 @@ Respectful debate — rules on slide
 Redesign one family routine
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -109,7 +109,7 @@ Redesign one family routine
 One concrete action this week
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -120,7 +120,7 @@ One concrete action this week
 Optional reflective paragraph
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -131,7 +131,7 @@ Optional reflective paragraph
 Shared transition recall line
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Safeguarding: two adults visible; honor opt-out.
 **Source:** research/ or prem-ki-katha.md
 
 ---

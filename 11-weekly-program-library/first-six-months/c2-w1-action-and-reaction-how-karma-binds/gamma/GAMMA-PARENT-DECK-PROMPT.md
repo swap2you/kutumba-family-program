@@ -79,8 +79,8 @@ King Citraketu received great blessings, yet when his young son died, grief over
 ### Card 6 — Means / does-not-mean
 
 **Content:**  
-Means: Karma is action and reaction under material nature; yajña-centered work purifies motive....
-Does NOT: Full karma taxonomy; diagnosing others' suffering; fatalism; victim-blaming...
+Means: Karma is action and reaction under material nature; yajña-centered work purifies motive.
+Does NOT: Full karma taxonomy; diagnosing others' suffering; fatalism; victim-blaming.
 
 **Visual:** `[IMAGE: means / does-not-mean — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

@@ -23,7 +23,7 @@ Cycle 1 · Identity and the Human Problem
 KUTUMBA Family Program
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -34,7 +34,7 @@ KUTUMBA Family Program
 How do identity, human purpose, and temporary circumstances form one sustainable family practice?
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -45,7 +45,7 @@ How do identity, human purpose, and temporary circumstances form one sustainable
 A family begins a road journey. One child asks, 'Are we there yet?' Another becomes attached to every rest stop. A third complains the car is not as nice as another family's. The parents forget the ma…
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -60,7 +60,7 @@ Memory line: A sober person understands bodily change and acts from spiritual id
 Link-only purport on VedaBase
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -71,7 +71,7 @@ Link-only purport on VedaBase
 Consolidate Cycle 1 through demonstration — verse, analogy, and application — not another lecture.
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -83,7 +83,7 @@ Primary: https://vedabase.io/en/library/sb/1/2/18/
 See SOURCE-MATRIX.md
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -94,7 +94,7 @@ See SOURCE-MATRIX.md
 One anonymized case from CONTEMPORARY-APPLICATIONS.md
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -105,7 +105,7 @@ One anonymized case from CONTEMPORARY-APPLICATIONS.md
 See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -116,7 +116,7 @@ See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 Cycle 1 Learning Stations
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -127,7 +127,7 @@ Cycle 1 Learning Stations
 Continue one selected Cycle 1 practice during the off week.
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -138,7 +138,7 @@ Continue one selected Cycle 1 practice during the off week.
 Specific action + frequency + trigger + minimum version
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Safeguarding: two adults visible; honor opt-out.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -149,7 +149,7 @@ Specific action + frequency + trigger + minimum version
 human-review-required — no invented Prabhupāda quotes
 
 **Visual:** `[IMAGE: Four-part chain and continuity practice — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Close with gratitude and next-week pointer only.
 **Source:** research/ or prem-ki-katha.md
 
 ---

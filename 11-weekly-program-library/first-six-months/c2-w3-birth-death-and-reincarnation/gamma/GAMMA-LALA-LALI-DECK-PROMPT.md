@@ -68,19 +68,19 @@ As a person puts aside worn clothes and accepts new ones, the soul leaves an old
 ### Card 5 — Katha beat
 
 **Content:**  
-Bhārata Mahārāja was a great king who left his kingdom to practice devotion in the forest. He served with great care, yet a tender attachment to a young deer distracted his remembr...
+Bhārata Mahārāja was a great king who left his kingdom to practice devotion in the forest. He served with great care, yet a tender attachment to a young deer distracted his remembrance of Kṛṣṇa. When he died, that attachment shaped his next destination — a sober warning that small unchecked affections can have large consequences.
 
 **Visual:** `[IMAGE: katha beat — KUTUMBA placeholder]`  
-**Speaker note:** Deliver per facilitator-guide.md  
-**Source:** C2-W3 module pack
+**Speaker note:** Use simple language. One picture of a deer and a king is enough. No frightening death imagery.  
+**Source:** SB 5.8–5.9 summary; prem-ki-katha.md
 
 ---
 
 ### Card 6 — Means / does-not-mean
 
 **Content:**  
-Means: The soul continues through changing bodies; consciousness and choice shape direction....
-Does NOT: Guessing destinations; ghost entertainment; frightening imagery for young childr...
+Means: The soul continues through changing bodies; consciousness and choice shape direction.
+Does NOT: Guessing destinations; ghost entertainment; frightening imagery for young children.
 
 **Visual:** `[IMAGE: means / does-not-mean — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

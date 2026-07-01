@@ -25,7 +25,7 @@ I Have a Body — I Am Me Inside!
 Lāla–Lālī Week · C1-W2
 
 **Visual:** `[IMAGE: smiling child with hand on heart]`  
-**Speaker note:** Wave hello; invite children to pat their own heart gently.
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 
 ---
 
@@ -36,7 +36,7 @@ Baby picture · Child picture · Grown-up picture
 **Same person?** YES!
 
 **Visual:** Three cartoon panels with yarn thread through all  
-**Speaker note:** Introduce Rādhā's Three Pictures story.
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 
 ---
 
@@ -48,7 +48,7 @@ Rādhā finds Amma's baby photo.
 Amma smiles: "The body changed. I am still Amma."
 
 **Visual:** `[IMAGE: puppet or illustration — mother and child]`  
-**Speaker note:** Wonder question: Who stayed Amma?
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 
 ---
 
@@ -59,7 +59,7 @@ Amma smiles: "The body changed. I am still Amma."
 **I** am the person who loves you and serves Kṛṣṇa."
 
 **Visual:** Costume pieces on a line  
-**Speaker note:** Connect to garment idea without saying "death."
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 
 ---
 
@@ -71,7 +71,7 @@ Hat → Vest → Shawl
 "Outfit changed — [Name] stayed!"
 
 **Visual:** `[IMAGE: name tag on lanyard]`  
-**Speaker note:** Do live relay if presenting interactively.
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 
 ---
 
@@ -82,7 +82,7 @@ Hat → Vest → Shawl
 ✗ Hitting · No sleep · Only candy · Being mean
 
 **Visual:** Two baskets illustration  
-**Speaker note:** Body-care sorting game.
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 
 ---
 
@@ -93,7 +93,7 @@ Baby pose → Tall child → Slow elder walk
 **Freeze!** The pose changed. **You** are still you.
 
 **Visual:** Three stick figures  
-**Speaker note:** 30-second movement; drum cue.
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 
 ---
 
@@ -104,7 +104,7 @@ Draw three boxes.
 Thread goes through all: **Same person.**
 
 **Visual:** Yarn through three squares  
-**Speaker note:** Ages 7–8 label baby/child/older.
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 
 ---
 
@@ -116,7 +116,7 @@ Say with me:
 "I have a body. I am a soul. I belong to Kṛṣṇa."
 
 **Visual:** Large text only  
-**Speaker note:** Extension 7–8: clap rhythm on BG 2.13 English summary line.
+**Speaker note:** Home practice: one realistic step; write it down.
 
 ---
 
@@ -128,7 +128,7 @@ Ask Amma/Papa to add a baby stick figure at home.
 **Be gentle to every body.**
 
 **Visual:** Blank frame for drawing  
-**Speaker note:** Transition to shared-family-transition.md  
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** vedabase.io/bg/2/13 — summary only
 
 ---

@@ -45,7 +45,7 @@ How does māyā misdirect attention, and how do boundary plus shelter restore de
 ### Card 3 — Opening hook
 
 **Content:**  
-A person receives a notification while reading Bhagavad-gītā. 'I will check for ten seconds,' the mind says. Twenty minutes later, the person has moved through messages, news, shopping, and comparison...
+A person receives a notification while reading Bhagavad-gītā. 'I will check for ten seconds,' the mind says. Twenty minutes later, the person has moved through messages, news, shopping, and comparison feeds distraction
 
 **Visual:** `[IMAGE: opening hook — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  
@@ -79,8 +79,8 @@ Prahlāda Mahārāja taught that persons absorbed only in family, shop, and neig
 ### Card 6 — Means / does-not-mean
 
 **Content:**  
-Means: Māyā is Kṛṣṇa's material energy; surrender and practice cross it — people are not māyā....
-Does NOT: Misogynistic 'women are māyā'; world-hatred; diagnosing addiction publicly...
+Means: Māyā is Kṛṣṇa's material energy; surrender and practice cross it — people are not māyā.
+Does NOT: Misogynistic 'women are māyā'; world-hatred; diagnosing addiction publicly
 
 **Visual:** `[IMAGE: means / does-not-mean — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

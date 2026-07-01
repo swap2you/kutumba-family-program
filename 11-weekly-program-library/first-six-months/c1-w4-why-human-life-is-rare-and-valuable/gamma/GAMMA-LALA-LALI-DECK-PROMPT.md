@@ -22,7 +22,7 @@ Human life is a special gift to serve Kṛṣṇa.
 Lāla–Lālī · C1-W4
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -33,7 +33,7 @@ Lāla–Lālī · C1-W4
 Young Prahlāda remembers Kṛṣṇa — opening
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -44,7 +44,7 @@ Young Prahlāda remembers Kṛṣṇa — opening
 Wonder question — what changed?
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -55,7 +55,7 @@ Wonder question — what changed?
 Human life is a special gift to serve Kṛṣṇa.
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -66,7 +66,7 @@ Human life is a special gift to serve Kṛṣṇa.
 Rare gift, growing season, protected time
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -77,7 +77,7 @@ Rare gift, growing season, protected time
 Take-home art for family altar area
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -88,7 +88,7 @@ Take-home art for family altar area
 labdhvā su-durlabham — having obtained what is very rare
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -99,7 +99,7 @@ labdhvā su-durlabham — having obtained what is very rare
 One way to help family remember Kṛṣṇa
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -110,7 +110,7 @@ One way to help family remember Kṛṣṇa
 Care for living beings — no mockery
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -121,7 +121,7 @@ Care for living beings — no mockery
 Minimum version with parent
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
 ---

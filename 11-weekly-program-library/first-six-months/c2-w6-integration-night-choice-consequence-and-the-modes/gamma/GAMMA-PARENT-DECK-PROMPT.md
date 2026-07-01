@@ -45,7 +45,7 @@ How do karma, choice, rebirth, modes, and māyā fit one family decision?
 ### Card 3 — Opening hook
 
 **Content:**  
-A family has a recurring Friday problem. Everyone arrives late. The parent blames traffic, the children blame hunger, and another adult says, 'This is our karma; nothing can change.' The home is rushe...
+A family has a recurring Friday problem. Everyone arrives late. The parent blames traffic, the children blame hunger, and another adult says, 'This is our karma; nothing can change.' The home is rushed and tense.
 
 **Visual:** `[IMAGE: opening hook — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  
@@ -79,8 +79,8 @@ Facilitator recalls the Friday evening every family recognized: lateness, hunger
 ### Card 6 — Means / does-not-mean
 
 **Content:**  
-Means: Five-lens analysis without blame, fatalism, or fixed labels....
-Does NOT: New overloaded līlā; gossip disguised as cases; public scoring...
+Means: Five-lens analysis without blame, fatalism, or fixed labels.
+Does NOT: New overloaded līlā; gossip disguised as cases; public scoring.
 
 **Visual:** `[IMAGE: means / does-not-mean — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

@@ -23,7 +23,7 @@ Cycle 1 · Identity and the Human Problem
 KUTUMBA Family Program
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -34,7 +34,7 @@ KUTUMBA Family Program
 Why is human intelligence a special opportunity — and how do we use time without panic?
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -45,7 +45,7 @@ Why is human intelligence a special opportunity — and how do we use time witho
 A family receives a valuable pass that can be used only once. It opens a learning center with guidance and a path to a lasting destination — but they keep it in a drawer, busy with snacks and phones. …
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -60,7 +60,7 @@ Memory line: Human life is rare, temporary and able to give the highest value wh
 Link-only purport on VedaBase
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -71,7 +71,7 @@ Link-only purport on VedaBase
 Human life is rare, temporary, and able to give the highest value when used for spiritual realization.
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -83,7 +83,7 @@ Primary: https://vedabase.io/en/library/sb/11/9/29/
 See SOURCE-MATRIX.md
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -94,7 +94,7 @@ See SOURCE-MATRIX.md
 One anonymized case from CONTEMPORARY-APPLICATIONS.md
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -105,7 +105,7 @@ One anonymized case from CONTEMPORARY-APPLICATIONS.md
 See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -116,7 +116,7 @@ See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 How to Read One Verse as a Family
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -127,7 +127,7 @@ How to Read One Verse as a Family
 Protect one fifteen-minute family spiritual appointment.
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -138,7 +138,7 @@ Protect one fifteen-minute family spiritual appointment.
 Specific action + frequency + trigger + minimum version
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Safeguarding: two adults visible; honor opt-out.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -149,7 +149,7 @@ Specific action + frequency + trigger + minimum version
 human-review-required — no invented Prabhupāda quotes
 
 **Visual:** `[IMAGE: Rare gift, growing season, protected time — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Close with gratitude and next-week pointer only.
 **Source:** research/ or prem-ki-katha.md
 
 ---

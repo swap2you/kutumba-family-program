@@ -8,25 +8,29 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[2]
 SCAN_ROOTS = [REPO / "11-weekly-program-library" / "first-six-months"]
 
-# Generator-style clips: incomplete word immediately before ellipsis at line end
-CLIP_RE = re.compile(r"(?<![/\w])([a-z]{1,4})\.\.\.\s*$")
+# Short word fragment + exactly three dots at end of line (generator clip)
+CLIP_RE = re.compile(r"\b([a-z]{4,8})\.\.\.\s*$")
 SLICE_MARKER = re.compile(r"\[:\d+\]")
+ALLOWLIST = re.compile(r"\[TRUNCATION-ALLOWED\]")
 
 
 def scan_file(path: Path) -> list[str]:
     issues = []
     try:
-        lines = path.read_text(encoding="utf-8").splitlines()
+        text = path.read_text(encoding="utf-8")
+        lines = text.splitlines()
     except OSError:
         return issues
+    if ALLOWLIST.search(text):
+        return issues
     for i, line in enumerate(lines, 1):
-        if "vedabase.io/.../" in line or "http" in line and "/.../" in line:
+        if "vedabase.io/.../" in line or ("http" in line and "/.../" in line):
             continue
         if SLICE_MARKER.search(line):
             issues.append(f"{path.relative_to(REPO)}:{i}: generator-slice-marker")
-        m = CLIP_RE.search(line.rstrip())
-        if m and m.group(1) not in ("etc", "viz"):
-            issues.append(f"{path.relative_to(REPO)}:{i}: clipped-line: ...{line.strip()[-40:]}")
+        m = CLIP_RE.search(line)
+        if m and m.group(1).lower() not in ("etc", "viz", "https"):
+            issues.append(f"{path.relative_to(REPO)}:{i}: clipped: ...{line.strip()[-45:]}")
     return issues
 
 

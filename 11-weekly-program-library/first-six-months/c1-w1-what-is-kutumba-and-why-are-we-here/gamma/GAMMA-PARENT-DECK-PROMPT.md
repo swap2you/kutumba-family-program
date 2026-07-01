@@ -23,7 +23,7 @@ Cycle 1 · Identity and the Human Problem
 KUTUMBA Family Program
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -34,7 +34,7 @@ KUTUMBA Family Program
 Why do families gather weekly to hear śāstra and practice together?
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -45,7 +45,7 @@ Why do families gather weekly to hear śāstra and practice together?
 Friday evening has finally arrived. One parent is tired from work, another is worried about unfinished chores, one child wants a tablet, and another asks whether KUTUMBA is only another class. This is…
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -60,7 +60,7 @@ Memory line: Regular hearing and service cleanse the heart and make devotion ste
 Link-only purport on VedaBase
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -71,7 +71,7 @@ Link-only purport on VedaBase
 KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture series.
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -83,7 +83,7 @@ Primary: https://vedabase.io/en/library/sb/1/2/18/
 See SOURCE-MATRIX.md
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -94,7 +94,7 @@ See SOURCE-MATRIX.md
 One anonymized case from CONTEMPORARY-APPLICATIONS.md
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -105,7 +105,7 @@ One anonymized case from CONTEMPORARY-APPLICATIONS.md
 See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -116,7 +116,7 @@ See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 Family Sacred-Space Reset
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -127,7 +127,7 @@ Family Sacred-Space Reset
 Hold one five-minute family practice before the next meeting: one prayer, three mahā-mantras and one appreciation.
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -138,7 +138,7 @@ Hold one five-minute family practice before the next meeting: one prayer, three 
 Specific action + frequency + trigger + minimum version
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Safeguarding: two adults visible; honor opt-out.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -149,7 +149,7 @@ Specific action + frequency + trigger + minimum version
 human-review-required — no invented Prabhupāda quotes
 
 **Visual:** `[IMAGE: Family garden and protected weekly rhythm — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Close with gratitude and next-week pointer only.
 **Source:** research/ or prem-ki-katha.md
 
 ---

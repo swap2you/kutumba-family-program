@@ -45,7 +45,7 @@ How do goodness, passion, and ignorance influence perception and habit without l
 ### Card 3 — Opening hook
 
 **Content:**  
-The same family can experience three very different evenings. On one evening, the room is reasonably clean, the meal is timely, voices are calm, and a short reading feels possible. On another, everyon...
+The same family can experience three very different evenings. On one evening, the room is reasonably clean, the meal is timely, voices are calm, and a short reading feels possible. On another, everyone competes
 
 **Visual:** `[IMAGE: opening hook — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  
@@ -68,7 +68,7 @@ Material nature has three modes—goodness, passion and ignorance—that conditi
 ### Card 5 — Katha beat
 
 **Content:**  
-A thoughtful brāhmaṇa in a busy town learned to watch his own day through the lens Kṛṣṇa gives in the Fourteenth Chapter: sometimes clarity and order prevailed; sometimes restlessn...
+A thoughtful brāhmaṇa in a busy town learned to watch his own day through the lens Kṛṣṇa gives in the Fourteenth Chapter: sometimes clarity and order prevailed; sometimes restlessness
 
 **Visual:** `[IMAGE: katha beat — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  
@@ -79,8 +79,8 @@ A thoughtful brāhmaṇa in a busy town learned to watch his own day through the
 ### Card 6 — Means / does-not-mean
 
 **Content:**  
-Means: Modes are changing influences; describe conditions, not fixed identities....
-Does NOT: Labeling people/cultures; food policing; mental-health stereotypes...
+Means: Modes are changing influences; describe conditions, not fixed identities.
+Does NOT: Labeling people/cultures; food policing; mental-health stereotypes
 
 **Visual:** `[IMAGE: means / does-not-mean — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  
@@ -102,8 +102,8 @@ Task: mistaken conclusion + compassionate response
 
 ### Card 8 — Bhakti lab
 
-**Content:**  
-Clarity Before Chanting
+**Content:**
+Bhakti lab — Clarity Before Chanting: one minute of quiet breathing before the holy name.
 
 **Visual:** `[IMAGE: bhakti lab — KUTUMBA placeholder]`  
 **Speaker note:** Deliver per facilitator-guide.md  

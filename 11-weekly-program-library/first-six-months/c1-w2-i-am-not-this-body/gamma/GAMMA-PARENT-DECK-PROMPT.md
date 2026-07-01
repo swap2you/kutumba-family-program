@@ -27,7 +27,7 @@ Cycle 1 · Identity and the Human Problem
 KUTUMBA Family Program
 
 **Visual:** `[IMAGE: simple line art — three silhouettes child/adult/elder, one golden thread connecting]`  
-**Speaker note:** Welcome; this week is foundational for the whole cycle.  
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** KUTUMBA module README
 
 ---
@@ -40,7 +40,7 @@ What continues in the self?
 How should we live?
 
 **Visual:** Three question marks beside a photo timeline placeholder  
-**Speaker note:** Invite silent reflection — no answers yet.  
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** RESEARCH-DOSSIER.md
 
 ---
@@ -52,7 +52,7 @@ A child finds old photos: "That can't be you!"
 Everyone laughs — but who is the "me" in every picture?
 
 **Visual:** `[IMAGE: generic photo album — stock or congregation-owned]`  
-**Speaker note:** Tell prem-kī-kathā hook in 60 seconds.  
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** prem-ki-katha.md
 
 ---
@@ -64,7 +64,7 @@ Everyone laughs — but who is the "me" in every picture?
 The embodied soul passes through bodily stages — childhood, youth, and old age. A sober person is not bewildered by this change.
 
 **Visual:** Life-stage timeline (import from process-flow.mmd)  
-**Speaker note:** Point to VedaBase for full verse; do not read purport aloud.  
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** https://vedabase.io/en/library/bg/2/13/
 
 ---
@@ -77,7 +77,7 @@ The embodied soul passes through bodily stages — childhood, youth, and old age
 Precise language: "I **have** a body."
 
 **Visual:** Two-column diagram from concept-map.mmd  
-**Speaker note:** Repeat terms once; define in English.  
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** BG 2.13, BG 13.1 summary
 
 ---
@@ -89,7 +89,7 @@ Precise language: "I **have** a body."
 **Today:** costume relay — outfit changes, person stays.
 
 **Visual:** `[IMAGE: jackets on chair with name tag]`  
-**Speaker note:** Defer transmigration detail to next weeks.  
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** https://vedabase.io/en/library/bg/2/22/
 
 ---
@@ -103,7 +103,7 @@ Precise language: "I **have** a body."
 | Reduce vanity | Dismiss grief or pain |
 
 **Visual:** Table from VISUAL-PLAN.md  
-**Speaker note:** Critical safeguarding slide — pause for questions.  
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** MISCONCEPTIONS-AND-BOUNDARIES.md
 
 ---
@@ -118,7 +118,7 @@ Precise language: "I **have** a body."
 **Task:** Identify mistaken conclusion + compassionate response.
 
 **Visual:** Three icons (phone, calendar, moon)  
-**Speaker note:** Use CONTEMPORARY-APPLICATIONS CS-01, CS-02, CS-04.  
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/CONTEMPORARY-APPLICATIONS.md
 
 ---
@@ -131,7 +131,7 @@ Constitutional identity: eternal servant of Kṛṣṇa.
 "I am not only this body — I am Kṛṣṇa's servant."
 
 **Visual:** `[IMAGE: hands offering flower or simple service icon]`  
-**Speaker note:** Negation points to positive service identity.  
+**Speaker note:** Home practice: one realistic step; write it down.
 **Source:** https://vedabase.io/en/library/cc/madhya/20/108/
 
 ---
@@ -145,7 +145,7 @@ Rewrite:
 - "I am too old" → "This body has years; wisdom serves"
 
 **Visual:** Before/after text blocks  
-**Speaker note:** Pairs practice aloud.  
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** parent-lesson.md
 
 ---
@@ -158,7 +158,7 @@ Rewrite:
 3. Optional: 5 minutes chanting
 
 **Visual:** Seated figure silhouette, peaceful  
-**Speaker note:** Transition to bhakti-lab live.  
+**Speaker note:** Safeguarding: two adults visible; honor opt-out.
 **Source:** bhakti-lab.md
 
 ---
@@ -171,7 +171,7 @@ Rewrite:
 Full text: vedabase.io
 
 **Visual:** QR or URL list (no book covers)  
-**Speaker note:** Distribute worksheet; announce gallery project.  
+**Speaker note:** Close with gratitude and next-week pointer only.
 **Source:** sources.yaml
 
 ---

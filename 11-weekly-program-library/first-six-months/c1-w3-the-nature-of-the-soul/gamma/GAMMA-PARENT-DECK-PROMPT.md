@@ -23,7 +23,7 @@ Cycle 1 · Identity and the Human Problem
 KUTUMBA Family Program
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Welcome families; state this is protected hearing time, not entertainment.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -34,7 +34,7 @@ KUTUMBA Family Program
 What am I positively — beyond 'not the body'?
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Read the essential question slowly; invite silent reflection before answers.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -45,7 +45,7 @@ What am I positively — beyond 'not the body'?
 Last week we learned the body changes like clothes. A child asks at dinner: 'Then what am I?' The table goes quiet. It is not enough to say what we are not — Bhagavad-gītā gives a positive answer. The…
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -60,7 +60,7 @@ Memory line: The soul is unborn, eternal and not destroyed when the body is dest
 Link-only purport on VedaBase
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Display verse link; paraphrase only; no invented purport language.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -71,7 +71,7 @@ Link-only purport on VedaBase
 The jīva is eternal, conscious, individual, minute and naturally related to Kṛṣṇa through service.
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Tell one kathā beat from prem-ki-katha narrative section; keep under 2 minutes.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -83,7 +83,7 @@ Primary: https://vedabase.io/en/library/bg/2/20/
 See SOURCE-MATRIX.md
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Clarify means vs does-not-mean; stop if debate becomes argument.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -94,7 +94,7 @@ See SOURCE-MATRIX.md
 One anonymized case from CONTEMPORARY-APPLICATIONS.md
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Case study is anonymized; no forced personal disclosure.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -105,7 +105,7 @@ One anonymized case from CONTEMPORARY-APPLICATIONS.md
 See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Bhakti lab preview — demonstrate one step only.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -116,7 +116,7 @@ See MISCONCEPTIONS-AND-BOUNDARIES.md — means vs does not mean
 Service Intention and Cleanliness Seva
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Home practice: one realistic step; write it down.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -127,7 +127,7 @@ Service Intention and Cleanliness Seva
 Offer one routine action to Kṛṣṇa daily with a ten-second intention.
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Newcomer path: glossary slip + opt-in participation.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -138,7 +138,7 @@ Offer one routine action to Kṛṣṇa daily with a ten-second intention.
 Specific action + frequency + trigger + minimum version
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Safeguarding: two adults visible; honor opt-out.
 **Source:** research/ or prem-ki-katha.md
 
 ---
@@ -149,7 +149,7 @@ Specific action + frequency + trigger + minimum version
 human-review-required — no invented Prabhupāda quotes
 
 **Visual:** `[IMAGE: Spark, fire, and service identity — congregation-owned or placeholder]`
-**Speaker note:** See SPEAKER-NOTES.md
+**Speaker note:** Close with gratitude and next-week pointer only.
 **Source:** research/ or prem-ki-katha.md
 
 ---
