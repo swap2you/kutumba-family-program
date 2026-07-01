@@ -1,8 +1,10 @@
-# V10A Independent Truth Freeze Audit
+# V10A Implementer Truth Freeze Verification
 
-## Audit scope
+## Verification scope
 
-This is an independent verification of the V10A truth-freeze controls after production commits. It inspects actual repository files and validator logic. It does not repeat the full V9 audit and does not claim human approvals.
+This is implementation self-verification from the same controlled V10A Codex execution run that produced the V10A commits. It is not an independent external audit. It inspects actual repository files and validator logic, does not repeat the full V9 audit, and does not claim human approvals.
+
+The external V9 audit remains the controlling forensic baseline. A later external V10A closure review triggered V10A.1 corrections for portability, source-count wording, gate classification, validation labels, independence wording, and safe-pause evidence.
 
 ## HEAD model
 
@@ -11,7 +13,8 @@ This is an independent verification of the V10A truth-freeze controls after prod
 | V8 production/evidence lineage | preserved in historical V8 evidence files |
 | V9 audit baseline HEAD | `9c2eebe987f267cdb4181fc6298ff4b8f4d93eb6` |
 | V10A production-complete HEAD before handoff/reporting commit | `f595292dd5604fa20f42bc303714ec7a3f0372ff` |
-| V10A handoff/reporting HEAD | this audit commit |
+| V10A handoff/reporting HEAD | `e39509b816c06ff9d8e2b5ea6fb06b5984a1dc9c` |
+| V10A.1 correction validation HEAD | resolve from the V10A.1 validation reports |
 | Current repository HEAD | resolve with `git rev-parse HEAD` at handoff time |
 
 ## Files inspected
@@ -39,7 +42,8 @@ This is an independent verification of the V10A truth-freeze controls after prod
 | Family-facing distribution is `NO GO` | PASS |
 | Public publication is `NO GO` | PASS |
 | Human gates remain open without invented reviewer names | PASS |
-| Safeguarding and child program gates block pilot | PASS |
+| Blocking-unconditional gates keep pilot at NO GO | PASS |
+| Feature-dependent gates remain disabled by founding-pilot scope | PASS |
 | Theology diagram marked `not-approved-not-for-pilot` | PASS |
 | Theology diagram excluded from Gamma and facilitator delivery | PASS |
 | Priority media records marked `reference-record-incomplete` | PASS |
@@ -72,7 +76,7 @@ Repository development and curriculum development remain active. Internal pilot,
 
 ## Human review status
 
-No human approval is claimed. All blocking pilot gates are open until named reviewer evidence is recorded.
+No human approval is claimed. All blocking-unconditional pilot gates remain open until named reviewer evidence is recorded. Feature-dependent gates remain open and disabled by founding-pilot scope.
 
 ## Deferred scope
 
@@ -84,5 +88,4 @@ No human approval is claimed. All blocking pilot gates are open until named revi
 
 ## Verdict
 
-V10A truth-freeze controls are implemented and independently verified. This is not a pilot authorization and not a publication approval.
-
+V10A truth-freeze controls were implemented and self-verified by the implementer. This is not an independent external audit, pilot authorization, or publication approval.

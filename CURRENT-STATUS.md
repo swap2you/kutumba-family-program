@@ -4,11 +4,12 @@
 
 - Overall verdict: **NO GO for internal pilot, family-facing distribution, and public publication**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **internal-development**
+- Current phase: **internal-development-paused**
 - V8 structural remediation: **completed but superseded for readiness by V9 forensic audit**
 - V9 forensic audit: **found unresolved substantive gaps**
-- V10A truth freeze: **active**
+- V10A truth freeze: **closed into safe pause**
 - Status generated: 2026-07-01
+- Pause handoff: `PROJECT-PAUSE-HANDOFF.md`
 
 ## V10A readiness verdicts
 
@@ -53,6 +54,7 @@
 | Pilot gate register | `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` |
 | Visual contact sheets | `build-evidence/visual-contact-sheets/INDEX.md` |
 | Canonical facts | `14-research-source-register/canonical-facts/` |
+| V10A.1 pause handoff | `PROJECT-PAUSE-HANDOFF.md` |
 
 ## Validation
 

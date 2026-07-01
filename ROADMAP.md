@@ -6,7 +6,7 @@ Controlled execution roadmap for the public documentation and curriculum-develop
 **Repository visibility:** Public by intentional decision during development (`https://github.com/swap2you/kutumba-family-program.git`)  
 **Status vocabulary:** `COMPLETE` · `IN PROGRESS` · `PENDING` · `BLOCKED`
 
-**V10A truth freeze (2026-07-01):** V8 structural remediation is preserved as historical evidence, but V9 found unresolved substantive gaps. Current phase is `internal-development`; internal pilot, family-facing distribution, and public publication are all `NO GO` until blocking gates in `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` close with named reviewer evidence.
+**V10A.1 safe pause (2026-07-01):** V8 structural remediation is preserved as historical evidence, but V9 found unresolved substantive gaps. Current phase is `internal-development-paused`; internal pilot, family-facing distribution, and public publication are all `NO GO` until blocking gates in `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` close with named reviewer evidence. Resume from [PROJECT-PAUSE-HANDOFF.md](PROJECT-PAUSE-HANDOFF.md).
 
 ---
 

@@ -1,14 +1,24 @@
-# V10A Independent Verification and Handoff
+# V10A Implementer Verification and Handoff
 
 ## Summary
 
-V10A corrected false readiness by adding active `internal-development` status, a pilot readiness gate register, founding-pilot scope boundaries, human-review packets, containment metadata, duplicate visual reporting, and V10A validators.
+V10A corrected false readiness by adding active `internal-development` status, a pilot readiness gate register, founding-pilot scope boundaries, human-review packets, containment metadata, duplicate visual reporting, and V10A validators. This file is implementation self-verification from the same controlled V10A Codex run, not an independent external audit.
+
+The external V9 audit remains the controlling forensic baseline. A later external V10A closure review triggered V10A.1 corrections.
 
 ## Validation
 
-- `python scripts/curriculum/run_curriculum_validation.py` passed at production-complete HEAD `f595292dd5604fa20f42bc303714ec7a3f0372ff`.
-- `powershell -File scripts/Validate-KutumbaRepository.ps1` passed at production-complete HEAD `f595292dd5604fa20f42bc303714ec7a3f0372ff`.
+- `python scripts/curriculum/run_curriculum_validation.py` passed at V10A production content/control validation HEAD `f595292dd5604fa20f42bc303714ec7a3f0372ff`.
+- `powershell -File scripts/Validate-KutumbaRepository.ps1` passed at V10A production content/control validation HEAD `f595292dd5604fa20f42bc303714ec7a3f0372ff`.
 - `scripts/curriculum/validate_v10a_truth_freeze.py` passed and wrote `build-evidence/V10A-VALIDATION-REPORT.md`.
+
+## HEAD semantics
+
+| Field | Value |
+|---|---|
+| validated_content_head | `f595292dd5604fa20f42bc303714ec7a3f0372ff` |
+| handoff_parent_head | `e39509b816c06ff9d8e2b5ea6fb06b5984a1dc9c` |
+| current_head_resolve_command | `git rev-parse HEAD` |
 
 ## Handoff status
 
@@ -24,7 +34,7 @@ V10A corrected false readiness by adding active `internal-development` status, a
 
 ## Blocking gates
 
-All 13 blocking gates in `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` remain open.
+Blocking-unconditional gates remain open. Feature-dependent gates remain open and disabled by founding-pilot scope. The rights gate remains distribution/publication blocking and is not satisfied merely because excluded media and exports are not used.
 
 ## Deferred work
 
@@ -34,4 +44,3 @@ All 13 blocking gates in `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.ya
 - Media schema completion and item-specific playback approval are deferred.
 - Gamma rendering and post-render QA are deferred.
 - Visual design, accessibility, source, pedagogy, and audience review are deferred.
-

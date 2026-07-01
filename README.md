@@ -54,7 +54,7 @@ Use `config/local-source-roots.example.yaml` as a template for local source root
 
 ## Current status
 
-See [CURRENT-STATUS.md](CURRENT-STATUS.md). As of the V10A truth freeze, the repository is in `internal-development`; internal pilot, family-facing distribution, and public publication are all `NO GO` while blocking human gates remain open. Automated validation is structural evidence only and is not doctrinal, worship, safeguarding, rights, pedagogy, design, citation, Gamma, pilot, distribution, or publication approval.
+See [CURRENT-STATUS.md](CURRENT-STATUS.md) and [PROJECT-PAUSE-HANDOFF.md](PROJECT-PAUSE-HANDOFF.md). As of the V10A.1 safe pause, the repository is in `internal-development-paused`; internal pilot, family-facing distribution, and public publication are all `NO GO` while blocking human gates remain open. Automated validation is structural evidence only and is not doctrinal, worship, safeguarding, rights, pedagogy, design, citation, Gamma, pilot, distribution, or publication approval.
 
 ## Source directory and catalog
 

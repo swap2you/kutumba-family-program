@@ -343,7 +343,7 @@ if (Test-Path -LiteralPath $v10aRegister) {
 }
 if (Test-Path -LiteralPath (Join-Path $RepoRoot "CURRENT-STATUS.md")) {
     $statusText = Get-Content -LiteralPath (Join-Path $RepoRoot "CURRENT-STATUS.md") -Raw -Encoding UTF8
-    if ($statusText -notmatch 'Current phase:\s+\*\*internal-development\*\*') { Add-Failure "CURRENT-STATUS missing V10A internal-development phase" }
+    if ($statusText -notmatch 'Current phase:\s+\*\*internal-development(?:-paused)?\*\*') { Add-Failure "CURRENT-STATUS missing V10A internal-development phase" }
     if ($statusText -notmatch 'Internal pilot \| \*\*NO GO\*\*') { Add-Failure "CURRENT-STATUS missing internal pilot NO GO" }
     if ($statusText -notmatch 'Family-facing distribution \| \*\*NO GO\*\*') { Add-Failure "CURRENT-STATUS missing family-facing distribution NO GO" }
     if ($statusText -notmatch 'Public publication \| \*\*NO GO\*\*') { Add-Failure "CURRENT-STATUS missing public publication NO GO" }
