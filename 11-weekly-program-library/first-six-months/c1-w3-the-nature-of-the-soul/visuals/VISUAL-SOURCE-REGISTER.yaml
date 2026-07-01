@@ -1,0 +1,38 @@
+module_id: C1-W3
+last_updated: '2026-07-01'
+assets:
+- asset_id: c1-w3-concept-jiva-qualities
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w3-storyboard-jada-bharata
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w3-analogy-sunray
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w3-verse-bg-2-20
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w3-session-map
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w3-home-practice
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w3-body-soul-care
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required

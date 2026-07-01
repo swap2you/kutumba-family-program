@@ -1,0 +1,10 @@
+# C1-W6 Visual Contact Sheet
+| Asset ID | Class | PNG | Source register | Rights | Review |
+|---|---|---|---|---|---|
+| `c1-w6-cycle-synthesis-map` | concept-diagram | ![c1-w6-cycle-synthesis-map](../../11-weekly-program-library/first-six-months/c1-w6-integration-night-who-am-i-and-how-should-our-family-live/visuals/png/c1-w6-cycle-synthesis-map.png) | module register | kutumba-original | human-review-required |
+| `c1-w6-memory-line-path` | comparison-chart | ![c1-w6-memory-line-path](../../11-weekly-program-library/first-six-months/c1-w6-integration-night-who-am-i-and-how-should-our-family-live/visuals/png/c1-w6-memory-line-path.png) | module register | kutumba-original | human-review-required |
+| `c1-w6-family-presentation` | analogy-diagram | ![c1-w6-family-presentation](../../11-weekly-program-library/first-six-months/c1-w6-integration-night-who-am-i-and-how-should-our-family-live/visuals/png/c1-w6-family-presentation.png) | module register | kutumba-original | human-review-required |
+| `c1-w6-integration-verses` | scripture-reference-card | ![c1-w6-integration-verses](../../11-weekly-program-library/first-six-months/c1-w6-integration-night-who-am-i-and-how-should-our-family-live/visuals/png/c1-w6-integration-verses.png) | module register | kutumba-original | human-review-required |
+| `c1-w6-session-map` | process-flow | ![c1-w6-session-map](../../11-weekly-program-library/first-six-months/c1-w6-integration-night-who-am-i-and-how-should-our-family-live/visuals/png/c1-w6-session-map.png) | module register | kutumba-original | human-review-required |
+| `c1-w6-home-practice` | family-practice-card | ![c1-w6-home-practice](../../11-weekly-program-library/first-six-months/c1-w6-integration-night-who-am-i-and-how-should-our-family-live/visuals/png/c1-w6-home-practice.png) | module register | kutumba-original | human-review-required |
+| `c1-w6-gamma-asset-sheet` | process-flow | ![c1-w6-gamma-asset-sheet](../../11-weekly-program-library/first-six-months/c1-w6-integration-night-who-am-i-and-how-should-our-family-live/visuals/png/c1-w6-gamma-asset-sheet.png) | module register | kutumba-original | human-review-required |

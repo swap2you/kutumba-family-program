@@ -1,0 +1,38 @@
+module_id: C1-W5
+last_updated: '2026-07-01'
+assets:
+- asset_id: c1-w5-concept-temporary-permanent
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w5-storyboard-dhruva
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w5-analogy-pleasure-cycle
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w5-verse-bg-5-22
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w5-session-map
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w5-home-practice
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w5-family-affection
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required

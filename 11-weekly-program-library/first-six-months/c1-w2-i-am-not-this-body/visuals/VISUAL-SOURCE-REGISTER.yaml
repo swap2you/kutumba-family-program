@@ -1,0 +1,38 @@
+module_id: C1-W2
+last_updated: '2026-07-01'
+assets:
+- asset_id: c1-w2-concept-life-stages
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w2-storyboard-chariot
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w2-analogy-driver-vehicle
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w2-analogy-changing-clothes
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w2-verse-bg-2-13
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w2-session-map
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w2-home-practice
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required

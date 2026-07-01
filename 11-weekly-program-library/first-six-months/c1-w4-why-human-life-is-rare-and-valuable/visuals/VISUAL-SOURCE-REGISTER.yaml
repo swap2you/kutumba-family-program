@@ -1,0 +1,38 @@
+module_id: C1-W4
+last_updated: '2026-07-01'
+assets:
+- asset_id: c1-w4-concept-opportunity-path
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w4-storyboard-mrgari
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w4-analogy-crossroads
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w4-verse-bg-2-40
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w4-session-map
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w4-home-practice
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w4-compassion-map
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required

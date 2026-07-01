@@ -1,0 +1,38 @@
+module_id: C1-W6
+last_updated: '2026-07-01'
+assets:
+- asset_id: c1-w6-cycle-synthesis-map
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w6-memory-line-path
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w6-family-presentation
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w6-integration-verses
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w6-session-map
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w6-home-practice
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required
+- asset_id: c1-w6-gamma-asset-sheet
+  source_keys:
+  - module-research-pack
+  rights_status: kutumba-original
+  review_status: human-review-required

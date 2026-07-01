@@ -3,10 +3,22 @@
   <title>Integration Verse Card</title>
   <desc>Cycle 1 key verses review</desc>
   <rect width="800" height="520" fill="#faf8f5"/>
-<text x="400" y="48" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="22" font-weight="600">Integration Verse Card</text>
-<text x="60" y="100" font-family="Segoe UI,sans-serif" font-size="16" fill="#333">Cycle 1 key verses review</text>
-<text x="60" y="128" font-family="Segoe UI,sans-serif" font-size="16" fill="#333">Asset class: scripture-reference-card</text>
-<text x="60" y="156" font-family="Segoe UI,sans-serif" font-size="16" fill="#333">Source anchors: see module research pack</text>
-<text x="60" y="184" font-family="Segoe UI,sans-serif" font-size="16" fill="#333">Rights: kutumba-original</text>
-<text x="400" y="490" text-anchor="middle" font-size="12" fill="#666">KUTUMBA-original · c1-w6-integration-verses · human doctrinal review required</text>
+<text x="400" y="42" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="20" font-weight="600">Integration Verse Card</text>
+<rect x="100" y="70" width="600" height="8" fill="#e65100"/><rect x="120" y="88" width="560" height="60" rx="8" fill="#fff8e1" stroke="#4a6fa5" stroke-width="2"/>
+<text x="400" y="116" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Cycle 1 key verses</text>
+<text x="400" y="136" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#444">KUTUMBA paraphrase — not full translation</text>
+<rect x="120" y="155" width="560" height="80" rx="6" fill="#ffffff" stroke="#ccc"/><text x="140" y="180" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="13" font-weight="normal" fill="#333">SB 1.2.18 · BG 2.13 · BG 2.20 · BG 2.40 · BG 5.22 — paraphrase review only</text>
+<rect x="120" y="250" width="260" height="40" rx="8" fill="#e3f2fd" stroke="#4a6fa5" stroke-width="2"/>
+<text x="250" y="278" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Source link</text>
+<text x="250" y="298" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#444">QR-ready URL</text>
+<text x="140" y="275" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="10" font-weight="normal" fill="#333">https://vedabase.io/en/library/sb/1/2/</text>
+<rect x="420" y="250" width="260" height="40" rx="8" fill="#f3e5f5" stroke="#4a6fa5" stroke-width="2"/>
+<text x="550" y="278" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Catalog key</text>
+<text x="550" y="298" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#444">Cycle 1 verse set</text>
+<rect x="120" y="310" width="560" height="50" rx="8" fill="#ffebee" stroke="#4a6fa5" stroke-width="2"/>
+<text x="400" y="338" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Misconception boundary</text>
+<text x="400" y="358" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#444">No new verses introduced tonight</text>
+<line x1="120" y1="380" x2="680" y2="380" stroke="#4a6fa5" stroke-width="1"/><text x="400" y="498" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#666">
+    KUTUMBA-original · c1-w6-integration-verses · Cycle 1 verse set · human doctrinal review required
+  </text>
 </svg>
