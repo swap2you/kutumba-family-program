@@ -41,7 +41,7 @@ Use `config/local-source-roots.example.yaml` as a template for local source root
 | `06-prasadam-operations/` | Prasāda and weekly operations |
 | `07-kirtana-worship-bhakti-labs/` | Worship and bhakti laboratories |
 | `08-festivals-yatras-calendar/` | Festivals and calendar |
-| `09-digital-repository-publishing/` | Digital library (gap — source not supplied) |
+| `09-digital-repository-publishing/` | Public source map, source directory, and publishing indexes (operating manual not supplied) |
 | `10-kutumba-setu/` | KUTUMBA Setu (gap — draft required) |
 | `11-weekly-program-library/` | Weekly lesson packs |
 | `12-family-facing-library/` | Family-facing publication index (planned) |
@@ -54,7 +54,18 @@ Use `config/local-source-roots.example.yaml` as a template for local source root
 
 ## Current status
 
-See [CURRENT-STATUS.md](CURRENT-STATUS.md) and [build-evidence/FINAL-BUILD-REPORT.md](build-evidence/FINAL-BUILD-REPORT.md).
+See [CURRENT-STATUS.md](CURRENT-STATUS.md), [build-evidence/V6-FINAL-CONTENT-TRUTH-REPORT.md](build-evidence/V6-FINAL-CONTENT-TRUTH-REPORT.md), and [17-reviews-and-audits/V6-INDEPENDENT-PILOT-READINESS-AUDIT.md](17-reviews-and-audits/V6-INDEPENDENT-PILOT-READINESS-AUDIT.md).
+
+## Source directory and catalog
+
+| Artifact | Path |
+|---|---|
+| Public source map | `09-digital-repository-publishing/PUBLIC-SOURCE-MAP-FOR-PRABHUPADA-AND-SANATANA-CONTENT.md` |
+| Public source directory | `09-digital-repository-publishing/PUBLIC-SOURCE-DIRECTORY.md` |
+| Master catalog | `14-research-source-register/public-source-catalog/MASTER-SOURCE-CATALOG.yaml` |
+| Source manifest (14 originals) | `00-source-materials/SOURCE-MANIFEST.yaml` |
+
+Workstream 9: public source-map and source-directory components are complete; the full Digital Repository Operating Manual has not been supplied.
 
 ## Weekly material
 
@@ -74,6 +85,9 @@ Open a change against the canonical Markdown file, cite the source ID, and add a
 ## Validation
 
 ```powershell
+python scripts/curriculum/run_curriculum_validation.py
+python scripts/sources/reconcile_source_map_urls.py
+python scripts/sources/validate_catalog_consistency.py
 powershell -File scripts/Validate-KutumbaRepository.ps1
 ```
 

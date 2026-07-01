@@ -43,18 +43,32 @@ Every phase row includes: **Phase ID**, **Outcome**, **Deliverables**, **Source 
 
 ## 2. Current baseline
 
-Independent audit at `17-reviews-and-audits/INDEPENDENT-REPOSITORY-AUDIT.md` records verdict **GO WITH CONDITIONS** at baseline commit `0c08d04`. Validation: `powershell -File scripts/Validate-KutumbaRepository.ps1` → **PASS** (0 critical failures).
+**V6 content-truth baseline (2026-06-29):** see `build-evidence/V6-CONTENT-TRUTH-BASELINE.md` and `17-reviews-and-audits/V6-INDEPENDENT-PILOT-READINESS-AUDIT.md`.
 
 | Metric | Value | Evidence path |
 |---|---|---|
-| Source originals ingested | 12 | `00-source-materials/01-current-kutumba-originals/`, `SOURCE-MANIFEST.yaml` |
+| Source originals ingested | **14** | `00-source-materials/SOURCE-MANIFEST.yaml` |
+| Public source catalog | **78** entries | `14-research-source-register/public-source-catalog/MASTER-SOURCE-CATALOG.yaml` |
+| Source-map URL reconciliation | **78/78** | `scripts/sources/reconcile_source_map_urls.py` |
+| First-six-month active weeks | 18 (C1-W1 … C3-W6) | `11-weekly-program-library/first-six-months/` |
+| Cycle 1 pilot pack | draft internal | `13-facilitator-library/cycle-1-pilot/` |
+| C1-W2 gold pilot | preserved | `c1-w2-i-am-not-this-body/` |
+| Workstream 9 | partial — map/directory complete; manual gap | `09-digital-repository-publishing/` |
+| KUTUMBA Setu | not approved | `10-kutumba-setu/` |
+| Human review gates | open all modules | `00-foundation/REVIEW-QUEUE.md` |
+| Publication readiness | **not-ready** | `CURRENT-STATUS.md` |
+
+### Historical baseline (pre-v5)
+
+Independent audit at `17-reviews-and-audits/INDEPENDENT-REPOSITORY-AUDIT.md` records verdict **GO WITH CONDITIONS** at baseline commit `0c08d04`.
+
+| Metric | Value | Evidence path |
+|---|---|---|
+| Source originals ingested (historical) | 12 | superseded — now 14 |
 | Legacy/reference indexed | 1,773 (metadata only) | `00-source-materials/03-external-reference-index/` |
 | Canonical MD operating documents | 9 | `build-evidence/DOCUMENT-PARITY-REPORT.md` |
-| First-six-month active weeks | 18 (C1-W1 … C3-W6) | `03-first-six-months/FIRST-SIX-MONTH-DETAILED-CURRICULUM.md` |
-| Weekly derivative folders | 18 | `11-weekly-program-library/first-six-months/` |
 | Three-year active-week architecture | 120 weeks | `02-curriculum-architecture/THREE-YEAR-CURRICULUM-ARCHITECTURE.md` |
-| Production prompts | 19 | `16-prompt-library/` |
-| Open human review gates | Worship, safeguarding, rights (legacy) | `00-foundation/REVIEW-QUEUE.md` |
+| Production prompts | 19+ | `16-prompt-library/` |
 
 ### Phase: RM-BASE
 

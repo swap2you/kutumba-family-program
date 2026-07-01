@@ -1,8 +1,9 @@
 register_version: "1.0.0"
 accepted_baseline_tag: kutumba-source-architecture-baseline-v1.0.0
 accepted_at_head: fe84ed0b374917c849e1774b3a7e3173037c5b3e
-last_updated: "2026-06-30"
+last_updated: "2026-06-29"
 v5_stabilization_complete: true
+v6_cycle1_content_truth_complete: true
 structural_acceptance: true
 human_doctrinal_approval: false
 publication_ready: false
