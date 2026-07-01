@@ -73,6 +73,8 @@ Depth values below describe content-development maturity only. They are not pilo
 - Gamma decks are not rendered or approved.
 - External media curation is incomplete.
 - Theology diagram material is excluded and not approved for pilot.
+- Child/Lāla–Lālī/Kiśora–Kiśorī program delivery is not approved.
+- Child-facing content is browse/review-only until safeguarding, child-protection operations, pedagogy, doctrine/citation, worship where applicable, and pilot-operations gates close.
 - Family-facing distribution is NO GO.
 - Public publication is NO GO.
 

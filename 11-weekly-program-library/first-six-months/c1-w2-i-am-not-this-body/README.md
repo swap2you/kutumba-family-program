@@ -32,6 +32,7 @@ This week teaches one foundational distinction: the **body changes** (childhood,
 | Track | Link |
 | --- | --- |
 | **Parent / adult** | [parent-lesson.md](parent-lesson.md) |
+| **Children combined/overview** | [children/lesson.md](children/lesson.md) |
 | **Lāla–Lālī (4–8)** | [children/lala-lali-lesson.md](children/lala-lali-lesson.md) |
 | **Kiśora–Kiśorī (9–14)** | [children/kisora-kisori-lesson.md](children/kisora-kisori-lesson.md) |
 | **Family reunification** | [children/shared-family-transition.md](children/shared-family-transition.md) |

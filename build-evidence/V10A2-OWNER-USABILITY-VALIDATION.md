@@ -49,3 +49,14 @@ Tracked validation reports regenerated during this pass:
 - Family-facing distribution: NO GO.
 - Public publication: NO GO.
 - Human approval claimed: none.
+
+## V10A.2.1 closure
+
+| Check | Result |
+|---|---|
+| README directly links weekly index | PASS |
+| Historical build report is clearly superseded | PASS |
+| Child-program restriction is explicit | PASS |
+| All 18 module READMEs expose available age-band child links | PASS |
+| Duplicate START-HERE task rows are removed | PASS |
+| Readiness verdicts remain unchanged | PASS: internal pilot NO GO; family-facing distribution NO GO; public publication NO GO |

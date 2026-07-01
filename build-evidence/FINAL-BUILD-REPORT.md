@@ -1,5 +1,7 @@
 # FINAL BUILD REPORT
 
+> Historical foundation build report generated 2026-06-29. Superseded for current readiness by [CURRENT-STATUS.md](../CURRENT-STATUS.md), [PROJECT-PAUSE-HANDOFF.md](../PROJECT-PAUSE-HANDOFF.md), and [V10A1-EXTERNAL-CLOSURE-REVIEW.md](../17-reviews-and-audits/V10A1-EXTERNAL-CLOSURE-REVIEW.md). Current phase is `internal-development-paused`; internal pilot, family-facing distribution, and public publication are `NO GO`.
+
 Generated: 2026-06-29
 
 ## 1. Executive verdict

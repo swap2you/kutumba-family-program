@@ -8,7 +8,7 @@ Public documentation and curriculum-development repository for the KUTUMBA famil
 
 KUTUMBA is a family-oriented Krishna consciousness formation program. This repository holds operating models, curriculum architecture, detailed lessons, governance documents, and controlled production prompts. It does **not** contain an application, API, database, or public website implementation.
 
-> Project owner or reviewer: start with [START-HERE.md](START-HERE.md). For comfortable browsing, use [KUTUMBA-READER-HOME.md](KUTUMBA-READER-HOME.md). For pause/resume instructions, use [PROJECT-PAUSE-HANDOFF.md](PROJECT-PAUSE-HANDOFF.md).
+> Project owner or reviewer: start with [START-HERE.md](START-HERE.md). For direct week-by-week navigation, use [WEEKLY-PROGRAM-INDEX.md](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md). For comfortable browsing, use [KUTUMBA-READER-HOME.md](KUTUMBA-READER-HOME.md). For pause/resume instructions, use [PROJECT-PAUSE-HANDOFF.md](PROJECT-PAUSE-HANDOFF.md).
 
 ## Licence and rights
 
@@ -117,4 +117,4 @@ Do not bulk-copy copyrighted PDF libraries, books, or third-party training packs
 - [ROADMAP.md](ROADMAP.md)
 - [LICENSE.md](LICENSE.md)
 - [GOVERNANCE.md](GOVERNANCE.md)
-- [build-evidence/FINAL-BUILD-REPORT.md](build-evidence/FINAL-BUILD-REPORT.md)
+- [Historical foundation build report — superseded for readiness by CURRENT-STATUS.md](build-evidence/FINAL-BUILD-REPORT.md)

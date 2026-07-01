@@ -35,7 +35,9 @@ Use the before–during–after method once on a routine duty.
 - [learning-outcomes.md](learning-outcomes.md)
 - [prem-ki-katha.md](prem-ki-katha.md)
 - [parent-lesson.md](parent-lesson.md)
-- [children/lesson.md](children/lesson.md)
+- [children/lesson.md](children/lesson.md) — combined/overview child lesson
+- [children/lala-lali-lesson.md](children/lala-lali-lesson.md)
+- [children/kisora-kisori-lesson.md](children/kisora-kisori-lesson.md)
 - [analogy-and-application.md](analogy-and-application.md)
 - [questions.md](questions.md)
 - [bhakti-lab.md](bhakti-lab.md)

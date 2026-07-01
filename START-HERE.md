@@ -25,10 +25,8 @@ Read the controlling status files:
 | I need to... | Open |
 |---|---|
 | Understand the project | [Master operating model](00-foundation/MASTER-OPERATING-MODEL.md) |
-| Browse the first six months | [Weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) |
-| Open one complete week | [Weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) |
-| Review parent content | [Weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) |
-| Review child content | [Weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) |
+| Browse or open any of the 18 weeks | [Weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) |
+| Review parent and age-band child content | [Weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) |
 | Review safety and approvals | [Human review start page](17-reviews-and-audits/HUMAN-REVIEW-START-HERE.md) |
 | Understand what is blocked | [Current status](CURRENT-STATUS.md) and [gate register](17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml) |
 | Resume repository work later | [Project pause handoff](PROJECT-PAUSE-HANDOFF.md) |
