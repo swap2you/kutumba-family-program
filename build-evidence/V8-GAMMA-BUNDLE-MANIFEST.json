@@ -1,0 +1,35 @@
+{
+  "generated": "2026-07-01T12:44:23.148440+00:00",
+  "modules": [
+    {
+      "module": "C1-W1",
+      "path": "build-evidence\\exports\\Cycle-1-Gamma-Bundle\\C1-W1",
+      "asset_count": 14
+    },
+    {
+      "module": "C1-W2",
+      "path": "build-evidence\\exports\\Cycle-1-Gamma-Bundle\\C1-W2",
+      "asset_count": 14
+    },
+    {
+      "module": "C1-W3",
+      "path": "build-evidence\\exports\\Cycle-1-Gamma-Bundle\\C1-W3",
+      "asset_count": 14
+    },
+    {
+      "module": "C1-W4",
+      "path": "build-evidence\\exports\\Cycle-1-Gamma-Bundle\\C1-W4",
+      "asset_count": 14
+    },
+    {
+      "module": "C1-W5",
+      "path": "build-evidence\\exports\\Cycle-1-Gamma-Bundle\\C1-W5",
+      "asset_count": 14
+    },
+    {
+      "module": "C1-W6",
+      "path": "build-evidence\\exports\\Cycle-1-Gamma-Bundle\\C1-W6",
+      "asset_count": 14
+    }
+  ]
+}

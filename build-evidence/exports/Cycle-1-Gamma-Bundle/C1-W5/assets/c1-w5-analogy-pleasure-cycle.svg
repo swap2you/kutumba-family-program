@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+  <title>Pleasure Cycle</title>
+  <desc>Temporary enjoyment with gratitude</desc>
+  <rect width="800" height="520" fill="#faf8f5"/>
+<text x="400" y="42" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="20" font-weight="600">Pleasure Cycle</text>
+<rect x="60" y="80" width="300" height="180" rx="8" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/>
+<text x="210" y="108" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Sparkler</text>
+<rect x="440" y="80" width="300" height="180" rx="8" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/>
+<text x="590" y="108" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Senses + objects</text>
+<text x="80" y="120" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="11" font-weight="normal" fill="#333">• bright moment</text>
+<text x="80" y="142" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="11" font-weight="normal" fill="#333">• burns out</text>
+<text x="80" y="164" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="11" font-weight="normal" fill="#333">• want another</text>
+<text x="460" y="120" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="11" font-weight="normal" fill="#333">• contact</text>
+<text x="460" y="142" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="11" font-weight="normal" fill="#333">• brief joy</text>
+<text x="460" y="164" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="11" font-weight="normal" fill="#333">• repeat craving</text>
+<rect x="60" y="290" width="320" height="50" rx="8" fill="#e8f5e9" stroke="#4a6fa5" stroke-width="2"/>
+<text x="220" y="318" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Teaches</text>
+<text x="220" y="338" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#444">Pleasures born of contact are temporary</text>
+<rect x="420" y="290" width="320" height="50" rx="8" fill="#ffebee" stroke="#4a6fa5" stroke-width="2"/>
+<text x="580" y="318" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Does NOT teach</text>
+<text x="580" y="338" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#444">Not condemnation of lawful affection</text>
+<text x="60" y="380" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="11" font-weight="normal" fill="#333">Source: BG-5-22</text>
+<text x="400" y="498" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#666">
+    KUTUMBA-original · c1-w5-analogy-pleasure-cycle · BG-5-22 · human doctrinal review required
+  </text>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+  <title>Body and Soul Care</title>
+  <desc>Care for body without contempt</desc>
+  <rect width="800" height="520" fill="#faf8f5"/>
+<defs>
+  <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#4a6fa5"/>
+  </marker>
+</defs>
+<text x="400" y="42" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="20" font-weight="600">Body and Soul Care</text>
+<circle cx="400" cy="250" r="70" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/><text x="400" y="255" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" font-weight="600" fill="#333">Whole person</text>
+<rect x="330" y="75" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/>
+<text x="400" y="103" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Rest</text>
+<line x1="400" y1="250" x2="400" y2="100" stroke="#4a6fa5" stroke-width="2" marker-end="url(#arrowhead)"/>
+<rect x="459" y="150" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/>
+<text x="529" y="178" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Nutrition</text>
+<line x1="400" y1="250" x2="529" y2="175" stroke="#4a6fa5" stroke-width="2" marker-end="url(#arrowhead)"/>
+<rect x="459" y="300" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/>
+<text x="529" y="328" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Hygiene</text>
+<line x1="400" y1="250" x2="529" y2="325" stroke="#4a6fa5" stroke-width="2" marker-end="url(#arrowhead)"/>
+<rect x="330" y="375" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/>
+<text x="400" y="403" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Speech</text>
+<line x1="400" y1="250" x2="400" y2="400" stroke="#4a6fa5" stroke-width="2" marker-end="url(#arrowhead)"/>
+<rect x="200" y="300" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/>
+<text x="270" y="328" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Study</text>
+<line x1="400" y1="250" x2="270" y2="325" stroke="#4a6fa5" stroke-width="2" marker-end="url(#arrowhead)"/>
+<rect x="200" y="150" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5" stroke-width="2"/>
+<text x="270" y="178" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600">Service</text>
+<line x1="400" y1="250" x2="270" y2="175" stroke="#4a6fa5" stroke-width="2" marker-end="url(#arrowhead)"/>
+<text x="60" y="470" text-anchor="start" font-family="Segoe UI,sans-serif" font-size="11" font-weight="normal" fill="#333">Source: BG-2-20; pedagogy</text>
+<text x="400" y="498" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#666">
+    KUTUMBA-original · c1-w3-body-soul-care · BG-2-20; pedagogy · human doctrinal review required
+  </text>
+</svg>
