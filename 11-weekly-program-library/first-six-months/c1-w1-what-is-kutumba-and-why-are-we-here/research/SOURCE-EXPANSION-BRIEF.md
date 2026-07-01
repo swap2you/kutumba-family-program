@@ -80,7 +80,7 @@ Align narrative claims with `katha/KATHA-SOURCE-REGISTER.yaml`. Paraphrase only 
 
 | Curriculum claim | Source ref | VedaBase / catalog URL | Module use |
 | --- | --- | --- | --- |
-| KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture series. | Śrīmad-Bhāgavatam 1.2.18 — nityaṁ bhāgavata-sevayā | [https://vedabase.io/en/library/sb/1/2/18/](https://vedabase.io/en/library/sb/1/2/18/) | Core teaching |
+| KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture series. | KUT-CHARTER §6 (primary); SB 1.2.18 (theological support for hearing) | [Charter overview](../overview.md); [SB 1.2.18](https://vedabase.io/en/library/sb/1/2/18/) | Core teaching |
 
 ## Tier A entry points
 

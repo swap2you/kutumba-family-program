@@ -8,7 +8,7 @@ facts:
     misleading_or_prohibited_wording:
       - "Bhāgavata as the ripened fruit of Vedic knowledge"
       - "SB 1.2.17 is the fruit-of-Vedas verse"
-    primary_source_keys: [PSC-VEDABASE-SB-1-2-17]
+    primary_source_keys: [SB-1-2-17]
     stable_links: [https://vedabase.io/en/library/sb/1/2/17/]
     context_note: "Verse-accurate paraphrase only; no full purport in Git."
     module_applicability: [C1-W1]
@@ -20,7 +20,7 @@ facts:
     canonical_wording: "Śrīmad-Bhāgavatam 1.2.18 describes regular hearing and service to Śrīmad-Bhāgavatam cleansing the heart and fixing irrevocable devotional service."
     compact_teaching_wording: "Regular Bhāgavata hearing and service steadies devotion."
     misleading_or_prohibited_wording: []
-    primary_source_keys: [PSC-VEDABASE-SB-1-2-18]
+    primary_source_keys: [SB-1-2-18]
     stable_links: [https://vedabase.io/en/library/sb/1/2/18/]
     module_applicability: [C1-W1]
     doctrinal_review_status: human-review-required
@@ -32,8 +32,8 @@ facts:
     compact_teaching_wording: "Steady hearing helps passion and ignorance recede."
     misleading_or_prohibited_wording:
       - "Devotion fixed after taste develops"
-      - "Irrevocable devotion after daily service" as sole label for 1.2.19
-    primary_source_keys: [PSC-VEDABASE-SB-1-2-19]
+      - '"Irrevocable devotion after daily service" as sole label for 1.2.19'
+    primary_source_keys: [SB-1-2-19]
     stable_links: [https://vedabase.io/en/library/sb/1/2/19/]
     module_applicability: [C1-W1]
     doctrinal_review_status: human-review-required
@@ -45,8 +45,8 @@ facts:
     compact_teaching_wording: "The Bhāgavatam begins by honoring the Absolute Truth as the source of everything."
     misleading_or_prohibited_wording:
       - "1.1.1 is the sages' inquiry"
-      - "Inquiry at Naimiṣāraṇya opens the Bhāgavatam" applied to 1.1.1 alone
-    primary_source_keys: [PSC-VEDABASE-SB-1-1-1]
+      - '"Inquiry at Naimiṣāraṇya opens the Bhāgavatam" applied to 1.1.1 alone'
+    primary_source_keys: [SB-1-1-1]
     stable_links: [https://vedabase.io/en/library/sb/1/1/1/]
     module_applicability: [C1-W1]
     doctrinal_review_status: human-review-required
@@ -57,7 +57,7 @@ facts:
     canonical_wording: "From Śrīmad-Bhāgavatam 1.1.4 onward the sages assemble at Naimiṣāraṇya and inquire about duty after Kṛṣṇa's departure."
     compact_teaching_wording: "Sages at Naimiṣāraṇya ask what thoughtful persons should do in Kali-yuga."
     misleading_or_prohibited_wording: []
-    primary_source_keys: [PSC-VEDABASE-SB-1-1]
+    primary_source_keys: [SB-1-1-4]
     stable_links: [https://vedabase.io/en/library/sb/1/1/4/]
     module_applicability: [C1-W1]
     doctrinal_review_status: human-review-required
@@ -82,7 +82,7 @@ facts:
     misleading_or_prohibited_wording:
       - "Kṛṣṇa's birth in Vṛndāvana"
       - "born in Vṛndāvana"
-    primary_source_keys: [PSC-VEDABASE-SB-10-3]
+    primary_source_keys: [SB-10-3-1]
     stable_links: [https://vedabase.io/en/library/sb/10/3/1/]
     module_applicability: [C3-W2]
     doctrinal_review_status: human-review-required

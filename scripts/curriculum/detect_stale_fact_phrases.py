@@ -4,7 +4,16 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
-SKIP = ("16-prompt-library", "99-archive", "build-evidence/V6-", "build-evidence/V5-", "canonical-facts/CANONICAL-FACT-REGISTRY")
+SKIP = (
+    "16-prompt-library",
+    "99-archive",
+    "build-evidence/",
+    "canonical-facts/",
+    "17-reviews-and-audits/V7-",
+    "17-reviews-and-audits/V6-",
+    "scripts/v7/",
+)
+SCAN_SUFFIXES = {".md", ".yaml", ".yml", ".mmd", ".svg", ".html", ".txt", ".csv", ".json", ".py"}
 
 PHRASES = [
     ("Bhāgavata as the ripened fruit of Vedic knowledge", "V7-F001"),
@@ -17,9 +26,15 @@ PHRASES = [
 def main() -> int:
     failures = []
     for p in REPO.rglob("*"):
-        if not p.is_file() or p.suffix.lower() not in {".md", ".yaml", ".yml"}:
+        if not p.is_file() or p.suffix.lower() not in SCAN_SUFFIXES:
             continue
+        if p.suffix.lower() == ".py":
+            rel_parts = p.as_posix()
+            if "scripts/curriculum" not in rel_parts and "scripts/v8" not in rel_parts:
+                continue
         rel = p.as_posix()
+        if p.name == "detect_stale_fact_phrases.py":
+            continue
         if any(s in rel for s in SKIP):
             continue
         text = p.read_text(encoding="utf-8", errors="ignore")
@@ -28,7 +43,7 @@ def main() -> int:
                 failures.append(f"{rel}: stale phrase [{fid}] {phrase[:40]}...")
     if failures:
         for f in failures[:30]:
-            print(f"FAIL: {f}")
+            sys.stdout.buffer.write(f"FAIL: {f}\n".encode("utf-8", errors="replace"))
         print(f"Total: {len(failures)}")
         return 1
     print("PASS: no stale fact phrases in active files")
