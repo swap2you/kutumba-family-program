@@ -1,0 +1,25 @@
+module_id: ""
+manifest_version: "2.0.0"
+assets:
+  - asset_id: ""
+    title: ""
+    asset_class: ""
+    audience: []
+    teaching_purpose: ""
+    canonical_fact_ids: []
+    source_keys: []
+    source_links: []
+    source_svg: ""
+    rendered_svg: ""
+    rendered_png: ""
+    viewbox: ""
+    png_dimensions: ""
+    generation_method: ""
+    alt_text: ""
+    rights_status: "kutumba-original"
+    permission_record: ""
+    doctrinal_review: "human-review-required"
+    design_review: "human-review-required"
+    rights_review: "human-review-required"
+    gamma_card_uses: []
+    status: "draft"

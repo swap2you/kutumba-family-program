@@ -1,0 +1,20 @@
+asset_id: ""
+path: ""
+declared_class: ""
+detected_class: ""
+svg_metrics:
+  text_elements: 0
+  unique_text_labels: 0
+  rect_elements: 0
+  non_background_rects: 0
+  circle_elements: 0
+  ellipse_elements: 0
+  line_elements: 0
+  path_elements: 0
+  polygon_elements: 0
+  marker_elements: 0
+  group_elements: 0
+metadata_only_phrases: []
+substance_status: "placeholder|draft|meaningful"
+reviewer: ""
+notes: ""
