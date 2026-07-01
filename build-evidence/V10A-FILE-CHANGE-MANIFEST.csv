@@ -8,3 +8,8 @@ build-evidence/V10A-FINDINGS-TRACEABILITY.yaml,create,F-V9-001;F-V9-002;F-V9-003
 build-evidence/V10A-FILE-CHANGE-MANIFEST.csv,create,F-V9-012,V10A changed-file manifest
 17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml,create,F-V9-004;F-V9-010;F-V9-001;F-V9-002;F-V9-003;F-V9-007;F-V9-009,pilot gate register with all gates open by default
 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md,create,F-V9-004;F-V9-006;F-V9-001;F-V9-002;F-V9-003;F-V9-010,founding pilot NO GO scope declaration
+17-reviews-and-audits/review-packets/safeguarding-review-packet.md,create,F-V9-004;F-V9-010,safeguarding human review package
+17-reviews-and-audits/review-packets/worship-review-packet.md,create,F-V9-004;F-V9-009,worship human review package
+17-reviews-and-audits/review-packets/doctrine-and-citation-review-packet.md,create,F-V9-001;F-V9-004;F-V9-011,doctrine and citation human review package
+17-reviews-and-audits/review-packets/visual-pedagogy-accessibility-review-packet.md,create,F-V9-004;F-V9-007;F-V9-008,visual pedagogy accessibility human review package
+17-reviews-and-audits/review-packets/rights-and-media-review-packet.md,create,F-V9-002;F-V9-003;F-V9-004;F-V9-009,rights and media human review package
