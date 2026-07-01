@@ -1,0 +1,6 @@
+metric,value,notes
+authoritative_source_map_url_count,77,reconcile_source_map_urls.py
+catalog_entry_count,78,MASTER-SOURCE-CATALOG.yaml
+catalog_entries_not_directly_from_source_map,1,Gita Press alias
+normalized_duplicate_count,1,srsltid duplicate removed
+reconciliation_missing_urls,0,

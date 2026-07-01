@@ -1,0 +1,26 @@
+manifest_version: "1.0.0"
+module_id: ""
+assets:
+  - asset_id: ""
+    title: ""
+    asset_class: "concept-diagram"
+    teaching_purpose: ""
+    audience: []
+    canonical_fact_ids: []
+    source_keys: []
+    source_links: []
+    source_file: ""
+    rendered_files: []
+    width: null
+    height: null
+    svg_viewbox: ""
+    alt_text_id: ""
+    rights_status: "kutumba-original"
+    external_reference_url: ""
+    permission_record: ""
+    generation_method: ""
+    doctrinal_review_status: "human-review-required"
+    design_review_status: "human-review-required"
+    rights_review_status: "human-review-required"
+    gamma_uses: []
+    status: "draft"

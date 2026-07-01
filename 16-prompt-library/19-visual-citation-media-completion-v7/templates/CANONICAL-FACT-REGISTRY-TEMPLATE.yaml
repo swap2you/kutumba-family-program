@@ -1,0 +1,20 @@
+registry_version: "1.0.0"
+facts:
+  - fact_id: "FACT-EXAMPLE"
+    domain: "scripture|governance|pedagogy|safeguarding|history"
+    canonical_wording: ""
+    compact_teaching_wording: ""
+    misleading_or_prohibited_wording: []
+    primary_source_keys: []
+    stable_links: []
+    context_note: ""
+    module_applicability: []
+    audience_notes:
+      parent: ""
+      lala_lali: ""
+      kisora_kisori: ""
+    visual_implications: []
+    rights_posture: "link-and-metadata-only"
+    doctrinal_review_status: "human-review-required"
+    reviewer: ""
+    last_checked: ""

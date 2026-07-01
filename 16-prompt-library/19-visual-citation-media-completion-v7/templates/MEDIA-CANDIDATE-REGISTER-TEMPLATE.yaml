@@ -1,0 +1,31 @@
+catalog_version: "1.0.0"
+module_id: ""
+media:
+  - media_id: ""
+    speaker_or_creator: ""
+    exact_title: ""
+    date: ""
+    place: ""
+    source_name: ""
+    stable_url: ""
+    media_type: ""
+    language: ""
+    total_duration: ""
+    recommended_excerpt:
+      start: ""
+      end: ""
+      verified: false
+    transcript_url: ""
+    relevance_summary: ""
+    supported_claim_ids: []
+    intended_audience: []
+    age_suitability: ""
+    sensitive_content_note: ""
+    authority_tier: ""
+    rights_posture: "link-and-metadata-only"
+    republication_permission: "not-granted"
+    link_status: ""
+    doctrinal_review_status: "human-review-required"
+    pedagogy_review_status: "human-review-required"
+    selection_status: "candidate"
+    rejection_or_deferral_reason: ""
