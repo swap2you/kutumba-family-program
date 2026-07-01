@@ -22,6 +22,9 @@ SEMANTIC = [
     "validate_review_status_honesty.py",
     "detect_truncation_artifacts.py",
     "measure_live_session_load.py",
+    "audit_katha_narrative_depth.py",
+    "validate_claim_source_support.py",
+    "validate_newcomer_glossary.py",
 ]
 SOURCE = [
     "validate_source_registry.py",

@@ -5,6 +5,8 @@ Auditor: automated independent sample + full validator suite
 Repository: `swap2you/kutumba-family-program` (PUBLIC)  
 HEAD: `5b1b37638cc126a9d93aae39ce27c91b41157216`
 
+> **Supersession (v6, 2026-06-29):** Operational pilot-readiness and Cycle 1 content-truth status are governed by `17-reviews-and-audits/V6-INDEPENDENT-PILOT-READINESS-AUDIT.md`. This v5 audit is preserved as historical evidence; findings below are not retracted but may be refined by v6 metrics (catalog 78 entries, narrative-only kathā depth, semantic claim typing).
+
 ## Verdict
 
 **GO WITH CONDITIONS** — source integrity and curriculum depth materially improved; human doctrinal, worship, rights, and pedagogy gates remain **OPEN**. **Not publication-ready.**

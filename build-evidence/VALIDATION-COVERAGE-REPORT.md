@@ -1,7 +1,7 @@
 # Validation Coverage Report
 
-Generated: 2026-06-30T23:36:40Z
-HEAD: `5b1b37638cc126a9d93aae39ce27c91b41157216`
+Generated: 2026-07-01T01:27:16Z
+HEAD: `9e37dec187d6ca86c82f0aae8f52657cc9b8df0a`
 
 ## Verdicts by category
 
@@ -20,7 +20,7 @@ HEAD: `5b1b37638cc126a9d93aae39ce27c91b41157216`
 ## Scripts executed
 
 Structural: validate_week_schema.py, validate_age_bands.py, validate_visual_assets.py, validate_media_indexes.py, validate_internal_links.py
-Semantic: validate_gamma_briefs.py, validate_prem_ki_katha.py, validate_review_status_honesty.py, detect_truncation_artifacts.py, measure_live_session_load.py
+Semantic: validate_gamma_briefs.py, validate_prem_ki_katha.py, validate_review_status_honesty.py, detect_truncation_artifacts.py, measure_live_session_load.py, audit_katha_narrative_depth.py, validate_claim_source_support.py, validate_newcomer_glossary.py
 Source: validate_source_registry.py, validate_claim_register.py, detect_unverified_claims.py, detect_copyright_risk.py
 Reporting: build_week_quality_dashboard.py, build_cycle_coverage_report.py, generate_curriculum_status.py
 

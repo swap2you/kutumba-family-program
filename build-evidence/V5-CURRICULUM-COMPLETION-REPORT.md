@@ -19,3 +19,5 @@ Generated: 2026-06-30
 - Others: `deepened-draft`
 
 Publication: **not-ready** — human gates open
+
+> **Supersession (v6, 2026-06-29):** Cycle 1 kathā depth, semantic claim typing, newcomer glossary, and Gamma truncation claims in this report are superseded by `build-evidence/V6-FINAL-CONTENT-TRUTH-REPORT.md` where they conflict. V5 structural completion findings remain historical.

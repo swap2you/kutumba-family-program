@@ -1,4 +1,18 @@
 #!/usr/bin/env python3
+"""ARCHIVED for v6 — production batch generation disabled by default.
+
+Set KUTUMBA_ALLOW_V5_BATCH=1 only for explicit legacy recovery.
+"""
+import os
+import sys
+
+if os.environ.get("KUTUMBA_ALLOW_V5_BATCH") != "1":
+    sys.stderr.write(
+        "module_data_builder.py is archived for v6. "
+        "Set KUTUMBA_ALLOW_V5_BATCH=1 only for explicit legacy recovery.\n"
+    )
+    sys.exit(2)
+
 """Build module_curriculum_data.yaml content for V5 curriculum pass."""
 from __future__ import annotations
 
