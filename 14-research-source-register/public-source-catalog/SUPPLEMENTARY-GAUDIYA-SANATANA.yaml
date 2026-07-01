@@ -187,18 +187,19 @@ entries:
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0073-harikatha-com-audios
   source_name: Harikatha
-  owner_or_publisher: Gaudiya Vedanta Publications
+  owner_or_publisher: Gaudiya Vedanta Publications (Narayana Maharaja lineage)
   base_url: https://harikatha.com/
   exact_entry_url: https://harikatha.com/audios/
-  source_category: prabhupada-audio
+  source_category: gaudiya-supplementary-audio
   authority_tier: supplementary
   content_types:
   - web
+  - audio-archive
   - audio
   languages:
   - en
   primary_or_secondary: supplementary
-  canonical_for: recognized-gaudiya-supplementary-audio
+  canonical_for: narayana-maharaja-supplementary-audio
   mirror_of: ''
   discovery_only: false
   rights_posture: link-and-metadata-only
@@ -215,7 +216,7 @@ entries:
   last_verified: '2026-06-30'
   verification_method: HEAD:200
   status: verified-available
-  notes: Derived from KUT-SRC-0013 public source map
+  notes: Supplementary Gauḍīya audio — not Śrīla Prabhupāda primary audio
 - source_id: PSC-0074-harikatha-com-about
   source_name: Harikatha
   owner_or_publisher: Gaudiya Vedanta Publications
@@ -306,7 +307,7 @@ entries:
   last_verified: '2026-06-30'
   verification_method: GET:n/a
   status: verification-failed
-  notes: Derived from KUT-SRC-0013 public source map
+  notes: Canonical Gita Press ebook portal; PSC-0078 removed as srsltid tracking duplicate
 - source_id: PSC-0077-gitapress-org-buybooks
   source_name: Gita Press
   owner_or_publisher: Gita Press Gorakhpur
@@ -316,37 +317,6 @@ entries:
   authority_tier: supplementary
   content_types:
   - web
-  languages:
-  - en
-  primary_or_secondary: supplementary
-  canonical_for: sanatana-narrative-supplementary
-  mirror_of: ''
-  discovery_only: false
-  rights_posture: link-and-metadata-only
-  allowed_repository_use:
-  - link-and-metadata
-  - research-planning
-  - module-source-mapping
-  prohibited_repository_use:
-  - bulk-download
-  - re-host
-  - verbatim-republication-without-permission
-  authentication_required: false
-  robots_or_access_notes: Respect site terms; rate-limit verification
-  last_verified: '2026-06-30'
-  verification_method: GET:n/a
-  status: verification-failed
-  notes: Derived from KUT-SRC-0013 public source map
-- source_id: PSC-0078-gitapress-org-ebook
-  source_name: Gita Press
-  owner_or_publisher: Gita Press Gorakhpur
-  base_url: https://gitapress.org/
-  exact_entry_url: https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a
-  source_category: sanatana-ebook-portal
-  authority_tier: supplementary
-  content_types:
-  - web
-  - ebook-catalog
   languages:
   - en
   primary_or_secondary: supplementary

@@ -71,3 +71,7 @@ mirror_aliases:
   canonical_anchor: vedabase.io
   relationship: mirror-or-discovery
   dedupe_rule: one-claim-identity-per-event
+aliases:
+- alias_url: https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a
+  canonical_id: PSC-0076-gitapress-org-ebook
+  reason: srsltid tracking duplicate removed v6

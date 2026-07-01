@@ -368,21 +368,22 @@ entries:
   status: verified-available
   notes: Derived from KUT-SRC-0013 public source map
 - source_id: PSC-0079-www-bbti-org
-  source_name: www.bbti.org
-  owner_or_publisher: unknown
+  source_name: BBT International
+  owner_or_publisher: Bhaktivedanta Book Trust International
   base_url: https://www.bbti.org/
   exact_entry_url: https://www.bbti.org/
-  source_category: site-homepage
+  source_category: bbt-publishing-reference
   authority_tier: C
   content_types:
   - web
+  - publishing-info
   languages:
   - en
   primary_or_secondary: secondary
   canonical_for: pending-classification
   mirror_of: ''
   discovery_only: true
-  rights_posture: rights-unclear
+  rights_posture: link-and-metadata-only
   allowed_repository_use:
   - link-and-metadata
   - research-planning
@@ -396,4 +397,4 @@ entries:
   last_verified: '2026-06-30'
   verification_method: GET:n/a
   status: verification-failed
-  notes: Derived from KUT-SRC-0013 public source map
+  notes: BBT International publishing reference — not primary scripture access

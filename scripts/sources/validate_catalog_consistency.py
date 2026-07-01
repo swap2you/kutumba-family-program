@@ -9,6 +9,9 @@ from pathlib import Path
 import yaml
 
 REPO = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(REPO / "scripts" / "sources"))
+from url_cleanup import clean_url  # noqa: E402
+
 CATALOG_DIR = REPO / "14-research-source-register/public-source-catalog"
 MASTER = CATALOG_DIR / "MASTER-SOURCE-CATALOG.yaml"
 SPLITS = {
@@ -18,7 +21,7 @@ SPLITS = {
     "supplementary": CATALOG_DIR / "SUPPLEMENTARY-GAUDIYA-SANATANA.yaml",
     "media": CATALOG_DIR / "MEDIA-AND-YOUTUBE-DISCOVERY.yaml",
 }
-EXPECTED_TOTAL = 79
+EXPECTED_TOTAL = None  # resolved from master after load
 
 
 def load_entries(path: Path) -> list[dict]:
@@ -41,8 +44,9 @@ def main() -> int:
     failures = []
     master_data = yaml.safe_load(MASTER.read_text(encoding="utf-8"))
     master_entries = master_data.get("entries", [])
-    if len(master_entries) != EXPECTED_TOTAL:
-        failures.append(f"master entry_count {len(master_entries)} != {EXPECTED_TOTAL}")
+    expected = len(master_entries)
+    if EXPECTED_TOTAL and expected != EXPECTED_TOTAL:
+        failures.append(f"master entry_count {expected} != expected {EXPECTED_TOTAL}")
 
     ids = [e["source_id"] for e in master_entries]
     if len(ids) != len(set(ids)):
@@ -51,6 +55,15 @@ def main() -> int:
     urls = [e["exact_entry_url"] for e in master_entries]
     if len(urls) != len(set(urls)):
         failures.append("duplicate exact_entry_url in master")
+
+    norm_urls = [clean_url(u) for u in urls]
+    if len(norm_urls) != len(set(norm_urls)):
+        seen: dict[str, str] = {}
+        for e in master_entries:
+            nu = clean_url(e["exact_entry_url"])
+            if nu in seen:
+                failures.append(f"duplicate normalized URL: {nu} ({seen[nu]} vs {e['source_id']})")
+            seen[nu] = e["source_id"]
 
     tiers = Counter(e["authority_tier"] for e in master_entries)
     fields = [

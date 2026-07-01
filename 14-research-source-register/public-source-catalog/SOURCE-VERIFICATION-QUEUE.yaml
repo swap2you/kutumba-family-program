@@ -243,17 +243,6 @@ queue:
     outcome: network-error
     error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
       has expired (_ssl.c:1028)'
-- item_id: PSC-0078-gitapress-org-ebook
-  url: https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a
-  reason: network-error
-  status: open
-  evidence:
-    url: https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a
-    checked_at: '2026-06-30T21:54:00.458677+00:00'
-    method: GET
-    outcome: network-error
-    error: '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
-      has expired (_ssl.c:1028)'
 - item_id: PSC-0079-www-bbti-org
   url: https://www.bbti.org/
   reason: network-error

@@ -13,6 +13,14 @@ TRACKING_PARAMS = frozenset(
         "utm_content",
         "fbclid",
         "gclid",
+        "srsltid",
+        "gclsrc",
+        "msclkid",
+        "mc_cid",
+        "mc_eid",
+        "_ga",
+        "ref",
+        "ref_src",
     }
 )
 

@@ -222,9 +222,8 @@ entries:
   - web
   languages:
   - es
-  - en
   primary_or_secondary: primary
-  canonical_for: prabhupada-text-transcripts-letters
+  canonical_for: prabhupada-text-spanish
   mirror_of: ''
   discovery_only: false
   rights_posture: link-and-metadata-only
@@ -241,7 +240,7 @@ entries:
   last_verified: '2026-06-30'
   verification_method: HEAD:200
   status: verified-available
-  notes: Derived from KUT-SRC-0013 public source map
+  notes: Spanish VedaBase library — language metadata es only
 - source_id: PSC-0009-www-prabhupada-com
   source_name: Bhaktivedanta Archives
   owner_or_publisher: Bhaktivedanta Archives

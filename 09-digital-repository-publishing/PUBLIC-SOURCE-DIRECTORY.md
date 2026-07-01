@@ -70,6 +70,7 @@ Machine-readable catalog: [../14-research-source-register/public-source-catalog/
 
 ## Tier C (13 entries)
 
+- [BBT International](https://www.bbti.org/) — `bbt-publishing-reference` — verification-failed — link-and-metadata-only
 - [ISKCON Desire Tree Audio](https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada&q=f) — `prabhupada-audio` — verified-available — link-and-metadata-only
 - [ISKCON Desire Tree Audio](https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F01_-_Lectures%2F01_-_English%2F01_-_Topic_wise&q=f) — `prabhupada-audio` — verified-available — link-and-metadata-only
 - [ISKCON Desire Tree Audio](https://audio.iskcondesiretree.com/index.php?f=%2F01_-_Srila_Prabhupada%2F02_-_Bhajans%2FVol-01%2F05_-_Prabhupada_Bhajans&q=f) — `prabhupada-audio` — verified-available — link-and-metadata-only
@@ -82,16 +83,14 @@ Machine-readable catalog: [../14-research-source-register/public-source-catalog/
 - [YouTube](https://www.youtube.com/channel/UCrCoUc77FtaHOJJKmeUnsOQ) — `youtube-channel` — verified-available — link-and-metadata-only
 - [YouTube](https://www.youtube.com/channel/UCZ8S3qwowiFztAQBRTawWfA) — `youtube-channel` — verified-available — link-and-metadata-only
 - [YouTube](https://www.youtube.com/channel/UC9-R06c2SwpjrvDdVZOQG8Q) — `youtube-channel` — verified-available — link-and-metadata-only
-- [www.bbti.org](https://www.bbti.org/) — `site-homepage` — verification-failed — rights-unclear
 
-## Tier supplementary (12 entries)
+## Tier supplementary (11 entries)
 
 - [Gita Press](https://gitapress.org/) — `site-homepage` — verification-failed — link-and-metadata-only
 - [Gita Press](https://gitapress.org/ebook) — `sanatana-ebook-portal` — verification-failed — link-and-metadata-only
 - [Gita Press](https://gitapress.org/buybooks) — `entry-point` — verification-failed — link-and-metadata-only
-- [Gita Press](https://gitapress.org/ebook?srsltid=AfmBOooLplTSZKY1WxEmayhC2D4KHsq1ZBmgpwpT-v1oEQakHCavH_5a) — `sanatana-ebook-portal` — verification-failed — link-and-metadata-only
 - [Harikatha](https://harikatha.com/) — `site-homepage` — verified-available — link-and-metadata-only
-- [Harikatha](https://harikatha.com/audios/) — `prabhupada-audio` — verified-available — link-and-metadata-only
+- [Harikatha](https://harikatha.com/audios/) — `gaudiya-supplementary-audio` — verified-available — link-and-metadata-only
 - [Harikatha](https://harikatha.com/about/) — `site-homepage` — verified-available — link-and-metadata-only
 - [PureBhakti](https://www.purebhakti.com/) — `site-homepage` — verified-available — link-and-metadata-only
 - [PureBhakti](https://www.purebhakti.com/resources/ebooks-magazines/books-for-e-readers) — `sanatana-ebook-portal` — verified-available — link-and-metadata-only
