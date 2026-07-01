@@ -1,6 +1,6 @@
 # V6 Cycle 1 Kathā Depth Audit
 
-Generated: 2026-07-01T01:26:59Z
+Generated: 2026-07-01T01:28:49Z
 
 Narrative words count **section 6 only** (excludes facilitator sections 7+).
 
