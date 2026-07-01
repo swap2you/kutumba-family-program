@@ -1,6 +1,8 @@
 catalog_version: 1.0.0
 last_updated: '2026-07-01'
 total_assets: 42
+v10a_active_maturity: structural-instructional-draft-human-review-required
+v10a_status_note: Cycle 1 visuals are structural instructional drafts pending source, design, accessibility, pedagogy, and audience review. Automated asset presence does not equal visual maturity or publication approval.
 assets:
 - asset_id: c1-w1-concept-hearing-flow
   module_id: C1-W1

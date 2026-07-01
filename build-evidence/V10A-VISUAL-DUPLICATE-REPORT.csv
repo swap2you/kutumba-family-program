@@ -1,0 +1,6 @@
+finding_type,hash,paths,impact,v9_finding_id
+byte-identical-png-session-map,477207c46fc56e15eac83b9e87b1924095bafa57482bfa46b3658f8525d7a846,"C1-W1 session-map PNG; C1-W2 session-map PNG; C1-W3 session-map PNG; C1-W4 session-map PNG; C1-W5 session-map PNG",duplicated session maps do not vary meaningfully by module,F-V9-007
+byte-identical-png-home-practice,ccc694e53a190d467af03497c9111dfa0aaf681282cb3d23ff053a13c35476bf,"C1-W1 home-practice PNG; C1-W3 home-practice PNG; C1-W4 home-practice PNG; C1-W5 home-practice PNG",duplicated home-practice cards do not vary meaningfully by module,F-V9-007
+source-rendered-svg-identity,multiple,"all 42 Cycle 1 rendered SVGs are byte-identical to matching source SVGs",rendered directory is a duplicate presentation of source SVGs rather than an independently reviewed render,F-V9-007
+exported-gamma-asset-duplicates,multiple,"Cycle 1 Gamma exported assets repeat duplicated session-map and home-practice PNG hashes",export bundle carries same duplicate risk as source PNG set,F-V9-003
+

@@ -1,5 +1,29 @@
 diagram_id: THEO-VIS-KRISHNA-EXP-001
 title: Kṛṣṇa and Expansions (Gauḍīya reference)
+v10a_status: not-approved-not-for-pilot
+pilot_use: prohibited
+gamma_use: excluded
+facilitator_delivery_use: excluded
+v9_finding_id: F-V9-001
+required_node_mismatch:
+  required_nodes:
+    - Kṛṣṇa
+    - Balarāma
+    - first catur-vyūha
+    - Nārāyaṇa
+    - second catur-vyūha
+    - Mahā-Viṣṇu
+    - Garbhodakaśāyī Viṣṇu
+    - Kṣīrodakaśāyī Viṣṇu
+  current_svg_nodes:
+    - Śrī Kṛṣṇa
+    - Balarāma
+    - Paramātmā
+    - Brahman
+    - Viṣṇu expansions
+    - Living entities
+  status: incomplete-required-nodes-missing
+source_map_status: incomplete-no-edge-level-proof-table
 synthesis_disclaimer: true
 not_chronological_material_process: true
 candidate_sources:

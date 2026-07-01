@@ -13,3 +13,12 @@ build-evidence/V10A-FILE-CHANGE-MANIFEST.csv,create,F-V9-012,V10A changed-file m
 17-reviews-and-audits/review-packets/doctrine-and-citation-review-packet.md,create,F-V9-001;F-V9-004;F-V9-011,doctrine and citation human review package
 17-reviews-and-audits/review-packets/visual-pedagogy-accessibility-review-packet.md,create,F-V9-004;F-V9-007;F-V9-008,visual pedagogy accessibility human review package
 17-reviews-and-audits/review-packets/rights-and-media-review-packet.md,create,F-V9-002;F-V9-003;F-V9-004;F-V9-009,rights and media human review package
+14-research-source-register/theology-visual-library/krishna-and-expansions/DIAGRAM-SOURCE-MAP.yaml,update,F-V9-001,theology diagram containment metadata
+14-research-source-register/visual-asset-library/VISUAL-ASSET-CATALOG.yaml,update,F-V9-007,active visual maturity downgrade
+11-weekly-program-library/first-six-months/*/audio-video/MEDIA-INDEX.yaml,update,F-V9-002,priority media maturity correction for C1-W1 through C1-W6 and C3-W2
+11-weekly-program-library/first-six-months/c1-w*/gamma/GAMMA-ASSET-MAP.yaml,update,F-V9-003,Gamma rendered review approval containment
+build-evidence/V10A-THEOLOGY-CONTAINMENT-REPORT.md,create,F-V9-001,theology containment report
+build-evidence/V10A-MEDIA-STATUS-CORRECTION.md,create,F-V9-002,media status correction report
+build-evidence/V10A-GAMMA-STATUS-CORRECTION.md,create,F-V9-003,Gamma status correction report
+build-evidence/V10A-VISUAL-DUPLICATE-REPORT.csv,create,F-V9-007;F-V9-003,visual duplicate hash report
+build-evidence/V10A-VISUAL-MATURITY-REPORT.md,create,F-V9-007,visual maturity report

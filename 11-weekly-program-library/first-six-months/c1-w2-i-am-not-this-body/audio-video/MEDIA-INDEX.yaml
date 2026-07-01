@@ -1,4 +1,8 @@
 week_code: C1-W2
+v10a_maturity: reference-record-incomplete
+pilot_playback_status: prohibited-unless-item-reviewed
+required_fields_missing: true
+v9_finding_id: F-V9-002
 media:
   - media_id: C1-W2-MEDIA-001
     type: gamma-deck-parent

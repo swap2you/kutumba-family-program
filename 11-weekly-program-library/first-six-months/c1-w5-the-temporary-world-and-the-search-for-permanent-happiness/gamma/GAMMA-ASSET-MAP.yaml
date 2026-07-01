@@ -1,5 +1,9 @@
 module_id: C1-W5
 render_status: assets-complete-upload-required
+v10a_rendered_status: not-rendered
+v10a_post_render_review_status: not-post-render-reviewed
+v10a_pilot_approval_status: not-approved-for-pilot
+v9_finding_id: F-V9-003
 deck_format: '16:9'
 default_assets:
 - c1-w5-concept-temporary-permanent
