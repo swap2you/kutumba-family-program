@@ -1,0 +1,29 @@
+module_id: C1-W3
+render_status: render-ready
+deck_format: '16:9'
+default_assets:
+- c1-w3-concept-jiva-qualities
+- c1-w3-storyboard-jada-bharata
+- c1-w3-analogy-sunray
+cards:
+- asset_id: c1-w3-concept-jiva-qualities
+  path: visuals/rendered/c1-w3-concept-jiva-qualities.svg
+  rights_status: kutumba-original
+- asset_id: c1-w3-storyboard-jada-bharata
+  path: visuals/rendered/c1-w3-storyboard-jada-bharata.svg
+  rights_status: kutumba-original
+- asset_id: c1-w3-analogy-sunray
+  path: visuals/rendered/c1-w3-analogy-sunray.svg
+  rights_status: kutumba-original
+- asset_id: c1-w3-verse-bg-2-20
+  path: visuals/rendered/c1-w3-verse-bg-2-20.svg
+  rights_status: kutumba-original
+- asset_id: c1-w3-session-map
+  path: visuals/rendered/c1-w3-session-map.svg
+  rights_status: kutumba-original
+- asset_id: c1-w3-home-practice
+  path: visuals/rendered/c1-w3-home-practice.svg
+  rights_status: kutumba-original
+- asset_id: c1-w3-body-soul-care
+  path: visuals/rendered/c1-w3-body-soul-care.svg
+  rights_status: kutumba-original

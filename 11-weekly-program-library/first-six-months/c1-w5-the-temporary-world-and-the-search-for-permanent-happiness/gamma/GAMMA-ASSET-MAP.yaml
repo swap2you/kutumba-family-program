@@ -1,0 +1,29 @@
+module_id: C1-W5
+render_status: render-ready
+deck_format: '16:9'
+default_assets:
+- c1-w5-concept-temporary-permanent
+- c1-w5-storyboard-dhruva
+- c1-w5-analogy-pleasure-cycle
+cards:
+- asset_id: c1-w5-concept-temporary-permanent
+  path: visuals/rendered/c1-w5-concept-temporary-permanent.svg
+  rights_status: kutumba-original
+- asset_id: c1-w5-storyboard-dhruva
+  path: visuals/rendered/c1-w5-storyboard-dhruva.svg
+  rights_status: kutumba-original
+- asset_id: c1-w5-analogy-pleasure-cycle
+  path: visuals/rendered/c1-w5-analogy-pleasure-cycle.svg
+  rights_status: kutumba-original
+- asset_id: c1-w5-verse-bg-5-22
+  path: visuals/rendered/c1-w5-verse-bg-5-22.svg
+  rights_status: kutumba-original
+- asset_id: c1-w5-session-map
+  path: visuals/rendered/c1-w5-session-map.svg
+  rights_status: kutumba-original
+- asset_id: c1-w5-home-practice
+  path: visuals/rendered/c1-w5-home-practice.svg
+  rights_status: kutumba-original
+- asset_id: c1-w5-family-affection
+  path: visuals/rendered/c1-w5-family-affection.svg
+  rights_status: kutumba-original

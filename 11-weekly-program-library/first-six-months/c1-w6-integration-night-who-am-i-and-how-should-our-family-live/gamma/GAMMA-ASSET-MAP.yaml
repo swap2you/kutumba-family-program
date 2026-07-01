@@ -1,0 +1,29 @@
+module_id: C1-W6
+render_status: render-ready
+deck_format: '16:9'
+default_assets:
+- c1-w6-cycle-synthesis-map
+- c1-w6-memory-line-path
+- c1-w6-family-presentation
+cards:
+- asset_id: c1-w6-cycle-synthesis-map
+  path: visuals/rendered/c1-w6-cycle-synthesis-map.svg
+  rights_status: kutumba-original
+- asset_id: c1-w6-memory-line-path
+  path: visuals/rendered/c1-w6-memory-line-path.svg
+  rights_status: kutumba-original
+- asset_id: c1-w6-family-presentation
+  path: visuals/rendered/c1-w6-family-presentation.svg
+  rights_status: kutumba-original
+- asset_id: c1-w6-integration-verses
+  path: visuals/rendered/c1-w6-integration-verses.svg
+  rights_status: kutumba-original
+- asset_id: c1-w6-session-map
+  path: visuals/rendered/c1-w6-session-map.svg
+  rights_status: kutumba-original
+- asset_id: c1-w6-home-practice
+  path: visuals/rendered/c1-w6-home-practice.svg
+  rights_status: kutumba-original
+- asset_id: c1-w6-gamma-asset-sheet
+  path: visuals/rendered/c1-w6-gamma-asset-sheet.svg
+  rights_status: kutumba-original
