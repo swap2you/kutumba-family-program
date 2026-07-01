@@ -1,0 +1,89 @@
+registry_version: "1.0.0"
+last_updated: "2026-06-29"
+facts:
+  - fact_id: FACT-SB-1-2-17
+    domain: scripture
+    canonical_wording: "Śrīmad-Bhāgavatam 1.2.17 teaches that Śrī Kṛṣṇa, the Personality of Godhead, in the heart of the sincere hearer cleanses material desire arising from material enjoyment."
+    compact_teaching_wording: "Hearing Kṛṣṇa-kathā with faith helps cleanse material desire from the heart."
+    misleading_or_prohibited_wording:
+      - "Bhāgavata as the ripened fruit of Vedic knowledge"
+      - "SB 1.2.17 is the fruit-of-Vedas verse"
+    primary_source_keys: [PSC-VEDABASE-SB-1-2-17]
+    stable_links: [https://vedabase.io/en/library/sb/1/2/17/]
+    context_note: "Verse-accurate paraphrase only; no full purport in Git."
+    module_applicability: [C1-W1]
+    doctrinal_review_status: human-review-required
+    last_checked: "2026-06-29"
+
+  - fact_id: FACT-SB-1-2-18
+    domain: scripture
+    canonical_wording: "Śrīmad-Bhāgavatam 1.2.18 describes regular hearing and service to Śrīmad-Bhāgavatam cleansing the heart and fixing irrevocable devotional service."
+    compact_teaching_wording: "Regular Bhāgavata hearing and service steadies devotion."
+    misleading_or_prohibited_wording: []
+    primary_source_keys: [PSC-VEDABASE-SB-1-2-18]
+    stable_links: [https://vedabase.io/en/library/sb/1/2/18/]
+    module_applicability: [C1-W1]
+    doctrinal_review_status: human-review-required
+    last_checked: "2026-06-29"
+
+  - fact_id: FACT-SB-1-2-19
+    domain: scripture
+    canonical_wording: "Śrīmad-Bhāgavatam 1.2.19 describes passion and ignorance, lust and hankering receding as the devotee becomes established in goodness and happiness."
+    compact_teaching_wording: "Steady hearing helps passion and ignorance recede."
+    misleading_or_prohibited_wording:
+      - "Devotion fixed after taste develops"
+      - "Irrevocable devotion after daily service" as sole label for 1.2.19
+    primary_source_keys: [PSC-VEDABASE-SB-1-2-19]
+    stable_links: [https://vedabase.io/en/library/sb/1/2/19/]
+    module_applicability: [C1-W1]
+    doctrinal_review_status: human-review-required
+    last_checked: "2026-06-29"
+
+  - fact_id: FACT-SB-1-1-1
+    domain: scripture
+    canonical_wording: "Śrīmad-Bhāgavatam 1.1.1 is the invocation offering obeisances to the Absolute Truth from whom all emanations flow."
+    compact_teaching_wording: "The Bhāgavatam begins by honoring the Absolute Truth as the source of everything."
+    misleading_or_prohibited_wording:
+      - "1.1.1 is the sages' inquiry"
+      - "Inquiry at Naimiṣāraṇya opens the Bhāgavatam" applied to 1.1.1 alone
+    primary_source_keys: [PSC-VEDABASE-SB-1-1-1]
+    stable_links: [https://vedabase.io/en/library/sb/1/1/1/]
+    module_applicability: [C1-W1]
+    doctrinal_review_status: human-review-required
+    last_checked: "2026-06-29"
+
+  - fact_id: FACT-SB-1-1-4-ASSEMBLY
+    domain: scripture
+    canonical_wording: "From Śrīmad-Bhāgavatam 1.1.4 onward the sages assemble at Naimiṣāraṇya and inquire about duty after Kṛṣṇa's departure."
+    compact_teaching_wording: "Sages at Naimiṣāraṇya ask what thoughtful persons should do in Kali-yuga."
+    misleading_or_prohibited_wording: []
+    primary_source_keys: [PSC-VEDABASE-SB-1-1]
+    stable_links: [https://vedabase.io/en/library/sb/1/1/4/]
+    module_applicability: [C1-W1]
+    doctrinal_review_status: human-review-required
+    last_checked: "2026-06-29"
+
+  - fact_id: FACT-KUTUMBA-CHARTER-NOT-CLUB
+    domain: governance
+    canonical_wording: "KUTUMBA is not a social club, substitute temple, or competing preaching center — per KUTUMBA charter and operating model."
+    compact_teaching_wording: "KUTUMBA is a disciplined family sādhana community with clear boundaries."
+    misleading_or_prohibited_wording:
+      - "SB 1.2.18 directly states KUTUMBA is not a social club"
+    primary_source_keys: [KUT-CHARTER, KUT-SRC-0001]
+    stable_links: []
+    module_applicability: [C1-W1]
+    doctrinal_review_status: human-review-required
+    last_checked: "2026-06-29"
+
+  - fact_id: FACT-KRISHNA-MATHURA-GOKULA
+    domain: scripture
+    canonical_wording: "Kṛṣṇa appears to Devakī and Vasudeva in Mathurā; Vasudeva carries Him to Gokula; childhood Vraja pastimes follow. Do not call the appearance 'birth in Vṛndāvana.'"
+    compact_teaching_wording: "Kṛṣṇa appeared in Mathurā and grew up in Vraja."
+    misleading_or_prohibited_wording:
+      - "Kṛṣṇa's birth in Vṛndāvana"
+      - "born in Vṛndāvana"
+    primary_source_keys: [PSC-VEDABASE-SB-10-3]
+    stable_links: [https://vedabase.io/en/library/sb/10/3/1/]
+    module_applicability: [C3-W2]
+    doctrinal_review_status: human-review-required
+    last_checked: "2026-06-29"
