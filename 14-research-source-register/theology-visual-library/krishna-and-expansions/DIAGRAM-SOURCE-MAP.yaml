@@ -1,0 +1,17 @@
+diagram_id: THEO-VIS-KRISHNA-EXP-001
+title: Kṛṣṇa and Expansions (Gauḍīya reference)
+synthesis_disclaimer: true
+not_chronological_material_process: true
+candidate_sources:
+  - ref: CC Ādi 2
+    url: https://vedabase.io/en/library/cc/adi/2/
+    status: human-verify-required
+  - ref: SB 1.3
+    url: https://vedabase.io/en/library/sb/1/3/
+    status: human-verify-required
+  - ref: BG 10.42
+    url: https://vedabase.io/en/library/bg/10/42/
+    status: human-verify-required
+asset_path: krishna-and-expansions/THEO-VIS-KRISHNA-EXP-001.svg
+rights_status: kutumba-original
+doctrinal_review_status: human-review-required
