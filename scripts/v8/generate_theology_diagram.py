@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+#!/usr/bin/env python3
+"""Generate source-mapped Krishna and Expansions theology diagram."""
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+REPO = Path(__file__).resolve().parents[2]
+OUT = REPO / "14-research-source-register" / "theology-visual-library" / "krishna-and-expansions" / "THEO-VIS-KRISHNA-EXP-001.svg"
+PNG = OUT.parent / "THEO-VIS-KRISHNA-EXP-001.png"
+
+SVG = '''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img">
   <title>Kṛṣṇa and Expansions — synthesis reference</title>
   <desc>Source-mapped diagram: Kṛṣṇa, expansions, incarnations, living entities</desc>
@@ -37,3 +48,21 @@
   <text x="60" y="530" font-size="10">Rights: kutumba-original line diagram — no copyrighted deity art</text>
   <text x="450" y="600" text-anchor="middle" font-size="11" fill="#666">THEO-VIS-KRISHNA-EXP-001 · human doctrinal review required</text>
 </svg>
+'''
+
+
+def main() -> int:
+    OUT.write_text(SVG, encoding="utf-8")
+    sys.path.insert(0, str(Path(__file__).parent))
+    try:
+        from render_png_derivatives import render_svg_to_png
+
+        render_svg_to_png(OUT, PNG)
+        print(f"Wrote {OUT.name} and {PNG.name}")
+    except Exception as exc:  # noqa: BLE001
+        print(f"SVG written; PNG skipped: {exc}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
