@@ -6,6 +6,8 @@ Controlled execution roadmap for the public documentation and curriculum-develop
 **Repository visibility:** Public by intentional decision during development (`https://github.com/swap2you/kutumba-family-program.git`)  
 **Status vocabulary:** `COMPLETE` · `IN PROGRESS` · `PENDING` · `BLOCKED`
 
+**V10A truth freeze (2026-07-01):** V8 structural remediation is preserved as historical evidence, but V9 found unresolved substantive gaps. Current phase is `internal-development`; internal pilot, family-facing distribution, and public publication are all `NO GO` until blocking gates in `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` close with named reviewer evidence.
+
 ---
 
 ## 1. Purpose and scope
@@ -57,6 +59,9 @@ Every phase row includes: **Phase ID**, **Outcome**, **Deliverables**, **Source 
 | KUTUMBA Setu | not approved | `10-kutumba-setu/` |
 | Human review gates | open all modules | `00-foundation/REVIEW-QUEUE.md` |
 | Publication readiness | **not-ready** | `CURRENT-STATUS.md` |
+| Internal pilot readiness | **NO GO** | `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` |
+| Family-facing distribution | **NO GO** | `CURRENT-STATUS.md` |
+| Public publication | **NO GO** | `CURRENT-STATUS.md` |
 
 ### Historical baseline (pre-v5)
 

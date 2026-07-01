@@ -1,0 +1,78 @@
+v10a_traceability:
+  baseline_head: 9c2eebe987f267cdb4181fc6298ff4b8f4d93eb6
+  v9_audit_folder: C:\Users\swap2\Downloads\KUTUMBA-V9-READ-ONLY-AUDIT-9c2eebe
+  safety_tag: v10a-pre-truth-freeze-9c2eebe
+  findings:
+    F-V9-001:
+      domain: theology
+      v10a_action: contain diagram; mark not-approved-not-for-pilot; exclude from pilot delivery; require node and source-map remediation later
+      evidence_paths:
+        - build-evidence/V10A-THEOLOGY-CONTAINMENT-REPORT.md
+        - 14-research-source-register/theology-visual-library/krishna-and-expansions/DIAGRAM-SOURCE-MAP.yaml
+    F-V9-002:
+      domain: media
+      v10a_action: correct priority media maturity to reference-record-incomplete and prohibit pilot playback without specific review
+      evidence_paths:
+        - build-evidence/V10A-MEDIA-STATUS-CORRECTION.md
+        - scripts/curriculum/validate_v10a_truth_freeze.py
+    F-V9-003:
+      domain: Gamma
+      v10a_action: keep asset packaging distinct from rendered/reviewed/approved status
+      evidence_paths:
+        - build-evidence/V10A-GAMMA-STATUS-CORRECTION.md
+        - scripts/curriculum/validate_v10a_truth_freeze.py
+    F-V9-004:
+      domain: human gates
+      v10a_action: create pilot readiness gate register and status truth freeze
+      evidence_paths:
+        - CURRENT-STATUS.md
+        - 17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml
+    F-V9-005:
+      domain: Workstream 9
+      v10a_action: keep deferred; do not manufacture missing operating manual
+      evidence_paths:
+        - CURRENT-STATUS.md
+        - build-evidence/V10A-INDEPENDENT-VERIFICATION-HANDOFF.md
+    F-V9-006:
+      domain: Setu
+      v10a_action: keep not approved; prohibit late joiners until approved
+      evidence_paths:
+        - 03-governance-and-safeguarding/pilot-readiness/FOUNDING-PILOT-SCOPE.md
+        - CURRENT-STATUS.md
+    F-V9-007:
+      domain: visuals
+      v10a_action: set maturity to structural-instructional-draft-human-review-required and report duplicate/generic risks
+      evidence_paths:
+        - build-evidence/V10A-VISUAL-DUPLICATE-REPORT.csv
+        - build-evidence/V10A-VISUAL-MATURITY-REPORT.md
+    F-V9-008:
+      domain: validators
+      v10a_action: strengthen readiness controls and separate structural validation from approval
+      evidence_paths:
+        - scripts/curriculum/validate_v10a_truth_freeze.py
+        - scripts/curriculum/run_curriculum_validation.py
+    F-V9-009:
+      domain: publication controls
+      v10a_action: mark export and family-facing surfaces not approved
+      evidence_paths:
+        - CURRENT-STATUS.md
+        - 18-published-exports/README.md
+    F-V9-010:
+      domain: safeguarding
+      v10a_action: add blocking safeguarding gates and review packet; do not claim approval
+      evidence_paths:
+        - 17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml
+        - 17-reviews-and-audits/review-packets/safeguarding-review-packet.md
+    F-V9-011:
+      domain: source counts
+      v10a_action: keep counts separate and route citation/source sufficiency to review packet
+      evidence_paths:
+        - CURRENT-STATUS.md
+        - 17-reviews-and-audits/review-packets/doctrine-and-citation-review-packet.md
+    F-V9-012:
+      domain: release evidence
+      v10a_action: distinguish production, audit, handoff/reporting, and current HEAD in V10A evidence
+      evidence_paths:
+        - build-evidence/V10A-EXECUTION-LEDGER.md
+        - build-evidence/V10A-INDEPENDENT-VERIFICATION-HANDOFF.md
+

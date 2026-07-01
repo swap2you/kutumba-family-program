@@ -20,7 +20,9 @@ Publishing Lead
 
 ## Publication status
 
-active
+not-approved-for-publication
+
+This folder is a controlled export staging surface only. It is not evidence of family-facing distribution approval, public publication approval, Gamma post-render approval, or rights clearance. No export may be treated as published until the blocking gates in `../17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` close with named reviewer evidence.
 
 ## What does not belong here
 

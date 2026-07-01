@@ -54,7 +54,7 @@ Use `config/local-source-roots.example.yaml` as a template for local source root
 
 ## Current status
 
-See [CURRENT-STATUS.md](CURRENT-STATUS.md), [build-evidence/V6-FINAL-CONTENT-TRUTH-REPORT.md](build-evidence/V6-FINAL-CONTENT-TRUTH-REPORT.md), and [17-reviews-and-audits/V6-INDEPENDENT-PILOT-READINESS-AUDIT.md](17-reviews-and-audits/V6-INDEPENDENT-PILOT-READINESS-AUDIT.md).
+See [CURRENT-STATUS.md](CURRENT-STATUS.md). As of the V10A truth freeze, the repository is in `internal-development`; internal pilot, family-facing distribution, and public publication are all `NO GO` while blocking human gates remain open. Automated validation is structural evidence only and is not doctrinal, worship, safeguarding, rights, pedagogy, design, citation, Gamma, pilot, distribution, or publication approval.
 
 ## Source directory and catalog
 
@@ -86,6 +86,7 @@ Open a change against the canonical Markdown file, cite the source ID, and add a
 
 ```powershell
 python scripts/curriculum/run_curriculum_validation.py
+python scripts/curriculum/validate_v10a_truth_freeze.py
 python scripts/sources/reconcile_source_map_urls.py
 python scripts/sources/validate_catalog_consistency.py
 powershell -File scripts/Validate-KutumbaRepository.ps1
