@@ -2,10 +2,10 @@
 
 ## Executive status
 
-- Overall verdict: **GO WITH CONDITIONS** (V7 visual/citation/media completion)
+- Overall verdict: **GO WITH CONDITIONS** (V8 real visuals, citation closure, media/Gamma packaging)
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **Visual, citation and media completion V7 — COMPLETE**
-- Prior phase: Content truth and Cycle 1 pilot readiness V6 — COMPLETE
+- Current phase: **Real visuals, citation closure, and media completion V8 — COMPLETE**
+- Prior phase: Visual, citation and media completion V7 — superseded for visual substance
 - Status generated: 2026-06-29
 
 ## Curriculum summary
@@ -15,8 +15,9 @@
 | Modules | 18 |
 | Cycle 1 kathā (V7 standard) | 1,350–1,800 words section 6; short forms per module |
 | C1-W2 | gold-structure-reference — deepened to V7 narrative standard |
-| Cycle 1 SVG visual pack | 42 assets (7 per module) |
-| Gamma Cycle 1 | render-ready specifications (export external) |
+| Cycle 1 teaching visuals | 42 KUTUMBA-original SVG + PNG derivatives |
+| Visual catalog | `14-research-source-register/visual-asset-library/VISUAL-ASSET-CATALOG.yaml` |
+| Gamma Cycle 1 | assets-complete-upload-required (export via bundle script) |
 | Source map URLs | **77** authoritative |
 | Master catalog entries | **78** |
 | Human approvals claimed | **0** |
@@ -26,10 +27,9 @@
 
 | Artifact | Path |
 |---|---|
-| V7 audit | `17-reviews-and-audits/V7-INDEPENDENT-VISUAL-CITATION-MEDIA-AUDIT.md` |
-| V7 baseline | `build-evidence/V7-BASELINE-AUDIT.md` |
-| Kathā runtime | `build-evidence/V7-KATHA-RUNTIME-AND-DEPTH-REPORT.md` |
-| Visual coverage | `build-evidence/V7-CYCLE-1-VISUAL-COVERAGE-REPORT.md` |
+| V8 audit | `17-reviews-and-audits/V8-INDEPENDENT-REAL-VISUAL-CITATION-MEDIA-AUDIT.md` |
+| V8 baseline | `build-evidence/V8-V7-TRUTH-AUDIT.md` |
+| Visual contact sheets | `build-evidence/visual-contact-sheets/INDEX.md` |
 | Canonical facts | `14-research-source-register/canonical-facts/` |
 
 ## Validation

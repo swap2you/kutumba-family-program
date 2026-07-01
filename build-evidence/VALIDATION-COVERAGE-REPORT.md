@@ -1,13 +1,17 @@
 # Validation Coverage Report
 
-Generated: 2026-07-01T02:42:43Z
-HEAD: `52cab55263747c4de07446cd80316044ffe5a623`
+Generated: 2026-07-01T12:53:57Z
+HEAD: `38b96178b37beffec386e3e3b6178dd65ecd25bb`
 
 ## Verdicts by category
 
 | Category | Verdict |
 |---|---|
 | Structural validation | **PASS** |
+| Visual substance (V8) | **PASS** |
+| Citation closure (V8) | **PASS** |
+| Gamma packaging (V8) | **PASS** |
+| Media curation (V8) | **PASS** |
 | Semantic validation | **PASS** |
 | Source validation | **PASS** |
 | Source catalog validation | **PASS** |
