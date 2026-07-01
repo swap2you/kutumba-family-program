@@ -34,6 +34,7 @@ GAMMA_V8 = [
     "validate_gamma_asset_references.py",
 ]
 MEDIA_V8 = ["validate_media_candidate_records.py"]
+V10A_CONTROLS = ["validate_v10a_truth_freeze.py"]
 SEMANTIC = [
     "validate_gamma_briefs.py",
     "validate_gamma_asset_references.py",
@@ -86,6 +87,7 @@ def main() -> int:
         ("citations", CITATION_V8),
         ("gamma_packaging", GAMMA_V8),
         ("media", MEDIA_V8),
+        ("v10a_truth_freeze", V10A_CONTROLS),
         ("semantic", SEMANTIC),
         ("source", SOURCE),
         ("source_catalog", SOURCE_CATALOG),
@@ -120,6 +122,7 @@ HEAD: `{head}`
 | Citation closure (V8) | **{'PASS' if results.get('citations') else 'FAIL'}** |
 | Gamma packaging (V8) | **{'PASS' if results.get('gamma_packaging') else 'FAIL'}** |
 | Media curation (V8) | **{'PASS' if results.get('media') else 'FAIL'}** |
+| V10A truth freeze controls | **{'PASS' if results.get('v10a_truth_freeze') else 'FAIL'}** |
 | Semantic validation | **{'PASS' if results['semantic'] else 'FAIL'}** |
 | Source validation | **{'PASS' if results['source'] else 'FAIL'}** |
 | Source catalog validation | **{'PASS' if results.get('source_catalog') else 'FAIL'}** |
@@ -134,6 +137,7 @@ HEAD: `{head}`
 Structural: {', '.join(STRUCTURAL)}
 Semantic: {', '.join(SEMANTIC)}
 Source: {', '.join(SOURCE)}
+V10A controls: {', '.join(V10A_CONTROLS)}
 Reporting: {', '.join(REPORTING)}
 
 ## Note

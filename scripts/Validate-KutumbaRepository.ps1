@@ -325,6 +325,32 @@ if (-not (Test-Path (Join-Path $RepoRoot "17-reviews-and-audits\INDEPENDENT-REPO
     Add-Failure "Missing INDEPENDENT-REPOSITORY-AUDIT.md"
 }
 
+# 23a. V10A truth-freeze controls
+$v10aRegister = Join-Path $RepoRoot "17-reviews-and-audits\PILOT-READINESS-GATE-REGISTER.yaml"
+$v10aScope = Join-Path $RepoRoot "03-governance-and-safeguarding\pilot-readiness\FOUNDING-PILOT-SCOPE.md"
+$v10aValidator = Join-Path $RepoRoot "scripts\curriculum\validate_v10a_truth_freeze.py"
+foreach ($p in @($v10aRegister, $v10aScope, $v10aValidator)) {
+    if (-not (Test-Path -LiteralPath $p)) { Add-Failure "Missing V10A control: $p" }
+}
+if (Test-Path -LiteralPath $v10aRegister) {
+    $gateText = Get-Content -LiteralPath $v10aRegister -Raw -Encoding UTF8
+    $blockingOpen = ([regex]::Matches($gateText, 'classification:\s*blocking[\s\S]{0,500}?current_status:\s*open')).Count
+    if ($blockingOpen -lt 13) { Add-Failure "V10A blocking pilot gates are not all open" }
+}
+if (Test-Path -LiteralPath (Join-Path $RepoRoot "CURRENT-STATUS.md")) {
+    $statusText = Get-Content -LiteralPath (Join-Path $RepoRoot "CURRENT-STATUS.md") -Raw -Encoding UTF8
+    if ($statusText -notmatch 'Current phase:\s+\*\*internal-development\*\*') { Add-Failure "CURRENT-STATUS missing V10A internal-development phase" }
+    if ($statusText -notmatch 'Internal pilot \| \*\*NO GO\*\*') { Add-Failure "CURRENT-STATUS missing internal pilot NO GO" }
+    if ($statusText -notmatch 'Family-facing distribution \| \*\*NO GO\*\*') { Add-Failure "CURRENT-STATUS missing family-facing distribution NO GO" }
+    if ($statusText -notmatch 'Public publication \| \*\*NO GO\*\*') { Add-Failure "CURRENT-STATUS missing public publication NO GO" }
+}
+if (Test-Path -LiteralPath $v10aValidator) {
+    $v10aRun = python $v10aValidator 2>&1
+    if ($LASTEXITCODE -ne 0) {
+        Add-Failure "V10A truth-freeze validator failed: $($v10aRun -join ' | ')"
+    }
+}
+
 # 24. Roadmap and cleanup reports exist
 foreach ($r in @("ROADMAP.md", "build-evidence\CLEANUP-REPORT.md", "LICENSE.md")) {
     if (-not (Test-Path (Join-Path $RepoRoot $r))) { Add-Failure "Missing $r" }
