@@ -1,9 +1,9 @@
 module_id,depth_status,review_status,claims,gamma_cards,prem_katha_status,prem_words,lala_lines,kisora_lines,age_model_active,legacy_lesson_md,dossier_lines,thin_files,media_index
-C1-W1,deepened-draft,deepened-draft,10,12,authentic,1449,91,92,two-group,preserved,63,,yes
-C1-W2,gold-pilot,gold-pilot-draft,10,12,authentic,1172,100,106,two-group,preserved,89,,yes
-C1-W3,deepened-draft,deepened-draft,10,12,authentic,1292,91,92,two-group,preserved,63,,yes
-C1-W4,deepened-draft,deepened-draft,11,12,authentic,1340,91,92,two-group,preserved,63,,yes
-C1-W5,deepened-draft,deepened-draft,11,12,authentic,1337,91,92,two-group,preserved,63,,yes
+C1-W1,deepened-draft,deepened-draft,10,12,authentic,2148,91,92,two-group,preserved,63,,yes
+C1-W2,gold-pilot,gold-pilot-draft,10,12,authentic,2307,100,106,two-group,preserved,89,,yes
+C1-W3,deepened-draft,deepened-draft,10,12,authentic,2026,91,92,two-group,preserved,63,,yes
+C1-W4,deepened-draft,deepened-draft,11,12,authentic,2051,91,92,two-group,preserved,63,,yes
+C1-W5,deepened-draft,deepened-draft,11,12,authentic,1998,91,92,two-group,preserved,63,,yes
 C1-W6,deepened-draft,deepened-draft,11,12,authentic,998,91,92,two-group,preserved,63,,yes
 C2-W1,deepened-draft,deepened-draft,10,12,authentic,1081,88,82,two-group,preserved,82,,yes
 C2-W2,deepened-draft,deepened-draft,10,12,authentic,1052,88,82,two-group,preserved,82,,yes

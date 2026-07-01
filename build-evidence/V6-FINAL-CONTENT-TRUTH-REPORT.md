@@ -9,7 +9,7 @@ V6 corrected content-truth defects for **Cycle 1 pilot readiness** without a bli
 
 **Verdict: GO WITH CONDITIONS for Cycle 1 internal pilot preparation only.**
 
-**Not publication-ready.** **No human approval claimed.**
+> **Supersession (V7, 2026-06-29):** Kathā minute estimates, visual completeness, and Gamma readiness claims superseded by `build-evidence/V7-KATHA-RUNTIME-AND-DEPTH-REPORT.md` and `17-reviews-and-audits/V7-INDEPENDENT-VISUAL-CITATION-MEDIA-AUDIT.md`.
 
 ## Source catalog
 

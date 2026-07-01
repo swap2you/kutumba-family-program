@@ -1,7 +1,7 @@
 # Validation Coverage Report
 
-Generated: 2026-07-01T01:29:14Z
-HEAD: `d0243f2e472e936ac247e8ef4554316e073de731`
+Generated: 2026-07-01T02:17:38Z
+HEAD: `50256291893dd05d8972d793b8e238c5180757cb`
 
 ## Verdicts by category
 
@@ -19,8 +19,8 @@ HEAD: `d0243f2e472e936ac247e8ef4554316e073de731`
 
 ## Scripts executed
 
-Structural: validate_week_schema.py, validate_age_bands.py, validate_visual_assets.py, validate_media_indexes.py, validate_internal_links.py
-Semantic: validate_gamma_briefs.py, validate_prem_ki_katha.py, validate_review_status_honesty.py, detect_truncation_artifacts.py, measure_live_session_load.py, audit_katha_narrative_depth.py, validate_claim_source_support.py, validate_newcomer_glossary.py
+Structural: validate_week_schema.py, validate_age_bands.py, validate_mermaid_viewers.py, validate_visual_asset_manifests.py, validate_media_indexes.py, validate_internal_links.py
+Semantic: validate_gamma_briefs.py, validate_gamma_asset_references.py, validate_prem_ki_katha.py, validate_review_status_honesty.py, detect_truncation_artifacts.py, detect_stale_fact_phrases.py, measure_live_session_load.py, audit_katha_narrative_depth.py, validate_claim_source_support.py, validate_newcomer_glossary.py
 Source: validate_source_registry.py, validate_claim_register.py, detect_unverified_claims.py, detect_copyright_risk.py
 Reporting: build_week_quality_dashboard.py, build_cycle_coverage_report.py, generate_curriculum_status.py
 
