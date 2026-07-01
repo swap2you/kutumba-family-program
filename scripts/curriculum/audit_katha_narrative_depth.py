@@ -9,8 +9,8 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
-EVIDENCE = REPO / "build-evidence" / "V6-KATHA-NARRATIVE-DEPTH-SNAPSHOT.csv"
-REPORT = REPO / "build-evidence" / "V6-CYCLE-1-KATHA-DEPTH-AUDIT.md"
+EVIDENCE = REPO / "build-evidence" / "V7-KATHA-NARRATIVE-DEPTH-SNAPSHOT.csv"
+REPORT = REPO / "build-evidence" / "V7-KATHA-RUNTIME-AND-DEPTH-REPORT.md"
 
 from katha_narrative_utils import narrative_metrics  # noqa: E402
 from module_utils import iter_modules  # noqa: E402
@@ -36,7 +36,7 @@ def main() -> int:
         m["week_code"] = week_code(d.name)
         m["human_review"] = "required"
         rows.append(m)
-        if d.name.startswith("c1-w") and d.name != "c1-w2-i-am-not-this-body":
+        if d.name.startswith("c1-w"):
             if not m["meets_depth"]:
                 failures.append(
                     f"{m['week_code']}: narrative {m['narrative_words']}w "
@@ -52,29 +52,24 @@ def main() -> int:
 
     c1 = [r for r in rows if r["week_code"].startswith("C1-W")]
     lines = [
-        "# V6 Cycle 1 Kathā Depth Audit",
+        "# V7 Cycle 1 Kathā Runtime and Depth",
         "",
         f"Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}",
         "",
-        "Narrative words count **section 6 only** (excludes facilitator sections 7+).",
+        "V7 standard: 1,350–1,800 narrative words (~10–15 min narration + 3–5 min interaction = 15–20 min block).",
+        "Integration C1-W6: 400–800 words. Short forms: `prem-ki-katha-short.md` per module.",
         "",
-        "| Module | Narrative w | Total file w | Est. min | Paragraphs | Meets |",
-        "|---|---:|---:|---|---:|---|",
+        "| Module | Narrative w | Est. min | Meets |",
+        "|---|---:|---|---|",
     ]
     for r in sorted(c1, key=lambda x: x["week_code"]):
         est = f"{r['minutes_low']}-{r['minutes_high']}"
         meets = "yes" if r["meets_depth"] else "no"
-        note = " (gold pilot reference)" if r["week_code"] == "C1-W2" else ""
-        lines.append(
-            f"| {r['week_code']}{note} | {r['narrative_words']} | {r['total_file_words']} "
-            f"| {est} | {r['unique_events']} | {meets} |"
-        )
+        lines.append(f"| {r['week_code']} | {r['narrative_words']} | {est} | {meets} |")
     lines += [
         "",
-        "C1-W2 preserved as gold-pilot reference — not bulk-overwritten.",
-        "C1-W6 documented integration exception (350-700 narrative words).",
-        "",
-        "**Human doctrinal review required** for all modules.",
+        "C1-W2: gold-structure-reference deepened to standard narrative in V7.",
+        "Human doctrinal review required — not publication-approved.",
     ]
     REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -89,7 +84,7 @@ def main() -> int:
         for f in failures:
             print(f"FAIL: {f}")
         return 1
-    print("PASS: Cycle 1 narrative depth criteria met (excluding C1-W2 reference)")
+    print("PASS: Cycle 1 narrative depth criteria met (V7 standard)")
     return 0
 
 

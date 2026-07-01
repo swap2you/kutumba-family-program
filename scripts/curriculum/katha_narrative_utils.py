@@ -75,7 +75,7 @@ def narrative_metrics(path: Path) -> dict:
     boiler_pct = int(100 * boiler / max(1, len(BOILERPLATE_PHRASES)))
     slug = path.parent.name
     integration = slug in INTEGRATION_SLUGS or "integration_exception:" in raw[:500]
-    min_n, max_n = (350, 700) if integration else (700, 1200)
+    min_n, max_n = (400, 800) if integration else (1350, 1800)
     return {
         "slug": slug,
         "narrative_words": narr_w,
