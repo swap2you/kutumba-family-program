@@ -1,24 +1,17 @@
 # C1-W5 Science and Application
 
-## Scope
+### Hedonic Relativism and Planning the Good Society (1971)
 
-Theme: **hedonic adaptation and gratitude/prosocial research — carefully framed**
+- **Authors:** Brickman, P., & Campbell, D. T.
+- **DOI / URL:** `chapter in Adaptation-Level Theory` — https://psycnet.apa.org/record/1972-24270-001
+- **Finding used:** People adapt to rising material gains; lasting satisfaction is elusive from acquisition alone.
+- **Limitation:** Illustrates temporary contact pleasure; does not prove BG ontology.
+- **Application:** Pedagogy/home-practice design only — **never** proof of ātman, karma, rebirth, or Kṛṣṇa.
 
-Science may support pedagogy and family application. **Science never proves** ātman, karma, rebirth, or Kṛṣṇa.
+### Counting Blessings Versus Burdens (2003)
 
-## Suggested empirical supports (cite before claiming)
-
-| Topic | Example literature class | Use | Do not claim |
-|---|---|---|---|
-| Habit / cueing | Behavioral science reviews on implementation intentions | Home practice design | Proves devotion |
-| Family routines | Developmental psychology on family rituals | Saturday rhythm | Proves doctrine |
-| Retrieval practice | Cognitive science on testing effect | W6 review stations | Proves śāstra |
-| Hedonic adaptation | Well-being research on material consumption | W5 framing only | Proves temporary world ontology |
-
-## Citation rule
-
-If a specific study is named in teaching, include DOI/URL and year. If not verified, keep the claim general ("research on habit cues suggests…") or omit.
-
-## Boundary
-
-Metaphysical conclusions remain grounded in śāstra / Prabhupāda teachings, not lab results.
+- **Authors:** Emmons, R. A., & McCullough, M. E.
+- **DOI / URL:** `10.1037/0022-3514.84.2.377` — https://doi.org/10.1037/0022-3514.84.2.377
+- **Finding used:** Gratitude practices associate with well-being.
+- **Limitation:** Supports gratitude application; not proof of Kṛṣṇa.
+- **Application:** Pedagogy/home-practice design only — **never** proof of ātman, karma, rebirth, or Kṛṣṇa.

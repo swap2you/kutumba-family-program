@@ -1,24 +1,17 @@
 # C1-W1 Science and Application
 
-## Scope
+### Implementation Intentions and Goal Achievement (2006)
 
-Theme: **family routines, habit cues, repeated practice, parent modeling**
+- **Authors:** Gollwitzer, P. M., & Sheeran, P.
+- **DOI / URL:** `10.1016/S0065-2601(06)38002-1` — https://doi.org/10.1016/S0065-2601(06)38002-1
+- **Finding used:** If-then plans increase follow-through on intended actions.
+- **Limitation:** Does not prove devotion; helps design saṅkalpa cues.
+- **Application:** Pedagogy/home-practice design only — **never** proof of ātman, karma, rebirth, or Kṛṣṇa.
 
-Science may support pedagogy and family application. **Science never proves** ātman, karma, rebirth, or Kṛṣṇa.
+### Family Routines and Rituals (2002)
 
-## Suggested empirical supports (cite before claiming)
-
-| Topic | Example literature class | Use | Do not claim |
-|---|---|---|---|
-| Habit / cueing | Behavioral science reviews on implementation intentions | Home practice design | Proves devotion |
-| Family routines | Developmental psychology on family rituals | Saturday rhythm | Proves doctrine |
-| Retrieval practice | Cognitive science on testing effect | W6 review stations | Proves śāstra |
-| Hedonic adaptation | Well-being research on material consumption | W5 framing only | Proves temporary world ontology |
-
-## Citation rule
-
-If a specific study is named in teaching, include DOI/URL and year. If not verified, keep the claim general ("research on habit cues suggests…") or omit.
-
-## Boundary
-
-Metaphysical conclusions remain grounded in śāstra / Prabhupāda teachings, not lab results.
+- **Authors:** Fiese, B. H., et al.
+- **DOI / URL:** `10.1111/1467-8624.t01-1-00525` — https://doi.org/10.1111/1467-8624.t01-1-00525
+- **Finding used:** Predictable family rituals associate with child well-being and belonging.
+- **Limitation:** Does not prove spiritual efficacy of hearing.
+- **Application:** Pedagogy/home-practice design only — **never** proof of ātman, karma, rebirth, or Kṛṣṇa.

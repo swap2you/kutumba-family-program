@@ -1,14 +1,11 @@
 # C1-W2 Analogies and Limits
 
-## Week-scoped analogies
+| Analogy | Teaching value | Source status | Failure point | Younger use | Older/adult use |
+|---|---|---|---|---|---|
+| Changing garments | Body like clothes; wearer continues | BG 2.22 | Clothes chosen; bodies not | Paper doll clothes | Limitation discussion |
+| Life-stage photos | Same person across ages | BG 2.13 | Photos aren't ontology proof | Consent timeline craft | Respectful speech pledge |
+| Driver and vehicle | Operator ≠ vehicle | pedagogy | Avoid harsh dualism | Care for 'car' (body) | Service without body-shame |
 
-| Analogy | Teaches | Does not teach |
-|---|---|---|
-| Week-appropriate classroom analogy | The body changes; the conscious self continues. | Full ontology of other weeks |
-| Garden / path / map metaphors as relevant | Protected practice rhythm | Guaranteed spiritual advancement |
+## Rule
 
-## Hard limits
-
-- Do not import other weeks' core analogies as if they were this week's doctrine.
-- Label analogy as pedagogy, not as śāstra quotation.
-- For W1: use hearing/practice/community analogies — **not** body/soul garment analogies (those belong to W2).
+Label analogy as pedagogy. Never present analogy as śāstra quotation.

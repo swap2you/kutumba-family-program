@@ -21,10 +21,10 @@ The material world is temporary; lasting fulfillment comes through attaining Ká¹
 
 | Source | Link | Use in katha |
 |---|---|---|
-| BG 8.15 | [vedabase](https://vedabase.io/en/library/bg/8/15/) | Key verse |
-| BG 2.14 | [vedabase](https://vedabase.io/en/library/bg/2/14/) | Key verse |
-| BG 5.22 | [vedabase](https://vedabase.io/en/library/bg/5/22/) | Key verse |
-| BG 9.27 | [vedabase](https://vedabase.io/en/library/bg/9/27/) | Key verse |
+| BG 8.15 | [vedabase](https://vedabase.io/en/library/bg/8/15/) | Locked primary |
+| BG 2.14 | [vedabase](https://vedabase.io/en/library/bg/2/14/) | Supporting |
+| BG 5.22 | [vedabase](https://vedabase.io/en/library/bg/5/22/) | Supporting application |
+| BG 9.27 | [vedabase](https://vedabase.io/en/library/bg/9/27/) | Supporting offering mood |
 
 Full registry: [`katha/KATHA-SOURCE-REGISTER.yaml`](katha/KATHA-SOURCE-REGISTER.yaml)
 

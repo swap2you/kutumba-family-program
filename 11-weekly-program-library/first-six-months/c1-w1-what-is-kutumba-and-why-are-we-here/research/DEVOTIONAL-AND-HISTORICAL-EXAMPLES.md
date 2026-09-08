@@ -1,21 +1,12 @@
 # C1-W1 Devotional and Historical Examples
 
-## Allowed use
+## Selected examples (traceable)
 
-Authorized ISKCON / Prabhupāda lecture or conversation examples with date/place/URL when available.
+| Example | Provenance | URL | Use | Limitation |
+|---|---|---|---|---|
+| Naimiṣāraṇya assembly — sages inquire about duty | Śrīmad-Bhāgavatam Canto 1 opening narrative | https://vedabase.io/en/library/sb/1/1/ | Models protected hearing community | Narrative setting; paraphrase only |
+| Śrīla Prabhupāda's emphasis on regular hearing of Bhāgavatam | SB 1.2 purport context / lecture practice | https://vedabase.io/en/library/sb/1/2/18/ | Supports weekly rhythm | Do not invent lecture quotations; use paraphrase + URL |
 
-## Example slots
+## Policy
 
-| Example | Provenance | Use | Status |
-|---|---|---|---|
-| Regular hearing / practice anecdote tied to week's theme | Must have VedaBase or authorized lecture link | Illustration | TODO if link not verified |
-| Temple-family cooperation example | Local authorized story only with permission | Illustration | Optional / pending |
-
-## Omitted pending provenance
-
-- Bhakta-mālā episodes: **omit** unless exact edition/provenance is available.
-- Rāmāyaṇa dialogue: **omit invented dialogue**; use only traceable paraphrase with edition named.
-
-## Labeling
-
-Mark supplementary/hagiographic material clearly. Never use as sole doctrinal proof.
+Bhakta-mālā and invented Rāmāyaṇa dialogue are **not** used this week. Supplementary examples never replace the primary verse.

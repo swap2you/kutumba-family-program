@@ -1,14 +1,18 @@
 # C1-W6 Presentation Rubric (Non-Competitive)
 
-Use for formative encouragement. **No ranking. No public failure labels.**
-
 | Dimension | Emerging | Developing | Secure |
 |---|---|---|---|
-| Understanding | Names topic vaguely | States week's conclusion in own words | Connects conclusion to Cycle 1 review (SB 1.2.18 · BG 2.13 · BG 2.20 · SB 11.9.29 · BG 5.22) paraphrase |
-| Application | No home link | One concrete family action | Clear saṅkalpa / habit cue |
-| Teamwork | One person only | Partial family participation | Parents + children share roles |
+| Understanding | Vague topic | States conclusion | Connects to Cycle 1 chain paraphrase |
+| Application | No home link | One action | Clear cue + minimum version |
+| Teamwork | One speaker only | Partial family roles | Parents + children share |
 | Source accuracy | Mixes weeks / invents | Stays in week scope | Distinguishes scripture vs analogy |
 
-## W6 note
+## Locked primary for this week
 
-If understanding is weak across dimensions, recommend **C1 review/extension** before Cycle 2 — privately, with dignity.
+Cycle 1 chain — https://vedabase.io/en/library/sb/1/2/18/
+
+## W6 chain reminder
+
+When reviewing Cycle 1, represent W5 with **BG 8.15** (not BG 5.22 as primary).
+
+No ranking. Weak understanding → private review-before-C2 recommendation.

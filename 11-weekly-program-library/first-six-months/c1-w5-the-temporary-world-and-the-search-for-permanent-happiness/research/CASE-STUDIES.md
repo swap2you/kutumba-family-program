@@ -1,29 +1,31 @@
 # C1-W5 Case Studies
 
-## Categories
+### Constructed case 1 — fictional / anonymized
 
-1. Scriptural case (from śāstra narrative already in curriculum)
-2. Historical/devotional example (provenance required)
-3. Constructed contemporary family case (**fictional / anonymized**)
-
-## Constructed teaching case A
-
-**Label:** Constructed teaching case — not a real family.
-
-- **Situation:** A family pattern related to: How can enjoyment become gratitude and service?
-- **Tempting mistaken conclusion:** Material things are worthless / family affection is meaningless
-- **Relevant principle:** Temporary things can be used well but cannot provide permanent fulfillment.
+- **Situation:** New purchase chase after each weekend
+- **Tempting mistaken conclusion:** Next thing will satisfy
+- **Relevant principle / source:** BG 8.15 lasting shelter; BG 5.22 support
 - **Compassionate response:** Acknowledge effort; avoid shame; return to one small practice.
-- **Family action:** One 5–15 minute home practice linked to Bhagavad-gītā 5.22.
-- **What not to say:** Comparisons, spiritual threats, or public exposure of private struggles.
+- **Family action:** Pause; gratitude before buy
+- **What not to say:** Comparisons, spiritual threats, public exposure of private struggles.
+- **Age adaptation:** Younger — simplify to one sentence + action; Older — discuss mistaken conclusion explicitly.
 
-## Constructed teaching case B
+### Constructed case 2 — fictional / anonymized
 
-**Label:** Constructed teaching case — not a real family.
+- **Situation:** Parent shames child's toy joy
+- **Tempting mistaken conclusion:** Material joy is sinful
+- **Relevant principle / source:** Affection not worthless
+- **Compassionate response:** Acknowledge effort; avoid shame; return to one small practice.
+- **Family action:** Allow lawful joy; add offering mood
+- **What not to say:** Comparisons, spiritual threats, public exposure of private struggles.
+- **Age adaptation:** Younger — simplify to one sentence + action; Older — discuss mistaken conclusion explicitly.
 
-- **Situation:** Screens / overload / comparison pressure intersects this week's theme.
-- **Tempting mistaken conclusion:** More information without practice will fix everything.
-- **Relevant principle:** Protected rhythm + humble application.
-- **Compassionate response:** Simplify; one cue; one minimum version.
-- **Family action:** Choose one habit cue for the week.
-- **What not to say:** "Other families are more serious than you."
+### Constructed case 3 — fictional / anonymized
+
+- **Situation:** Work wins every conflict with prayer time
+- **Tempting mistaken conclusion:** Career alone is permanent security
+- **Relevant principle / source:** Temporary world framing
+- **Compassionate response:** Acknowledge effort; avoid shame; return to one small practice.
+- **Family action:** Protect one non-negotiable spiritual cue
+- **What not to say:** Comparisons, spiritual threats, public exposure of private struggles.
+- **Age adaptation:** Younger — simplify to one sentence + action; Older — discuss mistaken conclusion explicitly.

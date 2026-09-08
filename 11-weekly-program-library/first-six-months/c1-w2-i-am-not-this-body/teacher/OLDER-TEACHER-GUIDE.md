@@ -2,33 +2,46 @@
 
 ## Objective
 
-Students can explain: **The body changes; the conscious self continues.**
+Students explain: **Body changes; conscious self continues — care for the body without mistaking it for the self.** using BG 2.13.
 
 ## Essential question
 
-How does identity change how we speak about bodies?
+How should knowing I am not only this body change how we speak about bodies?
 
-## 40-minute core
+## Text-observation task (10 min)
 
-| Min | Block |
-|---|---|
-| 0–5 | Hook + essential question |
-| 5–15 | Short primary text observation (Bhagavad-gītā 2.13) |
-| 15–25 | Diagram + case discussion |
-| 25–33 | Worksheet / game |
-| 33–38 | Application + project link |
-| 38–40 | Cleanup + parent handoff |
+Open https://vedabase.io/en/library/bg/2/13/.  
+Students write:
+1. Who is speaking / what is the setting (if known)?  
+2. One phrase that means "this continues" or "this is temporary/rare/eternal" depending on week.  
+3. One sentence paraphrase in their own words.  
+4. One thing this verse does **not** say.
 
-## Answer keys
+## Diagram task
 
-See `activities/OLDER-ANSWER-KEY.md`.
+Complete labels on `visuals/V11/concept-diagram.svg` / Mermaid source. Week-specific — not a generic reused loop.
+
+## Scenario cards
+
+Use the three cases in `research/CASE-STUDIES.md`. In pairs: identify mistaken conclusion + better family action.
+
+## Worksheet + puzzle
+
+See `activities/OLDER-ACTIVITY-PACK.md` and grade with `activities/OLDER-ANSWER-KEY.md`.
+
+## Project contribution
+
+Advance: see `project/CYCLE-CONTRIBUTION.md`.
+
+## Reflection
+
+"Where did I confuse analogy with scripture today?"
+
+## Extension
+
+Prepare one sentence for reunification share.
 
 ## Boundaries
 
-- Do not teach full other-week ontology.
-- Misconception to block: Psychology proves the soul
-- Science may illustrate habits only — never prove metaphysics.
-
-## Key source
-
-Bhagavad-gītā 2.13 — https://vedabase.io/en/library/bg/2/13/
+Misconception to block: Psychology or photos prove the soul.  
+Science may illustrate habits only — never prove metaphysics.

@@ -1,29 +1,31 @@
 # C1-W4 Case Studies
 
-## Categories
+### Constructed case 1 — fictional / anonymized
 
-1. Scriptural case (from śāstra narrative already in curriculum)
-2. Historical/devotional example (provenance required)
-3. Constructed contemporary family case (**fictional / anonymized**)
-
-## Constructed teaching case A
-
-**Label:** Constructed teaching case — not a real family.
-
-- **Situation:** A family pattern related to: What deserves protected family time?
-- **Tempting mistaken conclusion:** Use fear or death-pressure to motivate children
-- **Relevant principle:** Human life gives a rare opportunity for deliberate self-realization.
+- **Situation:** Screens consume protected practice slot
+- **Tempting mistaken conclusion:** Entertainment first is fine
+- **Relevant principle / source:** SB 11.9.29 opportunity
 - **Compassionate response:** Acknowledge effort; avoid shame; return to one small practice.
-- **Family action:** One 5–15 minute home practice linked to Śrīmad-Bhāgavatam 11.9.29.
-- **What not to say:** Comparisons, spiritual threats, or public exposure of private struggles.
+- **Family action:** Choose one protected 10-minute block
+- **What not to say:** Comparisons, spiritual threats, public exposure of private struggles.
+- **Age adaptation:** Younger — simplify to one sentence + action; Older — discuss mistaken conclusion explicitly.
 
-## Constructed teaching case B
+### Constructed case 2 — fictional / anonymized
 
-**Label:** Constructed teaching case — not a real family.
+- **Situation:** Parent uses death scare on child
+- **Tempting mistaken conclusion:** Fear creates urgency
+- **Relevant principle / source:** Compassion not terror
+- **Compassionate response:** Acknowledge effort; avoid shame; return to one small practice.
+- **Family action:** Speak opportunity, not threat
+- **What not to say:** Comparisons, spiritual threats, public exposure of private struggles.
+- **Age adaptation:** Younger — simplify to one sentence + action; Older — discuss mistaken conclusion explicitly.
 
-- **Situation:** Screens / overload / comparison pressure intersects this week's theme.
-- **Tempting mistaken conclusion:** More information without practice will fix everything.
-- **Relevant principle:** Protected rhythm + humble application.
-- **Compassionate response:** Simplify; one cue; one minimum version.
-- **Family action:** Choose one habit cue for the week.
-- **What not to say:** "Other families are more serious than you."
+### Constructed case 3 — fictional / anonymized
+
+- **Situation:** Family fills calendar; no inquiry time
+- **Tempting mistaken conclusion:** Busy = successful
+- **Relevant principle / source:** Human form for realization
+- **Compassionate response:** Acknowledge effort; avoid shame; return to one small practice.
+- **Family action:** Trade one optional activity for hearing
+- **What not to say:** Comparisons, spiritual threats, public exposure of private struggles.
+- **Age adaptation:** Younger — simplify to one sentence + action; Older — discuss mistaken conclusion explicitly.

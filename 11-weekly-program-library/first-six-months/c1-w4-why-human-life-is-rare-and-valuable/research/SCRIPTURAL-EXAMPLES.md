@@ -1,17 +1,21 @@
 # C1-W4 Scriptural Examples
 
-## Primary anchor
+## Primary anchor (locked)
 
-| Reference | URL | Use | Limitation |
+| Reference | URL | Teaching paraphrase | Limitation |
 |---|---|---|---|
-| Śrīmad-Bhāgavatam 11.9.29 | https://vedabase.io/en/library/sb/11/9/29/ | Core teaching paraphrase | No full purport dump in Git |
+| SB 11.9.29 | https://vedabase.io/en/library/sb/11/9/29/ | After many births one attains the rare human form — use it for self-realization. | Exact quotation only if verified; otherwise KUTUMBA paraphrase |
 
-## Supporting (tier 1)
+## Supporting primary references
 
-| Reference | URL | Use | Limitation |
+| Reference | URL | Teaching use | Limitation |
 |---|---|---|---|
-| Related Prabhupāda book context | VedaBase library root https://vedabase.io/en/library/ | Clarify scope | Quote only short verified lines; prefer paraphrase |
+| BG 2.40 | https://vedabase.io/en/library/bg/2/40/ | No loss or diminution in this endeavor; a little progress protects from fear. | Prefer paraphrase; no purport dump |
+| SB 4.8 (Nārada–Mṛgāri context) | https://vedabase.io/en/library/sb/4/8/ | Mercy transforms violent habit — compassion application. | Prefer paraphrase; no purport dump |
 
-## Teaching note
+## Classroom use
 
-Present as KUTUMBA paraphrase unless an exact short quotation is verified from VedaBase. Never invent verse wording.
+1. Open the primary URL before teaching.
+2. State paraphrase in plain English.
+3. Name what this week does **not** teach.
+4. Do not invent verse wording.

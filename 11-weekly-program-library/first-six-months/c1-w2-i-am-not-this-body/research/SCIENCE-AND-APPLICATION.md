@@ -1,24 +1,9 @@
 # C1-W2 Science and Application
 
-## Scope
+### Body Image and Self-Concept in Childhood/Adolescence (2011)
 
-Theme: **developmental continuity and respectful body language — never proof of ātman**
-
-Science may support pedagogy and family application. **Science never proves** ātman, karma, rebirth, or Kṛṣṇa.
-
-## Suggested empirical supports (cite before claiming)
-
-| Topic | Example literature class | Use | Do not claim |
-|---|---|---|---|
-| Habit / cueing | Behavioral science reviews on implementation intentions | Home practice design | Proves devotion |
-| Family routines | Developmental psychology on family rituals | Saturday rhythm | Proves doctrine |
-| Retrieval practice | Cognitive science on testing effect | W6 review stations | Proves śāstra |
-| Hedonic adaptation | Well-being research on material consumption | W5 framing only | Proves temporary world ontology |
-
-## Citation rule
-
-If a specific study is named in teaching, include DOI/URL and year. If not verified, keep the claim general ("research on habit cues suggests…") or omit.
-
-## Boundary
-
-Metaphysical conclusions remain grounded in śāstra / Prabhupāda teachings, not lab results.
+- **Authors:** Smolak, L.
+- **DOI / URL:** `10.1146/annurev-clinpsy-032210-104544` — https://doi.org/10.1146/annurev-clinpsy-032210-104544
+- **Finding used:** Body-image concerns can shape speech and peer comparison.
+- **Limitation:** Never claim psychology proves ātman; use only for respectful-language pedagogy.
+- **Application:** Pedagogy/home-practice design only — **never** proof of ātman, karma, rebirth, or Kṛṣṇa.

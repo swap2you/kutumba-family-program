@@ -1,14 +1,11 @@
 # C1-W1 Analogies and Limits
 
-## Week-scoped analogies
+| Analogy | Teaching value | Source status | Failure point | Younger use | Older/adult use |
+|---|---|---|---|---|---|
+| Protected garden plot | Regular watering grows roots | kutumba-summary | Not guaranteed bloom | Water the plant together | Map to Saturday + home cue |
+| Team practice night | Show-up + drills both matter | kutumba-summary | Sports glory ≠ spiritual goal | Pass a 'practice ball' (soft) | Discuss missing home drills |
+| Path with fence | Is/isn't boundaries keep path clear | charter pedagogy | Boundaries ≠ hostility | Is/isn't card sort | Charter purpose cards |
 
-| Analogy | Teaches | Does not teach |
-|---|---|---|
-| Week-appropriate classroom analogy | Regular family hearing and practice creates a protected path for growth. | Full ontology of other weeks |
-| Garden / path / map metaphors as relevant | Protected practice rhythm | Guaranteed spiritual advancement |
+## Rule
 
-## Hard limits
-
-- Do not import other weeks' core analogies as if they were this week's doctrine.
-- Label analogy as pedagogy, not as śāstra quotation.
-- For W1: use hearing/practice/community analogies — **not** body/soul garment analogies (those belong to W2).
+Label analogy as pedagogy. Never present analogy as śāstra quotation.

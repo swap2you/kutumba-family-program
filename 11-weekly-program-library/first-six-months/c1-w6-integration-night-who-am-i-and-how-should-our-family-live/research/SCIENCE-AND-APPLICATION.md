@@ -1,24 +1,9 @@
 # C1-W6 Science and Application
 
-## Scope
+### Test-Enhanced Learning (2006)
 
-Theme: **retrieval practice, explanation-to-learn, formative assessment**
-
-Science may support pedagogy and family application. **Science never proves** ātman, karma, rebirth, or Kṛṣṇa.
-
-## Suggested empirical supports (cite before claiming)
-
-| Topic | Example literature class | Use | Do not claim |
-|---|---|---|---|
-| Habit / cueing | Behavioral science reviews on implementation intentions | Home practice design | Proves devotion |
-| Family routines | Developmental psychology on family rituals | Saturday rhythm | Proves doctrine |
-| Retrieval practice | Cognitive science on testing effect | W6 review stations | Proves śāstra |
-| Hedonic adaptation | Well-being research on material consumption | W5 framing only | Proves temporary world ontology |
-
-## Citation rule
-
-If a specific study is named in teaching, include DOI/URL and year. If not verified, keep the claim general ("research on habit cues suggests…") or omit.
-
-## Boundary
-
-Metaphysical conclusions remain grounded in śāstra / Prabhupāda teachings, not lab results.
+- **Authors:** Roediger, H. L., & Karpicke, J. D.
+- **DOI / URL:** `10.1111/j.1529-1006.2006.00027.x` — https://doi.org/10.1111/j.1529-1006.2006.00027.x
+- **Finding used:** Retrieval practice strengthens long-term retention.
+- **Limitation:** Supports review stations; not doctrinal proof.
+- **Application:** Pedagogy/home-practice design only — **never** proof of ātman, karma, rebirth, or Kṛṣṇa.

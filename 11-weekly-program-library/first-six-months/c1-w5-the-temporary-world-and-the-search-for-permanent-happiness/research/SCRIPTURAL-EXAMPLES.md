@@ -1,17 +1,21 @@
 # C1-W5 Scriptural Examples
 
-## Primary anchor
+## Primary anchor (locked)
 
-| Reference | URL | Use | Limitation |
+| Reference | URL | Teaching paraphrase | Limitation |
 |---|---|---|---|
-| Bhagavad-gītā 5.22 | https://vedabase.io/en/library/bg/5/22/ | Core teaching paraphrase | No full purport dump in Git |
+| BG 8.15 | https://vedabase.io/en/library/bg/8/15/ | Having attained Me, great souls do not take rebirth into this temporary world of misery. | Exact quotation only if verified; otherwise KUTUMBA paraphrase |
 
-## Supporting (tier 1)
+## Supporting primary references
 
-| Reference | URL | Use | Limitation |
+| Reference | URL | Teaching use | Limitation |
 |---|---|---|---|
-| Related Prabhupāda book context | VedaBase library root https://vedabase.io/en/library/ | Clarify scope | Quote only short verified lines; prefer paraphrase |
+| BG 5.22 | https://vedabase.io/en/library/bg/5/22/ | Pleasures born of contact are temporary — supporting application. | Prefer paraphrase; no purport dump |
+| BG 9.27 | https://vedabase.io/en/library/bg/9/27/ | Whatever you do, eat, offer, give — do as offering unto Me. | Prefer paraphrase; no purport dump |
 
-## Teaching note
+## Classroom use
 
-Present as KUTUMBA paraphrase unless an exact short quotation is verified from VedaBase. Never invent verse wording.
+1. Open the primary URL before teaching.
+2. State paraphrase in plain English.
+3. Name what this week does **not** teach.
+4. Do not invent verse wording.

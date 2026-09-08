@@ -1,25 +1,41 @@
 # C1-W5 Cycle Contribution
 
-## Cumulative project
+## Cumulative project title
 
 **Who Am I, and How Should Our Family Live?**
 
-## This week's layer
+## This week's essential question
 
-Temporary vs lasting happiness application artifact
+How can enjoyment become gratitude and service?
 
-## How it connects
+## This week's layer / artifact
 
-| Prior | This week | Next |
-|---|---|---|
-| Previous C1 layers (if any) | C1-W5: Temporary vs lasting happiness application artifact | Continues toward W6 presentation |
+Temporary vs lasting sorting card + offering-mood sentence.
 
-## Family action
+## Conclusion to carry forward
 
-1. Complete one artifact linked to: How can enjoyment become gratitude and service?
-2. Keep it simple and age-appropriate.
-3. Bring or photograph (with consent) for the Cycle 1 gallery / W6 share.
+Temporary things usable; lasting shelter in Kṛṣṇa.
 
-## Facilitation note
+## Steps (keep optional burden ≤20 minutes; W6 low-burden allowed)
 
-Celebrate effort and understanding — never rank families or children.
+1. Discuss the essential question for 3–5 minutes at home.
+2. Produce the artifact named above.
+3. Store it in the family project folder for Week 6.
+4. Bring one sentence (or drawing) to Saturday reunification.
+
+## Primary source
+
+BG 8.15 — https://vedabase.io/en/library/bg/8/15/
+
+## Boundaries
+
+- No ranking families or children.
+- No forced private disclosure.
+- Distinguish scripture paraphrase from analogy.
+- For W6 review chain, represent W5 with **BG 8.15** (not BG 5.22 as primary).
+
+## Success look-fors
+
+- Artifact exists and is week-specific.
+- Family can state the conclusion in plain words.
+- Home cue named (time + place) or W6 presentation plan ready.

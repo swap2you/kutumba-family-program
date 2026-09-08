@@ -1,24 +1,8 @@
 # C1-W3 Science and Application
 
-## Scope
+## Explicit decision
 
-Theme: **limits of third-person measurement only with careful caveats — no proof science**
+Empirical research is **not used this week as support for metaphysical claims** about the soul. Classroom focus stays on śāstra paraphrase, analogies with limits, and respectful questions.
 
-Science may support pedagogy and family application. **Science never proves** ātman, karma, rebirth, or Kṛṣṇa.
-
-## Suggested empirical supports (cite before claiming)
-
-| Topic | Example literature class | Use | Do not claim |
-|---|---|---|---|
-| Habit / cueing | Behavioral science reviews on implementation intentions | Home practice design | Proves devotion |
-| Family routines | Developmental psychology on family rituals | Saturday rhythm | Proves doctrine |
-| Retrieval practice | Cognitive science on testing effect | W6 review stations | Proves śāstra |
-| Hedonic adaptation | Well-being research on material consumption | W5 framing only | Proves temporary world ontology |
-
-## Citation rule
-
-If a specific study is named in teaching, include DOI/URL and year. If not verified, keep the claim general ("research on habit cues suggests…") or omit.
-
-## Boundary
-
-Metaphysical conclusions remain grounded in śāstra / Prabhupāda teachings, not lab results.
+If a parent asks for science proof of the soul, defer:
+> "Laboratory methods measure bodies and behavior. Our teaching about the soul comes from śāstra. I will not claim science proves or disproves ātman."

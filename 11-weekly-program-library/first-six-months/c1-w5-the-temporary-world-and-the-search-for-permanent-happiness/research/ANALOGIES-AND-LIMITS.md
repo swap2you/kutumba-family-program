@@ -1,14 +1,11 @@
 # C1-W5 Analogies and Limits
 
-## Week-scoped analogies
+| Analogy | Teaching value | Source status | Failure point | Younger use | Older/adult use |
+|---|---|---|---|---|---|
+| Sparkler vs lamp | Brief flash vs lasting light | BG 5.22 support pedagogy | Lawful joy not condemned | Sparkler drawing | Gratitude before enjoyment |
+| Saltwater drink | Increases thirst | classic pedagogy | Not medical claim | Thirst talk | Acquisition loop map |
+| Offering plate | Enjoyment becomes service | BG 9.27 | Not empty ritualism | Offer snack mood | Whatever you do — offer |
 
-| Analogy | Teaches | Does not teach |
-|---|---|---|
-| Week-appropriate classroom analogy | Temporary things can be used well but cannot provide permanent fulfillment. | Full ontology of other weeks |
-| Garden / path / map metaphors as relevant | Protected practice rhythm | Guaranteed spiritual advancement |
+## Rule
 
-## Hard limits
-
-- Do not import other weeks' core analogies as if they were this week's doctrine.
-- Label analogy as pedagogy, not as śāstra quotation.
-- For W1: use hearing/practice/community analogies — **not** body/soul garment analogies (those belong to W2).
+Label analogy as pedagogy. Never present analogy as śāstra quotation.

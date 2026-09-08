@@ -2,33 +2,46 @@
 
 ## Objective
 
-Students can explain: **Temporary things can be used well but cannot provide permanent fulfillment.**
+Students explain: **Temporary things can be used well but cannot provide permanent fulfillment.** using BG 8.15.
 
 ## Essential question
 
 How can enjoyment become gratitude and service?
 
-## 40-minute core
+## Text-observation task (10 min)
 
-| Min | Block |
-|---|---|
-| 0–5 | Hook + essential question |
-| 5–15 | Short primary text observation (Bhagavad-gītā 5.22) |
-| 15–25 | Diagram + case discussion |
-| 25–33 | Worksheet / game |
-| 33–38 | Application + project link |
-| 38–40 | Cleanup + parent handoff |
+Open https://vedabase.io/en/library/bg/8/15/.  
+Students write:
+1. Who is speaking / what is the setting (if known)?  
+2. One phrase that means "this continues" or "this is temporary/rare/eternal" depending on week.  
+3. One sentence paraphrase in their own words.  
+4. One thing this verse does **not** say.
 
-## Answer keys
+## Diagram task
 
-See `activities/OLDER-ANSWER-KEY.md`.
+Complete labels on `visuals/V11/concept-diagram.svg` / Mermaid source. Week-specific — not a generic reused loop.
+
+## Scenario cards
+
+Use the three cases in `research/CASE-STUDIES.md`. In pairs: identify mistaken conclusion + better family action.
+
+## Worksheet + puzzle
+
+See `activities/OLDER-ACTIVITY-PACK.md` and grade with `activities/OLDER-ANSWER-KEY.md`.
+
+## Project contribution
+
+Advance: see `project/CYCLE-CONTRIBUTION.md`.
+
+## Reflection
+
+"Where did I confuse analogy with scripture today?"
+
+## Extension
+
+Prepare one sentence for reunification share.
 
 ## Boundaries
 
-- Do not teach full other-week ontology.
-- Misconception to block: Material things are worthless / family affection is meaningless
-- Science may illustrate habits only — never prove metaphysics.
-
-## Key source
-
-Bhagavad-gītā 5.22 — https://vedabase.io/en/library/bg/5/22/
+Misconception to block: Material things and family affection are worthless.  
+Science may illustrate habits only — never prove metaphysics.

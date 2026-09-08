@@ -1,14 +1,11 @@
 # C1-W3 Analogies and Limits
 
-## Week-scoped analogies
+| Analogy | Teaching value | Source status | Failure point | Younger use | Older/adult use |
+|---|---|---|---|---|---|
+| Sun and sunray | Qualitative likeness; quantitative difference | BG 15.7 pedagogy | Ray is not the sun | Flashlight + beam | Part-and-parcel map |
+| Spark from fire | Same nature, dependent | traditional pedagogy | Not independent Godhood | Sparks craft (paper) | Reject 'I am God' |
+| House and resident | Resident ≠ house | pedagogy | Can feel impersonal | Tidy sacred corner | Care for body-house |
 
-| Analogy | Teaches | Does not teach |
-|---|---|---|
-| Week-appropriate classroom analogy | The jīva is eternal, conscious, individual, minute, and related to Kṛṣṇa in service. | Full ontology of other weeks |
-| Garden / path / map metaphors as relevant | Protected practice rhythm | Guaranteed spiritual advancement |
+## Rule
 
-## Hard limits
-
-- Do not import other weeks' core analogies as if they were this week's doctrine.
-- Label analogy as pedagogy, not as śāstra quotation.
-- For W1: use hearing/practice/community analogies — **not** body/soul garment analogies (those belong to W2).
+Label analogy as pedagogy. Never present analogy as śāstra quotation.
