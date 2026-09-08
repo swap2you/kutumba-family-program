@@ -42,7 +42,7 @@ derived_from:
 
 - Caitanya-caritāmṛta Madhya 22.128–129 (five powerful practices of bhakti)
 
-- KUTUMBA Master Operating Model: identity, six charter purposes and Friday flow
+- KUTUMBA Master Operating Model: identity, six charter purposes and Saturday flow
 
 | **Key verse** |
 | --- |
@@ -51,7 +51,7 @@ derived_from:
 
 *Delivery target: 8–10 minutes of scripted narration plus 5–7 minutes of interaction. Do not exceed the 20-minute block.*
 
-| Friday evening has finally arrived. One parent is tired from work, another is worried about unfinished chores, one child wants a tablet, and another asks whether KUTUMBA is only another class. This is the real starting point: a family does not become Kṛṣṇa conscious because everyone already feels inspired. A family grows because, despite ordinary pressure, it repeatedly creates a protected place for hearing, chanting, service and honest improvement. |
+| Saturday afternoon has finally arrived. One parent is tired from work, another is worried about unfinished chores, one child wants a tablet, and another asks whether KUTUMBA is only another class. This is the real starting point: a family does not become Kṛṣṇa conscious because everyone already feels inspired. A family grows because, despite ordinary pressure, it repeatedly creates a protected place for hearing, chanting, service and honest improvement. |
 | --- |
 
 ## Parent Lesson — 40 Minutes
@@ -62,7 +62,7 @@ derived_from:
 
 1. 10–18 min — Six-purpose card sort. Families match the charter purposes with examples: home chanting, temple service, respectful correction, festival participation, study readiness and family cooperation.
 
-1. 18–28 min — Case study: a family attends every Friday but has no home practice; another practices at home but withdraws from temple association. Discuss what each is missing and how to rebalance without criticism.
+1. 18–28 min — Case study: a family attends every Saturday but has no home practice; another practices at home but withdraws from temple association. Discuss what each is missing and how to rebalance without criticism.
 
 1. 28–35 min — Family operating agreement: each couple or adult household identifies one support they need and one contribution they can reliably make.
 
@@ -169,7 +169,7 @@ derived_from:
 
 1. The bhakti garden analogy
 
-1. Friday flow and family responsibility
+1. Saturday flow and family responsibility
 
 1. How to write a realistic saṅkalpa
 

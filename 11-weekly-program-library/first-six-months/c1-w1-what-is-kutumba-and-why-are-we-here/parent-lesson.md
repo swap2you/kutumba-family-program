@@ -18,7 +18,7 @@ derived_from:
 
 1. 10–18 min — Six-purpose card sort. Families match the charter purposes with examples: home chanting, temple service, respectful correction, festival participation, study readiness and family cooperation.
 
-1. 18–28 min — Case study: a family attends every Friday but has no home practice; another practices at home but withdraws from temple association. Discuss what each is missing and how to rebalance without criticism.
+1. 18–28 min — Case study: a family attends every Saturday but has no home practice; another practices at home but withdraws from temple association. Discuss what each is missing and how to rebalance without criticism.
 
 1. 28–35 min — Family operating agreement: each couple or adult household identifies one support they need and one contribution they can reliably make.
 

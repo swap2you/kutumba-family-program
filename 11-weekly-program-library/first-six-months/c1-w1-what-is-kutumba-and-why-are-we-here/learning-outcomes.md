@@ -28,7 +28,7 @@ derived_from:
 
 - Caitanya-caritāmṛta Madhya 22.128–129 (five powerful practices of bhakti)
 
-- KUTUMBA Master Operating Model: identity, six charter purposes and Friday flow
+- KUTUMBA Master Operating Model: identity, six charter purposes and Saturday flow
 
 | **Key verse** |
 | --- |

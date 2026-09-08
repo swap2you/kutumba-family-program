@@ -24,7 +24,7 @@ derived_from:
 
 1. The bhakti garden analogy
 
-1. Friday flow and family responsibility
+1. Saturday flow and family responsibility
 
 1. How to write a realistic saṅkalpa
 

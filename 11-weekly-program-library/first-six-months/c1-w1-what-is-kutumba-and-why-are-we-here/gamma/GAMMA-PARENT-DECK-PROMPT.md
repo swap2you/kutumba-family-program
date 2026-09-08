@@ -42,7 +42,7 @@ Why do families gather weekly to hear śāstra and practice together?
 ### Card 3 — Opening hook
 
 **Content:**  
-Friday evening has finally arrived. One parent is tired from work, another is worried about unfinished chores, one child wants a tablet, and another asks whether KUTUMBA is only another class. This is…
+Saturday afternoon has finally arrived. One parent is tired from work, another is worried about unfinished chores, one child wants a tablet, and another asks whether KUTUMBA is only another class. This is…
 
 **Visual:** ```[ASSET: visuals/rendered/c1-w1-concept-hearing-flow.svg]```
 **Speaker note:** Use opening hook as modern door only — pivot quickly to śāstra.

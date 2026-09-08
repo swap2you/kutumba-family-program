@@ -51,7 +51,7 @@ Invite families to recall one memory line only — the line that actually surfac
 
 The facilitator weaves a short spoken recollection — not a new story — linking the scenes: hearing requires protected time; the body changes but the self continues; human life can reform; temporary honor cannot satisfy the heart. Use only paraphrase already established in prior weeks. Do not introduce a new principal narrative such as a fresh līlā to impress guests.
 
-Offer mood turns toward **gratitude and practical saṅkalpa**. Each family writes one minimum practice for the off-week: a meal prayer, one page of hearing, one apology ritual, one charitable act, or one protected Friday hour. Smaller than a mela display, but steady. Preview Cycle 2 briefly — karma, choice, and consequence — without overwhelming newcomers.
+Offer mood turns toward **gratitude and practical saṅkalpa**. Each family writes one minimum practice for the off-week: a meal prayer, one page of hearing, one apology ritual, one charitable act, or one protected Saturday hour. Smaller than a mela display, but steady. Preview Cycle 2 briefly — karma, choice, and consequence — without overwhelming newcomers.
 
 Close with kīrtana or silent prayer as the community normally does. Remind all that integration success is not measured by eloquence tonight, but by whether kindness, hearing, and honesty continue when the facilitators are not watching.
 

@@ -10,7 +10,7 @@
 | # | Visual | File | Audience | Purpose |
 | --- | --- | --- | --- | --- |
 | 1 | Concept map | concept-map.mmd | 9+ | Spark, fire, and service identity |
-| 2 | Session flow | process-flow.mmd | facilitator | Friday flow |
+| 2 | Session flow | process-flow.mmd | facilitator | Saturday flow |
 | 3 | Means / does not mean | MISCONCEPTIONS-AND-BOUNDARIES.md | parent | Scope guard |
 
 ## Gamma integration

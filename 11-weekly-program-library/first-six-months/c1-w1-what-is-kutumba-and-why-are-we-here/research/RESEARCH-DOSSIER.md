@@ -9,7 +9,7 @@
 | **Cycle** | Cycle 1 — Identity and the Human Problem |
 | **Essential question** | Why do families gather weekly to hear śāstra and practice together? |
 | **Controlling principle** | KUTUMBA is a disciplined family sādhana community—not a social club, substitute temple, or lecture series. |
-| **Scope** | Six charter purposes; Friday rhythm; realistic saṅkalpa; temple alignment |
+| **Scope** | Six charter purposes; Saturday rhythm; realistic saṅkalpa; temple alignment |
 | **Explicit exclusions** | Full siddhānta; initiation policy; worship procedure detail |
 | **Prerequisites** | None — cycle opener |
 | **Leads to** | C1-W2 (body/self distinction) |

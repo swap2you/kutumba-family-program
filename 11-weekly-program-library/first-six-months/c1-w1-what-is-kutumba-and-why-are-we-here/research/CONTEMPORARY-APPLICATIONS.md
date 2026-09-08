@@ -6,7 +6,7 @@
 
 | Field | Detail |
 | --- | --- |
-| **Presenting situation** | Family comes every Friday but never chants at home |
+| **Presenting situation** | Family comes every Saturday but never chants at home |
 | **Mistaken conclusion** | See facilitator guide |
 | **Source-grounded correction** | SB 1.2.18 — regular hearing and service required |
 | **Compassionate response** | Private guidance; no public shaming |
