@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img">
+  <title>C1-W2 concept diagram</title>
+  <rect width="800" height="420" fill="#faf8f5"/>
+  <text x="400" y="46" text-anchor="middle" font-size="18" font-family="Segoe UI,sans-serif">C1-W2 — Growth loop</text>
+  <rect x="40" y="100" width="120" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5"/>
+  <text x="100" y="130" text-anchor="middle" font-size="12">Hear</text>
+  <rect x="180" y="100" width="120" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5"/>
+  <text x="240" y="130" text-anchor="middle" font-size="12">Discuss</text>
+  <rect x="320" y="100" width="120" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5"/>
+  <text x="380" y="130" text-anchor="middle" font-size="12">Practice</text>
+  <rect x="460" y="100" width="120" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5"/>
+  <text x="520" y="130" text-anchor="middle" font-size="12">Reflect</text>
+  <rect x="600" y="100" width="120" height="50" rx="8" fill="#e8f0fe" stroke="#4a6fa5"/>
+  <text x="660" y="130" text-anchor="middle" font-size="12">Serve</text>
+  <text x="400" y="220" text-anchor="middle" font-size="14">The body changes; the conscious self continues.</text>
+  <text x="400" y="260" text-anchor="middle" font-size="12">Bhagavad-gītā 2.13</text>
+  <text x="400" y="390" text-anchor="middle" font-size="10" fill="#666">KUTUMBA-original · C1-W2 · human review required</text>
+</svg>

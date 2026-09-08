@@ -1,0 +1,13 @@
+module: C1-W2
+render_status: prompt-only-not-rendered
+session: Saturday-14:00-16:00
+primary_verse: Bhagavad-gītā 2.13
+primary_url: https://vedabase.io/en/library/bg/2/13/
+do_not_claim:
+  - human-approved
+  - publication-ready
+  - gamma-rendered
+slides_require:
+  - primary_source
+  - do_not_claim
+  - accessibility_note
