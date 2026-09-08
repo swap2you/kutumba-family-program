@@ -18,7 +18,7 @@
 
 **Plain meaning (paraphrase):** We offer respects to His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda, dear to Kṛṣṇa, who carries Lord Caitanya's message and delivers Western countries from impersonal and voidist misconceptions.
 
-**Source:** https://vedabase.io/en/library/cc/adi/1/ — related praṇāma tradition; confirm local authorized chanting sheet.
+**Source note:** The two standard Śrīla Prabhupāda praṇāma verses are used throughout ISKCON temple practice. A stable public verse-page specifically titled for these praṇāma lines is not always presented as a standalone VedaBase “verse object.” Use your temple’s authorised chanting sheet as the exact-text control; VedaBase CC Ādi context: https://vedabase.io/en/library/cc/adi/1/ . Do not invent additional lines.
 
 **Usage:** Recite respectfully at opening; do not invent additional lines.
 

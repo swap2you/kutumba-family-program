@@ -1,118 +1,198 @@
 # C1-W4 V11 Gamma Parent Deck Prompt
 
-**Status:** prompt-only — **not rendered** — **not approved**
+**Status:** prompt-only — not rendered — not approved
 
 ## Deck identity
-
-- Module: C1-W4 — Why Human Life Is Rare and Valuable
-- Format: 16:9
-- Session: Saturday 2:00–4:00 PM
-
-
+- C1-W4 — Why Human Life Is Rare and Valuable
+- Audience: parents/caregivers
 
 ## Slides
 
-### Slide 1
+### Slide 1 — Adult essential question
 
-- **Title:** C1-W4 / parent / slide 1
 - **Audience:** parent
-- **Purpose:** Teach week's conclusion without overclaiming
-- **On-slide content:** Short bullets on Why Human Life Is Rare and Valuable
-- **Presenter notes:** Stay in week scope; Saturday 2–4; no ranking
-- **Primary source:** Śrīmad-Bhāgavatam 11.9.29 (https://vedabase.io/en/library/sb/11/9/29/)
-- **Suggested visual:** V11 diagram / line-art
-- **Image/diagram prompt:** Simple instructional graphic; no deity caricature
-- **Interaction:** One question or echo phrase
-- **Do-not-claim:** Not human-approved; not publication-ready; science does not prove doctrine
-- **Accessibility note:** High contrast; large type; read aloud key lines
-### Slide 2
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - What deserves protected family time?
+  - Write silently for 30 seconds
+- **Presenter notes:** Invite honesty without confession pressure Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Parent circle quiet writing
+- **Image/diagram prompt:** Warm living-room scene for: What deserves protected family time?
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
 
-- **Title:** C1-W4 / parent / slide 2
-- **Audience:** parent
-- **Purpose:** Teach week's conclusion without overclaiming
-- **On-slide content:** Short bullets on Human life gives a rare opportunity for deliberate self-realization.
-- **Presenter notes:** Stay in week scope; Saturday 2–4; no ranking
-- **Primary source:** Śrīmad-Bhāgavatam 11.9.29 (https://vedabase.io/en/library/sb/11/9/29/)
-- **Suggested visual:** V11 diagram / line-art
-- **Image/diagram prompt:** Simple instructional graphic; no deity caricature
-- **Interaction:** One question or echo phrase
-- **Do-not-claim:** Not human-approved; not publication-ready; science does not prove doctrine
-- **Accessibility note:** High contrast; large type; read aloud key lines
-### Slide 3
+### Slide 2 — Primary verse for parents
 
-- **Title:** C1-W4 / parent / slide 3
 - **Audience:** parent
-- **Purpose:** Teach week's conclusion without overclaiming
-- **On-slide content:** Short bullets on Human life gives a rare opportunity for deliberate self-realization.
-- **Presenter notes:** Stay in week scope; Saturday 2–4; no ranking
-- **Primary source:** Śrīmad-Bhāgavatam 11.9.29 (https://vedabase.io/en/library/sb/11/9/29/)
-- **Suggested visual:** V11 diagram / line-art
-- **Image/diagram prompt:** Simple instructional graphic; no deity caricature
-- **Interaction:** One question or echo phrase
-- **Do-not-claim:** Not human-approved; not publication-ready; science does not prove doctrine
-- **Accessibility note:** High contrast; large type; read aloud key lines
-### Slide 4
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - SB 11.9.29
+  - Open URL before class
+  - Paraphrase only unless verified quote
+- **Presenter notes:** Keep phone/browser ready with verse page Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Verse card with VedaBase URL
+- **Image/diagram prompt:** Clean verse-reference card for SB 11.9.29
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
 
-- **Title:** C1-W4 / parent / slide 4
-- **Audience:** parent
-- **Purpose:** Teach week's conclusion without overclaiming
-- **On-slide content:** Short bullets on Human life gives a rare opportunity for deliberate self-realization.
-- **Presenter notes:** Stay in week scope; Saturday 2–4; no ranking
-- **Primary source:** Śrīmad-Bhāgavatam 11.9.29 (https://vedabase.io/en/library/sb/11/9/29/)
-- **Suggested visual:** V11 diagram / line-art
-- **Image/diagram prompt:** Simple instructional graphic; no deity caricature
-- **Interaction:** One question or echo phrase
-- **Do-not-claim:** Not human-approved; not publication-ready; science does not prove doctrine
-- **Accessibility note:** High contrast; large type; read aloud key lines
-### Slide 5
+### Slide 3 — Household implication
 
-- **Title:** C1-W4 / parent / slide 5
 - **Audience:** parent
-- **Purpose:** Teach week's conclusion without overclaiming
-- **On-slide content:** Short bullets on Human life gives a rare opportunity for deliberate self-realization.
-- **Presenter notes:** Stay in week scope; Saturday 2–4; no ranking
-- **Primary source:** Śrīmad-Bhāgavatam 11.9.29 (https://vedabase.io/en/library/sb/11/9/29/)
-- **Suggested visual:** V11 diagram / line-art
-- **Image/diagram prompt:** Simple instructional graphic; no deity caricature
-- **Interaction:** One question or echo phrase
-- **Do-not-claim:** Not human-approved; not publication-ready; science does not prove doctrine
-- **Accessibility note:** High contrast; large type; read aloud key lines
-### Slide 6
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - Human life gives a rare opportunity for deliberate self-realization — protect inquiry and practice time.
+  - Session + home cue both matter
+- **Presenter notes:** Connect to Sunday dinner / bedtime cue Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Family calendar with protected block
+- **Image/diagram prompt:** Family calendar highlighting one protected practice block
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
 
-- **Title:** C1-W4 / parent / slide 6
-- **Audience:** parent
-- **Purpose:** Teach week's conclusion without overclaiming
-- **On-slide content:** Short bullets on Human life gives a rare opportunity for deliberate self-realization.
-- **Presenter notes:** Stay in week scope; Saturday 2–4; no ranking
-- **Primary source:** Śrīmad-Bhāgavatam 11.9.29 (https://vedabase.io/en/library/sb/11/9/29/)
-- **Suggested visual:** V11 diagram / line-art
-- **Image/diagram prompt:** Simple instructional graphic; no deity caricature
-- **Interaction:** One question or echo phrase
-- **Do-not-claim:** Not human-approved; not publication-ready; science does not prove doctrine
-- **Accessibility note:** High contrast; large type; read aloud key lines
-### Slide 7
+### Slide 4 — Constructed case A
 
-- **Title:** C1-W4 / parent / slide 7
 - **Audience:** parent
-- **Purpose:** Teach week's conclusion without overclaiming
-- **On-slide content:** Short bullets on Human life gives a rare opportunity for deliberate self-realization.
-- **Presenter notes:** Stay in week scope; Saturday 2–4; no ranking
-- **Primary source:** Śrīmad-Bhāgavatam 11.9.29 (https://vedabase.io/en/library/sb/11/9/29/)
-- **Suggested visual:** V11 diagram / line-art
-- **Image/diagram prompt:** Simple instructional graphic; no deity caricature
-- **Interaction:** One question or echo phrase
-- **Do-not-claim:** Not human-approved; not publication-ready; science does not prove doctrine
-- **Accessibility note:** High contrast; large type; read aloud key lines
-### Slide 8
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - See research/CASE-STUDIES.md case 1
+  - Name mistaken conclusion
+  - Choose one compassionate action
+- **Presenter notes:** Do not use real family names Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Anonymous household vignette illustration
+- **Image/diagram prompt:** Instructional vignette: family at table, no faces identifiable
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
 
-- **Title:** C1-W4 / parent / slide 8
+### Slide 5 — Constructed case B
+
 - **Audience:** parent
-- **Purpose:** Teach week's conclusion without overclaiming
-- **On-slide content:** Short bullets on Human life gives a rare opportunity for deliberate self-realization.
-- **Presenter notes:** Stay in week scope; Saturday 2–4; no ranking
-- **Primary source:** Śrīmad-Bhāgavatam 11.9.29 (https://vedabase.io/en/library/sb/11/9/29/)
-- **Suggested visual:** V11 diagram / line-art
-- **Image/diagram prompt:** Simple instructional graphic; no deity caricature
-- **Interaction:** One question or echo phrase
-- **Do-not-claim:** Not human-approved; not publication-ready; science does not prove doctrine
-- **Accessibility note:** High contrast; large type; read aloud key lines
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - Case 2 from research pack
+  - What not to say
+  - Minimum version
+- **Presenter notes:** Block shame language Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Speech ethics icons
+- **Image/diagram prompt:** Icons: kind speech, private feedback, no ranking
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
+
+### Slide 6 — What not to say at home
+
+- **Audience:** parent
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - No ranking children
+  - No spiritual threats
+  - No public exposure of private struggles
+- **Presenter notes:** Model repair language Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Stop-sign teaching graphic (non-frightening)
+- **Image/diagram prompt:** Calm stop-sign with kind words underneath
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
+
+### Slide 7 — Home practice 5–15 minutes
+
+- **Audience:** parent
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - Memory: Human life is a rare chance to ask who I am and serve Kṛṣṇa.
+  - Action + trigger + minimum version
+- **Presenter notes:** Write saṅkalpa on card Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Saṅkalpa card mockup
+- **Image/diagram prompt:** Printed saṅkalpa card with four fields
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
+
+### Slide 8 — Co-parent / caregiver cue planning
+
+- **Audience:** parent
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - Who starts?
+  - What if one adult is away?
+  - Backup cue
+- **Presenter notes:** Include grandparents/caregivers if relevant Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Two adults planning calendar
+- **Image/diagram prompt:** Two caregivers pointing to same calendar cue
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
+
+### Slide 9 — Screens and time conflicts
+
+- **Audience:** parent
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - Name one conflict honestly
+  - Trade optional for protected
+  - No perfectionism
+- **Presenter notes:** Keep compassionate Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Phone face-down beside scripture book
+- **Image/diagram prompt:** Phone face-down next to open book — no brand logos
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
+
+### Slide 10 — Project contribution this week
+
+- **Audience:** parent
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - Project layer for C1-W4
+  - ≤20 minutes optional burden
+  - Keep artifact for W6
+- **Presenter notes:** Point to project/CYCLE-CONTRIBUTION.md Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Project folder icon + week label
+- **Image/diagram prompt:** Simple project folder labeled C1-W4
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
+
+### Slide 11 — Privacy and no comparison
+
+- **Audience:** parent
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - Private feedback route
+  - No sādhana scoring
+  - No gossip
+- **Presenter notes:** Remind covenant Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Lock/privacy symbol instructional
+- **Image/diagram prompt:** Simple lock icon with family silhouettes
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.
+
+### Slide 12 — Closing commitment sentence
+
+- **Audience:** parent
+- **Purpose:** Adult application for C1-W4
+- **On-slide content:**
+  - I will…
+  - Minimum version is success
+  - End on time Saturday
+- **Presenter notes:** Collect one spoken sentence per family Block misconception: Use fear or death-pressure to motivate children.
+- **Primary source:** SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+- **Suggested visual:** Closing circle
+- **Image/diagram prompt:** Families standing in closing circle — instructional, not sacred art
+- **Interaction:** Ask one parent to restate the household implication
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta
+- **Accessibility note:** Large type; high contrast; read key lines aloud.

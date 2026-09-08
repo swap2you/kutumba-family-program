@@ -1,13 +1,6 @@
 module: C1-W1
 render_status: prompt-only-not-rendered
-session: Saturday-14:00-16:00
-primary_verse: Śrīmad-Bhāgavatam 1.2.18
+primary_verse: SB 1.2.18
 primary_url: https://vedabase.io/en/library/sb/1/2/18/
-do_not_claim:
-  - human-approved
-  - publication-ready
-  - gamma-rendered
-slides_require:
-  - primary_source
-  - do_not_claim
-  - accessibility_note
+locked_chain_note: "W5 primary is BG 8.15; W6 reviews W1-W5 with BG 8.15 for W5"
+do_not_claim: [human-approved, publication-ready, gamma-rendered]
