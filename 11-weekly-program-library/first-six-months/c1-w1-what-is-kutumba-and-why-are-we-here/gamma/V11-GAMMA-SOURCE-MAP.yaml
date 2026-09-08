@@ -1,0 +1,13 @@
+module: C1-W1
+render_status: prompt-only-not-rendered
+session: Saturday-14:00-16:00
+primary_verse: Śrīmad-Bhāgavatam 1.2.18
+primary_url: https://vedabase.io/en/library/sb/1/2/18/
+do_not_claim:
+  - human-approved
+  - publication-ready
+  - gamma-rendered
+slides_require:
+  - primary_source
+  - do_not_claim
+  - accessibility_note

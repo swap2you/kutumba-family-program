@@ -1,0 +1,20 @@
+module: C1-W1
+assets:
+  - id: c1-w1-v11-concept
+    title: Concept diagram SVG
+    source_url: null
+    creator: KUTUMBA
+    license_rights_status: kutumba-original
+    use_allowed: true
+    modification_allowed: true
+    intended_use: teaching-diagram
+    reviewer_note: human-review-required
+  - id: c1-w1-v11-line-art
+    title: Younger line art SVG
+    source_url: null
+    creator: KUTUMBA
+    license_rights_status: kutumba-original
+    use_allowed: true
+    modification_allowed: true
+    intended_use: printable-coloring
+    reviewer_note: human-review-required
