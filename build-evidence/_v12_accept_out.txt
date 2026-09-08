@@ -1,0 +1,1 @@
+PASS: V12 local acceptance structural/semantic gates

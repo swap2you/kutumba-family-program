@@ -1,0 +1,143 @@
+Audited 18 modules
+Dashboard built for 18 modules
+Cycle coverage report written
+Status snapshot: 1 gold pilot, 16 kathas 900+w
+PASS: 18 modules schema OK
+PASS: two-group age model present
+PASS: mermaid viewers OK (36/36)
+PASS: Cycle 1 visual manifests OK (42 assets)
+PASS: media index checks OK
+PASS: internal link checks OK (UTF-8, NFC, 0 broken, 0 mojibake)
+Classified 42 assets; placeholders=0
+PASS: visual substance OK for 42 assets
+PASS: visual rights
+PASS: visual source registers
+PASS: visual alt text
+PASS: catalog consistent (42 assets)
+PASS: canonical fact keys resolve (7 facts)
+PASS: point-of-use claim consistency
+PASS: gamma brief checks OK (three decks per module)
+PASS: Cycle 1 Gamma asset-complete packaging OK
+PASS: media candidate records (7 modules)
+WARN: Duplicate visual hash groups detected: 71
+PASS: V10A truth-freeze controls hold; human gates remain open
+PASS: gamma brief checks OK (three decks per module)
+PASS: Cycle 1 Gamma asset-complete packaging OK
+PASS: Prem-ki-Katha checks OK (18 modules, narrative metrics)
+PASS: review-status labels honest relative to enhancement depth
+PASS: no truncation artifacts detected
+PASS: no stale fact phrases in active files
+PASS: live session load check complete
+Audited 18 modules; snapshot: C:\Development\Workspace\DevotionalRepo\kutumba-family-program\build-evidence\V7-KATHA-NARRATIVE-DEPTH-SNAPSHOT.csv
+  C1-W1: narrative=1564w total=2069w meets=True
+  C1-W2: narrative=1373w total=2223w meets=True
+  C1-W3: narrative=1433w total=1945w meets=True
+  C1-W4: narrative=1763w total=2438w meets=True
+  C1-W5: narrative=1389w total=1901w meets=True
+  C1-W6: narrative=437w total=928w meets=True
+PASS: Cycle 1 narrative depth criteria met (V7 standard)
+PASS: Cycle 1 claim source support structure OK ΓÇö human doctrinal review required
+PASS: newcomer glossary checks OK
+PASS: source registry checks OK
+PASS: claim register checks OK
+PASS: scripture claims have source keys ΓÇö structurally traceable; human doctrinal review required
+PASS: no copyright risk patterns detected
+PASS: public source catalog (78 entries)
+Tier counts: {'A': 42, 'B': 12, 'C': 13, 'supplementary': 11}
+PASS: catalog consistency (78 entries, tiers={'A': 42, 'B': 12, 'C': 13, 'supplementary': 11})
+Reconciled 77 URLs; missing=0
+PASS: source manifest (14 entries, generated check 2026-09-08T21:29:58Z)
+WARN: Could not reach https://vedabase.io/en/library/bg/2/13/: HTTP Error 403: Forbidden
+PASS: external link sample check completed with warnings
+=== KUTUMBA Repository Validation ===
+Root: C:/Development/Workspace/DevotionalRepo/kutumba-family-program
+HEAD: 7a61b821b3df84795a02740e7b2f3c3f7a5a254d
+
+Verdict: PASS
+Failures: 0, Warnings: 0
+
+=== audit_empty_sections.py ===
+
+=== build_week_quality_dashboard.py ===
+
+=== build_cycle_coverage_report.py ===
+
+=== generate_curriculum_status.py ===
+
+=== validate_week_schema.py ===
+
+=== validate_age_bands.py ===
+
+=== validate_mermaid_viewers.py ===
+
+=== validate_visual_asset_manifests.py ===
+
+=== validate_media_indexes.py ===
+
+=== validate_internal_links.py ===
+
+=== classify_visual_substance.py ===
+
+=== validate_visual_substance.py ===
+
+=== validate_visual_rights.py ===
+
+=== validate_visual_source_registers.py ===
+
+=== validate_visual_alt_text.py ===
+
+=== validate_visual_catalog_consistency.py ===
+
+=== validate_canonical_fact_source_keys.py ===
+
+=== validate_claim_point_of_use_consistency.py ===
+
+=== validate_gamma_briefs.py ===
+
+=== validate_gamma_asset_references.py ===
+
+=== validate_media_candidate_records.py ===
+
+=== validate_v10a_truth_freeze.py ===
+
+=== validate_gamma_briefs.py ===
+
+=== validate_gamma_asset_references.py ===
+
+=== validate_prem_ki_katha.py ===
+
+=== validate_review_status_honesty.py ===
+
+=== detect_truncation_artifacts.py ===
+
+=== detect_stale_fact_phrases.py ===
+
+=== measure_live_session_load.py ===
+
+=== audit_katha_narrative_depth.py ===
+
+=== validate_claim_source_support.py ===
+
+=== validate_newcomer_glossary.py ===
+
+=== validate_source_registry.py ===
+
+=== validate_claim_register.py ===
+
+=== detect_unverified_claims.py ===
+
+=== detect_copyright_risk.py ===
+
+=== validate_public_source_catalog.py ===
+
+=== validate_catalog_consistency.py ===
+
+=== reconcile_source_map_urls.py ===
+
+=== validate_source_manifest.py ===
+
+=== check_external_links.py ===
+
+=== Validate-KutumbaRepository.ps1 ===
+
+Overall curriculum validation: PASS
