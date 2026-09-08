@@ -1,0 +1,3 @@
+# Rights and Attribution
+
+KUTUMBA is an original family-formation program framework prepared and directed by Swapnil Patil for the founding cohort. Original KUTUMBA lesson structures, original activities, original diagrams, original case studies and original program-design materials are identified as KUTUMBA-created material. Scriptural texts, Śrīla Prabhupāda's works, BBT text/artwork, ISKCON names/marks, third-party educational resources and externally sourced images remain the property or responsibility of their respective rights holders. KUTUMBA attribution does not transfer ownership of those materials and does not imply official ISKCON/GBC endorsement.

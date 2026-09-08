@@ -4,10 +4,14 @@
 
 - Overall verdict: **NO GO for internal pilot, family-facing distribution, and public publication**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **internal-development-paused** with **V11.1 C1 content-depth correction applied** (executable teaching packs; human/temple gates still open)
+- Current phase: **internal-development-paused** with **V12 one-pass production closure applied** (C1–C3 first-six-month packs + branded exports; human/temple gates still open)
+- V12 owner start: `V12-START-HERE.md`
+- V12 final packets: `exports/final/`
+- V12 acceptance evidence: `build-evidence/V12-FINAL-LOCAL-ACCEPTANCE.md`
 - V11 Cycle 1 Saturday founding-cohort package: **structurally produced** — not human-approved
-- V11.1 Cycle 1 content-depth pass: **semantic scaffolds replaced** — still not human-approved; pilot/publication **NO GO**
+- V11.1 Cycle 1 content-depth pass: **semantic scaffolds replaced** — superseded by V12 for owner path
 - V11.1 depth audit: `build-evidence/V11_1-C1-CONTENT-DEPTH-AUDIT.md`
+- V12 publication style engine: **implemented; DOCX/PDF render QA produced** — visual/human/publication approval remains EXTERNAL_OPEN
 - V8 structural remediation: **completed but superseded for readiness by V9 forensic audit**
 - V9 forensic audit: **found unresolved substantive gaps**
 - V10A truth freeze: **controls retained; human gates remain open**
@@ -20,8 +24,8 @@
 | Verdict area | Current status | Evidence/control |
 |---|---|---|
 | Repository integrity | active development | V9 evidence baseline; V10A validation required |
-| Structural completeness | partially complete | V8 structural outputs preserved |
-| Substantive content quality | active development | V9 findings F-V9-001 through F-V9-012 remain controlling |
+| Structural completeness | partially complete | V8 structural outputs preserved; V12 first-six-month packs produced |
+| Substantive content quality | active development | V12 gold-standard pass applied; human gates open |
 | Human approval | open | `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` |
 | Internal pilot | **NO GO** | blocking gates open |
 | Family-facing distribution | **NO GO** | publication gates open |
@@ -32,37 +36,28 @@
 | Metric | Value |
 |---|---|
 | Modules | 18 |
-| Cycle 1 kathā (V7 standard) | 1,350–1,800 words section 6; short forms per module |
-| C1-W2 | gold-structure-reference — deepened to V7 narrative standard |
-| Cycle 1 teaching visuals | 42 KUTUMBA-original SVG + PNG derivatives |
-| Visual catalog | `14-research-source-register/visual-asset-library/VISUAL-ASSET-CATALOG.yaml` |
-| Cycle 1 visual maturity | structural-instructional-draft-human-review-required |
-| Gamma Cycle 1 | assets-complete-upload-required only; not rendered; not post-render-reviewed; not approved for pilot |
-| Theology diagram | not-approved-not-for-pilot; excluded from Gamma and facilitator delivery |
-| Media curation | incomplete; reference-record-incomplete for V9 priority records |
-| Source map URLs | **77** authoritative |
-| Master catalog entries | **78** |
+| V12 week packs (teacher/gamma/activities/visuals) | C1–C3 produced |
+| Verse packs | C1/C2/C3 launch verse packs with Devanāgarī/IAST/teaching meaning |
+| Final branded PDFs | `exports/final/` |
 | Human approvals claimed | **0** |
 | Publication ready | **not-ready** |
-| Workstream 9 | not supplied |
-| KUTUMBA Setu | not approved |
 
 ## Evidence
 
 | Artifact | Path |
 |---|---|
-| V8 audit | `17-reviews-and-audits/V8-INDEPENDENT-REAL-VISUAL-CITATION-MEDIA-AUDIT.md` |
-| V8 baseline | `build-evidence/V8-V7-TRUTH-AUDIT.md` |
-| V9 audit baseline | external audit package: KUTUMBA-V9-READ-ONLY-AUDIT-9c2eebe (not committed to this public repository) |
-| V10A traceability | `build-evidence/V10A-FINDINGS-TRACEABILITY.yaml` |
+| V12 requirement ledger | `build-evidence/V12-REQUIREMENT-TRACEABILITY.csv` |
+| V12 baseline | `build-evidence/V12-BASELINE-AUDIT.md` |
+| V12 iteration log | `build-evidence/V12-ITERATION-LOG.md` |
+| V12 local acceptance | `build-evidence/V12-FINAL-LOCAL-ACCEPTANCE.md` |
+| V12 PDF QA | `build-evidence/V12-PDF-RENDER-QA.md` |
 | Pilot gate register | `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` |
-| Visual contact sheets | `build-evidence/visual-contact-sheets/INDEX.md` |
-| Canonical facts | `14-research-source-register/canonical-facts/` |
-| V10A.1 pause handoff | `PROJECT-PAUSE-HANDOFF.md` |
 
 ## Validation
 
 ```powershell
+python scripts/v12/run_v12_acceptance.py
+python scripts/curriculum/validate_c1_v11_launch_readiness.py
 python scripts/curriculum/run_curriculum_validation.py
 python scripts/curriculum/validate_v10a_truth_freeze.py
 powershell -File scripts/Validate-KutumbaRepository.ps1
@@ -70,11 +65,6 @@ powershell -File scripts/Validate-KutumbaRepository.ps1
 
 ## Open human-review gates
 
-Safeguarding, child protection operations, worship/liturgical, doctrinal, citation, pedagogy, visual design/accessibility, media, rights, Gamma post-render QA, program director, local temple relationship, and pilot operations — **OPEN**.
+Safeguarding, child protection operations, worship/liturgical, doctrinal, citation, pedagogy, visual design/accessibility, media, rights, Gamma post-render QA, program director, local temple relationship, and pilot operations — **OPEN / EXTERNAL_OPEN**.
 
 Automated validation must not be treated as doctrinal, worship, safeguarding, rights, pedagogy, design, citation, Gamma, pilot, distribution, or publication approval.
-
-## Open structural gaps
-
-- Workstream 9 operating manual — **not supplied**
-- KUTUMBA Setu — **not approved**

@@ -24,6 +24,7 @@ Read the controlling status files:
 
 | I need to... | Open |
 |---|---|
+| **Run this Saturday (V12 owner path)** | **[V12-START-HERE.md](V12-START-HERE.md)** |
 | Understand the project | [Master operating model](00-foundation/MASTER-OPERATING-MODEL.md) |
 | Browse or open any of the 18 weeks | [Weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) |
 | Review parent and age-band child content | [Weekly program index](11-weekly-program-library/first-six-months/WEEKLY-PROGRAM-INDEX.md) |
