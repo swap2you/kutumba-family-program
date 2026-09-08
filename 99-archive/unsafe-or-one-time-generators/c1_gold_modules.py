@@ -115,7 +115,7 @@ MODULES: dict[str, dict] = {
         "prerequisites": "C1-W2–W3 identity foundation",
         "leads_to": "C1-W5 (temporary happiness)",
         "katha_title": "Nārada meets the hunter Mṛgāri",
-        "katha_source": "Śrīmad-Bhāgavatam 6.x / Prabhupāda summary",
+        "katha_source": "Caitanya-caritāmṛta, Madhya-līlā 24.229–282",
         "katha_type": "source-grounded-devotional-narrative",
         "opening_hook": (
             "A family receives a valuable pass that can be used only once. It opens a learning center with guidance "
@@ -133,15 +133,14 @@ MODULES: dict[str, dict] = {
             ("SB-7-6-1", "Śrīmad-Bhāgavatam", "7.6.1", "https://vedabase.io/en/library/sb/7/6/1/", "Prahlāda instructs classmates — begin in childhood"),
             ("SB-1-2-10", "Śrīmad-Bhāgavatam", "1.2.10", "https://vedabase.io/en/library/sb/1/2/10/", "Life's aim is self-realization"),
             ("BG-7-19", "Bhagavad-gītā", "7.19", "https://vedabase.io/en/library/bg/7/19/", "After many births one surrenders to Kṛṣṇa"),
-            ("SB-6-1-58", "Śrīmad-Bhāgavatam", "6.1.58", "https://vedabase.io/en/library/sb/6/1/58/", "Mṛgāri transformed by Nārada's mercy"),
-            ("SB-6-2-9", "Śrīmad-Bhāgavatam", "6.2.9", "https://vedabase.io/en/library/sb/6/2/9/", "Mercy of devotees changes hearts"),
+            ("CC-MADHYA-24", "Caitanya-caritāmṛta, Madhya-līlā", "24.229–282", "https://vedabase.io/en/library/cc/madhya/24/", "Canonical Nārada–Mṛgāri narrative"),
             ("SB-7-6-19", "Śrīmad-Bhāgavatam", "7.6.19", "https://vedabase.io/en/library/sb/7/6/19/", "Youth is the time to learn devotion"),
             ("BG-4-34", "Bhagavad-gītā", "4.34", "https://vedabase.io/en/library/bg/4/34/", "Learn truth by inquiry and service"),
         ],
         "lectures": [
             ("SP-LEC-SB-7-6-1972", "1972-12-03", "Ahmedabad", "SB 7.6 lecture", "Prahlāda's instruction to classmates", "https://vedabase.io/en/library/lectures/december/03/1972/721203SB.AHM_eng/"),
             ("SP-LEC-SB-11-9-1975", "1975-05-25", "Honolulu", "SB 11.9 lecture", "Human life is rare opportunity", "https://vedabase.io/en/library/lectures/may/25/1975/750525SB.HON_eng/"),
-            ("SP-LEC-SB-6-1-1975", "1975-11-01", "Nairobi", "SB 6.1 lecture", "Mṛgāri and mercy of Nārada", "https://vedabase.io/en/library/lectures/november/01/1975/751101SB.NAI_eng/"),
+            ("SP-LEC-SB-6-1-1975", "1975-11-01", "Nairobi", "SB 6.1 lecture", "Superseded Mṛgāri mapping — human review required", "https://vedabase.io/en/library/lectures/november/01/1975/751101SB.NAI_eng/"),
         ],
         "verses": [
             ("SB 11.9.29", "https://vedabase.io/en/library/sb/11/9/29/", "Having obtained rare human life, one should not waste it."),

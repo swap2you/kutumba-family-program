@@ -231,7 +231,7 @@ Link-only references. No full purports in Git.
 **Facilitator transition:** Like Rahūgaṇa, we sometimes address the body and miss the soul — in ourselves and others. This week we learn **positive** qualities of the soul.
 """),
         "C1-W4": textwrap.dedent("""
-**Paraphrase from ŚB 6.1–6.2 (selected summary):** Mṛgāri the hunter tortured animals, thinking this was religion. Nārada Muni met him with mercy — not condemnation alone. Through Nārada's instruction and Mṛgāri's repentance, a cruel life became a life of devotion. Human intelligence can **turn** toward Kṛṣṇa even after great misuse.
+**Paraphrase from CC Madhya 24.229–282 (selected summary):** Mṛgāri the hunter left animals wounded. Nārada Muni instructed him about the consequences, asked him to break his bow, and directed him toward devotional practice. Human intelligence can **turn** toward Kṛṣṇa even after great misuse.
 
 **Paraphrase aligned with SB 11.9.29:** Human life is obtained with difficulty. It is temporary yet able to deliver the highest value when used for self-realization.
 
