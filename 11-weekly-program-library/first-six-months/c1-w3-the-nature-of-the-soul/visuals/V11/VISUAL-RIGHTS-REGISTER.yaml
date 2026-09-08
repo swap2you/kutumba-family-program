@@ -1,20 +1,12 @@
 module: C1-W3
 assets:
-  - id: c1-w3-v11-concept
-    title: Concept diagram SVG
-    source_url: null
+  - id: c1-w3-concept
+    title: "What the jiva is / is not"
     creator: KUTUMBA
     license_rights_status: kutumba-original
-    use_allowed: true
-    modification_allowed: true
     intended_use: teaching-diagram
-    reviewer_note: human-review-required
-  - id: c1-w3-v11-line-art
-    title: Younger line art SVG
-    source_url: null
+  - id: c1-w3-line-art
+    title: "Child offering a flower — I serve Krishna"
     creator: KUTUMBA
     license_rights_status: kutumba-original
-    use_allowed: true
-    modification_allowed: true
     intended_use: printable-coloring
-    reviewer_note: human-review-required

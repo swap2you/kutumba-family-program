@@ -1,20 +1,12 @@
 module: C1-W2
 assets:
-  - id: c1-w2-v11-concept
-    title: Concept diagram SVG
-    source_url: null
+  - id: c1-w2-concept
+    title: "Life stages — same self continues"
     creator: KUTUMBA
     license_rights_status: kutumba-original
-    use_allowed: true
-    modification_allowed: true
     intended_use: teaching-diagram
-    reviewer_note: human-review-required
-  - id: c1-w2-v11-line-art
-    title: Younger line art SVG
-    source_url: null
+  - id: c1-w2-line-art
+    title: "Same person at three ages connected by a thread"
     creator: KUTUMBA
     license_rights_status: kutumba-original
-    use_allowed: true
-    modification_allowed: true
     intended_use: printable-coloring
-    reviewer_note: human-review-required

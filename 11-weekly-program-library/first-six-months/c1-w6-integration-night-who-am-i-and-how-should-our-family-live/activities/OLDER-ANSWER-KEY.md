@@ -1,21 +1,34 @@
 # C1-W6 Older Answer Key
 
-## Worksheet — sample secure answers
+## Worksheet — secure answers
 
-1. Primary conclusion: Identity, purpose, and practice must form one coherent family life.
-2. Key scripture: Cycle 1 review (SB 1.2.18 · BG 2.13 · BG 2.20 · SB 11.9.29 · BG 5.22)
-3. Misconception to avoid: Competition or ranking of families
-4. Family question: Can our family explain and apply what we learned?
+1. Identity, purpose, and practice must form one coherent family life.
+2. Cycle 1 chain
+3. Accept any faithful paraphrase of: Review SB 1.2.18 · BG 2.13 · BG 2.20 · SB 11.9.29 · BG 8.15
+4. Competition or ranking of families.
+5. Any concrete 5–15 minute cue tied to the week
+6. Answers should connect identity/practice without ranking
 
-## Matching
+## Matching key
 
-| Term | Match |
-|---|---|
-| Scripture | Primary doctrinal control |
-| Analogy | Pedagogy with limits |
-| Constructed case | Fictional teaching story |
-| Science note | Application only — not siddhānta proof |
+| Integration | Weeks form one life |
+| Retrieval | Remembering on purpose |
+| Presentation | Share without ranking |
+| Review | Extend C1 if unclear |
 
-## Puzzle note
+## Scramble key (if used)
 
-If a printable puzzle is generated later, record answers here before session.
+1. Integration
+2. Retrieval
+3. Presentation
+4. Review
+
+## Scenario grading
+
+Secure = names mistaken conclusion + compassionate action + no shame language.
+
+## Do not accept
+
+- Invented verse numbers  
+- "Science proves the soul"  
+- Importing another week's full ontology as if it were this week's only point

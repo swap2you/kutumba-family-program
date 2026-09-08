@@ -1,21 +1,34 @@
 # C1-W2 Older Answer Key
 
-## Worksheet — sample secure answers
+## Worksheet — secure answers
 
-1. Primary conclusion: The body changes; the conscious self continues.
-2. Key scripture: Bhagavad-gītā 2.13
-3. Misconception to avoid: Psychology proves the soul
-4. Family question: How does identity change how we speak about bodies?
+1. Body changes; conscious self continues — care for the body without mistaking it for the self.
+2. BG 2.13
+3. Accept any faithful paraphrase of: The embodied self passes through childhood, youth, and old age; the self continues.
+4. Psychology or photos prove the soul.
+5. Any concrete 5–15 minute cue tied to the week
+6. Answers should connect identity/practice without ranking
 
-## Matching
+## Matching key
 
-| Term | Match |
-|---|---|
-| Scripture | Primary doctrinal control |
+| Body | Changes through stages |
+| Self | Continues as conscious person |
 | Analogy | Pedagogy with limits |
-| Constructed case | Fictional teaching story |
-| Science note | Application only — not siddhānta proof |
+| Respect | Speech about every body |
 
-## Puzzle note
+## Scramble key (if used)
 
-If a printable puzzle is generated later, record answers here before session.
+1. Body
+2. Self
+3. Analogy
+4. Respect
+
+## Scenario grading
+
+Secure = names mistaken conclusion + compassionate action + no shame language.
+
+## Do not accept
+
+- Invented verse numbers  
+- "Science proves the soul"  
+- Importing another week's full ontology as if it were this week's only point

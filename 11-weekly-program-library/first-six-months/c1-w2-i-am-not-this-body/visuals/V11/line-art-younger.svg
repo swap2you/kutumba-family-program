@@ -2,11 +2,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 792" role="img">
   <title>C1-W2 younger line art</title>
   <rect width="612" height="792" fill="#ffffff"/>
-  <text x="306" y="60" text-anchor="middle" font-size="16">C1-W2 coloring sheet</text>
-  <rect x="80" y="120" width="450" height="280" fill="none" stroke="#000" stroke-width="2"/>
-  <circle cx="200" cy="280" r="40" fill="none" stroke="#000" stroke-width="2"/>
-  <circle cx="400" cy="280" r="40" fill="none" stroke="#000" stroke-width="2"/>
-  <rect x="150" y="450" width="300" height="80" fill="none" stroke="#000" stroke-width="2"/>
-  <text x="306" y="580" text-anchor="middle" font-size="12">Family hearing and practice — color the scene</text>
+  <text x="306" y="64" text-anchor="middle" font-size="18">C1-W2 coloring sheet</text>
+  <circle cx="180" cy="300" r="40" fill="none" stroke="#000" stroke-width="2"/><circle cx="300" cy="300" r="50" fill="none" stroke="#000" stroke-width="2"/><circle cx="440" cy="300" r="45" fill="none" stroke="#000" stroke-width="2"/><line x1="180" y1="300" x2="440" y2="300" stroke="#000" stroke-width="2"/>
+  <text x="306" y="520" text-anchor="middle" font-size="14">Same person at three ages connected by a thread</text>
+  <text x="306" y="560" text-anchor="middle" font-size="12">My body changes; I continue as the conscious self.</text>
   <text x="306" y="740" text-anchor="middle" font-size="10">Original KUTUMBA line art · no copyrighted tracing</text>
 </svg>

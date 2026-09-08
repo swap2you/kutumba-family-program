@@ -1,21 +1,34 @@
 # C1-W1 Older Answer Key
 
-## Worksheet — sample secure answers
+## Worksheet — secure answers
 
-1. Primary conclusion: Regular family hearing and practice creates a protected path for growth.
-2. Key scripture: Śrīmad-Bhāgavatam 1.2.18
-3. Misconception to avoid: Attendance without home practice equals growth
-4. Family question: Why are we committing as a family?
+1. Protected weekly hearing plus home practice creates a path for family growth.
+2. SB 1.2.18
+3. Accept any faithful paraphrase of: Regular Bhāgavata hearing and service cleanse the heart and steady devotion.
+4. Coming to the session without home practice is enough.
+5. Any concrete 5–15 minute cue tied to the week
+6. Answers should connect identity/practice without ranking
 
-## Matching
+## Matching key
 
-| Term | Match |
-|---|---|
-| Scripture | Primary doctrinal control |
-| Analogy | Pedagogy with limits |
-| Constructed case | Fictional teaching story |
-| Science note | Application only — not siddhānta proof |
+| Hearing | Regular Bhāgavata reception |
+| Saṅkalpa | Specific practice intention |
+| Charter | KUTUMBA purposes/boundaries |
+| Association | Learning with devotees |
 
-## Puzzle note
+## Scramble key (if used)
 
-If a printable puzzle is generated later, record answers here before session.
+1. Hearing
+2. Saṅkalpa
+3. Charter
+4. Association
+
+## Scenario grading
+
+Secure = names mistaken conclusion + compassionate action + no shame language.
+
+## Do not accept
+
+- Invented verse numbers  
+- "Science proves the soul"  
+- Importing another week's full ontology as if it were this week's only point

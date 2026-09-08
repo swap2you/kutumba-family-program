@@ -2,30 +2,25 @@
 
 ## 1. Coloring / line-art
 
-Theme: Why Human Life Is Rare and Valuable — family hearing / practice scene (no deity caricature).  
-File: `../visuals/V11/line-art-younger.svg`
+Use week-specific `../visuals/V11/line-art-younger.svg`.  
+Prompt: color the scene that shows today's idea — **not** a generic recycled hearing scene unless this is W1.
 
-## 2. Movement / matching
+## 2. Movement game
 
-Simple sort: "Hearing / Practice / Respect / Cleanup" cards matching today's objective.
+Play "Freeze and Remember — C1-W4" from the younger teacher guide.
 
 ## 3. Craft / foldable
 
-Fold a card with memory phrase on the inside:  
-**After many births one attains the rare human form — use it for self-realization....**
+Fold a card: outside picture; inside memory phrase.
 
 ## 4. Memory card
 
-Front: picture cue. Back: short phrase from this week.
+Front: simple icon for C1-W4. Back: Human life is a rare chance to ask who I am and serve Kṛṣṇa.
 
 ## 5. Take-home family cue
 
-Ask at home: **What deserves protected family time?** (one sentence each)
+Ask at home: What deserves protected family time? (one sentence each)
 
-## Low-prep backup
+## Materials
 
-Circle time echo of memory phrase + stretch + sit.
-
-## Extension
-
-Help set snack cups / cleanup leadership with adult.
+Crayons, card stock, printed SVG, soft object for freeze game.

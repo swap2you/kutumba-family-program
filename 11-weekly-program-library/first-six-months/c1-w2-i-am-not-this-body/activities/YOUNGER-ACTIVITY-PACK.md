@@ -2,30 +2,25 @@
 
 ## 1. Coloring / line-art
 
-Theme: I Am Not This Body — family hearing / practice scene (no deity caricature).  
-File: `../visuals/V11/line-art-younger.svg`
+Use week-specific `../visuals/V11/line-art-younger.svg`.  
+Prompt: color the scene that shows today's idea — **not** a generic recycled hearing scene unless this is W1.
 
-## 2. Movement / matching
+## 2. Movement game
 
-Simple sort: "Hearing / Practice / Respect / Cleanup" cards matching today's objective.
+Play "Freeze and Remember — C1-W2" from the younger teacher guide.
 
 ## 3. Craft / foldable
 
-Fold a card with memory phrase on the inside:  
-**As the embodied soul continuously passes through childhood, youth and old age, t...**
+Fold a card: outside picture; inside memory phrase.
 
 ## 4. Memory card
 
-Front: picture cue. Back: short phrase from this week.
+Front: simple icon for C1-W2. Back: My body changes; I continue as the conscious self.
 
 ## 5. Take-home family cue
 
-Ask at home: **How does identity change how we speak about bodies?** (one sentence each)
+Ask at home: How should knowing I am not only this body change how we speak about bodies? (one sentence each)
 
-## Low-prep backup
+## Materials
 
-Circle time echo of memory phrase + stretch + sit.
-
-## Extension
-
-Help set snack cups / cleanup leadership with adult.
+Crayons, card stock, printed SVG, soft object for freeze game.

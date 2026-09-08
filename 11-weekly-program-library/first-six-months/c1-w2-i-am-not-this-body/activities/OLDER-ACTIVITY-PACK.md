@@ -1,29 +1,44 @@
 # C1-W2 Older Activity Pack (Grades 4–5)
 
-## 1. Concept worksheet
+## A. Concept worksheet (write answers)
 
-Explain in your words: The body changes; the conscious self continues.
+1. State this week's conclusion in one sentence.  
+2. Write the primary scripture reference: _______________  
+3. Paraphrase it in your words (no copying long text).  
+4. Name one misconception to avoid.  
+5. Write one family action for the next 7 days.  
+6. Essential question: How should knowing I am not only this body change how we speak about bodies? — answer in 2–3 sentences.
 
-## 2. Puzzle / game
+## B. Matching puzzle
 
-Word search or matching: key terms for this week (answer key required).
+Match term → meaning:
 
-## 3. Scenario cards
+| Term | Meaning |
+|---|---|
+| Body | Changes through stages |
+| Self | Continues as conscious person |
+| Analogy | Pedagogy with limits |
+| Respect | Speech about every body |
 
-Use constructed case from `research/CASE-STUDIES.md`.
+Print as two cut columns and match, **or** write letters A–D.
 
-## 4. Diagram
+## C. Scenario response card
 
-Complete `../visuals/V11/concept-diagram.mmd` labels.
+Pick Constructed case 1 from `research/CASE-STUDIES.md`.  
+Write: mistaken conclusion / better response / one sentence you would say at home.
 
-## 5. Project / poster component
+## D. Diagram task
 
-Advance: Changing-body / enduring-self artifact
+On the week diagram, label every node and draw one arrow that shows this week's primary conclusion.
 
-## 6. Optional reflection
+## E. Project / poster component
 
-Where did I confuse scripture with analogy this week?
+Produce one artifact for: C1-W2 project layer in `project/CYCLE-CONTRIBUTION.md`.
+
+## F. Optional reflection
+
+Circle one: I confused analogy with scripture / I stayed in week scope / I need review.
 
 ## Low-prep backup
 
-Pair-share essential question for 3 minutes + one written sentence.
+Pair-share essential question for 3 minutes; each writes one sentence.

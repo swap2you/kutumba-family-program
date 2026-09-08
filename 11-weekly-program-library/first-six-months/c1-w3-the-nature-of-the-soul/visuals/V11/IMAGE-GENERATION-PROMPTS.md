@@ -1,28 +1,13 @@
 # C1-W3 Image Generation Prompts
 
-Status: prompts only — do not pretend raster art was generated if unavailable.
-
 ## Family deck hero
+Warm instructional scene for The Nature of the Soul; no deity caricature; 16:9.
 
-- Objective: warm family learning scene for The Nature of the Soul
-- Subjects: parents + children silhouette-friendly; books; simple home shrine suggestion without deity caricature
-- Constraints: no frightening imagery; no invented sacred iconography
-- Aspect: 16:9
+## Younger coloring
+Child offering a flower — I serve Krishna; large outlines; US Letter.
 
-## Younger coloring scene
+## Older concept
+What the jiva is / is not; diagrammatic; leave label space.
 
-- Simple outlines; large shapes; C1-W3 theme
-- Print US Letter
-
-## Older concept illustration
-
-- Diagrammatic; labels left for teacher overlay
-- Theme: The jīva is eternal, conscious, individual, minute, and related to Kṛṣṇa in service.
-
-## Project/poster visual
-
-- Support: Positive nature-of-soul artifact
-
-## Scriptural scene (optional)
-
-- Only if source scene is known; mark what must not be invented
+## Constraints
+No frightening imagery; no invented sacred iconography; not historical archival art.

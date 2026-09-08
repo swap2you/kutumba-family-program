@@ -2,30 +2,25 @@
 
 ## 1. Coloring / line-art
 
-Theme: Integration Night: Who Am I, and How Should Our Family Live? — family hearing / practice scene (no deity caricature).  
-File: `../visuals/V11/line-art-younger.svg`
+Use week-specific `../visuals/V11/line-art-younger.svg`.  
+Prompt: color the scene that shows today's idea — **not** a generic recycled hearing scene unless this is W1.
 
-## 2. Movement / matching
+## 2. Movement game
 
-Simple sort: "Hearing / Practice / Respect / Cleanup" cards matching today's objective.
+Play "Freeze and Remember — C1-W6" from the younger teacher guide.
 
 ## 3. Craft / foldable
 
-Fold a card with memory phrase on the inside:  
-**We remember who we are and how our family chooses to live....**
+Fold a card: outside picture; inside memory phrase.
 
 ## 4. Memory card
 
-Front: picture cue. Back: short phrase from this week.
+Front: simple icon for C1-W6. Back: We remember who we are and how our family chooses to live.
 
 ## 5. Take-home family cue
 
-Ask at home: **Can our family explain and apply what we learned?** (one sentence each)
+Ask at home: Can our family explain and apply what we learned? (one sentence each)
 
-## Low-prep backup
+## Materials
 
-Circle time echo of memory phrase + stretch + sit.
-
-## Extension
-
-Help set snack cups / cleanup leadership with adult.
+Crayons, card stock, printed SVG, soft object for freeze game.

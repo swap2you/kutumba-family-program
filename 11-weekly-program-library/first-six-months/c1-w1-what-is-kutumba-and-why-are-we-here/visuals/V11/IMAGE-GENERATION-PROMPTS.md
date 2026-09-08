@@ -1,28 +1,13 @@
 # C1-W1 Image Generation Prompts
 
-Status: prompts only — do not pretend raster art was generated if unavailable.
-
 ## Family deck hero
+Warm instructional scene for What Is KUTUMBA, and Why Are We Here?; no deity caricature; 16:9.
 
-- Objective: warm family learning scene for What Is KUTUMBA, and Why Are We Here?
-- Subjects: parents + children silhouette-friendly; books; simple home shrine suggestion without deity caricature
-- Constraints: no frightening imagery; no invented sacred iconography
-- Aspect: 16:9
+## Younger coloring
+Family sits with a book — protected practice time; large outlines; US Letter.
 
-## Younger coloring scene
+## Older concept
+KUTUMBA growth loop + protected Saturday; diagrammatic; leave label space.
 
-- Simple outlines; large shapes; C1-W1 theme
-- Print US Letter
-
-## Older concept illustration
-
-- Diagrammatic; labels left for teacher overlay
-- Theme: Regular family hearing and practice creates a protected path for growth.
-
-## Project/poster visual
-
-- Support: Family purpose / first saṅkalpa card
-
-## Scriptural scene (optional)
-
-- Only if source scene is known; mark what must not be invented
+## Constraints
+No frightening imagery; no invented sacred iconography; not historical archival art.

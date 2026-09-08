@@ -1,28 +1,13 @@
 # C1-W4 Image Generation Prompts
 
-Status: prompts only — do not pretend raster art was generated if unavailable.
-
 ## Family deck hero
+Warm instructional scene for Why Human Life Is Rare and Valuable; no deity caricature; 16:9.
 
-- Objective: warm family learning scene for Why Human Life Is Rare and Valuable
-- Subjects: parents + children silhouette-friendly; books; simple home shrine suggestion without deity caricature
-- Constraints: no frightening imagery; no invented sacred iconography
-- Aspect: 16:9
+## Younger coloring
+Child placing a block into a Must jar — use time well; large outlines; US Letter.
 
-## Younger coloring scene
+## Older concept
+Human-life priority / time map; diagrammatic; leave label space.
 
-- Simple outlines; large shapes; C1-W4 theme
-- Print US Letter
-
-## Older concept illustration
-
-- Diagrammatic; labels left for teacher overlay
-- Theme: Human life gives a rare opportunity for deliberate self-realization.
-
-## Project/poster visual
-
-- Support: Priority / time-use artifact
-
-## Scriptural scene (optional)
-
-- Only if source scene is known; mark what must not be invented
+## Constraints
+No frightening imagery; no invented sacred iconography; not historical archival art.

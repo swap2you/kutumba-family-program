@@ -2,30 +2,25 @@
 
 ## 1. Coloring / line-art
 
-Theme: The Temporary World and the Search for Permanent Happiness — family hearing / practice scene (no deity caricature).  
-File: `../visuals/V11/line-art-younger.svg`
+Use week-specific `../visuals/V11/line-art-younger.svg`.  
+Prompt: color the scene that shows today's idea — **not** a generic recycled hearing scene unless this is W1.
 
-## 2. Movement / matching
+## 2. Movement game
 
-Simple sort: "Hearing / Practice / Respect / Cleanup" cards matching today's objective.
+Play "Freeze and Remember — C1-W5" from the younger teacher guide.
 
 ## 3. Craft / foldable
 
-Fold a card with memory phrase on the inside:  
-**Pleasures born of contact have a beginning and end; the wise do not seek fulfill...**
+Fold a card: outside picture; inside memory phrase.
 
 ## 4. Memory card
 
-Front: picture cue. Back: short phrase from this week.
+Front: simple icon for C1-W5. Back: Temporary joys can be used with gratitude; lasting fulfillment is in Kṛṣṇa.
 
 ## 5. Take-home family cue
 
-Ask at home: **How can enjoyment become gratitude and service?** (one sentence each)
+Ask at home: How can enjoyment become gratitude and service? (one sentence each)
 
-## Low-prep backup
+## Materials
 
-Circle time echo of memory phrase + stretch + sit.
-
-## Extension
-
-Help set snack cups / cleanup leadership with adult.
+Crayons, card stock, printed SVG, soft object for freeze game.

@@ -2,30 +2,25 @@
 
 ## 1. Coloring / line-art
 
-Theme: What Is KUTUMBA, and Why Are We Here? — family hearing / practice scene (no deity caricature).  
-File: `../visuals/V11/line-art-younger.svg`
+Use week-specific `../visuals/V11/line-art-younger.svg`.  
+Prompt: color the scene that shows today's idea — **not** a generic recycled hearing scene unless this is W1.
 
-## 2. Movement / matching
+## 2. Movement game
 
-Simple sort: "Hearing / Practice / Respect / Cleanup" cards matching today's objective.
+Play "Freeze and Remember — C1-W1" from the younger teacher guide.
 
 ## 3. Craft / foldable
 
-Fold a card with memory phrase on the inside:  
-**By regular Bhāgavata hearing and service, the heart becomes steadied in devotion...**
+Fold a card: outside picture; inside memory phrase.
 
 ## 4. Memory card
 
-Front: picture cue. Back: short phrase from this week.
+Front: simple icon for C1-W1. Back: Regular hearing and service to Śrīmad-Bhāgavatam steadies our family's devotion.
 
 ## 5. Take-home family cue
 
-Ask at home: **Why are we committing as a family?** (one sentence each)
+Ask at home: Why are we committing as a family? (one sentence each)
 
-## Low-prep backup
+## Materials
 
-Circle time echo of memory phrase + stretch + sit.
-
-## Extension
-
-Help set snack cups / cleanup leadership with adult.
+Crayons, card stock, printed SVG, soft object for freeze game.

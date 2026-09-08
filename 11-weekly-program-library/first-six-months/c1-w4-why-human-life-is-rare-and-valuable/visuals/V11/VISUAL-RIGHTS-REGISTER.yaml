@@ -1,20 +1,12 @@
 module: C1-W4
 assets:
-  - id: c1-w4-v11-concept
-    title: Concept diagram SVG
-    source_url: null
+  - id: c1-w4-concept
+    title: "Human-life priority / time map"
     creator: KUTUMBA
     license_rights_status: kutumba-original
-    use_allowed: true
-    modification_allowed: true
     intended_use: teaching-diagram
-    reviewer_note: human-review-required
-  - id: c1-w4-v11-line-art
-    title: Younger line art SVG
-    source_url: null
+  - id: c1-w4-line-art
+    title: "Child placing a block into a Must jar — use time well"
     creator: KUTUMBA
     license_rights_status: kutumba-original
-    use_allowed: true
-    modification_allowed: true
     intended_use: printable-coloring
-    reviewer_note: human-review-required

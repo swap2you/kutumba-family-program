@@ -1,28 +1,13 @@
 # C1-W2 Image Generation Prompts
 
-Status: prompts only — do not pretend raster art was generated if unavailable.
-
 ## Family deck hero
+Warm instructional scene for I Am Not This Body; no deity caricature; 16:9.
 
-- Objective: warm family learning scene for I Am Not This Body
-- Subjects: parents + children silhouette-friendly; books; simple home shrine suggestion without deity caricature
-- Constraints: no frightening imagery; no invented sacred iconography
-- Aspect: 16:9
+## Younger coloring
+Same person at three ages connected by a thread; large outlines; US Letter.
 
-## Younger coloring scene
+## Older concept
+Life stages — same self continues; diagrammatic; leave label space.
 
-- Simple outlines; large shapes; C1-W2 theme
-- Print US Letter
-
-## Older concept illustration
-
-- Diagrammatic; labels left for teacher overlay
-- Theme: The body changes; the conscious self continues.
-
-## Project/poster visual
-
-- Support: Changing-body / enduring-self artifact
-
-## Scriptural scene (optional)
-
-- Only if source scene is known; mark what must not be invented
+## Constraints
+No frightening imagery; no invented sacred iconography; not historical archival art.

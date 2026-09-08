@@ -1,28 +1,13 @@
 # C1-W5 Image Generation Prompts
 
-Status: prompts only — do not pretend raster art was generated if unavailable.
-
 ## Family deck hero
+Warm instructional scene for The Temporary World and the Search for Permanent Happiness; no deity caricature; 16:9.
 
-- Objective: warm family learning scene for The Temporary World and the Search for Permanent Happiness
-- Subjects: parents + children silhouette-friendly; books; simple home shrine suggestion without deity caricature
-- Constraints: no frightening imagery; no invented sacred iconography
-- Aspect: 16:9
+## Younger coloring
+Sorting cards: sparkler vs lamp — temporary vs lasting; large outlines; US Letter.
 
-## Younger coloring scene
+## Older concept
+Temporary vs lasting fulfillment; diagrammatic; leave label space.
 
-- Simple outlines; large shapes; C1-W5 theme
-- Print US Letter
-
-## Older concept illustration
-
-- Diagrammatic; labels left for teacher overlay
-- Theme: Temporary things can be used well but cannot provide permanent fulfillment.
-
-## Project/poster visual
-
-- Support: Temporary vs lasting happiness application artifact
-
-## Scriptural scene (optional)
-
-- Only if source scene is known; mark what must not be invented
+## Constraints
+No frightening imagery; no invented sacred iconography; not historical archival art.

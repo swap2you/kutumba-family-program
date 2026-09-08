@@ -1,29 +1,44 @@
 # C1-W1 Older Activity Pack (Grades 4–5)
 
-## 1. Concept worksheet
+## A. Concept worksheet (write answers)
 
-Explain in your words: Regular family hearing and practice creates a protected path for growth.
+1. State this week's conclusion in one sentence.  
+2. Write the primary scripture reference: _______________  
+3. Paraphrase it in your words (no copying long text).  
+4. Name one misconception to avoid.  
+5. Write one family action for the next 7 days.  
+6. Essential question: Why are we committing as a family? — answer in 2–3 sentences.
 
-## 2. Puzzle / game
+## B. Matching puzzle
 
-Word search or matching: key terms for this week (answer key required).
+Match term → meaning:
 
-## 3. Scenario cards
+| Term | Meaning |
+|---|---|
+| Hearing | Regular Bhāgavata reception |
+| Saṅkalpa | Specific practice intention |
+| Charter | KUTUMBA purposes/boundaries |
+| Association | Learning with devotees |
 
-Use constructed case from `research/CASE-STUDIES.md`.
+Print as two cut columns and match, **or** write letters A–D.
 
-## 4. Diagram
+## C. Scenario response card
 
-Complete `../visuals/V11/concept-diagram.mmd` labels.
+Pick Constructed case 1 from `research/CASE-STUDIES.md`.  
+Write: mistaken conclusion / better response / one sentence you would say at home.
 
-## 5. Project / poster component
+## D. Diagram task
 
-Advance: Family purpose / first saṅkalpa card
+On the week diagram, label every node and draw one arrow that shows this week's primary conclusion.
 
-## 6. Optional reflection
+## E. Project / poster component
 
-Where did I confuse scripture with analogy this week?
+Produce one artifact for: C1-W1 project layer in `project/CYCLE-CONTRIBUTION.md`.
+
+## F. Optional reflection
+
+Circle one: I confused analogy with scripture / I stayed in week scope / I need review.
 
 ## Low-prep backup
 
-Pair-share essential question for 3 minutes + one written sentence.
+Pair-share essential question for 3 minutes; each writes one sentence.
