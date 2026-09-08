@@ -4,8 +4,10 @@
 
 - Overall verdict: **NO GO for internal pilot, family-facing distribution, and public publication**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **internal-development-paused** with **V11 C1 Saturday launch pack produced** (owner-ready drafts; human/temple gates still open)
+- Current phase: **internal-development-paused** with **V11.1 C1 content-depth correction applied** (executable teaching packs; human/temple gates still open)
 - V11 Cycle 1 Saturday founding-cohort package: **structurally produced** — not human-approved
+- V11.1 Cycle 1 content-depth pass: **semantic scaffolds replaced** — still not human-approved; pilot/publication **NO GO**
+- V11.1 depth audit: `build-evidence/V11_1-C1-CONTENT-DEPTH-AUDIT.md`
 - V8 structural remediation: **completed but superseded for readiness by V9 forensic audit**
 - V9 forensic audit: **found unresolved substantive gaps**
 - V10A truth freeze: **controls retained; human gates remain open**
