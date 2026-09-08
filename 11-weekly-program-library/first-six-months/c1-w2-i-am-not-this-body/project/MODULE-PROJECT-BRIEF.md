@@ -2,54 +2,35 @@
 
 ## Cycle 1 project title
 
-**"Who am I? A changing-body, enduring-self learning gallery."**
+**Who Am I, and How Should Our Family Live?**
 
 ## Module contribution
 
-C1-W2 is the **second gallery installment** (after C1-W1 welcome pieces). Families contribute artifacts that show bodily change alongside continuing identity and service.
+C1-W2 contributes: **Changing-body / enduring-self artifact**.
 
-## Optional outputs (choose one per family)
+## Objective link
 
-| Output | Description | Age fit |
-| --- | --- | --- |
-| Photo timeline strip | 3 consented images + yarn thread | All |
-| Identity poem | 4 lines: body changes / I continue / I serve | 7+ |
-| Puppet dialogue | 2-minute script: costume change scene | 4–8 |
-| Body/self diagram | Labeled drawing from concept-map | 9+ |
-| Short skit | 3 actors: garment relay | 9+ |
-| Body-language pledge card | "I speak respectfully about every body" | All |
-| Species dignity poster | Gentle care for plants/animals | 4+ |
+- Primary conclusion: The body changes; the conscious self continues.
+- Family question: How does identity change how we speak about bodies?
+- Key scripture: Bhagavad-gītā 2.13
 
-## Privacy rules
+## Optional outputs (choose one)
 
-- No required public display of body-image struggles
-- No medical diagnoses on posters
-- Consent for any photograph
-- Facilitator collects only voluntary submissions
+| Output | Description | Band |
+|---|---|---|
+| Drawing / poster | Age-appropriate visual of this week's idea | Younger / Older |
+| Short speech | 1–2 minutes shared at reunification or W6 | Older / Parents |
+| Action artifact | Saṅkalpa, timeline, priority map, or gratitude card | All |
+| Family interview | Two questions answered together at home | All |
 
-## Timeline
+## Burden
 
-| When | Action |
-| --- | --- |
-| Week 2 session | Introduce project in [shared-family-transition.md](../children/shared-family-transition.md) |
-| Week 2–3 home | Families create one artifact |
-| Week 3 gathering | Mount gallery wall; 5-minute walkthrough |
-| End of Cycle 1 | Gallery becomes cumulative "Who am I?" exhibit |
+Normal weeks: ≤20 minutes optional project work. W6 uses a low-burden presentation option.
 
-## Facilitator setup
+## Privacy
 
-- Gallery board with section labels: **Changes** | **Continues** | **Serves**
-- Clips or tape; no pins where children reach unsafely
-- Rubric for friendly feedback: [PRESENTATION-RUBRIC.md](PRESENTATION-RUBRIC.md)
+No required public disclosure of private struggles. No real names in shared gallery labels unless families consent privately outside Git.
 
-## Materials
+## Sources
 
-See [../materials.md](../materials.md) — project gallery section.
-
-## Assessment link
-
-Project demonstrates child outcome: "Recognize same person through changing age pictures" ([learning-outcomes.md](../learning-outcomes.md)).
-
-## Sources displayed on gallery header card
-
-BG 2.13 · CC Madhya 20.108 — VedaBase links on printed header (URLs only)
+Bhagavad-gītā 2.13 — https://vedabase.io/en/library/bg/2/13/
