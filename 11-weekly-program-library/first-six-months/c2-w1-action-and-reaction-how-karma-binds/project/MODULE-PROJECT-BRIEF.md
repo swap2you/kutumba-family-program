@@ -1,3 +1,5 @@
-# MODULE-PROJECT-BRIEF.md
+# C2-W1 Module Project Brief
 
-Module: C2-W1
+Objective: apply Work offered to the Lord frees; other work binds.
+Primary: BG 3.9
+Deliverable: week artifact for cycle folder

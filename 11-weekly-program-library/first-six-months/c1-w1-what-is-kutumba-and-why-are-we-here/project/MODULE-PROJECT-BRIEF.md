@@ -1,36 +1,25 @@
 # C1-W1 Module Project Brief
 
-## Cycle 1 project title
+## Objective
+Apply: Protected weekly hearing plus home practice creates a path for family growth.
 
-**Who Am I, and How Should Our Family Live?**
+## Essential question
+Why are we committing as a family?
 
-## Module contribution
+## Key scripture
+SB 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/
 
-C1-W1 contributes: **Family purpose / first saṅkalpa card**.
+## Deliverable
+One family artifact for the cumulative Cycle 1 project folder.
 
-## Objective link
+## Time burden
+Keep optional work ≤20 minutes (W6 low-burden presentation allowed).
 
-- Primary conclusion: Regular family hearing and practice creates a protected path for growth.
-- Family question: Why are we committing as a family?
-- Key scripture: Śrīmad-Bhāgavatam 1.2.18
+## Assessment
+Non-competitive rubric in PRESENTATION-RUBRIC.md.
 
-## Optional outputs (choose one)
+## Misconception to avoid
+Coming without home practice is enough.
 
-| Output | Description | Band |
-|---|---|---|
-| Drawing / poster | Age-appropriate visual of this week's idea | Younger / Older |
-| Short speech | 1–2 minutes shared at reunification or W6 | Older / Parents |
-| Action artifact | Saṅkalpa, timeline, priority map, or gratitude card | All |
-| Family interview | Two questions answered together at home | All |
-
-## Burden
-
-Normal weeks: ≤20 minutes optional project work. W6 uses a low-burden presentation option.
-
-## Privacy
-
-No required public disclosure of private struggles. No real names in shared gallery labels unless families consent privately outside Git.
-
-## Sources
-
-Śrīmad-Bhāgavatam 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/
+## Parent handoff
+Share the memory phrase and one home cue at reunification.

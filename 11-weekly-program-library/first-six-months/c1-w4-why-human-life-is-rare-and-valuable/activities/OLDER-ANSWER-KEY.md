@@ -1,13 +1,28 @@
 # C1-W4 Older Answer Key
 
-## Worksheet — secure answers
+## Time-budget challenge — secure answers
 
-1. Human life gives a rare opportunity for deliberate self-realization — protect inquiry and practice time.
-2. SB 11.9.29
-3. Accept any faithful paraphrase of: After many births one attains the rare human form — use it for self-realization.
-4. Use fear or death-pressure to motivate children.
-5. Any concrete 5–15 minute cue tied to the week
-6. Answers should connect identity/practice without ranking
+- **Must** includes at least one protected spiritual practice / hearing block.
+- **Should** includes family duties and rest.
+- **Optional** may include excess screens/entertainment — not ahead of Must.
+- Reject death-scare or species-contempt language.
+
+## Primary scripture
+
+ŚB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
+
+Secure teaching meaning target: After many births one obtains the rare human form; a sober person quickly endeavors for the ultimate good while this body lasts.
+
+## Maze / priority path
+
+Secure path reaches protected hearing without treating cruelty stories as entertainment. Narrative support (if used) is CC Madhya 24.229–282, not SB 6.x / SB 4.8.
+
+## Do not accept
+
+- Invented verse numbers
+- Fear pedagogy as the main motivator
+- Ranking families by how “serious” their Must jar looks
+
 
 ## Matching key
 
@@ -15,20 +30,3 @@
 | Priority | What we protect in time |
 | Compassion | Mercy without contempt |
 | Opportunity | Chance for inquiry |
-
-## Scramble key (if used)
-
-1. Human form
-2. Priority
-3. Compassion
-4. Opportunity
-
-## Scenario grading
-
-Secure = names mistaken conclusion + compassionate action + no shame language.
-
-## Do not accept
-
-- Invented verse numbers  
-- "Science proves the soul"  
-- Importing another week's full ontology as if it were this week's only point

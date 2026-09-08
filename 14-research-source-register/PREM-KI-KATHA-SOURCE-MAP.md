@@ -10,7 +10,7 @@ Each module has one principal katha — not the same story type every week. Mode
 | C1-W1 | The sages inquire at Naimiṣāraṇya (SB 1.1) | Śrīmad-Bhāgavatam 1.1 | Congregation purpose; why hear śāstra together |
 | C1-W2 | Arjuna's sorrow and Kṛṣṇa's instruction (BG 2) | Bhagavad-gītā 2.11–2.13 | **Pilot complete** — see `prem-ki-katha.md` |
 | C1-W3 | Jaḍa Bharata instructs King Rahūgaṇa (soul vs. body) | ŚB 5.10–5.13 (selected portion) | Suitable excerpt only; no overload |
-| C1-W4 | Nārada meets the hunter Mṛgāri | ŚB 6.x / Prabhupāda summary | Human life's value; mercy transforms |
+| C1-W4 | Nārada meets the hunter Mṛgāri | Caitanya-caritāmṛta, Madhya-līlā 24.229–282 | Human life's value; mercy transforms |
 | C1-W5 | Dhruva's determination | ŚB 4.8–4.9 (selected) | Temporary vs. permanent goal |
 | C1-W6 | Integration — family shares realizations | Facilitator-led (no new līlā) | Synthesis week; testimonies only with consent |
 | C2-W1 | King Citraketu's lesson on karma | ŚB 6.14–6.16 (selected) | Action and reaction |

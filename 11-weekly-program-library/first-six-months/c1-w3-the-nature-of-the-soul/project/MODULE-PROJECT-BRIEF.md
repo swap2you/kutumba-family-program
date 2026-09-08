@@ -1,36 +1,25 @@
 # C1-W3 Module Project Brief
 
-## Cycle 1 project title
+## Objective
+Apply: Jiva is eternal, conscious, individual — not God Himself.
 
-**Who Am I, and How Should Our Family Live?**
+## Essential question
+If I am a soul, how should I live?
 
-## Module contribution
+## Key scripture
+BG 2.20 — https://vedabase.io/en/library/bg/2/20/
 
-C1-W3 contributes: **Positive nature-of-soul artifact**.
+## Deliverable
+One family artifact for the cumulative Cycle 1 project folder.
 
-## Objective link
+## Time burden
+Keep optional work ≤20 minutes (W6 low-burden presentation allowed).
 
-- Primary conclusion: The jīva is eternal, conscious, individual, minute, and related to Kṛṣṇa in service.
-- Family question: If I am a soul, how should I live?
-- Key scripture: Bhagavad-gītā 2.20
+## Assessment
+Non-competitive rubric in PRESENTATION-RUBRIC.md.
 
-## Optional outputs (choose one)
+## Misconception to avoid
+All souls are God.
 
-| Output | Description | Band |
-|---|---|---|
-| Drawing / poster | Age-appropriate visual of this week's idea | Younger / Older |
-| Short speech | 1–2 minutes shared at reunification or W6 | Older / Parents |
-| Action artifact | Saṅkalpa, timeline, priority map, or gratitude card | All |
-| Family interview | Two questions answered together at home | All |
-
-## Burden
-
-Normal weeks: ≤20 minutes optional project work. W6 uses a low-burden presentation option.
-
-## Privacy
-
-No required public disclosure of private struggles. No real names in shared gallery labels unless families consent privately outside Git.
-
-## Sources
-
-Bhagavad-gītā 2.20 — https://vedabase.io/en/library/bg/2/20/
+## Parent handoff
+Share the memory phrase and one home cue at reunification.

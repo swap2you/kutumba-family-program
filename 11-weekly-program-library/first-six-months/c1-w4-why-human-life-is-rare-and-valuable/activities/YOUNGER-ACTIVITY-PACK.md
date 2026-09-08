@@ -1,26 +1,27 @@
 # C1-W4 Younger Activity Pack (K–2)
 
-## 1. Coloring / line-art
+## Objective
+Show and say: **Human life is a rare opportunity for self-realization — protect inquiry and practice time.**
 
-Use week-specific `../visuals/V11/line-art-younger.svg`.  
-Prompt: color the scene that shows today's idea — **not** a generic recycled hearing scene unless this is W1.
+## Core activity — time_jar
+1. Teacher demonstrates once.
+2. Children participate for 5–8 minutes.
+3. End with memory phrase echo.
 
-## 2. Movement game
+## Story boundary
+Paraphrase only from `research/DEVOTIONAL-AND-HISTORICAL-EXAMPLES.md`. No invented deity dialogue. No graphic violence.
 
-Play "Freeze and Remember — C1-W4" from the younger teacher guide.
+## Movement
+Freeze-and-Remember using this week's memory phrase.
 
-## 3. Craft / foldable
+## Craft / object
+Week craft tied to Why Human Life Is Rare and Valuable; take-home card with phrase inside.
 
-Fold a card: outside picture; inside memory phrase.
+## Printable
+Color `../visuals/V12/line-art-younger.svg` (US Letter).
 
-## 4. Memory card
-
-Front: simple icon for C1-W4. Back: Human life is a rare chance to ask who I am and serve Kṛṣṇa.
-
-## 5. Take-home family cue
-
-Ask at home: What deserves protected family time? (one sentence each)
+## Backup
+Pass soft object; each child says one kind word; echo phrase.
 
 ## Materials
-
-Crayons, card stock, printed SVG, soft object for freeze game.
+Printed line art, crayons, card stock, soft toss object.

@@ -24,6 +24,9 @@ Protect one fifteen-minute family spiritual appointment.
 **Where is the katha?**  
 prem-ki-katha.md — Nārada meets the hunter Mṛgāri
 
+**What is the canonical source for the Mṛgāri narrative?**
+Caitanya-caritāmṛta, Madhya-līlā 24.229–282: https://vedabase.io/en/library/cc/madhya/24/. It is not Śrīmad-Bhāgavatam 4.8 or 6.1–6.2. The primary week verse remains Śrīmad-Bhāgavatam 11.9.29.
+
 ## Facilitator
 
 **Approval status?**  

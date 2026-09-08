@@ -4,7 +4,7 @@
 
 | Example | Provenance | URL | Use | Limitation |
 |---|---|---|---|---|
-| Nārada and the hunter Mṛgāri | Śrīmad-Bhāgavatam 4.8 region / standard ISKCON teaching narrative | https://vedabase.io/en/library/sb/4/8/ | Mercy and opportunity to change | Avoid graphic violence with younger children |
+| Nārada and the hunter Mṛgāri | Caitanya-caritāmṛta, Madhya-līlā 24.229–282 | https://vedabase.io/en/library/cc/madhya/24/ | Mercy and opportunity to change | Paraphrase only; avoid graphic violence and unsupported narrative additions |
 
 ## Policy
 

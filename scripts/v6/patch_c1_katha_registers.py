@@ -11,7 +11,7 @@ WEEKLY = REPO / "11-weekly-program-library" / "first-six-months"
 METRICS = {
     "c1-w1-what-is-kutumba-and-why-are-we-here": (893, "6.6-7.8", "SB 1.1", False),
     "c1-w3-the-nature-of-the-soul": (730, "5.4-6.3", "SB 5.10-5.13", False),
-    "c1-w4-why-human-life-is-rare-and-valuable": (755, "5.6-6.6", "SB 1.5-1.6", False),
+    "c1-w4-why-human-life-is-rare-and-valuable": (1763, "13.1-15.3", "CC Madhya 24.229-24.282", False),
     "c1-w5-the-temporary-world-and-the-search-for-permanent-happiness": (764, "5.7-6.6", "SB 4.8-4.12", False),
     "c1-w6-integration-night-who-am-i-and-how-should-our-family-live": (437, "3.2-3.8", "Cycle 1 synthesis", True),
 }

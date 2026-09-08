@@ -1,0 +1,8 @@
+module: C3-W3
+assets:
+  - id: c3-w3-concept
+    creator: KUTUMBA
+    license_rights_status: kutumba-original
+  - id: c3-w3-line-art
+    creator: KUTUMBA
+    license_rights_status: kutumba-original

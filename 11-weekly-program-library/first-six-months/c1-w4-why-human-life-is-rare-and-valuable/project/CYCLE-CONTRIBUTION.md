@@ -1,41 +1,26 @@
 # C1-W4 Cycle Contribution
 
 ## Cumulative project title
-
 **Who Am I, and How Should Our Family Live?**
 
-## This week's essential question
-
+## Essential question
 What deserves protected family time?
 
-## This week's layer / artifact
+## This week layer
+Tied to SB 11.9.29: Human life is a rare opportunity for self-realization.
 
-Time-jar / priority calendar for one week.
-
-## Conclusion to carry forward
-
-Protect inquiry and practice time.
-
-## Steps (keep optional burden ≤20 minutes; W6 low-burden allowed)
-
-1. Discuss the essential question for 3–5 minutes at home.
-2. Produce the artifact named above.
-3. Store it in the family project folder for Week 6.
-4. Bring one sentence (or drawing) to Saturday reunification.
+## Steps
+1. Discuss the essential question 3–5 minutes.
+2. Produce one week-specific artifact.
+3. Store for Week 6.
+4. Bring one sentence or drawing to reunification.
 
 ## Primary source
-
 SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
 
 ## Boundaries
-
-- No ranking families or children.
-- No forced private disclosure.
-- Distinguish scripture paraphrase from analogy.
-- For W6 review chain, represent W5 with **BG 8.15** (not BG 5.22 as primary).
+No ranking; no forced disclosure; distinguish scripture paraphrase from analogy.
+For W6 review, represent W5 with BG 8.15 (not BG 5.22 as primary).
 
 ## Success look-fors
-
-- Artifact exists and is week-specific.
-- Family can state the conclusion in plain words.
-- Home cue named (time + place) or W6 presentation plan ready.
+Artifact exists; family can state conclusion; home cue named.

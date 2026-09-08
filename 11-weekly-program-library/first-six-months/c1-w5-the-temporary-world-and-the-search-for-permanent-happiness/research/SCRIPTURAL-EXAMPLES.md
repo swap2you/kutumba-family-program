@@ -1,21 +1,9 @@
 # C1-W5 Scriptural Examples
 
-## Primary anchor (locked)
-
+## Primary anchor
 | Reference | URL | Teaching paraphrase | Limitation |
 |---|---|---|---|
-| BG 8.15 | https://vedabase.io/en/library/bg/8/15/ | Having attained Me, great souls do not take rebirth into this temporary world of misery. | Exact quotation only if verified; otherwise KUTUMBA paraphrase |
-
-## Supporting primary references
-
-| Reference | URL | Teaching use | Limitation |
-|---|---|---|---|
-| BG 5.22 | https://vedabase.io/en/library/bg/5/22/ | Pleasures born of contact are temporary — supporting application. | Prefer paraphrase; no purport dump |
-| BG 9.27 | https://vedabase.io/en/library/bg/9/27/ | Whatever you do, eat, offer, give — do as offering unto Me. | Prefer paraphrase; no purport dump |
+| BG 8.15 | https://vedabase.io/en/library/bg/8/15/ | Having attained the Lord, great souls do not return again to this temporary world of misery; they have reached the highest perfection. | No full purport dump; teaching meaning ≠ BBT translation label |
 
 ## Classroom use
-
-1. Open the primary URL before teaching.
-2. State paraphrase in plain English.
-3. Name what this week does **not** teach.
-4. Do not invent verse wording.
+Open URL; state teaching meaning; name scope boundary: Does not teach that lawful family affection is worthless.

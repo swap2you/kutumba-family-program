@@ -59,7 +59,7 @@ WEEKS = {
         "primary": ("SB 11.9.29", "https://vedabase.io/en/library/sb/11/9/29/", "After many births one attains the rare human form — use it for self-realization."),
         "supports": [
             ("BG 2.40", "https://vedabase.io/en/library/bg/2/40/", "No loss or diminution in this endeavor; a little progress protects from fear."),
-            ("SB 4.8 (Nārada–Mṛgāri context)", "https://vedabase.io/en/library/sb/4/8/", "Mercy transforms violent habit — compassion application."),
+            ("CC Madhya 24.229–282 (Nārada–Mṛgāri)", "https://vedabase.io/en/library/cc/madhya/24/", "Mercy and authorized instruction transform harmful conduct."),
         ],
         "memory": "Human life is a rare chance to ask who I am and serve Kṛṣṇa.",
         "question": "What deserves protected family time?",
@@ -154,7 +154,7 @@ DEVOTIONAL = {
         ("Jaḍa Bharata and King Rahūgaṇa", "Śrīmad-Bhāgavatam 5.9–5.10", "https://vedabase.io/en/library/sb/5/10/", "Soul beyond bodily status labels", "Symbolic/nonviolent classroom retelling only"),
     ],
     "C1-W4": [
-        ("Nārada and the hunter Mṛgāri", "Śrīmad-Bhāgavatam 4.8 region / standard ISKCON teaching narrative", "https://vedabase.io/en/library/sb/4/8/", "Mercy and opportunity to change", "Avoid graphic violence with younger children"),
+        ("Nārada and the hunter Mṛgāri", "Caitanya-caritāmṛta, Madhya-līlā 24.229–282", "https://vedabase.io/en/library/cc/madhya/24/", "Mercy and opportunity to change", "Paraphrase only; avoid graphic violence and unsupported additions"),
     ],
     "C1-W5": [
         ("Dhruva Mahārāja — mixed motive purified", "Śrīmad-Bhāgavatam 4.8–4.9", "https://vedabase.io/en/library/sb/4/8/", "Temporary ambition vs lasting shelter", "Do not promise identical results"),

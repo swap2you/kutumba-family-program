@@ -28,7 +28,8 @@ What deserves protected family time?
 ## Exact primary readings
 
 - Primary: SB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
-- Supports: BG 2.40, SB 4.8 (Nārada–Mṛgāri context)
+- Kathā source: CC Madhya 24.229–282 — https://vedabase.io/en/library/cc/madhya/24/
+- Support: BG 2.40
 
 ## One-page speaking map
 

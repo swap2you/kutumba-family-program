@@ -1,0 +1,9 @@
+module: C2-W3
+render_status: prompt-only-not-rendered
+primary_verse: BG 2.22
+primary_url: https://vedabase.io/en/library/bg/2/22/
+iast_present: true
+devanagari_present: true
+kutumba_teaching_meaning: true
+brand: "KUTUMBA / Families Growing in Krishna Consciousness / Program Director: Swapnil Patil"
+do_not_claim: [human-approved, publication-ready, gamma-rendered, bbt-translation-label]

@@ -1,0 +1,239 @@
+# KUTUMBA V12 verified primary verse layer
+# Sanskrit Devanāgarī + IAST verified from VedaBase pages (2026-09-08).
+# English BBT translations are NOT copied; KUTUMBA teaching meanings are original paraphrases.
+# Rights: verse Sanskrit as published on VedaBase; teaching meaning = KUTUMBA original.
+# Do not present teaching meaning as Śrīla Prabhupāda translation.
+
+c1_w1:
+  week: C1-W1
+  reference: "ŚB 1.2.18"
+  source_language: Sanskrit
+  devanagari: "नष्टप्रायेष्वभद्रेषु नित्यं भागवतसेवया । भगवत्युत्तमश्लोके भक्तिर्भवति नैष्ठिकी ॥ १८ ॥"
+  iast: "naṣṭa-prāyeṣv abhadreṣu nityaṁ bhāgavata-sevayā / bhagavaty uttama-śloke bhaktir bhavati naiṣṭhikī"
+  kutumba_teaching_meaning: "When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the Lord becomes established."
+  url: "https://vedabase.io/en/library/sb/1/2/18/"
+  keywords: [hearing, service, steady-devotion]
+  teaches: "Protected weekly hearing plus association steadies family devotion."
+  scope_boundary: "Does not teach body/soul ontology (W2–W3)."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original; no full purport; no BBT English translation copied."
+
+c1_w2:
+  week: C1-W2
+  reference: "BG 2.13"
+  source_language: Sanskrit
+  devanagari: "देहिनोऽस्मिन् यथा देहे कौमारं यौवनं जरा । तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥ १३ ॥"
+  iast: "dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā / tathā dehāntara-prāptir dhīras tatra na muhyati"
+  kutumba_teaching_meaning: "Just as the embodied self passes through childhood, youth, and old age in one body, the sober person is not bewildered when the self passes to another body."
+  url: "https://vedabase.io/en/library/bg/2/13/"
+  keywords: [body-changes, sober, continues]
+  teaches: "Body changes; conscious self continues."
+  scope_boundary: "Does not fully unfold jīva ontology (W3)."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original; no full purport."
+
+c1_w3:
+  week: C1-W3
+  reference: "BG 2.20"
+  source_language: Sanskrit
+  devanagari: "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः । अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ॥ २० ॥"
+  iast: "na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ / ajo nityaḥ śāśvato ’yaṁ purāṇo na hanyate hanyamāne śarīre"
+  kutumba_teaching_meaning: "The soul is never born and never dies; unborn, eternal, and everlasting — not destroyed when the body is destroyed."
+  url: "https://vedabase.io/en/library/bg/2/20/"
+  keywords: [eternal, unborn, not-destroyed]
+  teaches: "The jīva is eternal, conscious, individual — not the temporary body and not God Himself."
+  scope_boundary: "Does not teach human-form rarity (W4) or temporary-world shelter (W5)."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original; no full purport."
+
+c1_w4:
+  week: C1-W4
+  reference: "ŚB 11.9.29"
+  source_language: Sanskrit
+  devanagari: "लब्ध्वा सुदुर्लभमिदं बहुसम्भवान्ते मानुष्यमर्थदमनित्यमपीह धीर: । तूर्णं यतेत न पतेदनुमृत्यु यावन्नि:श्रेयसाय विषय: खलु सर्वत: स्यात् ॥ २९ ॥"
+  iast: "labdhvā su-durlabham idaṁ bahu-sambhavānte mānuṣyam artha-dam anityam apīha dhīraḥ / tūrṇaṁ yateta na pated anu-mṛtyu yāvan niḥśreyasāya viṣayaḥ khalu sarvataḥ syāt"
+  kutumba_teaching_meaning: "After many births one obtains the rare human form — temporary yet able to give the highest purpose. A sober person should quickly endeavor for the ultimate good while this body lasts."
+  url: "https://vedabase.io/en/library/sb/11/9/29/"
+  keywords: [rare, human-form, endeavor]
+  teaches: "Human life is a rare opportunity for self-realization — protect inquiry and practice time."
+  scope_boundary: "No fear-based death pressure on children; no species contempt."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original; no full purport."
+
+c1_w5:
+  week: C1-W5
+  reference: "BG 8.15"
+  source_language: Sanskrit
+  devanagari: "मामुपेत्य पुनर्जन्म दु:खालयमशाश्वतम् । नाप्नुवन्ति महात्मान: संसिद्धिं परमां गता: ॥ १५ ॥"
+  iast: "mām upetya punar janma duḥkhālayam aśāśvatam / nāpnuvanti mahātmānaḥ saṁsiddhiṁ paramāṁ gatāḥ"
+  kutumba_teaching_meaning: "Having attained the Lord, great souls do not return again to this temporary world of misery; they have reached the highest perfection."
+  url: "https://vedabase.io/en/library/bg/8/15/"
+  keywords: [temporary-world, lasting-shelter, perfection]
+  teaches: "Temporary joys can be used with gratitude; lasting fulfillment is in Kṛṣṇa."
+  scope_boundary: "Does not teach that lawful family affection is worthless."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original; no full purport."
+
+c1_w6:
+  week: C1-W6
+  reference: "Cycle 1 review chain"
+  source_language: Sanskrit
+  devanagari: "(review W1–W5 primary verses)"
+  iast: "ŚB 1.2.18 · BG 2.13 · BG 2.20 · ŚB 11.9.29 · BG 8.15"
+  kutumba_teaching_meaning: "Identity, purpose, and practice must form one coherent family life — reviewing the Cycle 1 chain with W5 as BG 8.15."
+  url: "https://vedabase.io/en/library/sb/1/2/18/"
+  keywords: [integration, retrieval, family-life]
+  teaches: "Can our family explain and apply what we learned?"
+  scope_boundary: "No ranking; no overloaded new doctrine."
+  rights_status: "Review of prior week Sanskrit layers; KUTUMBA synthesis original."
+
+c2_w1:
+  week: C2-W1
+  reference: "BG 3.9"
+  source_language: Sanskrit
+  devanagari: "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः । तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥ ९ ॥"
+  iast: "yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ / tad-arthaṁ karma kaunteya mukta-saṅgaḥ samācara"
+  kutumba_teaching_meaning: "Work done for the satisfaction of the Lord frees us from bondage; otherwise action binds. Therefore act with detachment for His purpose."
+  url: "https://vedabase.io/en/library/bg/3/9/"
+  keywords: [karma, sacrifice, bondage]
+  teaches: "How action binds — and how offering transforms work."
+  scope_boundary: "Does not teach fatalism that removes responsibility (W2)."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c2_w2:
+  week: C2-W2
+  reference: "BG 18.63"
+  source_language: Sanskrit
+  devanagari: "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया । विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥ ६३ ॥"
+  iast: "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā / vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru"
+  kutumba_teaching_meaning: "The Lord has explained confidential knowledge; now deliberate fully and then act as you choose — responsibility remains with the living being."
+  url: "https://vedabase.io/en/library/bg/18/63/"
+  keywords: [choice, deliberate, responsibility]
+  teaches: "The next choice matters — freedom with accountability."
+  scope_boundary: "Does not teach the soul has no agency."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c2_w3:
+  week: C2-W3
+  reference: "BG 2.22"
+  source_language: Sanskrit
+  devanagari: "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि । तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही ॥ २२ ॥"
+  iast: "vāsāṁsi jīrṇāni yathā vihāya navāni gṛhṇāti naro ’parāṇi / tathā śarīrāṇi vihāya jīrṇāny anyāni saṁyāti navāni dehī"
+  kutumba_teaching_meaning: "As a person puts on new garments, giving up old ones, the embodied self similarly accepts new bodies, giving up old ones — taught calmly, without fear tactics for children."
+  url: "https://vedabase.io/en/library/bg/2/22/"
+  keywords: [reincarnation, garments, calm]
+  teaches: "Birth and death are changes of dress for the eternal self."
+  scope_boundary: "Age-sensitive; no graphic death content; no scare pedagogy."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c2_w4:
+  week: C2-W4
+  reference: "BG 14.5"
+  source_language: Sanskrit
+  devanagari: "सत्त्वं रजस्तम इति गुणा: प्रकृतिसम्भवा: । निबध्नन्ति महाबाहो देहे देहिनमव्ययम् ॥ ५ ॥"
+  iast: "sattvaṁ rajas tama iti guṇāḥ prakṛti-sambhavāḥ / nibadhnanti mahā-bāho dehe dehinam avyayam"
+  kutumba_teaching_meaning: "Goodness, passion, and ignorance — born of material nature — bind the eternal embodied self within the body."
+  url: "https://vedabase.io/en/library/bg/14/5/"
+  keywords: [modes, sattva, rajas, tamas]
+  teaches: "Recognize the three modes shaping mood, speech, and choices."
+  scope_boundary: "Does not teach mode-labeling as a tool to shame family members."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c2_w5:
+  week: C2-W5
+  reference: "BG 7.14"
+  source_language: Sanskrit
+  devanagari: "दैवी ह्येषा गुणमयी मम माया दुरत्यया । मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥ १४ ॥"
+  iast: "daivī hy eṣā guṇa-mayī mama māyā duratyayā / mām eva ye prapadyante māyām etāṁ taranti te"
+  kutumba_teaching_meaning: "This divine illusory energy made of the modes is hard to overcome — but those who surrender to the Lord cross beyond it."
+  url: "https://vedabase.io/en/library/bg/7/14/"
+  keywords: [maya, surrender, cross-beyond]
+  teaches: "Māyā decorates bondage; shelter in Kṛṣṇa is the way out."
+  scope_boundary: "Does not teach contempt for material responsibilities."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c2_w6:
+  week: C2-W6
+  reference: "Cycle 2 review (BG 18.63 center)"
+  source_language: Sanskrit
+  devanagari: "(review C2 primaries)"
+  iast: "BG 3.9 · BG 18.63 · BG 2.22 · BG 14.5 · BG 7.14"
+  kutumba_teaching_meaning: "Choice, consequence, and the modes must form one coherent family practice — synthesis, not new doctrine overload."
+  url: "https://vedabase.io/en/library/bg/18/63/"
+  keywords: [integration, choice, modes]
+  teaches: "Can we explain how action, choice, and modes shape our week?"
+  scope_boundary: "No ranking families."
+  rights_status: "Review of prior week Sanskrit layers; KUTUMBA synthesis original."
+
+c3_w1:
+  week: C3-W1
+  reference: "BG 5.29"
+  source_language: Sanskrit
+  devanagari: "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् । सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥ २९ ॥"
+  iast: "bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśvaram / suhṛdaṁ sarva-bhūtānāṁ jñātvā māṁ śāntim ṛcchati"
+  kutumba_teaching_meaning: "Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, and the friend of all beings — one attains peace."
+  url: "https://vedabase.io/en/library/bg/5/29/"
+  keywords: [enjoyer, proprietor, friend]
+  teaches: "Who is God — enjoyer, proprietor, and friend."
+  scope_boundary: "Does not yet unfold personal Kṛṣṇa-līlā depth (W2)."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c3_w2:
+  week: C3-W2
+  reference: "BG 7.7"
+  source_language: Sanskrit
+  devanagari: "मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय । मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥ ७ ॥"
+  iast: "mattaḥ parataraṁ nānyat kiñcid asti dhanañ-jaya / mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva"
+  kutumba_teaching_meaning: "There is no truth superior to Kṛṣṇa; everything rests upon Him as pearls are strung on a thread."
+  url: "https://vedabase.io/en/library/bg/7/7/"
+  keywords: [Krishna, supreme, thread]
+  teaches: "Kṛṣṇa is the Supreme Personality of Godhead."
+  scope_boundary: "No invented līlā dialogue; source-bound only."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c3_w3:
+  week: C3-W3
+  reference: "BG 4.34"
+  source_language: Sanskrit
+  devanagari: "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया । उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिन: ॥ ३४ ॥"
+  iast: "tad viddhi praṇipātena paripraśnena sevayā / upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ"
+  kutumba_teaching_meaning: "Approach those who have seen the truth — with humility, inquiry, and service — and they will instruct you in knowledge."
+  url: "https://vedabase.io/en/library/bg/4/34/"
+  keywords: [guru, inquiry, service]
+  teaches: "Guru, sādhu, and śāstra — how we receive spiritual knowledge."
+  scope_boundary: "Does not authorize independent speculative gurus."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c3_w4:
+  week: C3-W4
+  reference: "CC Antya 20.12 / Śikṣāṣṭaka 1 context"
+  source_language: Sanskrit
+  devanagari: "चेतोदर्पणमार्जनं भवमहादावाग्निनिर्वापणम् । श्रेय:कैरवचन्द्रिकावितरणं विद्यावधूजीवनम् ॥"
+  iast: "ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇam / śreyaḥ-kairava-candrikā-vitaraṇaṁ vidyā-vadhū-jīvanam"
+  kutumba_teaching_meaning: "Chanting the holy name cleanses the mirror of the heart, extinguishes the forest fire of material existence, and spreads the moonlight of auspiciousness — the life of all knowledge."
+  url: "https://vedabase.io/en/library/cc/antya/20/12/"
+  keywords: [holy-name, Caitanya, cleansing]
+  teaches: "Śrī Caitanya Mahāprabhu and the holy name."
+  scope_boundary: "No invented Caitanya dialogue; use authorised sources only."
+  rights_status: "Sanskrit from VedaBase Śikṣāṣṭaka context; KUTUMBA teaching meaning original; verify local chanting sheet."
+
+c3_w5:
+  week: C3-W5
+  reference: "ŚB 7.5.23–24"
+  source_language: Sanskrit
+  devanagari: "श्रवणं कीर्तनं विष्णो: स्मरणं पादसेवनम् । अर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ॥"
+  iast: "śravaṇaṁ kīrtanaṁ viṣṇoḥ smaraṇaṁ pāda-sevanam / arcanaṁ vandanaṁ dāsyaṁ sakhyam ātma-nivedanam"
+  kutumba_teaching_meaning: "Hearing, chanting, remembering, serving the Lord's feet, worship, offering prayers, becoming a servant, friendship, and full self-surrender — the nine processes of bhakti."
+  url: "https://vedabase.io/en/library/sb/7/5/23-24/"
+  keywords: [nine-processes, bhakti, hearing-chanting]
+  teaches: "The nine processes of bhakti as a family map."
+  scope_boundary: "Does not require children to master all nine at once."
+  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+
+c3_w6:
+  week: C3-W6
+  reference: "Cycle 3 review (ŚB 7.5.23–24 center)"
+  source_language: Sanskrit
+  devanagari: "(review C3 primaries)"
+  iast: "BG 5.29 · BG 7.7 · BG 4.34 · holy name · ŚB 7.5.23–24"
+  kutumba_teaching_meaning: "Bhakti Mela — celebrate hearing, chanting, and family presentation without ranking."
+  url: "https://vedabase.io/en/library/sb/7/5/23-24/"
+  keywords: [mela, kirtana, presentation]
+  teaches: "Share what we learned with joy and humility."
+  scope_boundary: "No competitive scoring of devotion."
+  rights_status: "Review of prior week Sanskrit layers; KUTUMBA synthesis original."

@@ -7,12 +7,10 @@
 | Teamwork | One speaker only | Partial family roles | Parents + children share |
 | Source accuracy | Mixes weeks / invents | Stays in week scope | Distinguishes scripture vs analogy |
 
-## Locked primary for this week
-
+## Locked primary
 BG 2.20 — https://vedabase.io/en/library/bg/2/20/
 
 ## W6 chain reminder
-
 When reviewing Cycle 1, represent W5 with **BG 8.15** (not BG 5.22 as primary).
 
 No ranking. Weak understanding → private review-before-C2 recommendation.

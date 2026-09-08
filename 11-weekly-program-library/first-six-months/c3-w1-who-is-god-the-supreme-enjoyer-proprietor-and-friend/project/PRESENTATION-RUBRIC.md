@@ -1,3 +1,8 @@
-# PRESENTATION-RUBRIC.md
+# C3-W1 Presentation Rubric (Non-Competitive)
 
-Module: C3-W1
+| Dimension | Emerging | Developing | Secure |
+|---|---|---|---|
+| Understanding | Vague | States conclusion | Connects to BG 5.29 |
+| Application | None | One action | Cue + minimum |
+| Teamwork | One speaker | Partial | Family roles |
+| Source accuracy | Mixes weeks | In scope | Scripture vs analogy clear |

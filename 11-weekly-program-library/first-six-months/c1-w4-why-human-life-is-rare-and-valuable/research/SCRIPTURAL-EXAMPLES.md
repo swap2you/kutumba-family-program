@@ -1,21 +1,21 @@
 # C1-W4 Scriptural Examples
 
-## Primary anchor (locked)
+## Primary anchor
 
 | Reference | URL | Teaching paraphrase | Limitation |
 |---|---|---|---|
-| SB 11.9.29 | https://vedabase.io/en/library/sb/11/9/29/ | After many births one attains the rare human form — use it for self-realization. | Exact quotation only if verified; otherwise KUTUMBA paraphrase |
+| ŚB 11.9.29 | https://vedabase.io/en/library/sb/11/9/29/ | After many births one obtains the rare human form — temporary yet able to give the highest purpose. A sober person should quickly endeavor for the ultimate good while this body lasts. | No full purport dump; teaching meaning ≠ BBT translation label |
 
-## Supporting primary references
+## Supporting narrative (mercy / transformation)
 
 | Reference | URL | Teaching use | Limitation |
 |---|---|---|---|
-| BG 2.40 | https://vedabase.io/en/library/bg/2/40/ | No loss or diminution in this endeavor; a little progress protects from fear. | Prefer paraphrase; no purport dump |
-| SB 4.8 (Nārada–Mṛgāri context) | https://vedabase.io/en/library/sb/4/8/ | Mercy transforms violent habit — compassion application. | Prefer paraphrase; no purport dump |
+| CC Madhya 24.229–282 (Nārada–Mṛgāri) | https://vedabase.io/en/library/cc/madhya/24/ | Mercy transforms a hunter's life — supports valuing human opportunity without fear tactics | Paraphrase only; not the locked primary verse; no gore; do not cite SB 6.x / SB 4.8 as Mṛgāri locus |
+
+Useful anchors: 24.229 intro · 24.242 name/father · 24.255–256 bow · 24.270–272 careful conduct · 24.278–282 conclusion.
 
 ## Classroom use
 
-1. Open the primary URL before teaching.
-2. State paraphrase in plain English.
-3. Name what this week does **not** teach.
-4. Do not invent verse wording.
+1. Open ŚB 11.9.29 first.
+2. Optionally paraphrase Madhya 24 hunter narrative for mercy application.
+3. Scope boundary: no fear-based death pressure on children; no species contempt.

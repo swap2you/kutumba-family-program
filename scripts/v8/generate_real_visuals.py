@@ -316,12 +316,12 @@ _reg(
         "Mṛgāri and Nārada",
         "Mercy transforms violent habit",
         [
-            ("1", "Hunter injures animals partially", "SB-4-8"),
-            ("2", "Nārada visits the hunter", "SB-4-8"),
-            ("3", "Mercy question shifts heart", "SB-4-8"),
-            ("4", "Hunter becomes compassionate", "SB-4-8"),
+            ("1", "Hunter leaves animals wounded", "CC-MADHYA-24"),
+            ("2", "Nārada instructs the hunter", "CC-MADHYA-24"),
+            ("3", "Hunter breaks his bow", "CC-MADHYA-24"),
+            ("4", "Hunter carefully avoids ants", "CC-MADHYA-24"),
         ],
-        "SB-4-8",
+        "CC-MADHYA-24.229-282",
     ),
 )
 _reg(
@@ -380,7 +380,7 @@ _reg(
         "Compassion Map",
         "No degrading of animals",
         ["Humans", "Animals", "Plants", "Speech", "Food", "Service"],
-        "SB-4-8; pedagogy",
+        "CC-MADHYA-24.229-282; pedagogy",
         "Mercy",
     ),
 )

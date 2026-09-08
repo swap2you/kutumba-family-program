@@ -1,26 +1,27 @@
 # C1-W3 Younger Activity Pack (K–2)
 
-## 1. Coloring / line-art
+## Objective
+Show and say: **The jīva is eternal, conscious, individual — not the temporary body and not God Himself.**
 
-Use week-specific `../visuals/V11/line-art-younger.svg`.  
-Prompt: color the scene that shows today's idea — **not** a generic recycled hearing scene unless this is W1.
+## Core activity — is_isnot_sort
+1. Teacher demonstrates once.
+2. Children participate for 5–8 minutes.
+3. End with memory phrase echo.
 
-## 2. Movement game
+## Story boundary
+Paraphrase only from `research/DEVOTIONAL-AND-HISTORICAL-EXAMPLES.md`. No invented deity dialogue. No graphic violence.
 
-Play "Freeze and Remember — C1-W3" from the younger teacher guide.
+## Movement
+Freeze-and-Remember using this week's memory phrase.
 
-## 3. Craft / foldable
+## Craft / object
+Week craft tied to The Nature of the Soul; take-home card with phrase inside.
 
-Fold a card: outside picture; inside memory phrase.
+## Printable
+Color `../visuals/V12/line-art-younger.svg` (US Letter).
 
-## 4. Memory card
-
-Front: simple icon for C1-W3. Back: I am an eternal soul — conscious, individual, and meant for Kṛṣṇa's service.
-
-## 5. Take-home family cue
-
-Ask at home: If I am a soul, how should I live? (one sentence each)
+## Backup
+Pass soft object; each child says one kind word; echo phrase.
 
 ## Materials
-
-Crayons, card stock, printed SVG, soft object for freeze game.
+Printed line art, crayons, card stock, soft toss object.

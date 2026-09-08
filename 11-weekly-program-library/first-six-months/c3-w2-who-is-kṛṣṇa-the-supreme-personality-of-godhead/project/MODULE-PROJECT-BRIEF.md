@@ -1,3 +1,5 @@
-# MODULE-PROJECT-BRIEF.md
+# C3-W2 Module Project Brief
 
-Module: C3-W2
+Objective: apply Nothing is superior to Kṛṣṇa; all rests on Him.
+Primary: BG 7.7
+Deliverable: week artifact for cycle folder

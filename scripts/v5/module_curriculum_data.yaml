@@ -514,12 +514,9 @@ modules:
     - ref: Bhagavad-gītā 7.19
       url: https://vedabase.io/en/library/bg/7/19/
       use: After many births one surrenders to Kṛṣṇa
-    - ref: Śrīmad-Bhāgavatam 6.1.58
-      url: https://vedabase.io/en/library/sb/6/1/58/
-      use: Mṛgāri transformed by Nārada's mercy
-    - ref: Śrīmad-Bhāgavatam 6.2.9
-      url: https://vedabase.io/en/library/sb/6/2/9/
-      use: Mercy of devotees changes hearts
+    - ref: Caitanya-caritāmṛta, Madhya-līlā 24.229–282
+      url: https://vedabase.io/en/library/cc/madhya/24/
+      use: Canonical Nārada–Mṛgāri narrative
     - ref: Śrīmad-Bhāgavatam 7.6.19
       url: https://vedabase.io/en/library/sb/7/6/19/
       use: Youth is the time to learn devotion
@@ -546,8 +543,8 @@ modules:
       place: Nairobi
       title: SB 6.1 lecture
       url: https://vedabase.io/en/library/lectures/november/01/1975/751101SB.NAI_eng/
-      topic: Mṛgāri and mercy of Nārada
-      segment: full lecture
+      topic: 'Superseded mapping: do not use as the Mṛgāri narrative source'
+      segment: full lecture; human review required
     katha_sources:
     - ref: Śrīmad-Bhāgavatam 11.9.29
       url: https://vedabase.io/en/library/sb/11/9/29/
@@ -561,12 +558,9 @@ modules:
     - ref: Bhagavad-gītā 7.19
       url: https://vedabase.io/en/library/bg/7/19/
       use: After many births one surrenders to Kṛṣṇa
-    - ref: Śrīmad-Bhāgavatam 6.1.58
-      url: https://vedabase.io/en/library/sb/6/1/58/
-      use: Mṛgāri transformed by Nārada's mercy
-    - ref: Śrīmad-Bhāgavatam 6.2.9
-      url: https://vedabase.io/en/library/sb/6/2/9/
-      use: Mercy of devotees changes hearts
+    - ref: Caitanya-caritāmṛta, Madhya-līlā 24.229–282
+      url: https://vedabase.io/en/library/cc/madhya/24/
+      use: Canonical Nārada–Mṛgāri narrative
     education:
     - label: ISKCON Education
       url: https://iskconeducation.org/article/starting-a-sunday-school/
@@ -606,11 +600,14 @@ modules:
     follow_up_path: C1-W5 (temporary happiness)
   katha:
     title: Nārada meets the hunter Mṛgāri
-    subtitle: Śrīmad-Bhāgavatam 6.x / Prabhupāda summary
+    subtitle: Caitanya-caritāmṛta, Madhya-līlā 24.229–282
     katha_type: source-grounded-devotional-narrative
     module_connection: Human life is rare, temporary, and able to give the highest value when used for spiritual realization.
     scope_boundary: Graphic death threats; lower-birth fear tactics; species contempt
     primary_sources:
+    - label: CC Madhya 24.229–282
+      url: https://vedabase.io/en/library/cc/madhya/24/
+      use: Canonical Mṛgāri narrative
     - label: SB 11.9.29
       url: https://vedabase.io/en/library/sb/11/9/29/
       use: Key verse
@@ -623,8 +620,8 @@ modules:
     - label: BG 7.19
       url: https://vedabase.io/en/library/bg/7/19/
       use: Key verse
-    primary_book: Śrīmad-Bhāgavatam 6.x / Prabhupāda summary
-    chapter_reference: ''
+    primary_book: Caitanya-caritāmṛta, Madhya-līlā
+    chapter_reference: 24.229–282
     personalities:
     - name: Figures from śāstra
       role: as named in paraphrase — no invented dialogue
@@ -632,9 +629,8 @@ modules:
       role: listening together today
     setting: _[Facilitator transition — quiet room, families seated together]_
     narrative_paragraphs:
-    - '**Paraphrase from Śrīmad-Bhāgavatam 6.x / Prabhupāda summary (summary):** See controlling sources in register.'
-    - '**Paraphrase from SB 6.1–6.2 (Mṛgāri — summary):** Nārada''s mercy transformed a cruel hunter — human intelligence
-      can turn toward Kṛṣṇa.'
+    - '**Paraphrase from CC Madhya 24.229–282 (Mṛgāri — summary):** Nārada''s instruction transformed a cruel hunter''s
+      conduct and directed him toward devotional practice.'
     - '**Paraphrase aligned with SB 11.9.29:** Human life is rare, temporary, and able to deliver the highest value.'
     - '**Facilitator transition — quiet devotional mood:** Pause. Invite families to listen as students of Kṛṣṇa — not to
       win arguments, but to receive merciful instruction through authorized sources.'
@@ -687,14 +683,14 @@ modules:
     - visual: Key verse card
       source: VedaBase link
     exact_verses:
+    - CC Madhya 24.229–282
     - SB 11.9.29
     - SB 7.6.1
     - SB 1.2.10
     - BG 7.19
     paraphrased_portions:
-    - '**Paraphrase from Śrīmad-Bhāgavatam 6.x / Prabhupāda summary (summary):** See controlling sources in register.'
-    - '**Paraphrase from SB 6.1–6.2 (Mṛgāri — summary):** Nārada''s mercy transformed a cruel hunter — human intelligence
-      can tu'
+    - '**Paraphrase from CC Madhya 24.229–282 (Mṛgāri — summary):** Nārada''s instruction transformed a cruel hunter''s
+      conduct and directed him toward devotional practice.'
     - '**Paraphrase aligned with SB 11.9.29:** Human life is rare, temporary, and able to deliver the highest value.'
     omitted: []
 - module_id: C1-W5

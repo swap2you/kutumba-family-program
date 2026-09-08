@@ -1,0 +1,23 @@
+# Cycle Activity Variety Matrix
+
+```csv
+week,younger_core,older_core,puzzle_type,project_type,visual_type,duplicate_risk
+C1-W1,orientation_bingo,rules_sort,family_purpose_card,cycle_contribution,week_svg,low
+C1-W2,life_stage_timeline,sequence_craft,body_self_grid,cycle_contribution,week_svg,low
+C1-W3,is_isnot_sort,offering_craft,crossword,cycle_contribution,week_svg,low
+C1-W4,time_jar,priority_maze,time_budget,cycle_contribution,week_svg,low
+C1-W5,temp_vs_lasting_sort,sparkler_lamp,word_search,cycle_contribution,week_svg,low
+C1-W6,retrieval_stations,cycle_board,presentation_prep,cycle_contribution,week_svg,low
+C2-W1,cause_effect_chain,knot_craft,karma_scenario_sort,cycle_contribution,week_svg,low
+C2-W2,choice_fork_game,door_craft,decision_matrix,cycle_contribution,week_svg,low
+C2-W3,gentle_garment_story,new_clothes_craft,timeline_calm,cycle_contribution,week_svg,low
+C2-W4,mode_traffic_lights,mode_sort_cards,mode_journal_grid,cycle_contribution,week_svg,low
+C2-W5,decoration_vs_door,prison_window_craft,maya_ad_critique,cycle_contribution,week_svg,low
+C2-W6,mode_choice_stations,synthesis_poster,family_share,cycle_contribution,week_svg,low
+C3-W1,three_titles_sort,friend_heart_craft,peace_formula_map,cycle_contribution,week_svg,low
+C3-W2,pearl_thread_demo,flute_flower_craft,source_observation,cycle_contribution,week_svg,low
+C3-W3,three_pillars_build,inquiry_card,source_ladder,cycle_contribution,week_svg,low
+C3-W4,name_echo_game,mirror_craft,sikastaka_observation,cycle_contribution,week_svg,low
+C3-W5,nine_path_walk,nine_icons_craft,process_match,cycle_contribution,week_svg,low
+C3-W6,mela_stations,drama_rehearsal,presentation_rubric,cycle_contribution,week_svg,low
+```

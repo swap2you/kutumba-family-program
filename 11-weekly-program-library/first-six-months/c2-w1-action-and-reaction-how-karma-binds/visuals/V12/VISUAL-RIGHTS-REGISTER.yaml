@@ -1,0 +1,8 @@
+module: C2-W1
+assets:
+  - id: c2-w1-concept
+    creator: KUTUMBA
+    license_rights_status: kutumba-original
+  - id: c2-w1-line-art
+    creator: KUTUMBA
+    license_rights_status: kutumba-original

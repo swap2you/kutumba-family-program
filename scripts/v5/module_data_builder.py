@@ -3,6 +3,8 @@
 
 Set KUTUMBA_ALLOW_V5_BATCH=1 only for explicit legacy recovery.
 """
+from __future__ import annotations
+
 import os
 import sys
 
@@ -13,10 +15,7 @@ if os.environ.get("KUTUMBA_ALLOW_V5_BATCH") != "1":
     )
     sys.exit(2)
 
-"""Build module_curriculum_data.yaml content for V5 curriculum pass."""
-from __future__ import annotations
-
-import sys
+# Build module_curriculum_data.yaml content for V5 curriculum pass.
 from datetime import date
 from pathlib import Path
 
@@ -305,7 +304,7 @@ C1_W3_EXTRA = [
 ]
 
 C1_W4_EXTRA = [
-    "**Paraphrase from SB 6.1–6.2 (Mṛgāri — summary):** Nārada's mercy transformed a cruel hunter — human intelligence can turn toward Kṛṣṇa.",
+    "**Paraphrase from CC Madhya 24.229–282 (Mṛgāri — summary):** Nārada's instruction transformed a cruel hunter's conduct and directed him toward devotional practice.",
     "**Paraphrase aligned with SB 11.9.29:** Human life is rare, temporary, and able to deliver the highest value.",
 ]
 

@@ -1,80 +1,34 @@
 # C1-W4 Younger Teacher Guide (K–2)
 
 ## Objective
-
-Children can say and show: **Human life is a rare chance to ask who I am and serve Kṛṣṇa.**
+Human life is a rare opportunity for self-realization — protect inquiry and practice time.
 
 ## Exact memory phrase
+> Human life is a rare opportunity for self-realization — protect inquiry and practice time.
 
-> Human life is a rare chance to ask who I am and serve Kṛṣṇa.
+## Teacher background
+Primary ŚB 11.9.29. Block: Fear/death pressure motivates children.
 
-## Teacher background (2 minutes)
+## Story script boundary
+Paraphrase sourced example only. No invented dialogue. No gore.
 
-Primary: SB 11.9.29 — After many births one attains the rare human form — use it for self-realization.  
-Do not teach adult debates. Block: Use fear or death-pressure to motivate children.
+## Wonder questions
+1. What was new?
+2. Whom can we serve?
+3. When can we practice five minutes?
 
-## Age-appropriate story script (paraphrase boundary)
-
-Tell a **simple classroom story** in your own words based on this week's sourced example in `research/DEVOTIONAL-AND-HISTORICAL-EXAMPLES.md`.  
-Rules: no invented deity dialogue; no frightening detail; stop at the moral: Human life gives a rare opportunity for deliberate self-realization — protect inquiry and practice time.
-
-Sample framing:
-> "Today we learn that Human life gives a rare opportunity for deliberate self-realization — protect inquiry and practice time. The holy books help families remember this."
-
-## Three wonder questions
-
-1. What did you hear that was new?
-2. Who can we serve with kindness this week?
-3. When could our family practice for five minutes?
-
-## Actual movement game (5–7 min)
-
-**Name:** "Freeze and Remember — C1-W4"  
-1. Children walk gently in a circle.  
-2. When you say "Freeze!", they stop.  
-3. You say the first half of the memory phrase; they finish it.  
-4. Two rounds only; then sit.
-
-## Actual hands-on activity (8–10 min)
-
-**Object lesson:** Use the week craft object listed in materials (cup seed / paper doll / flashlight / ticket / offering plate drawing / bead).  
-Children handle the object and answer: "This reminds me that…"
-
-## Actual craft (8–10 min)
-
-Create a take-home card with the memory phrase on the inside and a simple drawing on the front related to Why Human Life Is Rare and Valuable.
-
-## Actual coloring / line-art task
-
-Color `visuals/V11/line-art-younger.svg` (week-specific). Title the page with C1-W4.
-
-## Sanskrit exposure (optional, 1 min)
-
-Softly repeat one name: **Kṛṣṇa** or **Hare** — invitation only, never forced volume.
+## Movement / hands-on / craft / coloring
+See `activities/YOUNGER-ACTIVITY-PACK.md` and `visuals/V12/line-art-younger.svg`.
 
 ## Behavior redirects
+Feet on floor · kind words · toy rests · quiet reset.
 
-- "Feet on the floor."  
-- "Kind words only."  
-- "That toy rests for now."  
-- Quiet reset in visible space if needed.
+## Backup / materials / handoff
+Backup in activity pack. Tell parent the memory phrase + home cue.
 
-## Backup low-prep activity
 
+## Movement
+Play **Freeze and Remember** with this week memory phrase (two rounds).
+
+## Backup low-prep
 Sit in a circle; pass a soft object; each child says one kind word; end with memory phrase echo.
-
-## Extension
-
-Helper role: hand out crayons / collect papers.
-
-## Materials
-
-Printed line art; crayons; memory cards; soft toss object; craft card stock; tape.
-
-## Cleanup / handoff
-
-3 minutes cleanup. At door: tell parent the memory phrase and home cue.
-
-## Home-practice explanation to parents
-
-"Please say this phrase once at home and do one kind action. Five minutes is enough."

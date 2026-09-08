@@ -1,8 +1,28 @@
 module_id: C1-W4
 katha_title: "Nārada meets the hunter Mṛgāri"
-primary_book: Śrīmad-Bhāgavatam 6.x / Prabhupāda summary
-chapter_reference: ""
+primary_book: "Caitanya-caritāmṛta, Madhya-līlā"
+chapter_reference: "24.229–282"
 stable_links:
+  - label: CC Madhya 24 chapter
+    url: https://vedabase.io/en/library/cc/madhya/24/
+  - label: CC Madhya 24.229
+    url: https://vedabase.io/en/library/cc/madhya/24/229/
+  - label: CC Madhya 24.242
+    url: https://vedabase.io/en/library/cc/madhya/24/242/
+  - label: CC Madhya 24.255
+    url: https://vedabase.io/en/library/cc/madhya/24/255/
+  - label: CC Madhya 24.256
+    url: https://vedabase.io/en/library/cc/madhya/24/256/
+  - label: CC Madhya 24.270
+    url: https://vedabase.io/en/library/cc/madhya/24/270/
+  - label: CC Madhya 24.271
+    url: https://vedabase.io/en/library/cc/madhya/24/271/
+  - label: CC Madhya 24.272
+    url: https://vedabase.io/en/library/cc/madhya/24/272/
+  - label: CC Madhya 24.278
+    url: https://vedabase.io/en/library/cc/madhya/24/278/
+  - label: CC Madhya 24.282
+    url: https://vedabase.io/en/library/cc/madhya/24/282/
   - label: SB 11.9.29
     url: https://vedabase.io/en/library/sb/11/9/29/
   - label: SB 7.6.1
@@ -12,15 +32,19 @@ stable_links:
   - label: BG 7.19
     url: https://vedabase.io/en/library/bg/7/19/
 exact_verses_used:
+  - CC Madhya 24.229–282
   - SB 11.9.29
   - SB 7.6.1
   - SB 1.2.10
   - BG 7.19
 direct_quotations: []
 paraphrased_portions:
-  - **Paraphrase from Śrīmad-Bhāgavatam 6.x / Prabhupāda summary (summary):** See controlling sources in register.
-  - **Paraphrase from SB 6.1–6.2 (Mṛgāri — summary):** Nārada's mercy transformed a cruel hunter — human intelligence can tu
-  - **Paraphrase aligned with SB 11.9.29:** Human life is rare, temporary, and able to deliver the highest value.
+  - "CC Madhya 24.229–282: Nārada's instruction transforms the hunter's conduct and devotional direction."
+  - "CC Madhya 24.242: Mṛgāri identifies himself and says his father taught him the practice."
+  - "CC Madhya 24.255–256: Mṛgāri accepts Nārada's direction and breaks his bow."
+  - "CC Madhya 24.270–272: Mṛgāri carefully avoids harming ants."
+  - "CC Madhya 24.278–282: Parvata praises Nārada's influence and Mṛgāri receives the Vaiṣṇavas."
+  - "SB 11.9.29: Human life is rare, temporary, and able to deliver the highest value."
 facilitator_transitions:
   - Modern family pause before philosophy block
   - Bridge to home practice
@@ -34,56 +58,36 @@ rights_status: scripture-reference-links-only
 approval_status: human-review-required
 
 narrative_metrics:
-  narrative_words: 755
-  estimated_minutes: "5.6-6.6"
+  narrative_words: 1763
+  estimated_minutes: "13.1-15.3"
   integration_exception: false
   validation_method: section-6-only-v6
 paragraph_source_mappings:
   - paragraph: 1
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "Before he became a teacher of the world, Nārada Muni once passed through a forest where a hunter liv"
+    source_range: "CC Madhya 24.229–242"
+    narrative_snippet: "Caitanya-caritāmṛta, Madhya-līlā 24.229–282 records Nārada Muni meeting a hunter"
     mapping_status: paraphrase-aligned-human-review-required
   - paragraph: 2
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "Nārada did not respond with ordinary fear or flattery. He asked a question that cut through the hunt"
+    source_range: "CC Madhya 24.243–256"
+    narrative_snippet: "Nārada explained the consequences of causing such suffering"
     mapping_status: paraphrase-aligned-human-review-required
   - paragraph: 3
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "Nārada then spoke with devastating simplicity. If half-killing animals creates bad karma, what karma"
+    source_range: "CC Madhya 24.257–269"
+    narrative_snippet: "Nārada then gave practical devotional direction"
     mapping_status: paraphrase-aligned-human-review-required
   - paragraph: 4
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "Nārada did not leave the hunter in guilt alone. He gave practical mercy: 'I will take responsibility"
+    source_range: "CC Madhya 24.270–282"
+    narrative_snippet: "When Nārada later returned with Parvata Muni"
     mapping_status: paraphrase-aligned-human-review-required
   - paragraph: 5
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "What followed is one of the most beloved conversion narratives in the Bhāgavatam. Mṛgāri trembled be"
+    source_range: "SB 11.9.29 with CC Madhya 24.229–282 as application"
+    narrative_snippet: "This kathā supports the week's primary verse"
     mapping_status: paraphrase-aligned-human-review-required
   - paragraph: 6
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "Soon Mṛgāri's heart softened further. He wept. He asked how anyone so sinful could be delivered. Nār"
+    source_range: "facilitator application"
+    narrative_snippet: "For families, the application must remain proportionate"
     mapping_status: paraphrase-aligned-human-review-required
   - paragraph: 7
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "The narrative teaches why human life is rare and valuable (Śrīmad-Bhāgavatam 11.9.29). It is not val"
-    mapping_status: paraphrase-aligned-human-review-required
-  - paragraph: 8
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "Prahlāda's instruction to children (Śrīmad-Bhāgavatam 7.6.1) echoes in the background: spiritual tra"
-    mapping_status: paraphrase-aligned-human-review-required
-  - paragraph: 9
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "The turning point is Mṛgāri's broken bow — a visible sign of decision. KUTUMBA families may choose s"
-    mapping_status: paraphrase-aligned-human-review-required
-  - paragraph: 10
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "Youth often ask whether people really change. This kathā answers with a named life. Adults ask wheth"
-    mapping_status: paraphrase-aligned-human-review-required
-  - paragraph: 11
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "By the end, the forest road is no longer a place of terror. It becomes a place where travelers remem"
-    mapping_status: paraphrase-aligned-human-review-required
-  - paragraph: 12
-    source_range: "SB 1.5-1.6"
-    narrative_snippet: "Source anchors: Śrīmad-Bhāgavatam 6.x (Mṛgāri narrative); 11.9.29; 7.6.1; Bhagavad-gītā 7.19 — parap"
+    source_range: "narration boundary"
+    narrative_snippet: "The kathā avoids graphic detail, invented dialogue"
     mapping_status: paraphrase-aligned-human-review-required

@@ -1,10 +1,10 @@
-# C1-W5 Teacher Pre-Week Checklist
+# C1-W5 Pre-Week Checklist
 
-- [ ] Objective: Temporary things can be used well but cannot provide permanent fulfillment.
-- [ ] Verse open in browser: https://vedabase.io/en/library/bg/5/22/
-- [ ] Misconception boundary: Material things are worthless / family affection is meaningless
-- [ ] Younger materials packed
-- [ ] Older worksheet + answer key packed
-- [ ] Low-prep backup game ready
-- [ ] Reunification time known (≈3:10)
-- [ ] No private family data in shared notes
+- [ ] Objective clear
+- [ ] Primary URL opens
+- [ ] Verse layer printed
+- [ ] Misconception named: Material affection is worthless.
+- [ ] Younger materials
+- [ ] Older puzzle + key
+- [ ] Backup game
+- [ ] Home practice card

@@ -1,26 +1,27 @@
 # C1-W5 Younger Activity Pack (K–2)
 
-## 1. Coloring / line-art
+## Objective
+Show and say: **Temporary joys can be used with gratitude; lasting fulfillment is in Kṛṣṇa.**
 
-Use week-specific `../visuals/V11/line-art-younger.svg`.  
-Prompt: color the scene that shows today's idea — **not** a generic recycled hearing scene unless this is W1.
+## Core activity — temp_vs_lasting_sort
+1. Teacher demonstrates once.
+2. Children participate for 5–8 minutes.
+3. End with memory phrase echo.
 
-## 2. Movement game
+## Story boundary
+Paraphrase only from `research/DEVOTIONAL-AND-HISTORICAL-EXAMPLES.md`. No invented deity dialogue. No graphic violence.
 
-Play "Freeze and Remember — C1-W5" from the younger teacher guide.
+## Movement
+Freeze-and-Remember using this week's memory phrase.
 
-## 3. Craft / foldable
+## Craft / object
+Week craft tied to The Temporary World and the Search for Permanent Happiness; take-home card with phrase inside.
 
-Fold a card: outside picture; inside memory phrase.
+## Printable
+Color `../visuals/V12/line-art-younger.svg` (US Letter).
 
-## 4. Memory card
-
-Front: simple icon for C1-W5. Back: Temporary joys can be used with gratitude; lasting fulfillment is in Kṛṣṇa.
-
-## 5. Take-home family cue
-
-Ask at home: How can enjoyment become gratitude and service? (one sentence each)
+## Backup
+Pass soft object; each child says one kind word; echo phrase.
 
 ## Materials
-
-Crayons, card stock, printed SVG, soft object for freeze game.
+Printed line art, crayons, card stock, soft toss object.

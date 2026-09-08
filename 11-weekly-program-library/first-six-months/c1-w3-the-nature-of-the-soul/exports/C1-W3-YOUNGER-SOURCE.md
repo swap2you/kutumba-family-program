@@ -1,0 +1,27 @@
+# C1-W3 Younger Teacher Guide (K–2)
+
+## Objective
+The jīva is eternal, conscious, individual — not the temporary body and not God Himself.
+
+## Exact memory phrase
+> The jīva is eternal, conscious, individual — not the temporary body and not God Himself.
+
+## Teacher background
+Primary BG 2.20. Block: All souls are God.
+
+## Story script boundary
+Paraphrase sourced example only. No invented dialogue. No gore.
+
+## Wonder questions
+1. What was new?
+2. Whom can we serve?
+3. When can we practice five minutes?
+
+## Movement / hands-on / craft / coloring
+See `activities/YOUNGER-ACTIVITY-PACK.md` and `visuals/V12/line-art-younger.svg`.
+
+## Behavior redirects
+Feet on floor · kind words · toy rests · quiet reset.
+
+## Backup / materials / handoff
+Backup in activity pack. Tell parent the memory phrase + home cue.
