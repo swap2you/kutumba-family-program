@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C2-W5",
+  "title": "Māyā: Decorating the Prison Cell",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c2-w5-māyā-decorating-the-prison-cell",
+  "export_subdir": "C2/C2-W5",
+  "packets": [
+    {
+      "name": "KUTUMBA-C2-W5-START-HERE-V13",
+      "docx": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-START-HERE-V13.docx",
+      "docx_bytes": 41016,
+      "pdf": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-START-HERE-V13.pdf",
+      "pdf_bytes": 378919,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C2-W5-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 50721,
+      "pdf": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 618055,
+      "pages": 14,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C2-W5-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-PARENT-TRACK-V13.docx",
+      "docx_bytes": 58255,
+      "pdf": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 530985,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C2-W5-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73558,
+      "pdf": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 585190,
+      "pages": 17,
+      "word_reported_pages": 17
+    },
+    {
+      "name": "KUTUMBA-C2-W5-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 72445,
+      "pdf": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 579064,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C2-W5-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39573,
+      "pdf": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 347598,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C2-W5-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 102438,
+      "pdf": "exports/final/v13/C2/C2-W5/KUTUMBA-C2-W5-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 898114,
+      "pages": 58,
+      "word_reported_pages": 58
+    }
+  ]
+}

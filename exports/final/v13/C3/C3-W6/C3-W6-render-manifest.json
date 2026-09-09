@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C3-W6",
+  "title": "Bhakti Mela: Kīrtana, Drama and Family Presentation",
+  "kind": "integration",
+  "module": "11-weekly-program-library/first-six-months/c3-w6-bhakti-mela-kīrtana-drama-and-family-presentation",
+  "export_subdir": "C3/C3-W6",
+  "packets": [
+    {
+      "name": "KUTUMBA-C3-W6-START-HERE-V13",
+      "docx": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-START-HERE-V13.docx",
+      "docx_bytes": 41040,
+      "pdf": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-START-HERE-V13.pdf",
+      "pdf_bytes": 378011,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C3-W6-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 47355,
+      "pdf": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 545152,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C3-W6-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-PARENT-TRACK-V13.docx",
+      "docx_bytes": 59235,
+      "pdf": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 567333,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C3-W6-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 74113,
+      "pdf": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 608911,
+      "pages": 17,
+      "word_reported_pages": 17
+    },
+    {
+      "name": "KUTUMBA-C3-W6-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73701,
+      "pdf": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 599063,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C3-W6-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39640,
+      "pdf": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 354102,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C3-W6-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 100368,
+      "pdf": "exports/final/v13/C3/C3-W6/KUTUMBA-C3-W6-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 911283,
+      "pages": 57,
+      "word_reported_pages": 57
+    }
+  ]
+}

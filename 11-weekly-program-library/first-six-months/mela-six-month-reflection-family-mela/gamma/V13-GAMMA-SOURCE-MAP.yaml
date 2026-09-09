@@ -1,0 +1,4 @@
+module: MELA
+primary: {ref: ŚB 1.2.18 review center, url: https://vedabase.io/en/library/sb/1/2/18/}
+gamma_status: prompt-only
+not_a_tithi_claim: true

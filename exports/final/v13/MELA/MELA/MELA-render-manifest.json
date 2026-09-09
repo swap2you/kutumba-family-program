@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "MELA",
+  "title": "Six-Month Reflection / Family Mela",
+  "kind": "mela",
+  "module": "11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela",
+  "export_subdir": "MELA/MELA",
+  "packets": [
+    {
+      "name": "KUTUMBA-MELA-START-HERE-V13",
+      "docx": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-START-HERE-V13.docx",
+      "docx_bytes": 39471,
+      "pdf": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-START-HERE-V13.pdf",
+      "pdf_bytes": 364197,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-MELA-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 39958,
+      "pdf": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 373180,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-MELA-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-PARENT-TRACK-V13.docx",
+      "docx_bytes": 50080,
+      "pdf": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 429695,
+      "pages": 8,
+      "word_reported_pages": 8
+    },
+    {
+      "name": "KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 50594,
+      "pdf": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 427676,
+      "pages": 10,
+      "word_reported_pages": 10
+    },
+    {
+      "name": "KUTUMBA-MELA-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 53546,
+      "pdf": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 420593,
+      "pages": 9,
+      "word_reported_pages": 9
+    },
+    {
+      "name": "KUTUMBA-MELA-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39172,
+      "pdf": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 308422,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 76421,
+      "pdf": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 594514,
+      "pages": 31,
+      "word_reported_pages": 31
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+week_id: C3-W1
+title: Who Is God? The Supreme Enjoyer, Proprietor and Friend
+primary_verse: BG 5.29
+primary_url: https://vedabase.io/en/library/bg/5/29/
+devanagari: 'भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् । सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥ २९ ॥'
+iast: 'bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśvaram / suhṛdaṁ sarva-bhūtānāṁ jñātvā māṁ śāntim ṛcchati'
+teaching_meaning: 'Knowing Kṛṣṇa as the supreme enjoyer of sacrifice and austerity, the Lord of all worlds, and the friend of all beings, one attains peace.'
+memory_line: 'Kṛṣṇa owns, enjoys, befriends.'
+mechanic: 'Triple-lens map'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

@@ -1,0 +1,20 @@
+week_id: C3-W2
+title: Who Is Kṛṣṇa? The Supreme Personality of Godhead
+primary_verse: BG 7.7
+primary_url: https://vedabase.io/en/library/bg/7/7/
+devanagari: 'मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय । मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥ ७ ॥'
+iast: 'mattaḥ parataraṁ nānyat kiñcid asti dhanañ-jaya / mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva'
+teaching_meaning: 'There is no truth superior to Kṛṣṇa; everything rests upon Him as pearls are strung on a thread.'
+memory_line: 'Nothing is above Kṛṣṇa.'
+mechanic: 'Source identity'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

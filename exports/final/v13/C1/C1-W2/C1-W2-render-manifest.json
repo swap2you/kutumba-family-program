@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C1-W2",
+  "title": "I Am Not This Body",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body",
+  "export_subdir": "C1/C1-W2",
+  "packets": [
+    {
+      "name": "KUTUMBA-C1-W2-START-HERE-V13",
+      "docx": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-START-HERE-V13.docx",
+      "docx_bytes": 40888,
+      "pdf": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-START-HERE-V13.pdf",
+      "pdf_bytes": 373398,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C1-W2-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 47161,
+      "pdf": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 536021,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C1-W2-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-PARENT-TRACK-V13.docx",
+      "docx_bytes": 50414,
+      "pdf": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 524231,
+      "pages": 14,
+      "word_reported_pages": 14
+    },
+    {
+      "name": "KUTUMBA-C1-W2-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 91706,
+      "pdf": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 555216,
+      "pages": 16,
+      "word_reported_pages": 16
+    },
+    {
+      "name": "KUTUMBA-C1-W2-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 63758,
+      "pdf": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 559294,
+      "pages": 16,
+      "word_reported_pages": 16
+    },
+    {
+      "name": "KUTUMBA-C1-W2-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39509,
+      "pdf": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 340600,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C1-W2-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 129090,
+      "pdf": "exports/final/v13/C1/C1-W2/KUTUMBA-C1-W2-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 911003,
+      "pages": 60,
+      "word_reported_pages": 60
+    }
+  ]
+}

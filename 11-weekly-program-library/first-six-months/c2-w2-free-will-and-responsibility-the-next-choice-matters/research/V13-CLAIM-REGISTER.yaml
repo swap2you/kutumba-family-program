@@ -1,0 +1,124 @@
+# C2-W2 V13 — Claim Register
+
+**Week:** Free Will and Responsibility: The Next Choice Matters · **Date:** 2026-11-14
+**Primary:** BG 18.63 — https://vedabase.io/en/library/bg/18/63/
+**Status:** Internal founding-cohort teaching material — human/temple review EXTERNAL_OPEN
+
+> Deepened from V12 research; keep classroom teaching in MAIN-FACILITATOR-GUIDE-V13.
+
+---
+
+week_code: C2-W2
+claims:
+  - claim_id: C2-W2-CLM-001
+    statement: "Kṛṣṇa instructs Arjuna to deliberate fully and then act as he chooses."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-18-63
+    audience: all
+    misunderstanding_risk: "Choice without deliberation"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-002
+    statement: "Material nature, the body, prior conditioning, and other agents limit control."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-18-61
+      - BG-3-33
+    audience: parent
+    misunderstanding_risk: "Denying conditioning"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-003
+    statement: "Responsibility is not the same as controlling every result."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-5-14
+      - BG-5-15
+    audience: all
+    misunderstanding_risk: "Perfectionism or helplessness"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-004
+    statement: "Conditioning explains behavior without excusing harm to others."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-3-34
+    audience: kisora-kisori
+    misunderstanding_risk: "Using conditioning to avoid accountability"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-005
+    statement: "Victims of abuse or coercion did not freely choose the harm done to them."
+    claim_type: kutumba-summary
+    primary_source_keys:
+      - BG-18-63
+    audience: all
+    misunderstanding_risk: "Victim-blaming"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-006
+    statement: "The pause–remember–choose method trains intervention at urge, not only after damage."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-18-63
+    audience: all
+    misunderstanding_risk: "Suppressing emotion without choice"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-007
+    statement: "Arjuna's choice in BG 18.73 shows willing alignment after hearing — not mere compliance."
+    claim_type: scripture-text
+    primary_source_keys:
+      - BG-18-73
+    audience: parent
+    misunderstanding_risk: "Forced conformity"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-008
+    statement: "Calling upon the Lord at the decisive moment opens the path of mercy."
+    claim_type: scripture-text
+    primary_source_keys:
+      - SB-6-1-15
+    audience: all
+    misunderstanding_risk: "Sensational fear-based preaching"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-009
+    statement: "Environmental supports — reminders, device boundaries, mentor help — strengthen good choice."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-18-63
+    audience: parent
+    misunderstanding_risk: "Willpower-only moralism"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required
+  - claim_id: C2-W2-CLM-010
+    statement: "Children can learn traffic-light pause for strong feelings without being blamed for feelings."
+    claim_type: pedagogical-application
+    primary_source_keys:
+      - BG-18-63
+    audience: lala-lali
+    misunderstanding_risk: "Shaming anger in young children"
+    exact_quote: false
+    review_required: doctrinal
+    reviewer: ""
+    status: human-review-required

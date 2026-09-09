@@ -1,0 +1,72 @@
+# C3-W2 V13 — Claim Register
+
+**Week:** Who Is Kṛṣṇa? The Supreme Personality of Godhead · **Date:** 2027-01-16
+**Primary:** BG 7.7 — https://vedabase.io/en/library/bg/7/7/
+**Status:** Internal founding-cohort teaching material — human/temple review EXTERNAL_OPEN
+
+> Deepened from V12 research; keep classroom teaching in MAIN-FACILITATOR-GUIDE-V13.
+
+---
+
+week_code: C3-W2
+claims:
+  - claim_id: C3-W2-CLM-001
+    statement: "There is no truth superior to Kṛṣṇa; everything rests upon Him like pearls on a thread."
+    claim_type: scripture-text
+    primary_source_keys: [Bhagavad-gītā 7.7]
+    audience: all
+    exact_quote: false
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C3-W2-CLM-002
+    statement: "Principal katha is paraphrase from assigned sources — no invented dialogue"
+    claim_type: kutumba-summary
+    primary_source_keys: [Bhagavad-gītā 7.7]
+    audience: all
+    exact_quote: false
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C3-W2-CLM-003
+    statement: "Home practice uses minimum/standard/stretch tiers without public shame"
+    claim_type: pedagogical-application
+    audience: parent
+    exact_quote: false
+    review_required: pedagogy
+    status: human-review-required
+  - claim_id: C3-W2-CLM-004
+    statement: "KUTUMBA does not replace temple authority or personal guru guidance"
+    claim_type: kutumba-summary
+    primary_source_keys: [BG 4.34 pattern]
+    audience: parent
+    exact_quote: false
+    review_required: doctrinal
+    status: human-review-required
+  - claim_id: C3-W2-CLM-005
+    statement: "Bhakti laboratory connects katha to embodied practice same session"
+    claim_type: pedagogical-application
+    audience: all
+    exact_quote: false
+    review_required: pedagogy
+    status: human-review-required
+  - claim_id: C3-W2-CLM-006
+    statement: "Contemporary cases CS-01–CS-03 are illustrations — not śāstra"
+    claim_type: contemporary-case
+    primary_source_keys: [Bhagavad-gītā 7.7]
+    audience: parent
+    exact_quote: false
+    review_required: safeguarding
+    status: human-review-required
+  - claim_id: C3-W2-CLM-007
+    statement: "Age tracks run parallel with reunification via shared-family-transition.md"
+    claim_type: pedagogical-application
+    audience: all
+    exact_quote: false
+    review_required: pedagogy
+    status: human-review-required
+  - claim_id: C3-W2-CLM-008
+    statement: "No false approval or human-review-required on all publication gates"
+    claim_type: kutumba-summary
+    audience: all
+    exact_quote: false
+    review_required: doctrinal
+    status: human-review-required

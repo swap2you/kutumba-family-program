@@ -1,0 +1,20 @@
+week_id: C2-W3
+title: Birth, Death and Reincarnation
+primary_verse: BG 2.22
+primary_url: https://vedabase.io/en/library/bg/2/22/
+devanagari: 'वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि । तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही ॥ २२ ॥'
+iast: 'vāsāṁsi jīrṇāni yathā vihāya navāni gṛhṇāti naro ’parāṇi / tathā śarīrāṇi vihāya jīrṇāny anyāni saṁyāti navāni dehī'
+teaching_meaning: 'As a person puts on new garments, giving up old ones, the embodied self similarly accepts new bodies, giving up old ones — taught calmly, without fear tactics for children.'
+memory_line: 'Birth and death are changes of dress for the eternal self.'
+mechanic: 'Analogy with limits'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

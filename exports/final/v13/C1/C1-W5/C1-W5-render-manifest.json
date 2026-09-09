@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C1-W5",
+  "title": "The Temporary World and the Search for Permanent Happiness",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c1-w5-the-temporary-world-and-the-search-for-permanent-happiness",
+  "export_subdir": "C1/C1-W5",
+  "packets": [
+    {
+      "name": "KUTUMBA-C1-W5-START-HERE-V13",
+      "docx": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-START-HERE-V13.docx",
+      "docx_bytes": 41002,
+      "pdf": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-START-HERE-V13.pdf",
+      "pdf_bytes": 378205,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C1-W5-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 46851,
+      "pdf": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 554200,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C1-W5-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-PARENT-TRACK-V13.docx",
+      "docx_bytes": 43388,
+      "pdf": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 494843,
+      "pages": 10,
+      "word_reported_pages": 10
+    },
+    {
+      "name": "KUTUMBA-C1-W5-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 86174,
+      "pdf": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 555859,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C1-W5-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 66983,
+      "pdf": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 528277,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C1-W5-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39608,
+      "pdf": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 369535,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C1-W5-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 103120,
+      "pdf": "exports/final/v13/C1/C1-W5/KUTUMBA-C1-W5-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 838994,
+      "pages": 49,
+      "word_reported_pages": 49
+    }
+  ]
+}

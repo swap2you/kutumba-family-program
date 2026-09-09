@@ -1,0 +1,47 @@
+requirement_id,requirement,deliverable_path,status,notes
+C1-W2-R01,V13-WEEK-START-HERE with locked 1:50-4:00 schedule,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/V13-WEEK-START-HERE.md,PASS,Tracks 2:30-3:10 reunify 3:10-3:30
+C1-W2-R02,MAIN-FACILITATOR-GUIDE-V13 with inline script/cases/analogies,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/teacher/MAIN-FACILITATOR-GUIDE-V13.md,PASS,Upgraded from V12; schedule corrected
+C1-W2-R03,PARENT-GUIDE-V13 40-min flow,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/teacher/PARENT-GUIDE-V13.md,PASS,P01-P05 wired
+C1-W2-R04,YOUNGER-TEACHER-GUIDE-V13,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/teacher/YOUNGER-TEACHER-GUIDE-V13.md,PASS,Y01-Y05 wired
+C1-W2-R05,OLDER-TEACHER-GUIDE-V13,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/teacher/OLDER-TEACHER-GUIDE-V13.md,PASS,O01-O06 wired
+C1-W2-R06,family-home-practice-v13,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/family-home-practice-v13.md,PASS,
+C1-W2-R07,materials-v13,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/materials-v13.md,PASS,
+C1-W2-R08,research V13 source matrix,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/research/V13-SOURCE-MATRIX.md,PASS,
+C1-W2-R09,research V13 scriptural examples,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/research/V13-SCRIPTURAL-EXAMPLES.md,PASS,BG 2.13 primary
+C1-W2-R10,research V13 devotional/historical,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/research/V13-DEVOTIONAL-HISTORICAL-EXAMPLES.md,PASS,Bhakta-mala not selected
+C1-W2-R11,research V13 case studies,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/research/V13-CASE-STUDIES.md,PASS,4 constructed cases
+C1-W2-R12,research V13 analogies,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/research/V13-ANALOGIES-AND-LIMITS.md,PASS,
+C1-W2-R13,research V13 science,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/research/V13-SCIENCE-AND-APPLICATION.md,PASS,N/A for doctrine + pedagogy citation
+C1-W2-R14,research V13 claim register,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/research/V13-CLAIM-REGISTER.yaml,PASS,
+C1-W2-R15,Y01 life-stage sequence,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-younger/Y01-LIFE-STAGE-SEQUENCE-CARDS.md,PASS,Sequence mechanic
+C1-W2-R16,Y02 same-person matching,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-younger/Y02-SAME-PERSON-MATCHING.md,PASS,Matching mechanic
+C1-W2-R17,Y03 Care/Self craft,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-younger/Y03-CARE-SELF-CRAFT.md,PASS,
+C1-W2-R18,Y04 kind body-speech cards,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-younger/Y04-KIND-BODY-SPEECH-CARDS.md,PASS,
+C1-W2-R19,Y05 memory phrase mat,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-younger/Y05-MEMORY-PHRASE-MAT.md,PASS,
+C1-W2-R20,O01 BG 2.13 observation,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-older/O01-BG-2-13-OBSERVATION.md,PASS,
+C1-W2-R21,O02 life-stage timeline,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-older/O02-LIFE-STAGE-EVIDENCE-TIMELINE.md,PASS,
+C1-W2-R22,O03 identity statement sort,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-older/O03-IDENTITY-STATEMENT-SORT.md,PASS,
+C1-W2-R23,O04 respectful language scenarios,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-older/O04-RESPECTFUL-LANGUAGE-SCENARIOS.md,PASS,
+C1-W2-R24,O05 changing-body diagram,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-older/O05-CHANGING-BODY-ENDURING-SELF-DIAGRAM.md,PASS,
+C1-W2-R25,O06 exit ticket,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-older/O06-EXIT-TICKET.md,PASS,
+C1-W2-R26,P01 private reflection,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-parent/P01-PRIVATE-REFLECTION.md,PASS,
+C1-W2-R27,P02 language card sort,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-parent/P02-RESPECTFUL-LANGUAGE-CARD-SORT.md,PASS,
+C1-W2-R28,P03 substantial family case,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-parent/P03-SUBSTANTIAL-FAMILY-CASE.md,PASS,
+C1-W2-R29,P04 household operating application,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-parent/P04-HOUSEHOLD-OPERATING-APPLICATION.md,PASS,
+C1-W2-R30,P05 private sankalpa,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/activities/v13-parent/P05-PRIVATE-NEXT-STEP-SANKALPA.md,PASS,
+C1-W2-R31,project brief,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/project/V13-MODULE-PROJECT-BRIEF.md,PASS,
+C1-W2-R32,Gamma master 15-18 slides full copy,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/gamma/V13-GAMMA-MASTER-DECK-PROMPT.md,PASS,17 slides
+C1-W2-R33,Gamma parent 10-12,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/gamma/V13-GAMMA-PARENT-DECK-PROMPT.md,PASS,11 slides
+C1-W2-R34,Gamma younger 8-10,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/gamma/V13-GAMMA-YOUNGER-DECK-PROMPT.md,PASS,9 slides
+C1-W2-R35,Gamma older 10-12,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/gamma/V13-GAMMA-OLDER-DECK-PROMPT.md,PASS,11 slides
+C1-W2-R36,Gamma source map,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/gamma/V13-GAMMA-SOURCE-MAP.yaml,PASS,
+C1-W2-R37,visuals RIGHTS + prompt library,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/visuals/v13/RIGHTS.md,PASS,IMAGE-PROMPT-LIBRARY.md also
+C1-W2-R38,Pillow PNG assets under visuals/v13,11-weekly-program-library/first-six-months/c1-w2-i-am-not-this-body/visuals/v13/,PASS,generated by scripts/v13/generate_c1_w2_assets.py
+C1-W2-R39,printable Word builders C1_W2.py,scripts/v13/printables/C1_W2.py,PASS,DOCX/PDF deferred pending render_week.py
+C1-W2-R40,Primary verse BG 2.13 confirmation,https://vedabase.io/en/library/bg/2/13/,PASS,Locked; KUTUMBA teaching meaning; no purport dump
+C1-W2-R41,Do not teach body neglect,teacher guides + activities,PASS,Care/Self + Q&A boundaries
+C1-W2-R42,Science does not prove soul,research/V13-SCIENCE-AND-APPLICATION.md,PASS,
+C1-W2-R43,Do not modify C1-W1,N/A,PASS,No C1-W1 files touched
+C1-W2-R44,Do not commit,N/A,PASS,Authoring only
+C1-W2-R45,Final DOCX/PDF exports,exports/final/v13/C1/C1-W2/,GAP,Deferred until render_week.py complete per instructions
+C1-W2-R46,Visual QA after raster,build-evidence/v13/C1-W2/VISUAL-QA.md,GAP,Requires rendered PDFs

@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C3-W3",
+  "title": "Guru, Sādhu and Śāstra: How We Receive Spiritual Knowledge",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c3-w3-guru-sādhu-and-śāstra-how-we-receive-spiritual-knowledge",
+  "export_subdir": "C3/C3-W3",
+  "packets": [
+    {
+      "name": "KUTUMBA-C3-W3-START-HERE-V13",
+      "docx": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-START-HERE-V13.docx",
+      "docx_bytes": 41067,
+      "pdf": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-START-HERE-V13.pdf",
+      "pdf_bytes": 377144,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C3-W3-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 47998,
+      "pdf": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 559346,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C3-W3-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-PARENT-TRACK-V13.docx",
+      "docx_bytes": 58600,
+      "pdf": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 548323,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C3-W3-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73199,
+      "pdf": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 589186,
+      "pages": 17,
+      "word_reported_pages": 17
+    },
+    {
+      "name": "KUTUMBA-C3-W3-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 71452,
+      "pdf": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 576518,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C3-W3-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39610,
+      "pdf": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 350196,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C3-W3-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 98770,
+      "pdf": "exports/final/v13/C3/C3-W3/KUTUMBA-C3-W3-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 887778,
+      "pages": 57,
+      "word_reported_pages": 57
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+week_id: C2-W1
+title: Action and Reaction: How Karma Binds
+primary_verse: BG 3.9
+primary_url: https://vedabase.io/en/library/bg/3/9/
+devanagari: 'यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः । तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥ ९ ॥'
+iast: 'yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ / tad-arthaṁ karma kaunteya mukta-saṅgaḥ samācara'
+teaching_meaning: 'Work done for the satisfaction of the Lord frees us from bondage; otherwise action binds. Therefore act with detachment for His purpose.'
+memory_line: 'Choices are seeds. I want to plant service seeds.'
+mechanic: 'Cause-effect map'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

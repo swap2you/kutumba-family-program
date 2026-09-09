@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C2-W2",
+  "title": "Free Will and Responsibility: The Next Choice Matters",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c2-w2-free-will-and-responsibility-the-next-choice-matters",
+  "export_subdir": "C2/C2-W2",
+  "packets": [
+    {
+      "name": "KUTUMBA-C2-W2-START-HERE-V13",
+      "docx": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-START-HERE-V13.docx",
+      "docx_bytes": 40995,
+      "pdf": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-START-HERE-V13.pdf",
+      "pdf_bytes": 375936,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C2-W2-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 51757,
+      "pdf": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 598571,
+      "pages": 16,
+      "word_reported_pages": 16
+    },
+    {
+      "name": "KUTUMBA-C2-W2-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-PARENT-TRACK-V13.docx",
+      "docx_bytes": 57398,
+      "pdf": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 559981,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C2-W2-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 72835,
+      "pdf": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 603914,
+      "pages": 17,
+      "word_reported_pages": 17
+    },
+    {
+      "name": "KUTUMBA-C2-W2-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73469,
+      "pdf": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 608818,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C2-W2-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39519,
+      "pdf": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 348385,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C2-W2-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 104024,
+      "pdf": "exports/final/v13/C2/C2-W2/KUTUMBA-C2-W2-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 941640,
+      "pages": 61,
+      "word_reported_pages": 61
+    }
+  ]
+}

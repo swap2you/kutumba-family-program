@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C1-U1",
+  "title": "Kārtika / Dāmodara Family Utsava",
+  "kind": "utsava",
+  "module": "11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava",
+  "export_subdir": "C1/C1-U1",
+  "packets": [
+    {
+      "name": "KUTUMBA-C1-U1-START-HERE-V13",
+      "docx": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-START-HERE-V13.docx",
+      "docx_bytes": 39490,
+      "pdf": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-START-HERE-V13.pdf",
+      "pdf_bytes": 364252,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C1-U1-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 41711,
+      "pdf": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 459679,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C1-U1-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-PARENT-TRACK-V13.docx",
+      "docx_bytes": 43128,
+      "pdf": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 485631,
+      "pages": 9,
+      "word_reported_pages": 9
+    },
+    {
+      "name": "KUTUMBA-C1-U1-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 60583,
+      "pdf": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 509293,
+      "pages": 11,
+      "word_reported_pages": 11
+    },
+    {
+      "name": "KUTUMBA-C1-U1-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 51794,
+      "pdf": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 499336,
+      "pages": 10,
+      "word_reported_pages": 10
+    },
+    {
+      "name": "KUTUMBA-C1-U1-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39220,
+      "pdf": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 310193,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C1-U1-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 78509,
+      "pdf": "exports/final/v13/C1/C1-U1/KUTUMBA-C1-U1-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 678248,
+      "pages": 36,
+      "word_reported_pages": 36
+    }
+  ]
+}

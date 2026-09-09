@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C2-U2",
+  "title": "Gītā Jayantī Family Utsava",
+  "kind": "utsava",
+  "module": "11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava",
+  "export_subdir": "C2/C2-U2",
+  "packets": [
+    {
+      "name": "KUTUMBA-C2-U2-START-HERE-V13",
+      "docx": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-START-HERE-V13.docx",
+      "docx_bytes": 39488,
+      "pdf": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-START-HERE-V13.pdf",
+      "pdf_bytes": 365576,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C2-U2-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 40702,
+      "pdf": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 408136,
+      "pages": 4,
+      "word_reported_pages": 4
+    },
+    {
+      "name": "KUTUMBA-C2-U2-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-PARENT-TRACK-V13.docx",
+      "docx_bytes": 42954,
+      "pdf": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 440064,
+      "pages": 9,
+      "word_reported_pages": 9
+    },
+    {
+      "name": "KUTUMBA-C2-U2-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 56657,
+      "pdf": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 460650,
+      "pages": 11,
+      "word_reported_pages": 11
+    },
+    {
+      "name": "KUTUMBA-C2-U2-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 76414,
+      "pdf": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 480137,
+      "pages": 10,
+      "word_reported_pages": 10
+    },
+    {
+      "name": "KUTUMBA-C2-U2-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39143,
+      "pdf": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 310367,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C2-U2-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 83679,
+      "pdf": "exports/final/v13/C2/C2-U2/KUTUMBA-C2-U2-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 640831,
+      "pages": 35,
+      "word_reported_pages": 35
+    }
+  ]
+}

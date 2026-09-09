@@ -1,0 +1,769 @@
+{
+  "week": "C3-W2",
+  "dpi": 200,
+  "max_sheet": 8,
+  "note": "Automated raster tool reports dimensions and paths only; it does not claim visual inspection.",
+  "packets": [
+    {
+      "path": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-FAMILY-HANDOUT-V13.pdf",
+      "page_count": 3,
+      "pages": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-FAMILY-HANDOUT-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-FAMILY-HANDOUT-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-FAMILY-HANDOUT-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-FAMILY-HANDOUT-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13.pdf",
+      "page_count": 13,
+      "pages": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-009.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-010.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-011.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-012.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/page-013.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13/contact-sheet-002.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13.pdf",
+      "page_count": 12,
+      "pages": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-009.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-010.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-011.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/page-012.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13/contact-sheet-002.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-PARENT-TRACK-V13.pdf",
+      "page_count": 15,
+      "pages": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-009.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-010.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-011.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-012.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-013.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-014.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/page-015.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-PARENT-TRACK-V13/contact-sheet-002.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13.pdf",
+      "page_count": 57,
+      "pages": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-009.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-010.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-011.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-012.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-013.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-014.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-015.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-016.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-017.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-018.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-019.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-020.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-021.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-022.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-023.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-024.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-025.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-026.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-027.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-028.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-029.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-030.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-031.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-032.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-033.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-034.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-035.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-036.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-037.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-038.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-039.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-040.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-041.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-042.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-043.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-044.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-045.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-046.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-047.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-048.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-049.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-050.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-051.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-052.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-053.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-054.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-055.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-056.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/page-057.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/contact-sheet-002.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/contact-sheet-003.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/contact-sheet-004.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/contact-sheet-005.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/contact-sheet-006.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/contact-sheet-007.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13/contact-sheet-008.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-START-HERE-V13.pdf",
+      "page_count": 5,
+      "pages": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-START-HERE-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-START-HERE-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-START-HERE-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-START-HERE-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-START-HERE-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-START-HERE-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13.pdf",
+      "page_count": 17,
+      "pages": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-009.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-010.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-011.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-012.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-013.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-014.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-015.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-016.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/page-017.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/contact-sheet-002.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/C3-W2/rasters/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13/contact-sheet-003.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    }
+  ]
+}

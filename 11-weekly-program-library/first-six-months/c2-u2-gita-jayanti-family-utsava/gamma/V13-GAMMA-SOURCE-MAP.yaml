@@ -1,0 +1,4 @@
+module: C2-U2
+primary: {ref: BG 18.65, url: https://vedabase.io/en/library/bg/18/65/}
+gamma_status: prompt-only
+local_tithi: EXTERNAL_OPEN

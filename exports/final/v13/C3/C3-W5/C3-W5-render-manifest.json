@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C3-W5",
+  "title": "The Nine Processes of Bhakti",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c3-w5-the-nine-processes-of-bhakti",
+  "export_subdir": "C3/C3-W5",
+  "packets": [
+    {
+      "name": "KUTUMBA-C3-W5-START-HERE-V13",
+      "docx": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-START-HERE-V13.docx",
+      "docx_bytes": 41004,
+      "pdf": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-START-HERE-V13.pdf",
+      "pdf_bytes": 376371,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C3-W5-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 47719,
+      "pdf": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 579634,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C3-W5-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-PARENT-TRACK-V13.docx",
+      "docx_bytes": 62079,
+      "pdf": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 567783,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C3-W5-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 77952,
+      "pdf": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 605719,
+      "pages": 17,
+      "word_reported_pages": 17
+    },
+    {
+      "name": "KUTUMBA-C3-W5-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73196,
+      "pdf": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 596801,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C3-W5-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39582,
+      "pdf": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 348414,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C3-W5-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 103359,
+      "pdf": "exports/final/v13/C3/C3-W5/KUTUMBA-C3-W5-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 911872,
+      "pages": 57,
+      "word_reported_pages": 57
+    }
+  ]
+}

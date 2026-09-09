@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C2-W1",
+  "title": "Action and Reaction: How Karma Binds",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c2-w1-action-and-reaction-how-karma-binds",
+  "export_subdir": "C2/C2-W1",
+  "packets": [
+    {
+      "name": "KUTUMBA-C2-W1-START-HERE-V13",
+      "docx": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-START-HERE-V13.docx",
+      "docx_bytes": 41005,
+      "pdf": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-START-HERE-V13.pdf",
+      "pdf_bytes": 375903,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C2-W1-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 52063,
+      "pdf": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 558938,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C2-W1-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-PARENT-TRACK-V13.docx",
+      "docx_bytes": 58633,
+      "pdf": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 550820,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C2-W1-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73978,
+      "pdf": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 587072,
+      "pages": 14,
+      "word_reported_pages": 14
+    },
+    {
+      "name": "KUTUMBA-C2-W1-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73984,
+      "pdf": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 599756,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C2-W1-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39547,
+      "pdf": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 346912,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C2-W1-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 105852,
+      "pdf": "exports/final/v13/C2/C2-W1/KUTUMBA-C2-W1-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 934414,
+      "pages": 55,
+      "word_reported_pages": 55
+    }
+  ]
+}

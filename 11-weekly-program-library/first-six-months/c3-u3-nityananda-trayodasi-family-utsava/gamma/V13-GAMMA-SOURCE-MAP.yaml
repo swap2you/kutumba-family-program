@@ -1,0 +1,7 @@
+module: C3-U3
+primary: {ref: 'CC Ādi 5.208', url: https://vedabase.io/en/library/cc/adi/5/208/}
+supporting:
+  - ref: CC Madhya 1.25
+    url: https://vedabase.io/en/library/cc/madhya/1/25/
+gamma_status: prompt-only
+local_tithi: EXTERNAL_OPEN

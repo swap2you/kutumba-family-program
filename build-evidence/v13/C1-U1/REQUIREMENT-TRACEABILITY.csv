@@ -1,0 +1,13 @@
+requirement_id,requirement,deliverable_path,status,notes
+C1-U1-R01,Start Here,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/V13-UTSAVA-START-HERE.md,PASS,planning Sat 2026-10-31
+C1-U1-R02,Owner run-of-show,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/teacher/OWNER-RUN-OF-SHOW-V13.md,PASS,LED + no child fasting
+C1-U1-R03,Main script,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/teacher/MAIN-FACILITATOR-GUIDE-V13.md,PASS,SB 10.9.18 inline
+C1-U1-R04,Parent/family guide,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/teacher/PARENT-FAMILY-GUIDE-V13.md,PASS,
+C1-U1-R05,Younger stations,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/teacher/YOUNGER-STATION-PACK-V13.md,PASS,
+C1-U1-R06,Older stations,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/teacher/OLDER-STATION-PACK-V13.md,PASS,
+C1-U1-R07,Materials/safety,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/materials-safety-v13.md,PASS,LED default
+C1-U1-R08,Source matrix,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/research/V13-SOURCE-MATRIX.md,PASS,
+C1-U1-R09,Rights,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/visuals/v13/RIGHTS.md,PASS,
+C1-U1-R10,Gamma master actual copy,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/gamma/V13-GAMMA-MASTER-DECK-PROMPT.md,PASS,20 slides
+C1-U1-R11,Printable builder,scripts/v13/printables/C1-U1.py,PASS,no render this pass
+C1-U1-R12,No Oct 31 exact Diwali claim,11-weekly-program-library/first-six-months/c1-u1-kartika-damodara-family-utsava/V13-UTSAVA-START-HERE.md,PASS,EXTERNAL_OPEN calendar

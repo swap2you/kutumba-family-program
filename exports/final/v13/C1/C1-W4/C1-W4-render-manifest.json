@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C1-W4",
+  "title": "Why Human Life Is Rare and Valuable",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c1-w4-why-human-life-is-rare-and-valuable",
+  "export_subdir": "C1/C1-W4",
+  "packets": [
+    {
+      "name": "KUTUMBA-C1-W4-START-HERE-V13",
+      "docx": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-START-HERE-V13.docx",
+      "docx_bytes": 41037,
+      "pdf": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-START-HERE-V13.pdf",
+      "pdf_bytes": 375945,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C1-W4-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 47018,
+      "pdf": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 555640,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C1-W4-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-PARENT-TRACK-V13.docx",
+      "docx_bytes": 43532,
+      "pdf": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 500673,
+      "pages": 10,
+      "word_reported_pages": 10
+    },
+    {
+      "name": "KUTUMBA-C1-W4-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 61426,
+      "pdf": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 522522,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C1-W4-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 53949,
+      "pdf": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 511957,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C1-W4-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39598,
+      "pdf": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 368422,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C1-W4-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 88619,
+      "pdf": "exports/final/v13/C1/C1-W4/KUTUMBA-C1-W4-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 818027,
+      "pages": 49,
+      "word_reported_pages": 49
+    }
+  ]
+}

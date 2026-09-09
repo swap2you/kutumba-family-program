@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C3-U3",
+  "title": "Nityānanda Trayodaśī Family Utsava",
+  "kind": "utsava",
+  "module": "11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava",
+  "export_subdir": "C3/C3-U3",
+  "packets": [
+    {
+      "name": "KUTUMBA-C3-U3-START-HERE-V13",
+      "docx": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-START-HERE-V13.docx",
+      "docx_bytes": 39510,
+      "pdf": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-START-HERE-V13.pdf",
+      "pdf_bytes": 364631,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C3-U3-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 40478,
+      "pdf": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 393807,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C3-U3-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-PARENT-TRACK-V13.docx",
+      "docx_bytes": 42823,
+      "pdf": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 430382,
+      "pages": 8,
+      "word_reported_pages": 8
+    },
+    {
+      "name": "KUTUMBA-C3-U3-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 59593,
+      "pdf": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 451572,
+      "pages": 10,
+      "word_reported_pages": 10
+    },
+    {
+      "name": "KUTUMBA-C3-U3-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 48410,
+      "pdf": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 440134,
+      "pages": 9,
+      "word_reported_pages": 9
+    },
+    {
+      "name": "KUTUMBA-C3-U3-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39121,
+      "pdf": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 307788,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C3-U3-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 72293,
+      "pdf": "exports/final/v13/C3/C3-U3/KUTUMBA-C3-U3-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 614768,
+      "pages": 31,
+      "word_reported_pages": 31
+    }
+  ]
+}

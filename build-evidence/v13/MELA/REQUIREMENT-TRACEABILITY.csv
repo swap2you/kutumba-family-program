@@ -1,0 +1,10 @@
+requirement_id,requirement,deliverable_path,status,notes
+MELA-R01,Start Here,11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela/V13-MELA-START-HERE.md,PASS,not a tithi claim
+MELA-R02,Owner ROS,11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela/teacher/OWNER-RUN-OF-SHOW-V13.md,PASS,noncompetitive
+MELA-R03,Main script,11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela/teacher/MAIN-FACILITATOR-GUIDE-V13.md,PASS,
+MELA-R04,Parent/younger/older,11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela/teacher/,PASS,
+MELA-R05,Materials/safety,11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela/materials-safety-v13.md,PASS,
+MELA-R06,Source matrix,11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela/research/V13-SOURCE-MATRIX.md,PASS,
+MELA-R07,Rights/visuals,11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela/visuals/v13/,PASS,
+MELA-R08,Gamma master,11-weekly-program-library/first-six-months/mela-six-month-reflection-family-mela/gamma/V13-GAMMA-MASTER-DECK-PROMPT.md,PASS,
+MELA-R09,Printable builder,scripts/v13/printables/MELA.py,PASS,no render

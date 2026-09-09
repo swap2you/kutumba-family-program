@@ -1,0 +1,20 @@
+week_id: C2-W4
+title: The Three Modes of Material Nature
+primary_verse: BG 14.5
+primary_url: https://vedabase.io/en/library/bg/14/5/
+devanagari: 'सत्त्वं रजस्तम इति गुणा: प्रकृतिसम्भवा: । निबध्नन्ति महाबाहो देहे देहिनमव्ययम् ॥ ५ ॥'
+iast: 'sattvaṁ rajas tama iti guṇāḥ prakṛti-sambhavāḥ / nibadhnanti mahā-bāho dehe dehinam avyayam'
+teaching_meaning: 'Goodness, passion, and ignorance — born of material nature — bind the eternal embodied self within the body.'
+memory_line: 'Calm helps me hear Kṛṣṇa.'
+mechanic: 'Scenario sorting'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

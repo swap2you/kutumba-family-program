@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C1-W3",
+  "title": "The Nature of the Soul",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c1-w3-the-nature-of-the-soul",
+  "export_subdir": "C1/C1-W3",
+  "packets": [
+    {
+      "name": "KUTUMBA-C1-W3-START-HERE-V13",
+      "docx": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-START-HERE-V13.docx",
+      "docx_bytes": 40912,
+      "pdf": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-START-HERE-V13.pdf",
+      "pdf_bytes": 371907,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C1-W3-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 46951,
+      "pdf": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 539631,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C1-W3-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-PARENT-TRACK-V13.docx",
+      "docx_bytes": 43333,
+      "pdf": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 475759,
+      "pages": 10,
+      "word_reported_pages": 10
+    },
+    {
+      "name": "KUTUMBA-C1-W3-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 65244,
+      "pdf": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 512370,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C1-W3-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 66434,
+      "pdf": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 511326,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C1-W3-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39592,
+      "pdf": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 365675,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C1-W3-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 104448,
+      "pdf": "exports/final/v13/C1/C1-W3/KUTUMBA-C1-W3-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 808329,
+      "pages": 49,
+      "word_reported_pages": 49
+    }
+  ]
+}

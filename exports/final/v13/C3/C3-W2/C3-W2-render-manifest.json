@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C3-W2",
+  "title": "Who Is Kṛṣṇa? The Supreme Personality of Godhead",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c3-w2-who-is-kṛṣṇa-the-supreme-personality-of-godhead",
+  "export_subdir": "C3/C3-W2",
+  "packets": [
+    {
+      "name": "KUTUMBA-C3-W2-START-HERE-V13",
+      "docx": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-START-HERE-V13.docx",
+      "docx_bytes": 41029,
+      "pdf": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-START-HERE-V13.pdf",
+      "pdf_bytes": 379060,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C3-W2-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 47876,
+      "pdf": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 560719,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C3-W2-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-PARENT-TRACK-V13.docx",
+      "docx_bytes": 59674,
+      "pdf": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 549088,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 75878,
+      "pdf": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 589269,
+      "pages": 17,
+      "word_reported_pages": 17
+    },
+    {
+      "name": "KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73462,
+      "pdf": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 579866,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C3-W2-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39602,
+      "pdf": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 351923,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 101458,
+      "pdf": "exports/final/v13/C3/C3-W2/KUTUMBA-C3-W2-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 899350,
+      "pages": 57,
+      "word_reported_pages": 57
+    }
+  ]
+}

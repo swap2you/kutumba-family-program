@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C2-W3",
+  "title": "Birth, Death and Reincarnation",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c2-w3-birth-death-and-reincarnation",
+  "export_subdir": "C2/C2-W3",
+  "packets": [
+    {
+      "name": "KUTUMBA-C2-W3-START-HERE-V13",
+      "docx": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-START-HERE-V13.docx",
+      "docx_bytes": 40992,
+      "pdf": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-START-HERE-V13.pdf",
+      "pdf_bytes": 373229,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C2-W3-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 50440,
+      "pdf": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 561751,
+      "pages": 14,
+      "word_reported_pages": 14
+    },
+    {
+      "name": "KUTUMBA-C2-W3-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-PARENT-TRACK-V13.docx",
+      "docx_bytes": 59857,
+      "pdf": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 542845,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C2-W3-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 76267,
+      "pdf": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 578812,
+      "pages": 17,
+      "word_reported_pages": 17
+    },
+    {
+      "name": "KUTUMBA-C2-W3-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 75663,
+      "pdf": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 582673,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C2-W3-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39542,
+      "pdf": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 345486,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C2-W3-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 106736,
+      "pdf": "exports/final/v13/C2/C2-W3/KUTUMBA-C2-W3-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 909721,
+      "pages": 59,
+      "word_reported_pages": 59
+    }
+  ]
+}

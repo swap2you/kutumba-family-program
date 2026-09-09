@@ -4,7 +4,12 @@
 
 - Overall verdict: **NO GO for internal pilot, family-facing distribution, and public publication**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **V12.2.1 Week-1 publishing CLOSED** — C1-W1 content + publishing owner-runnable; deterministic + agent visual QA PASS; human/temple gates EXTERNAL_OPEN; overall pilot **NO GO**; family/public publication **NO GO**; Gamma render EXTERNAL_OPEN; do not start C1-W2 until independent external review of final HEAD
+- Current phase: **V13 first-six-month gold production CLOSED (implementation)** — C1-W1 remains frozen; C1-W2…C3-W6 + 3 Utsavas + Mela + master library owner-runnable with deterministic publishing PASS; human/temple/local-tithi/Gamma-render gates EXTERNAL_OPEN; overall pilot **NO GO**; family/public publication **NO GO**; open `V13-FIRST-SIX-MONTHS-START-HERE.md`
+- V13 owner start: `V13-FIRST-SIX-MONTHS-START-HERE.md`
+- V13 exports: `exports/final/v13/`
+- V13 acceptance: `scripts/v13/validate_all_v13.py` · `build-evidence/V13-FIRST-SIX-MONTHS-RED-TEAM.md` · `build-evidence/v13/*/OPERATOR-ACCEPTANCE.md`
+- V13 safety tag: `v13-pre-first-six-month-gold-408c9e9`
+- V12.2.1 Week-1 publishing CLOSED (immutable baseline for V13): C1-W1 content + publishing owner-runnable; do not regenerate Week 1
 - V12.2.1 baseline/closure: `build-evidence/V12_2_1-WEEK1-BASELINE-FAILURES.md`
 - V12.2.1 packets: `exports/final/week1/`
 - V12.2.1 acceptance: `scripts/v12_2_1/validate_week1_publishing.py` · `build-evidence/V12_2_1-WEEK1-VISUAL-QA.md` · `build-evidence/V12_2_1-WEEK1-OPERATOR-ACCEPTANCE.md`

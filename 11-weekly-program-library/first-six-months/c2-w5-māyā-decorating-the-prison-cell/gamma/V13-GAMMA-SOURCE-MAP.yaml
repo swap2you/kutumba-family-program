@@ -1,0 +1,20 @@
+week_id: C2-W5
+title: Māyā: Decorating the Prison Cell
+primary_verse: BG 7.14
+primary_url: https://vedabase.io/en/library/bg/7/14/
+devanagari: 'दैवी ह्येषा गुणमयी मम माया दुरत्यया । मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥ १४ ॥'
+iast: 'daivī hy eṣā guṇa-mayī mama māyā duratyayā / mām eva ye prapadyante māyām etāṁ taranti te'
+teaching_meaning: 'This divine illusory energy of the Lord, made of the modes, is difficult to overcome — but those who surrender unto Him cross beyond it.'
+memory_line: 'Surrender crosses māyā.'
+mechanic: 'Attention trap cases'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

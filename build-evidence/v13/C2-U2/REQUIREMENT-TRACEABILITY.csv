@@ -1,0 +1,11 @@
+requirement_id,requirement,deliverable_path,status,notes
+C2-U2-R01,Start Here,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/V13-UTSAVA-START-HERE.md,PASS,candidate not exact tithi
+C2-U2-R02,Owner ROS,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/teacher/OWNER-RUN-OF-SHOW-V13.md,PASS,
+C2-U2-R03,Main script,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/teacher/MAIN-FACILITATOR-GUIDE-V13.md,PASS,BG 18.65
+C2-U2-R04,Parent guide,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/teacher/PARENT-FAMILY-GUIDE-V13.md,PASS,
+C2-U2-R05,Younger/older packs,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/teacher/,PASS,
+C2-U2-R06,Materials/safety,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/materials-safety-v13.md,PASS,
+C2-U2-R07,Source matrix,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/research/V13-SOURCE-MATRIX.md,PASS,
+C2-U2-R08,Rights/visuals,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/visuals/v13/RIGHTS.md,PASS,
+C2-U2-R09,Gamma master,11-weekly-program-library/first-six-months/c2-u2-gita-jayanti-family-utsava/gamma/V13-GAMMA-MASTER-DECK-PROMPT.md,PASS,actual copy
+C2-U2-R10,Printable builder,scripts/v13/printables/C2-U2.py,PASS,no render

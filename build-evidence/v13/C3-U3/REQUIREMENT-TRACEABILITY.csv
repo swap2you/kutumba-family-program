@@ -1,0 +1,10 @@
+requirement_id,requirement,deliverable_path,status,notes
+C3-U3-R01,Start Here,11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava/V13-UTSAVA-START-HERE.md,PASS,candidate 02-20 / example 02-19
+C3-U3-R02,Owner ROS,11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava/teacher/OWNER-RUN-OF-SHOW-V13.md,PASS,no graphic violence
+C3-U3-R03,Main script,11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava/teacher/MAIN-FACILITATOR-GUIDE-V13.md,PASS,CC Adi 5.208
+C3-U3-R04,Parent/younger/older,11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava/teacher/,PASS,
+C3-U3-R05,Materials/safety,11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava/materials-safety-v13.md,PASS,
+C3-U3-R06,Source matrix,11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava/research/V13-SOURCE-MATRIX.md,PASS,
+C3-U3-R07,Rights/visuals,11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava/visuals/v13/,PASS,
+C3-U3-R08,Gamma master,11-weekly-program-library/first-six-months/c3-u3-nityananda-trayodasi-family-utsava/gamma/V13-GAMMA-MASTER-DECK-PROMPT.md,PASS,
+C3-U3-R09,Printable builder,scripts/v13/printables/C3-U3.py,PASS,no render

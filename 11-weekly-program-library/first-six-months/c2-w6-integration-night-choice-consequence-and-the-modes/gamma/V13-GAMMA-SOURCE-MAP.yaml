@@ -1,0 +1,20 @@
+week_id: C2-W6
+title: Integration Night: Choice, Consequence and the Modes
+primary_verse: Cycle 2 review (BG 18.63 center)
+primary_url: https://vedabase.io/en/library/bg/18/63/
+devanagari: 'इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया । विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥ ६३ ॥'
+iast: 'iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā / vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru'
+teaching_meaning: 'Choice, consequence, and the modes must form one coherent family practice — synthesis, not new doctrine overload. (BG 18.63 center for review.)'
+memory_line: 'Choose with all five lenses.'
+mechanic: 'Scenario board teach-back'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

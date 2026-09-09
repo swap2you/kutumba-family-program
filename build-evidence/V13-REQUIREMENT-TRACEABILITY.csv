@@ -1,0 +1,19 @@
+requirement_id,requirement_sentence,evidence_path_pattern,status
+R-DEPTH-SCRIPT,Every normal topic week has a ready-to-deliver 10–20 minute speaking script inlined in the main facilitator guide.,11-weekly-program-library/first-six-months/*/teacher/MAIN-FACILITATOR-GUIDE-V13.md,PASS
+R-DEPTH-VERSE,Every week states exact primary scripture with Devanāgarī when available IAST KUTUMBA teaching meaning and authoritative URL.,research/V13-SOURCE-MATRIX.md + MAIN guide,PASS
+R-DEPTH-CASES,Every week includes three week-specific family cases with mistaken conclusion principle source compassionate response practical action and what not to say.,research/V13-CASE-STUDIES.md,PASS
+R-SOURCE-CHAIN,Primary verses match the locked first-six-month verse chain and supporting URLs are exact.,build-evidence/V13-VERSE-CHAIN.md,PASS
+R-PARENT-40,Parent track provides an executable 40-minute flow without public sādhana ranking.,teacher/PARENT-GUIDE-V13.md,PASS
+R-YOUNGER-OBJECTS,K–2 pack includes story movement craft printables memory phrase backup and materials with all objects already produced.,activities/v13-younger/*,PASS
+R-OLDER-KEY,Grades 4–5 pack includes observation worksheet challenge puzzle project exit ticket and answer key.,activities/v13-older/*,PASS
+R-PRINT-NO-LEAK,Participant printables contain no HTML fences ASCII final art or fake icon placeholders.,scripts/v13/validate_week.py,PASS
+R-GAMMA-COPY,Gamma master and audience decks contain actual slide copy complete verse layer exact sources and slide-specific image prompts.,gamma/V13-GAMMA-*-DECK-PROMPT.md,PASS
+R-PUBLISH-SET,Each week/event exports seven DOCX+PDF packets under exports/final/v13/.,exports/final/v13/**,PASS
+R-VISUAL-QA,Every final PDF is rastered every contact sheet opened and critical pages individually observed in VISUAL-QA.md.,build-evidence/v13/*/VISUAL-QA.md,PASS
+R-OPERATOR-15,Operator acceptance answers all 15 questions with invent-anything = NO.,build-evidence/v13/*/OPERATOR-ACCEPTANCE.md,PASS
+R-W1-IMMUTABLE,Protected C1-W1 hashes match V13-W1-IMMUTABLE-BASELINE.json at final acceptance.,scripts/v13/check_w1_immutable.py,PASS
+R-EXTERNAL-OPEN,Local tithi human temple legal and Gamma-render gates remain EXTERNAL_OPEN without fabricated approvals.,CURRENT-STATUS.md + gate summaries,PASS
+R-MASTER-NAV,V13-FIRST-SIX-MONTHS-START-HERE.md and master owner/teacher/calendar/index packets exist and pass no-archaeology.,V13-FIRST-SIX-MONTHS-START-HERE.md + exports/final/v13/master/,PASS
+R-UTSAVA-THREE,Three Utsava packs plus six-month Mela are complete with safety and local-calendar disclaimers.,exports/final/v13/,PASS
+R-RED-TEAM,First-six-month adversarial red team closes all implementation blockers before push.,build-evidence/V13-FIRST-SIX-MONTHS-RED-TEAM.md,PASS
+R-REMOTE,Fresh-clone origin/main passes deterministic acceptance and closing tag peels to final verified HEAD.,build-evidence/V13-REMOTE-ACCEPTANCE.md,OPEN

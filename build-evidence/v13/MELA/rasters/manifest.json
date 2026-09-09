@@ -1,0 +1,459 @@
+{
+  "week": "MELA",
+  "dpi": 200,
+  "max_sheet": 8,
+  "note": "Automated raster tool reports dimensions and paths only; it does not claim visual inspection.",
+  "packets": [
+    {
+      "path": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-FAMILY-HANDOUT-V13.pdf",
+      "page_count": 3,
+      "pages": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-FAMILY-HANDOUT-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-FAMILY-HANDOUT-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-FAMILY-HANDOUT-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-FAMILY-HANDOUT-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-MAIN-FACILITATOR-V13.pdf",
+      "page_count": 3,
+      "pages": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-MAIN-FACILITATOR-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-MAIN-FACILITATOR-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-MAIN-FACILITATOR-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-MAIN-FACILITATOR-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13.pdf",
+      "page_count": 9,
+      "pages": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/page-009.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-OLDER-TEACHER-PACK-V13/contact-sheet-002.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-PARENT-TRACK-V13.pdf",
+      "page_count": 8,
+      "pages": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-PARENT-TRACK-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13.pdf",
+      "page_count": 31,
+      "pages": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-009.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-010.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-011.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-012.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-013.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-014.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-015.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-016.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-017.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-018.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-019.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-020.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-021.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-022.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-023.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-024.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-025.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-026.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-027.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-028.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-029.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-030.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/page-031.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/contact-sheet-002.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/contact-sheet-003.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-SATURDAY-PRINT-PACKET-V13/contact-sheet-004.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-START-HERE-V13.pdf",
+      "page_count": 3,
+      "pages": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-START-HERE-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-START-HERE-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-START-HERE-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-START-HERE-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    },
+    {
+      "path": "exports/final/v13/MELA/MELA/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13.pdf",
+      "page_count": 10,
+      "pages": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-001.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-002.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-003.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-004.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-005.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-006.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-007.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-008.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-009.png",
+          "width": 1700,
+          "height": 2200
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/page-010.png",
+          "width": 1700,
+          "height": 2200
+        }
+      ],
+      "contact_sheets": [
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/contact-sheet-001.png",
+          "width": 1194,
+          "height": 3042
+        },
+        {
+          "path": "build-evidence/v13/MELA/rasters/KUTUMBA-MELA-YOUNGER-TEACHER-PACK-V13/contact-sheet-002.png",
+          "width": 1194,
+          "height": 3042
+        }
+      ]
+    }
+  ]
+}

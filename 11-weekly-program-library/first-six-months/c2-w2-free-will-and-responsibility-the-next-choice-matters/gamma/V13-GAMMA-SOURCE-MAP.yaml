@@ -1,0 +1,20 @@
+week_id: C2-W2
+title: Free Will and Responsibility: The Next Choice Matters
+primary_verse: BG 18.63
+primary_url: https://vedabase.io/en/library/bg/18/63/
+devanagari: 'इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया । विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥ ६३ ॥'
+iast: 'iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā / vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru'
+teaching_meaning: 'The Lord has explained confidential knowledge; now deliberate fully and then act as you choose — responsibility remains with the living being.'
+memory_line: 'The next choice matters.'
+mechanic: 'Decision tree'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

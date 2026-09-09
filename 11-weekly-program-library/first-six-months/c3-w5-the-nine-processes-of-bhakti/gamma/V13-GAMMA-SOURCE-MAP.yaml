@@ -1,0 +1,20 @@
+week_id: C3-W5
+title: The Nine Processes of Bhakti
+primary_verse: ŚB 7.5.23–24
+primary_url: https://vedabase.io/en/library/sb/7/5/23-24/
+devanagari: 'श्रीप्रह्राद उवाच श्रवणं कीर्तनं विष्णो: स्मरणं पादसेवनम् । अर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ॥ २३ ॥ इति पुंसार्पिता विष्णौ भक्तिश्चेन्नवलक्षणा । क्रियेत भगवत्यद्धा तन्मन्येऽधीतमुत्तमम् ॥ २४ ॥'
+iast: "śravaṇaṁ kīrtanaṁ viṣṇoḥ smaraṇaṁ pāda-sevanam / arcanaṁ vandanaṁ dāsyaṁ sakhyam ātma-nivedanam // iti puṁsārpitā viṣṇau bhaktiś cen nava-lakṣaṇā / kriyeta bhagavaty addhā tan manye 'dhītam uttamam"
+teaching_meaning: "Hearing, chanting, remembering, serving the Lord's feet, worship, prayer, servitude, friendship, and full surrender — nine processes of bhakti; when such bhakti is offered to Viṣṇu, that is considered the topmost learning."
+memory_line: 'Nine ways to love Viṣṇu.'
+mechanic: 'Nine-process wheel'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

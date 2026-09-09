@@ -1,0 +1,298 @@
+{
+  "baseline_tag": "v12.2.1-week1-publishing-closed",
+  "baseline_head": "408c9e9127fe87c976ac7b958f90d31cef370d33",
+  "created": "2026-09-09",
+  "protected_file_count": 58,
+  "files": [
+    {
+      "path": "V12_2-WEEK1-START-HERE.md",
+      "bytes": 2787,
+      "sha256": "7978db517eec56b43318b70e68c52d4c182c370803818e0be8d26054df3d7346"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/complete-week.md",
+      "bytes": 10948,
+      "sha256": "345047e5f268bb02b9304288311e5b1451a601f239c04204c3ab09a9f7bb4691"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/teacher/MAIN-FACILITATOR-GUIDE-V12.md",
+      "bytes": 23451,
+      "sha256": "f65bc6910bdb5e6ff92a8a74cd16fc5a0d1f4d8078acd2eecb5fefd8ead34362"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/teacher/PARENT-GUIDE.md",
+      "bytes": 5557,
+      "sha256": "4222eac1ae4006277a1b65bfbbcdb42b4331e4d88e08971916a9160d549d24c8"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/teacher/YOUNGER-TEACHER-GUIDE.md",
+      "bytes": 8063,
+      "sha256": "cf18c1071859246bd01c7fc85b693498c60aba076c8ab2fe2a33ce8faaf35266"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/teacher/OLDER-TEACHER-GUIDE.md",
+      "bytes": 5936,
+      "sha256": "80539147478821a18bc966b282862a871064d82ffedc6da4180519808d8d3e19"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/gamma/V12-GAMMA-MASTER-DECK-PROMPT.md",
+      "bytes": 15285,
+      "sha256": "6572a76887a80765c30f54010839a3a2ea0979d3f7f628566af8ef50f6a8a96e"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-younger/Y01-FOUR-CORNERS-SIGNS.md",
+      "bytes": 5256,
+      "sha256": "295dcc657837f3dd287f3d30b392d836268e75bb7203f8600b8fe0929fa1cbd3"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-younger/Y02-FOUR-CORNERS-SCENARIO-CARDS.md",
+      "bytes": 5443,
+      "sha256": "c3df2eec94338c292de1150e15548f50bd2dac7625ddf07fdafb66e7b251a13e"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-younger/Y03-BHAKTI-GARDEN-CRAFT.md",
+      "bytes": 1465,
+      "sha256": "bbfe4615c75881d97fd2e59b1361519974cede71cbf9b1a2ace4a81518942210"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-younger/Y04-MEMORY-BADGE-BOOKMARK.md",
+      "bytes": 2712,
+      "sha256": "f199b33212de36693797fb324b9737363fac894c0e9f99b480863bebb7c3bd92"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-younger/Y05-HOUSE-RULE-PICTURE-SORT.md",
+      "bytes": 4809,
+      "sha256": "bd68b158c845267c7e564ae4fdd4c345ccc7c33a03d54cc72e10b03a9301fe9e"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-older/O01-SB-1-2-18-OBSERVATION.md",
+      "bytes": 2115,
+      "sha256": "f48cf8fbdce4633b42d06c98666f237d427499b900541c0b71a77d006f39db31"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-older/O02-KUTUMBA-IS-IS-NOT-SORT.md",
+      "bytes": 6194,
+      "sha256": "fcb173d1f999add7199317c4e08019aca4a095cc62a2d7b6fd06e91db6f8c9b7"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-older/O03-SIX-PURPOSE-CHALLENGE.md",
+      "bytes": 8489,
+      "sha256": "e78d10793b6591592c838c75724c99ee366d20b92f4fc3826d1977da20d44cc6"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-older/O04-SCENARIO-CHALLENGE.md",
+      "bytes": 4412,
+      "sha256": "84c6d7a2d2a9a4e65e7199dee88285f25fb6a54608af7459c450bd852e96f67b"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-older/O05-FAMILY-COMPASS.md",
+      "bytes": 2989,
+      "sha256": "fa3d2d671939d48eb54a021c60772e5b7695946b0b14ef2723de735dc3397823"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-older/O06-EXIT-TICKET.md",
+      "bytes": 2568,
+      "sha256": "8138b8a31c0ac1862ff3362840157c9ab1bc9fdb1c4046349859c67cd9fd9ddf"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-parent/P01-SPIRITUAL-HOME-REFLECTION.md",
+      "bytes": 3140,
+      "sha256": "2e150d5bc2b5bbb3be9cea63581d6388c20ba05b784b08b798272856cc98146b"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-parent/P02-SIX-PURPOSE-CARD-SORT.md",
+      "bytes": 8163,
+      "sha256": "a2ba81d2359feb18bd566e9bc5a73c7de9e4b93b97f14bd19a32460cbe1cb3c2"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-parent/P03-TWO-FAMILY-CASE.md",
+      "bytes": 1857,
+      "sha256": "51a4bc3c4bded81f6dca05edb6ad602dd448712ef3c2695112609f367c6bc020"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-parent/P04-FAMILY-OPERATING-AGREEMENT.md",
+      "bytes": 2687,
+      "sha256": "64c91a0c76c4a40700541c95dd09ad3441aad83096ed24d3a41a698f83021c52"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/activities/v12_2-parent/P05-FAMILY-SANKALPA-BUILDER.md",
+      "bytes": 3455,
+      "sha256": "e83efa2c3c0526cfa7a7ac8dd2019898a5292dd79256fd2f4b13e2780dbf349b"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/badge-outline.png",
+      "bytes": 11244,
+      "sha256": "72c3dffd21cbcf076691bfe9986b9812f3cb02dfccec7703f121ad25eb7b6940"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/bookmark-strip.png",
+      "bytes": 11753,
+      "sha256": "81face49ad15e28fe8726197f643e47194e2dfc58a8a7a4bb60eee97e2a18ff6"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/compass-family.png",
+      "bytes": 9345,
+      "sha256": "79a983d54dc66cb62f3e2bd47ee9c10f5afe58d6a6b6277cf6e1c2cea9707e87"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/flower-bhakti-garden.png",
+      "bytes": 18700,
+      "sha256": "6bd4f783e2b0073a1223d33beff209f00d59476fcc7e8a7ba91045d295b5650f"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/icon-chant.png",
+      "bytes": 2437,
+      "sha256": "5328432c014b85fb7ad842bf63d93f94ef1f9902ca2d716005dbf01b37b4b9b0"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/icon-hear.png",
+      "bytes": 2551,
+      "sha256": "eaa2e0b8efae7d17bdb248ef6894593c4484980bf2fb0b7c992513b5873195b8"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/icon-respect.png",
+      "bytes": 2317,
+      "sha256": "264553da57a9e7798611fed4eb81b9f87b994bf2f9bc0fa6f98ede79edf7023f"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/icon-serve.png",
+      "bytes": 2751,
+      "sha256": "ba3c17aed2ad16024851909eaf1f56f3bfa58bf181b08122314d8101f7c8d78a"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/mat-reset.png",
+      "bytes": 4819,
+      "sha256": "d9bec6cc906ffc8409aa7e8c1b01458da32af86ea87098cb10dc5ac669994f20"
+    },
+    {
+      "path": "11-weekly-program-library/first-six-months/c1-w1-what-is-kutumba-and-why-are-we-here/visuals/v12_2_1/mat-safe.png",
+      "bytes": 3531,
+      "sha256": "d9c354dee48964094704b58481abfa7c1977ba2a36d94096cbad06ad7a5203b4"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-FAMILY-ORIENTATION-AND-COVENANT-V12.2.docx",
+      "bytes": 44851,
+      "sha256": "14c3c42e13eb85cafe80ed52f313385597d28b1b02bb4e0776145adc9263c189"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-FAMILY-ORIENTATION-AND-COVENANT-V12.2.pdf",
+      "bytes": 477875,
+      "sha256": "834a39f66ee876e8ee8de2a93d204fc98ff6c12612c70979bcc39b24d32c524c"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-OLDER-TEACHER-PACK-V12.2.docx",
+      "bytes": 53994,
+      "sha256": "ed3503a34a0f623d18682eaa4f1d5b212a037f0a69cc6312c042fae4d6a75063"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-OLDER-TEACHER-PACK-V12.2.pdf",
+      "bytes": 527796,
+      "sha256": "a8e0761ab1af0fd45c30d8baf961665fb29e09fc2b737e2ae9924a615cdd802e"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-OWNER-RUNBOOK-V12.2.docx",
+      "bytes": 40535,
+      "sha256": "87522fce645cda87e82de744c490db50f0aa9c6b79ccdd16d93e75cfd57cf2a8"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-OWNER-RUNBOOK-V12.2.pdf",
+      "bytes": 404208,
+      "sha256": "7ba55fd937ece8b8646b9a616768f7dee4e9b7ae27f3d8c32210af4a282420e2"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-PARENT-TRACK-V12.2.docx",
+      "bytes": 52678,
+      "sha256": "169293be33ad27f3e1ded615d8f4d6f091a15fe350793ca28ac576c1f55abf25"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-PARENT-TRACK-V12.2.pdf",
+      "bytes": 519947,
+      "sha256": "c20d70f8d609ef1698419f0e4d15e44fdd8f4bf2370d7ffed4f9d1ad6d946e18"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-SATURDAY-PRINT-PACKET-V12.2.docx",
+      "bytes": 138044,
+      "sha256": "f4654237c11841db7f9f1040c8a9f54c5dd0e062c80d2ad51cbd5245952d2186"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-SATURDAY-PRINT-PACKET-V12.2.pdf",
+      "bytes": 1054883,
+      "sha256": "b87af7c5408e05de0cc70f17b69a1e70d1863f15e778cfb37d3eaf01fd29d463"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-START-HERE-V12.2.docx",
+      "bytes": 40458,
+      "sha256": "6e215c00547f858373580e673e7ccfde52e860288e327cca856efce6c02f1f38"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-START-HERE-V12.2.pdf",
+      "bytes": 408659,
+      "sha256": "4a0e9583191ba25545fe2fd9400be68014c7e12d7596530ac003798c5d29b52d"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-YOUNGER-TEACHER-PACK-V12.2.docx",
+      "bytes": 101087,
+      "sha256": "05de84a27ccd233dcc5bc05b08e2e0e30f912d7a796914125e32be79404c33d1"
+    },
+    {
+      "path": "exports/final/week1/KUTUMBA-C1-W1-YOUNGER-TEACHER-PACK-V12.2.pdf",
+      "bytes": 631666,
+      "sha256": "28b0f4df59b53124348db38a7931e7f03697a594c9d069021e5894fcb79c954f"
+    },
+    {
+      "path": "exports/final/week1/week1-render-manifest.json",
+      "bytes": 2448,
+      "sha256": "ed98d8aef1f395f19df76614b73b61532dc87d158f6e2c016b3357923ca1af0d"
+    },
+    {
+      "path": "scripts/v12_2_1/generate_week1_assets.py",
+      "bytes": 6476,
+      "sha256": "751ac4e68ac5cbf906f957fad4416646048a2f99cc514e66e2157edfdafb6d2e"
+    },
+    {
+      "path": "scripts/v12_2_1/printable_layouts.py",
+      "bytes": 16844,
+      "sha256": "c71b2e75ff71c72fecdcb43ac8282faef2d8d7b10f3eb2762c6fa009f169274d"
+    },
+    {
+      "path": "scripts/v12_2_1/raster_week1_publishing.py",
+      "bytes": 2866,
+      "sha256": "c7027c7239fd8b663c511a8fc4f29c6827167d7a15d75a44ea98dacf6c1c0fb9"
+    },
+    {
+      "path": "scripts/v12_2_1/render_markdown_safe.py",
+      "bytes": 5045,
+      "sha256": "96f7363a851602c39eeda5382ee152002c4b17849bb02296f4707ad9516257cd"
+    },
+    {
+      "path": "scripts/v12_2_1/render_week1_publishing.py",
+      "bytes": 11865,
+      "sha256": "23251aef69046692c7e31f588c23ab8fbb6aa483f6326918371d82664033b903"
+    },
+    {
+      "path": "scripts/v12_2_1/validate_week1_publishing.py",
+      "bytes": 4368,
+      "sha256": "7bf58a72275918f93a4678c37f4949e640764e1e513ca6ae5e03279de228bfe2"
+    },
+    {
+      "path": "build-evidence/V12_2_1-WEEK1-VISUAL-QA.md",
+      "bytes": 3471,
+      "sha256": "9345e642f8c3ca358bf35772e9d28c3e83962e3d50bb07dc34fbdd2b17c5a90a"
+    },
+    {
+      "path": "build-evidence/V12_2_1-WEEK1-OPERATOR-ACCEPTANCE.md",
+      "bytes": 894,
+      "sha256": "63012a56fc2d2723068c8a21ab88f4c3f0dc71a1f5f1fde63732d7d73958f79f"
+    },
+    {
+      "path": "build-evidence/V12_2_1-WEEK1-REMOTE-ACCEPTANCE.md",
+      "bytes": 862,
+      "sha256": "4e560b3cbe2a7b61acea88e6160e411eaf4e110697069574dbc065ce0b68284a"
+    },
+    {
+      "path": "build-evidence/V12_2_1-WEEK1-BASELINE-FAILURES.md",
+      "bytes": 1388,
+      "sha256": "f1567f47457207d7ccb6ab3d00b62a432f7e86328714bff8311cb9da5f78e082"
+    }
+  ]
+}

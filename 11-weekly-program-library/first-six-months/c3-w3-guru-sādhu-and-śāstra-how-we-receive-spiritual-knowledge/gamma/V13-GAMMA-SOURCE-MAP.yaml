@@ -1,0 +1,20 @@
+week_id: C3-W3
+title: Guru, Sādhu and Śāstra: How We Receive Spiritual Knowledge
+primary_verse: BG 4.34
+primary_url: https://vedabase.io/en/library/bg/4/34/
+devanagari: 'तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया । उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥ ३४ ॥'
+iast: 'tad viddhi praṇipātena paripraśnena sevayā / upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ'
+teaching_meaning: 'Learn the truth by approaching a realized teacher with humility, sincere inquiry, and service — such seers of truth can impart knowledge.'
+memory_line: 'Ask, serve, verify.'
+mechanic: 'Three-source verify'
+decks:
+  master: V13-GAMMA-MASTER-DECK-PROMPT.md
+  parent: V13-GAMMA-PARENT-DECK-PROMPT.md
+  younger: V13-GAMMA-YOUNGER-DECK-PROMPT.md
+  older: V13-GAMMA-OLDER-DECK-PROMPT.md
+schedule:
+  arrival: "1:50"
+  tracks: "2:30-3:10"
+  reunify: "3:10-3:30"
+  close: "4:00"
+status: prompt-only

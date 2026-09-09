@@ -1,0 +1,73 @@
+{
+  "version": "V13",
+  "week": "C3-W1",
+  "title": "Who Is God? The Supreme Enjoyer, Proprietor and Friend",
+  "kind": "topic",
+  "module": "11-weekly-program-library/first-six-months/c3-w1-who-is-god-the-supreme-enjoyer-proprietor-and-friend",
+  "export_subdir": "C3/C3-W1",
+  "packets": [
+    {
+      "name": "KUTUMBA-C3-W1-START-HERE-V13",
+      "docx": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-START-HERE-V13.docx",
+      "docx_bytes": 41020,
+      "pdf": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-START-HERE-V13.pdf",
+      "pdf_bytes": 377328,
+      "pages": 5,
+      "word_reported_pages": 5
+    },
+    {
+      "name": "KUTUMBA-C3-W1-MAIN-FACILITATOR-V13",
+      "docx": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-MAIN-FACILITATOR-V13.docx",
+      "docx_bytes": 48681,
+      "pdf": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-MAIN-FACILITATOR-V13.pdf",
+      "pdf_bytes": 581570,
+      "pages": 13,
+      "word_reported_pages": 13
+    },
+    {
+      "name": "KUTUMBA-C3-W1-PARENT-TRACK-V13",
+      "docx": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-PARENT-TRACK-V13.docx",
+      "docx_bytes": 61268,
+      "pdf": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-PARENT-TRACK-V13.pdf",
+      "pdf_bytes": 566114,
+      "pages": 15,
+      "word_reported_pages": 15
+    },
+    {
+      "name": "KUTUMBA-C3-W1-YOUNGER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-YOUNGER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 77488,
+      "pdf": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-YOUNGER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 607980,
+      "pages": 17,
+      "word_reported_pages": 17
+    },
+    {
+      "name": "KUTUMBA-C3-W1-OLDER-TEACHER-PACK-V13",
+      "docx": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-OLDER-TEACHER-PACK-V13.docx",
+      "docx_bytes": 73790,
+      "pdf": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-OLDER-TEACHER-PACK-V13.pdf",
+      "pdf_bytes": 601037,
+      "pages": 12,
+      "word_reported_pages": 12
+    },
+    {
+      "name": "KUTUMBA-C3-W1-FAMILY-HANDOUT-V13",
+      "docx": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-FAMILY-HANDOUT-V13.docx",
+      "docx_bytes": 39579,
+      "pdf": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-FAMILY-HANDOUT-V13.pdf",
+      "pdf_bytes": 350128,
+      "pages": 3,
+      "word_reported_pages": 3
+    },
+    {
+      "name": "KUTUMBA-C3-W1-SATURDAY-PRINT-PACKET-V13",
+      "docx": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-SATURDAY-PRINT-PACKET-V13.docx",
+      "docx_bytes": 104042,
+      "pdf": "exports/final/v13/C3/C3-W1/KUTUMBA-C3-W1-SATURDAY-PRINT-PACKET-V13.pdf",
+      "pdf_bytes": 923930,
+      "pages": 57,
+      "word_reported_pages": 57
+    }
+  ]
+}

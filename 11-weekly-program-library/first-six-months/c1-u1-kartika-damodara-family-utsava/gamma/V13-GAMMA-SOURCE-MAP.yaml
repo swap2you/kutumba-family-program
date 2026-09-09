@@ -1,0 +1,11 @@
+module: C1-U1
+primary:
+  ref: ŚB 10.9.18
+  url: https://vedabase.io/en/library/sb/10/9/18/
+supporting:
+  - ref: ŚB 10.9
+    url: https://vedabase.io/en/library/sb/10/9/
+  - ref: ŚB 10.9.19
+    url: https://vedabase.io/en/library/sb/10/9/19/
+gamma_status: prompt-only
+local_tithi: EXTERNAL_OPEN

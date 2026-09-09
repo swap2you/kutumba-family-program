@@ -1,0 +1,58 @@
+week: C1-W2
+version: V13
+title: I Am Not This Body
+date: 2026-09-19
+primary:
+  reference: BG 2.13
+  url: https://vedabase.io/en/library/bg/2/13/
+  devanagari: "देहिनोऽस्मिन् यथा देहे कौमारं यौवनं जरा । तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥ १३ ॥"
+  iast: "dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā / tathā dehāntara-prāptir dhīras tatra na muhyati"
+  kutumba_teaching_meaning: "Just as the embodied self passes through childhood, youth, and old age in one body, the sober person is not bewildered when the self passes to another body."
+  rights: "Sanskrit display from VedaBase; KUTUMBA-original teaching meaning; no full BBT purport reproduction"
+supporting:
+  - reference: BG 2.22
+    url: https://vedabase.io/en/library/bg/2/22/
+    use: garment analogy with limits
+  - reference: BG 2.20
+    url: https://vedabase.io/en/library/bg/2/20/
+    use: preview only; deep teaching W3
+  - reference: BG Ch. 1-2 narrative
+    url: https://vedabase.io/en/library/bg/1/
+    use: Arjuna grief context paraphrase
+decks:
+  master:
+    file: gamma/V13-GAMMA-MASTER-DECK-PROMPT.md
+    slides: 17
+  parent:
+    file: gamma/V13-GAMMA-PARENT-DECK-PROMPT.md
+    slides: 11
+  younger:
+    file: gamma/V13-GAMMA-YOUNGER-DECK-PROMPT.md
+    slides: 9
+  older:
+    file: gamma/V13-GAMMA-OLDER-DECK-PROMPT.md
+    slides: 11
+slide_source_links:
+  master:
+    1: V13-WEEK-START-HERE.md
+    2: V13-WEEK-START-HERE.md
+    3: teacher/MAIN-FACILITATOR-GUIDE-V13.md
+    4: research/V13-SCRIPTURAL-EXAMPLES.md
+    5: research/V13-SCRIPTURAL-EXAMPLES.md
+    6: activities/v13-older/O01-BG-2-13-OBSERVATION.md
+    7: activities/v13-older/O05-CHANGING-BODY-ENDURING-SELF-DIAGRAM.md
+    8: research/V13-ANALOGIES-AND-LIMITS.md
+    9: research/V13-DEVOTIONAL-HISTORICAL-EXAMPLES.md
+    10: research/V13-CASE-STUDIES.md
+    11: research/V13-CLAIM-REGISTER.yaml
+    12: family-home-practice-v13.md
+    13: teacher/PARENT-GUIDE-V13.md
+    14: teacher/YOUNGER-TEACHER-GUIDE-V13.md
+    15: teacher/MAIN-FACILITATOR-GUIDE-V13.md
+    16: project/V13-MODULE-PROJECT-BRIEF.md
+    17: V13-WEEK-START-HERE.md
+boundaries:
+  - Do not invent BBT purport text
+  - Do not claim science proves the soul
+  - Do not teach body neglect
+  - Do not claim temple/human/publication approval
