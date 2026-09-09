@@ -22,7 +22,8 @@ Why are we committing as a family?
 3. Pack younger + older materials and memory cards.
 4. Review misconception to block: **Coming to the session without home practice is enough.**
 5. Confirm snack/water only (no weekly meal); parents onsite; privacy reminder card visible.
-6. For C1-W4: verify Mṛgāri source cards say **CC Madhya 24.229–282** (not SB 6.x / SB 4.8).
+6. Confirm printables: parent P01–P05, younger Y01–Y05, older O01–O06 are printed and sorted.
+7. Confirm locked clock: tracks begin **2:30**; reunite **3:10**; snack **3:30**; saṅkalpa/project **3:40**; close **3:55–4:00**.
 
 ## 60-minute deep prep
 
@@ -75,7 +76,7 @@ KUTUMBA means we are choosing a protected weekly rhythm so our families can grow
 
 Our essential question is: Why are we committing as a family?
 
-Please open with me the primary verse for tonight: ŚB 1.2.18. The stable link is https://vedabase.io/en/library/sb/1/2/18/. I will not read a full purport into the room. I will give our KUTUMBA teaching meaning, which is an original paraphrase for classroom use:
+Please open with me the primary verse for **this Saturday**: ŚB 1.2.18. The stable link is https://vedabase.io/en/library/sb/1/2/18/. I will not read a full purport into the room. I will give our KUTUMBA teaching meaning, which is an original paraphrase for classroom use:
 
 "When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the Lord becomes established."
 
@@ -151,11 +152,11 @@ I will now ask the room three discovery questions. You may answer in a whisper t
 - Where have you seen the tension between 'showing up' and 'practicing at home'?
 - What would a five-minute minimum version look like in your kitchen this week?
 
-Understanding check — please be ready to say in one sentence: Protected weekly hearing plus home practice creates a path for family growth.. Name the primary: ŚB 1.2.18. Name what we are not teaching tonight: ranking, speculation, and the misconception “Coming to the session without home practice is enough.”.
+Understanding check — please be ready to say in one sentence: Protected weekly hearing plus home practice creates a path for family growth.. Name the primary: ŚB 1.2.18. Name what we are not teaching this Saturday: ranking, speculation, and the misconception “Coming to the session without home practice is enough.”.
 
 Application — before you leave the shared opening, decide silently: time + place for home practice; who starts if others are tired; and the minimum version if the week is hard. Five minutes counts. Memory line plus one kind action counts.
 
-Let me demonstrate a minimum home practice out loud so nobody leaves confused. Tonight after dinner, or at the same chair each evening, someone says the memory line once: “Regular hearing and service to Śrīmad-Bhāgavatam steadies our family's devotion..” Then one family member paraphrases ŚB 1.2.18 in a single sentence. Then one gratitude or service act — thanking someone, offering water, putting shoes away as kindness, or a short prayer. If the house is chaotic, keep only the memory line and one kind action. That still honors tonight’s conclusion: Protected weekly hearing plus home practice creates a path for family growth.
+Let me demonstrate a minimum home practice out loud so nobody leaves confused. This Saturday after dinner, or at the same chair each evening, someone says the memory line once: “Regular hearing and service to Śrīmad-Bhāgavatam steadies our family's devotion..” Then one family member paraphrases ŚB 1.2.18 in a single sentence. Then one gratitude or service act — thanking someone, offering water, putting shoes away as kindness, or a short prayer. If the house is chaotic, keep only the memory line and one kind action. That still honors this Saturday’s conclusion: Protected weekly hearing plus home practice creates a path for family growth.
 
 When we reunite at 3:10, I will not score families. I will ask for one sentence: “This week we will…” Drawings count. Whispered parent sentences count. Loud brilliance is not holier than quiet sincerity.
 
@@ -184,7 +185,7 @@ Recite with me before tracks:
 
 Parents: your job in the parent circle is not to perform brilliance. It is to leave with a cue, a minimum version, and a kinder sentence than the one you might have used last week. Younger and older teachers will deepen practice in age bands. We reunite at 3:10 for one family sentence: “This week we will…”
 
-That is the heart of tonight's teaching. Let us practice it, not merely admire it.
+That is the heart of this Saturday's teaching. Let us practice it, not merely admire it.
 
 ## Analogies with limits (inline — teach from here)
 
@@ -309,7 +310,7 @@ Accept drawings or whispered parent sentences for shy children. No scoreboard.
 ## Project contribution
 
 Advance the cumulative project **Who Am I, and How Should Our Family Live?** using `project/CYCLE-CONTRIBUTION.md`.  
-This week layer must connect to ŚB 1.2.18 and tonight's conclusion. Store artifacts for Week 6. Non-competitive.
+This week layer must connect to ŚB 1.2.18 and this Saturday's conclusion. Store artifacts for Week 6. Non-competitive.
 
 ## Home practice (5–15 minutes)
 
@@ -321,7 +322,7 @@ This week layer must connect to ŚB 1.2.18 and tonight's conclusion. Store artif
 ## Next-week preview
 
 Name only: **C1-W2 — I Am Not This Body**.  
-Do not teach next week's ontology in depth tonight.
+Do not teach next week's ontology in depth this Saturday.
 
 ## Do not claim
 

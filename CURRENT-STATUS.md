@@ -4,7 +4,11 @@
 
 - Overall verdict: **NO GO for internal pilot, family-facing distribution, and public publication**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **V12.1 independent acceptance closure — local PASS** — F01–F19 implementation defects closed; human/temple gates still EXTERNAL_OPEN; overall pilot still **NO GO**
+- Current phase: **V12.2 Week-1 gold standard — owner-runnable local/remote path closing** — C1-W1 only; human/temple gates still EXTERNAL_OPEN; overall pilot still **NO GO**; do not start C1-W2 until Week-1 acceptance is complete
+- V12.2 Week-1 owner start: `V12_2-WEEK1-START-HERE.md`
+- V12.2 Week-1 final packets: `exports/final/week1/`
+- V12.2 Week-1 acceptance: `scripts/v12_2/validate_week1_gold.py` · `build-evidence/V12_2-WEEK1-VISUAL-QA.md` · `build-evidence/V12_2-WEEK1-OPERATOR-RED-TEAM.md`
+- V12.2 Week-1 raster manifest: `build-evidence/v12_2-week1-rasters/manifest.json`
 - V12.1 owner start: `V12_1-START-HERE.md`
 - V12.1 final packets: `exports/final/*V12.1*`
 - V12.1 acceptance evidence: `build-evidence/V12_1-FINAL-LOCAL-ACCEPTANCE.md`
@@ -16,7 +20,7 @@
 - V8 structural remediation: **completed but superseded for readiness by V9 forensic audit**
 - V9 forensic audit: **found unresolved substantive gaps**
 - V10A truth freeze: **controls retained; human gates remain open**
-- Status generated: 2026-09-08
+- Status generated: 2026-09-09
 - Owner C1 index: `11-weekly-program-library/first-six-months/C1-V11-OWNER-INDEX.md`
 - Pause handoff: `PROJECT-PAUSE-HANDOFF.md`
 

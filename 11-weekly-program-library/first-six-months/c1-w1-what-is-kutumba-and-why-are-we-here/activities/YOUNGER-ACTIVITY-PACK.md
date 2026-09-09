@@ -2,56 +2,51 @@
 
 **Theme:** What Is KUTUMBA and Why Are We Here?  
 **Primary:** ŚB 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/  
-**Memory phrase:** Regular hearing and service to Śrīmad-Bhāgavatam steadies our family's devotion.
+**Memory phrase:** Our family helps one another remember Kṛṣṇa.  
+**Printables:** `activities/v12_2-younger/` Y01–Y05  
+**Teacher run sheet:** `teacher/YOUNGER-TEACHER-GUIDE.md`
 
 ---
 
 ## Objective
 
-Children show Hear + Practice together, echo the memory phrase, and take home a garden watering card with five practice drops.
+Children show Hear · Chant · Serve · Respect, echo the memory phrase, and take home a Bhakti Garden card and memory badge.
 
-## Core activity — Seed Cup Orientation (5–8 min)
+## Core activity — Four Corners (Y01 + Y02)
 
-1. Teacher shows a clear cup with a paper seed labeled **Hear → Practice**.
-2. Children take turns tapping the Hear side, then the Practice side.
-3. Ask: “Does the garden grow if we only splash once a week and forget?” Children shake heads.
-4. Ask: “What if we hear on Saturday *and* practice a little at home?” Children nod.
-5. End with three echoes of the memory phrase (clap rhythm).
+1. Post four corner signs.
+2. Read a scenario card.
+3. Children walk to the matching corner.
+4. Affirm; keep pace warm; use teacher key privately.
 
 ## Story boundary
 
 Paraphrase only from the younger teacher guide (protected hearing habit + regular Bhāgavata service). No invented deity dialogue. No graphic violence. No fear tactics. Do not claim our room equals Naimiṣāraṇya.
 
+## Craft — Bhakti Garden (Y03)
+
+1. Color four petals: HEAR · CHANT · SERVE · RESPECT.
+2. Center sentence stays readable.
+3. Fill “This week our family will grow.”
+4. Check the tiny home-practice box once together.
+
 ## Movement — Freeze and Water
 
-1. Children walk slowly in a circle.
-2. Teacher says **Freeze!** = stop.
-3. Teacher starts memory phrase; children finish it.
-4. Teacher says **Water!** = two gentle finger-taps toward center.
-5. Three rounds, then sit. On round three, point to the better picture: Saturday + home practice.
+1. Walk gently; **Freeze!**; finish memory phrase; **Water!** with two finger-taps.
+2. Three rounds.
 
-## Craft — Garden watering card (step-by-step)
+## Badge — Y04
 
-1. Fold card stock into a mini-folder.
-2. Outside: draw a small plant or sprout.
-3. Inside: write or sticker the memory phrase (or short echo: *Hear + Practice steadies us*).
-4. On the back: draw five empty water-drop outlines.
-5. Color drop 1 now while whispering the phrase.
-6. Take home; after each home practice this week, color one more drop.
-7. Place near dinner dishes or the family’s chosen chair.
+Cut, color, optional yarn bookmark.
 
-## Printable
+## Backup — Y05 house-rule sort
 
-Color `../visuals/V12/line-art-younger.svg` on US Letter if present. If missing, children color their garden card only.
-
-## Backup (low prep)
-
-Pass a soft object around the circle. Each child says one word: “hear,” “practice,” “kind,” or “Kṛṣṇa.” Close with the memory phrase.
+SAFE / NEEDS RESET cards. No shame language.
 
 ## Materials
 
-Printed line art (optional), crayons, card stock, demo seed cup, soft toss object, blue markers for drops, tape.
+Y01–Y05 printables, crayons, tape, soft toss object, calm-corner chair.
 
-## Parent note (glue inside card or say at handoff)
+## Parent note (handoff)
 
-Home practice: After dinner dishes, say the memory phrase once and color one water drop. Five minutes is enough. Snack/water only at the Saturday program; no weekly meal. We do not rank children.
+Memory: “Our family helps one another remember Kṛṣṇa.” Home: after dinner, say the line once and try one tiny practice. Snack/water only at the Saturday program; no weekly meal. We do not rank children.

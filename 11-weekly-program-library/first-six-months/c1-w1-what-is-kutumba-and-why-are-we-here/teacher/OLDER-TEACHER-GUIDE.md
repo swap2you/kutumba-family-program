@@ -2,15 +2,16 @@
 
 **Week:** What Is KUTUMBA and Why Are We Here?  
 **Primary:** ŚB 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/  
-**Session length:** ~40 minutes (parallel track ~2:30–3:10)  
-**Parents:** Remain onsite; reunite at 3:10  
+**Session length:** 40 minutes  
+**Track window:** Saturday **2:30–3:10**  
+**Parents:** Remain onsite; reunite at **3:10**  
 **Status:** Internal founding-cohort teaching material — human/temple review EXTERNAL_OPEN
 
 ---
 
 ## Objective
 
-Students observe ŚB 1.2.18, explain that **protected weekly hearing plus home practice** create a path for family growth, map a Hear → Practice → Steadier devotion diagram, and contribute one project sentence answering: **Why are we committing as a family?**
+Students observe **ŚB 1.2.18** with its complete KUTUMBA teaching meaning, sort what KUTUMBA **is / is not**, match the **six purposes** with examples, work scenarios with dignity, sketch a **Family Compass**, and close with an **exit ticket**.
 
 ## Exact memory phrase
 
@@ -20,103 +21,88 @@ Students observe ŚB 1.2.18, explain that **protected weekly hearing plus home p
 
 ## Teacher background
 
-- **KUTUMBA teaching meaning:** When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the Lord becomes established. (Label as KUTUMBA teaching meaning — not as BBT translation.)
+- **Primary — complete KUTUMBA teaching meaning of ŚB 1.2.18:** When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the Lord becomes established. (Label as KUTUMBA teaching meaning — not as BBT translation.)
 - **Supporting frames (one sentence each):** ŚB 1.2.17 — the Lord in the heart cleanses the faithful hearer; ŚB 1.2.19 — passion and ignorance can recede as hearing nourishes goodness; ŚB 1.1.4 — sages assemble to inquire about duty (pattern of protected hearing).
 - **Block:** “Attendance alone equals growth” and “Alone is always holier than association.”
-- **Scope:** Do not teach soul ontology (W2–W3) or rarity scare (W4) tonight.
+- **Scope:** Do not teach soul ontology (W2–W3) or rarity scare (W4) in this track.
 
-## Materials
+## Materials (print from `activities/v12_2-older/`)
 
-- Printed verse strip: Devanāgarī + IAST + KUTUMBA teaching meaning
-- Worksheet copies from `activities/OLDER-ACTIVITY-PACK.md`
-- Scenario cards (Saturday-only family; home-only / avoid association; ranking siblings — fictional)
-- Hear–Practice–Steady diagram sheet
-- Pencils; timer; answer key `activities/OLDER-ANSWER-KEY.md` for teacher only
-- Project contribution half-sheets
-- Matching term cards (optional cut set)
+| Code | File | Prep |
+|------|------|------|
+| **O01** | `O01-SB-1-2-18-OBSERVATION.md` | One observation sheet per student |
+| **O02** | `O02-KUTUMBA-IS-IS-NOT-SORT.md` | Cut 12 cards + 2 header mats; keep answer key |
+| **O03** | `O03-SIX-PURPOSE-CHALLENGE.md` | Cut 6 purpose + 12 example cards; keep key |
+| **O04** | `O04-SCENARIO-CHALLENGE.md` | One packet per small group |
+| **O05** | `O05-FAMILY-COMPASS.md` | One mini-poster per student (or shared wall copy) |
+| **O06** | `O06-EXIT-TICKET.md` | One exit ticket per student |
+
+Also: pencils; timer; verse display (IAST + teaching meaning).
 
 ---
 
-## Minute-by-minute plan
+## Minute-by-minute plan (40 minutes)
 
-### 0–5 min — Settle and hook
+### 0–5 min — Open / rules
 
-1. Welcome; feet on floor.
-2. Hook: “Which is more true — ‘Coming on Saturday is enough’ or ‘Staying home alone is always safer’?” Let two volunteers answer; hold both as incomplete.
-3. State essential question: Why are we committing as a family?
+1. Welcome; feet on floor; devices away.
+2. Hook: “Which is more true — ‘Coming on Saturday is enough’ or ‘Staying home alone is always safer’?” Hold both as incomplete.
+3. State essential question: **Why are we committing as a family?**
+4. Quick rules: kind speech; no ranking; honest questions welcome; check sources before inventing answers; freeze / pause cue if needed.
+5. Read memory phrase once together.
 
-### 5–14 min — Primary text observation (ŚB 1.2.18)
+### 5–12 min — Verse observation (O01)
 
-1. Display verse; read IAST aloud together once; teacher reads Devanāgarī slowly or plays authorized audio if available.
-2. Students underline three idea-words in the teaching meaning: **regularly**, **hear/serve**, **steady devotion**.
-3. Observation prompts (write short answers):
-   - What kind of service does the verse point to? (Bhāgavata — book and devotee association)
-   - What happens as troubles in the heart are cleared? (steady devotion becomes established)
-   - What does this verse **not** say? (that one Saturday replaces home practice; that science proves bhakti)
-4. Add one-sentence bridges:
-   - ŚB 1.2.17 — hearing with faith invites cleansing in the heart.
-   - ŚB 1.1.4 — protected inquiry in association is a model pattern, not a claim that our room equals that forest.
-5. Paraphrase only; no invented dialogue.
+1. Display ŚB 1.2.18; students open **O01**.
+2. Read IAST aloud together once; teacher reads slowly or plays authorized audio if available.
+3. Read the **complete** KUTUMBA teaching meaning aloud (do not shorten away book + association + steady devotion).
+4. Students complete O01 fields:
+   - repeated practice words I notice  
+   - what result is described?  
+   - why might “regular” matter?  
+   - one question for facilitator  
+5. Circulate; accept short answers; paraphrase only — no invented dialogue.
+6. Optional bridge (one sentence): ŚB 1.2.17 — hearing with faith invites cleansing in the heart.
 
-### 14–22 min — Worksheet questions
+### 12–20 min — Is / Is Not sort (O02)
 
-Students complete Section A of the older activity pack:
-1. Restate KUTUMBA teaching meaning in their own words (one sentence).
-2. Name two halves of family growth (weekly hearing + home practice).
-3. Why is “attendance alone” incomplete?
-4. Why is “alone is always holier” incomplete?
-5. Write one 5–15 minute if-then home cue for this week.
+1. Lay out **KUTUMBA IS** and **KUTUMBA IS NOT** mats from **O02**.
+2. Groups sort all 12 cards.
+3. Check with the O02 answer key (teacher only during first attempt).
+4. Ask one student: Why does “supports temple life” matter for ŚB 1.2.18?
 
-Teacher circulates; use `OLDER-ANSWER-KEY.md` for expected directions (not for grading ranks).
+### 20–28 min — Six-purpose challenge (O03)
 
-### 22–28 min — Scenario cards (small groups)
+1. Place six purpose cards from **O03** face up.
+2. Teams match 12 example cards to the six purposes.
+3. Check with O03 answer key.
+4. Each student writes (on scrap or back of O05): one purpose their family most needs + one concrete example (no private confession required).
 
-Each group gets one fictional card:
+### 28–35 min — Scenario challenge (O04) + Family Compass (O05)
 
-**Card A — Saturday-only:** Never miss 2:00–4:00; zero weekday cue. Mistaken line: “Attendance equals growth.”  
-**Card B — Home-only avoiders:** Chant at home; avoid association because awkward. Mistaken line: “Alone is always safer.”  
-**Card C — Ranking hallway:** Parent compares children’s seriousness aloud. Mistaken line: “Ranking produces devotion.”
+1. Assign each group one scenario from **O04** (rotate if time allows a second).
+2. For the assigned scenario, write: What is good? What is missing? What should happen next? Which KUTUMBA principle applies?
+3. Share one insight per group (45–60 seconds). Use O04 answer key for expected directions — not scores.
+4. Hand **O05** Family Compass. Students label HEAR · PRACTICE · SERVE · ASSOCIATE and write one sentence under the direction they need most. Center prompt: *How should our family grow?*
 
-For each card, group writes:
-1. What is the mistaken conclusion?
-2. What compassionate response keeps dignity?
-3. What is one better family action (no shame, no ranking)?
+### 35–40 min — Exit ticket (O06) + cleanup
 
-Share one insight per group (60 seconds).
-
-### 28–33 min — Puzzle / game: Hear–Practice Match
-
-1. Place four term cards face down: Hearing · Saṅkalpa · Charter · Association.
-2. Place four meaning cards: Regular Bhāgavata reception · Specific practice intention · KUTUMBA purposes/boundaries · Learning with devotees.
-3. Teams race (quietly) to match all four; then one student explains why Hearing and Association both matter for ŚB 1.2.18.
-4. Keep energy respectful; no mocking wrong matches.
-
-### 33–37 min — Diagram task
-
-On the Hear–Practice–Steady sheet, students fill:
-
-`Protected Saturday hearing → Tiny home practice → Steadier family devotion`
-
-Draw one arrow labeled **ŚB 1.2.18** into the Steady box. Write the short echo inside it.
-
-### 37–40 min — Project contribution + reflection + handoff
-
-1. Complete project half-sheet: “We are committing as a family because _______________.”
-2. Reflection (one sentence): Where might I confuse a garden analogy with the verse itself?
-3. Cleanup; bring sheets to reunification.
-4. Parent handoff line: Home practice is After dinner dishes → say memory phrase once (5 minutes counts).
+1. Complete **O06** five prompts: KUTUMBA is… / is not… / one rule… / one family try… / one question…
+2. Cleanup; stack O01–O06; bring compass and exit ticket to reunification if helpful.
+3. At **3:10**, group share line (not private commitments): **one KUTUMBA purpose + one behavior that supports it.**
+4. Parent handoff: Home practice after a family trigger (for example after dinner dishes) — say the memory phrase once; five minutes counts. Minimum before next Saturday: one prayer, three mahā-mantras, one appreciation, at least once.
 
 ## Extension (if group finishes early)
 
-Compare ŚB 1.2.19 (passion/ignorance receding through hearing) with the garden image: roots grow before flowers. Still no soul ontology dump.
+Compare ŚB 1.2.19 (passion/ignorance receding through hearing) with the compass: roots (hear/practice) before flowers. Still no soul ontology dump.
 
-## Answer key pointer
+## Answer keys
 
-Teacher-facing expected answers: `activities/OLDER-ANSWER-KEY.md`. Do not distribute the key to students during the first attempt.
+Teacher-facing keys are inside **O02**, **O03**, and **O04**. Do not distribute keys to students during the first attempt.
 
 ## Behavior and privacy
 
-- Redirect side talk: “Return to your diagram — Steady box only.”
+- Redirect side talk: “Return to your card sort — one card at a time.”
 - No forced confession of real family attendance gaps.
 - No ranking scores aloud.
-- Parents onsite; snack/water belongs to main schedule, not track rewards framed as a meal.
+- Parents onsite; snack/water belongs to main schedule (**3:30**), not track rewards framed as a meal.
