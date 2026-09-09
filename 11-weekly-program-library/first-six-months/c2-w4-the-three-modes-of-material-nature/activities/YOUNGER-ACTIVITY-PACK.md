@@ -1,27 +1,74 @@
 # C2-W4 Younger Activity Pack (K–2)
 
-## Objective
-Show and say: **Recognize the three modes shaping mood, speech, and choices.**
+**Print / prep before Saturday.**  
+**Objective:** Show and say — **Calm helps me hear Kṛṣṇa.**  
+**Block:** Do not call children mode names.
 
-## Core activity — mode_traffic_lights
-1. Teacher demonstrates once.
-2. Children participate for 5–8 minutes.
-3. End with memory phrase echo.
+---
+
+## Core activity — Weather Faces + Room-Reset Relay
+
+**Time:** 5–8 minutes movement + brief recall.
+
+### Setup
+
+1. Print or draw three weather-face cards: clear sun, windy cloud, fog.
+2. Place three soft “mess” items on a rug and an empty basket.
+3. Clear running space; teacher keeps the demo calm.
+
+### Steps
+
+1. Teacher holds each face and says: clear = easier listening; windy = rushed/noisy; foggy = sleepy-confused start.
+2. Children echo the three names.
+3. Call “Clear sky!” — children freeze in calm sit.
+4. Call “Windy!” — ten quiet tip-toe steps in place.
+5. Call “Foggy!” — slowly place one item in the basket.
+6. Repeat; end seated. Whole group says memory phrase twice.
+7. Teacher closes: “We fixed the room. We did not name a friend as weather.”
+
+---
 
 ## Story boundary
-Paraphrase only from `research/DEVOTIONAL-AND-HISTORICAL-EXAMPLES.md`. No invented deity dialogue. No graphic violence.
 
-## Movement
-Freeze-and-Remember using this week's memory phrase.
+Paraphrase only the “Three Weather Days in One House” script in `teacher/YOUNGER-TEACHER-GUIDE.md` (sourced pedagogy; no invented deity dialogue; no graphic fear content).
 
-## Craft / object
-Week craft tied to The Three Modes of Material Nature; take-home card with phrase inside.
+---
 
-## Printable
-Color `../visuals/V12/line-art-younger.svg` (US Letter).
+## Wonder questions (print for teacher clipboard)
 
-## Backup
-Pass soft object; each child says one kind word; echo phrase.
+1. What was new about clear, windy, and foggy days?
+2. Whom can we serve when the room feels busy or messy?
+3. When can we practice five quiet minutes before chanting?
 
-## Materials
-Printed line art, crayons, card stock, soft toss object.
+---
+
+## Craft / object — Calm Card
+
+**Steps:**
+
+1. Color `../visuals/V12/line-art-younger.svg` on US Letter paper.
+2. Fold card stock in half.
+3. Inside, write or glue: **Calm helps me hear Kṛṣṇa.**
+4. On the back, draw a tidy basket or a quiet device.
+5. Take home for the family five-minute reset cue.
+
+---
+
+## Printable checklist
+
+- [ ] Weather-face cards (1 set per table)
+- [ ] Line-art page per child
+- [ ] Card stock per child
+- [ ] Crayons / pencils
+- [ ] Soft toss object for backup circle
+- [ ] Basket + three soft tidy items
+
+---
+
+## Backup circle (if craft runs long)
+
+Pass soft object. Each child: one kind word + memory phrase. Teacher leads three-item tidy of the rug.
+
+## Materials summary
+
+Printed line art, crayons, card stock, soft toss object, weather cards, basket, three soft items, timer.

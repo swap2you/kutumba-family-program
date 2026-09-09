@@ -201,39 +201,39 @@ c3_w3:
 
 c3_w4:
   week: C3-W4
-  reference: "CC Antya 20.12 / Śikṣāṣṭaka 1 context"
+  reference: "CC Antya 20.12 (Śikṣāṣṭaka 1)"
   source_language: Sanskrit
-  devanagari: "चेतोदर्पणमार्जनं भवमहादावाग्निनिर्वापणम् । श्रेय:कैरवचन्द्रिकावितरणं विद्यावधूजीवनम् ॥"
-  iast: "ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇam / śreyaḥ-kairava-candrikā-vitaraṇaṁ vidyā-vadhū-jīvanam"
-  kutumba_teaching_meaning: "Chanting the holy name cleanses the mirror of the heart, extinguishes the forest fire of material existence, and spreads the moonlight of auspiciousness — the life of all knowledge."
+  devanagari: "चेतोदर्पणमार्जनं भवमहादावाग्निनिर्वापणम् । श्रेयःकैरवचन्द्रिकावितरणं विद्यावधूजीवनम् ॥ आनन्दाम्बुधिवर्धनं प्रतिपदं पूर्णामृतास्वादनम् । सर्वात्मस्नपनं परं विजयते श्रीकृष्णसङ्कीर्तनम् ॥"
+  iast: "ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ śreyaḥ-kairava-candrikā-vitaraṇaṁ vidyā-vadhū-jīvanam ānandāmbudhi-vardhanaṁ prati-padaṁ pūrṇāmṛtāsvādanaṁ sarvātma-snapanaṁ paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam"
+  kutumba_teaching_meaning: "Let there be all victory for śrī-kṛṣṇa-saṅkīrtana — which cleanses the mirror of the heart, extinguishes the blazing forest fire of material existence, spreads the moonlight of good fortune, is the life of all education, expands the ocean of bliss, gives a taste of full nectar at every step, and bathes the self of everyone."
   url: "https://vedabase.io/en/library/cc/antya/20/12/"
-  keywords: [holy-name, Caitanya, cleansing]
-  teaches: "Śrī Caitanya Mahāprabhu and the holy name."
-  scope_boundary: "No invented Caitanya dialogue; use authorised sources only."
-  rights_status: "Sanskrit from VedaBase Śikṣāṣṭaka context; KUTUMBA teaching meaning original; verify local chanting sheet."
+  keywords: [holy-name, Caitanya, sankirtana, Sikshastaka]
+  teaches: "Śrī Caitanya Mahāprabhu and the holy name — full Śikṣāṣṭaka 1."
+  scope_boundary: "No invented Caitanya dialogue; use authorised sources only; do not truncate before paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam."
+  rights_status: "Sanskrit verse text from VedaBase display (CC Antya 20.12 / Śikṣāṣṭaka 1); KUTUMBA teaching meaning original; verify local chanting sheet."
 
 c3_w5:
   week: C3-W5
   reference: "ŚB 7.5.23–24"
   source_language: Sanskrit
-  devanagari: "श्रवणं कीर्तनं विष्णो: स्मरणं पादसेवनम् । अर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ॥"
-  iast: "śravaṇaṁ kīrtanaṁ viṣṇoḥ smaraṇaṁ pāda-sevanam / arcanaṁ vandanaṁ dāsyaṁ sakhyam ātma-nivedanam"
-  kutumba_teaching_meaning: "Hearing, chanting, remembering, serving the Lord's feet, worship, offering prayers, becoming a servant, friendship, and full self-surrender — the nine processes of bhakti."
+  devanagari: "श्रीप्रह्राद उवाच श्रवणं कीर्तनं विष्णो: स्मरणं पादसेवनम् । अर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ॥ २३ ॥ इति पुंसार्पिता विष्णौ भक्तिश्चेन्नवलक्षणा । क्रियेत भगवत्यद्धा तन्मन्येऽधीतमुत्तमम् ॥ २४ ॥"
+  iast: "śrī-prahrāda uvāca — śravaṇaṁ kīrtanaṁ viṣṇoḥ smaraṇaṁ pāda-sevanam / arcanaṁ vandanaṁ dāsyaṁ sakhyam ātma-nivedanam // iti puṁsārpitā viṣṇau bhaktiś cen nava-lakṣaṇā / kriyeta bhagavaty addhā tan manye ’dhītam uttamam"
+  kutumba_teaching_meaning: "Prahlāda lists nine processes of bhakti unto Viṣṇu — hearing, chanting, remembering, serving the Lord's feet, worship, prayers, servitude, friendship, and full self-surrender — and teaches that such dedicated bhakti is the topmost learning."
   url: "https://vedabase.io/en/library/sb/7/5/23-24/"
-  keywords: [nine-processes, bhakti, hearing-chanting]
+  keywords: [nine-processes, bhakti, hearing-chanting, Prahlada]
   teaches: "The nine processes of bhakti as a family map."
-  scope_boundary: "Does not require children to master all nine at once."
-  rights_status: "Sanskrit verse text from VedaBase display; KUTUMBA teaching meaning original."
+  scope_boundary: "Does not require children to master all nine at once; both verses 23 and 24 must be present."
+  rights_status: "Sanskrit verse text from VedaBase ŚB 7.5.23–24; KUTUMBA teaching meaning original."
 
 c3_w6:
   week: C3-W6
-  reference: "Cycle 3 review (ŚB 7.5.23–24 center)"
+  reference: "Cycle 3 review (BG 5.29 · BG 7.7 · BG 4.34 · CC Antya 20.12 · ŚB 7.5.23–24)"
   source_language: Sanskrit
-  devanagari: "(review C3 primaries)"
-  iast: "BG 5.29 · BG 7.7 · BG 4.34 · holy name · ŚB 7.5.23–24"
-  kutumba_teaching_meaning: "Bhakti Mela — celebrate hearing, chanting, and family presentation without ranking."
+  devanagari: "(review C3 primaries — see C3-W1 through C3-W5 packs)"
+  iast: "BG 5.29 · BG 7.7 · BG 4.34 · CC Antya 20.12 · ŚB 7.5.23–24"
+  kutumba_teaching_meaning: "Bhakti Mela — celebrate the C3 chain (God as enjoyer/friend, Kṛṣṇa as Supreme, guru-sādhu-śāstra, śrī-kṛṣṇa-saṅkīrtana, nine processes) with family presentation and without ranking."
   url: "https://vedabase.io/en/library/sb/7/5/23-24/"
-  keywords: [mela, kirtana, presentation]
+  keywords: [mela, kirtana, presentation, review-chain]
   teaches: "Share what we learned with joy and humility."
-  scope_boundary: "No competitive scoring of devotion."
+  scope_boundary: "No competitive scoring of devotion; review chain must name CC Antya 20.12 explicitly (not generic 'holy name')."
   rights_status: "Review of prior week Sanskrit layers; KUTUMBA synthesis original."

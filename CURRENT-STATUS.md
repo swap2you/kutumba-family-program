@@ -4,10 +4,11 @@
 
 - Overall verdict: **NO GO for internal pilot, family-facing distribution, and public publication**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **internal-development-paused** with **V12 one-pass production closure applied** (C1–C3 first-six-month packs + branded exports; human/temple gates still open)
-- V12 owner start: `V12-START-HERE.md`
-- V12 final packets: `exports/final/`
-- V12 acceptance evidence: `build-evidence/V12-FINAL-LOCAL-ACCEPTANCE.md`
+- Current phase: **V12.1 independent acceptance closure — local PASS** — F01–F19 implementation defects closed; human/temple gates still EXTERNAL_OPEN; overall pilot still **NO GO**
+- V12.1 owner start: `V12_1-START-HERE.md`
+- V12.1 final packets: `exports/final/*V12.1*`
+- V12.1 acceptance evidence: `build-evidence/V12_1-FINAL-LOCAL-ACCEPTANCE.md`
+- V12 owner start (superseded for corrected path): `V12-START-HERE.md`
 - V11 Cycle 1 Saturday founding-cohort package: **structurally produced** — not human-approved
 - V11.1 Cycle 1 content-depth pass: **semantic scaffolds replaced** — superseded by V12 for owner path
 - V11.1 depth audit: `build-evidence/V11_1-C1-CONTENT-DEPTH-AUDIT.md`
@@ -51,6 +52,8 @@
 | V12 iteration log | `build-evidence/V12-ITERATION-LOG.md` |
 | V12 local acceptance | `build-evidence/V12-FINAL-LOCAL-ACCEPTANCE.md` |
 | V12 PDF QA | `build-evidence/V12-PDF-RENDER-QA.md` |
+| V12.1 baseline failures | `build-evidence/V12_1-BASELINE-FAILURES.md` |
+| V12.1 F06 restore script | `scripts/v12/restore_c1_f06_facilitator_depth.py` |
 | Pilot gate register | `17-reviews-and-audits/PILOT-READINESS-GATE-REGISTER.yaml` |
 
 ## Validation

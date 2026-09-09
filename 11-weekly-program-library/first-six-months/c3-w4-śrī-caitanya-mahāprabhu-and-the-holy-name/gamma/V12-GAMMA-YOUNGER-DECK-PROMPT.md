@@ -1,205 +1,49 @@
-# C3-W4 V12 Gamma younger-K2 Deck
+# C3-W4 V12 Gamma Younger Deck
 
 **Status:** prompt-only — not rendered — not approved
 
-## Slides
+## Audience focus
 
-### Slide 1 — younger-K2 focus 1
+Mirror + call-and-response visuals.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 1, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** CC Antya 20.12 / Śikṣāṣṭaka 1 context — https://vedabase.io/en/library/cc/antya/20/12/
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Required content fidelity
 
-### Slide 2 — younger-K2 focus 2
+- Full teaching meaning (never truncated mid-phrase): Let there be all victory for śrī-kṛṣṇa-saṅkīrtana — which cleanses the mirror of the heart, extinguishes the blazing forest fire of material existence, spreads the moonlight of good fortune, is the life of all education, expands the ocean of bliss, gives a taste of full nectar at every step, and bathes the self of everyone.
+- Primary: CC Antya 20.12 (Śikṣāṣṭaka 1) — https://vedabase.io/en/library/cc/antya/20/12/
+- Devanāgarī: चेतोदर्पणमार्जनं भवमहादावाग्निनिर्वापणम् । श्रेयःकैरवचन्द्रिकावितरणं विद्यावधूजीवनम् ॥ आनन्दाम्बुधिवर्धनं प्रतिपदं पूर्णामृतास्वादनम् । सर्वात्मस्नपनं परं विजयते श्रीकृष्णसङ्कीर्तनम् ॥
+- IAST: ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ śreyaḥ-kairava-candrikā-vitaraṇaṁ vidyā-vadhū-jīvanam ānandāmbudhi-vardhanaṁ prati-padaṁ pūrṇāmṛtāsvādanaṁ sarvātma-snapanaṁ paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam
+- Memory: Paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam — all victory to the congregational chanting of Kṛṣṇa’s names.
+- Block: Force chanting as punishment / treat kīrtana as talent show.
+- Home practice: Five-minute family kīrtana or attentive mantra listening on three days.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 2, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** CC Antya 20.12 / Śikṣāṣṭaka 1 context — https://vedabase.io/en/library/cc/antya/20/12/
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Slide spine (adapt master slides)
 
-### Slide 3 — younger-K2 focus 3
+1. Title with week name and Saturday 2:00–4:00
+2. Essential question: Why chant the holy name — and how do we chant without turning it into a show?
+3. Primary verse with complete Devanāgarī + IAST + full teaching meaning (no mid-phrase cut)
+4. One analogy with spoken limit on-screen
+5. One age-fit practice slide drawn from activity pack
+6. Home practice card
+7. Closing gratitude without ranking
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 3, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** CC Antya 20.12 / Śikṣāṣṭaka 1 context — https://vedabase.io/en/library/cc/antya/20/12/
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Exact on-screen teaching meaning (copy whole)
 
-### Slide 4 — younger-K2 focus 4
+Let there be all victory for śrī-kṛṣṇa-saṅkīrtana — which cleanses the mirror of the heart, extinguishes the blazing forest fire of material existence, spreads the moonlight of good fortune, is the life of all education, expands the ocean of bliss, gives a taste of full nectar at every step, and bathes the self of everyone.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 4, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** CC Antya 20.12 / Śikṣāṣṭaka 1 context — https://vedabase.io/en/library/cc/antya/20/12/
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Image prompts (specific)
 
-### Slide 5 — younger-K2 focus 5
+1) Soft mirror being gently wiped by a child with parent nearby, warm light, no text.
+2) Family kīrtana circle with mixed ages, inclusive, no stage-spotlight vibe, no logos.
+3) Open space for full verse text slide — image should be quiet parchment texture without fake glyphs.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 5, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Presenter notes spine
 
-### Slide 6 — younger-K2 focus 6
+- Parents onsite; snack/water only; no weekly meal.
+- Do not claim human/temple/publication approval.
+- Teaching meaning is KUTUMBA pedagogy, not a BBT translation label.
+- Refuse ranking and punishment-chanting.
+- Cycle 3 excludes Mṛgāri narratives.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 6, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Sources
 
-### Slide 7 — younger-K2 focus 7
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 7, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — younger-K2 focus 8
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 8, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — younger-K2 focus 9
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 9, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — younger-K2 focus 10
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - holy-name
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W4 slide 10, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+Cite CC Antya 20.12 (Śikṣāṣṭaka 1) (https://vedabase.io/en/library/cc/antya/20/12/) and listed supporting sources by reference + URL. Do not write vague policy placeholders.

@@ -40,27 +40,19 @@ def md_sections(path: Path) -> list[tuple[str, list[str]]]:
 
 
 def build_docx_from_md(md_path: Path, out_docx: Path, title: str, scope: str, audience: str) -> None:
+    """Delegate to V12.1-capable Markdown renderer (tables + styles)."""
+    import re
+
+    from render_publication_docs import render_markdown
+
     doc = Document()
     apply_kutumba_styles(doc)
     add_cover(doc, title, TAGLINE, scope)
     add_header_footer(doc, scope, audience)
-    for heading, body in md_sections(md_path):
-        if heading:
-            doc.add_heading(heading, level=1)
-        para = []
-        for line in body:
-            if line.strip().startswith("|") and "|" in line[1:]:
-                if para:
-                    doc.add_paragraph("\n".join(para))
-                    para = []
-                continue  # tables simplified as paragraphs below
-            if line.strip():
-                para.append(line)
-            elif para:
-                doc.add_paragraph("\n".join(para))
-                para = []
-        if para:
-            doc.add_paragraph("\n".join(para))
+    if md_path.exists():
+        text = md_path.read_text(encoding="utf-8")
+        body = re.sub(r"^#[^\n]*\n+", "", text, count=1)
+        render_markdown(doc, body, title)
     add_callout(doc, "RIGHTS_NOTE", "Original KUTUMBA program material. Scripture/BBT/ISKCON/third-party rights remain with their holders.")
     out_docx.parent.mkdir(parents=True, exist_ok=True)
     doc.save(out_docx)

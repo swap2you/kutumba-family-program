@@ -1,234 +1,189 @@
-# C2-W1 V12 Gamma older-4-5 Deck
+# C2-W1 V12 Gamma Older (Grades 4–5) Deck
 
 **Status:** prompt-only — not rendered — not approved
 
+**Deck identity:** C2-W1 — Action and Reaction: How Karma Binds  
+**Audience:** older Grades 4–5  
+**Program:** KUTUMBA • Families Growing in Krishna Consciousness · Program Director Swapnil Patil
+
 ## Slides
 
-### Slide 1 — older-4-5 focus 1
+### Slide 1 — Essential question
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Open inquiry
 - **Exact on-screen copy:**
   - How do our actions bind or free us?
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
+  - Tonight we observe BG 3.9 and practice intention–method–consequence
+- **Detailed AI image prompt:** 16:9 older children at a study table with blank notebooks; calm focus; cool daylight; no logos; no readable text
 - **Source:** BG 3.9 — https://vedabase.io/en/library/bg/3/9/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+- **Presenter notes:** No ranking of answers.
+- **Interaction:** 15-second silent think
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Large question type
 
-### Slide 2 — older-4-5 focus 2
+### Slide 2 — Verse observation setup
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Source discipline
 - **Exact on-screen copy:**
-  - Observation/puzzle step 2
-  - BG 3.9
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 3.9 — https://vedabase.io/en/library/bg/3/9/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - Open https://vedabase.io/en/library/bg/3/9/
+  - Write: setting · key phrase · paraphrase · what it does NOT say
+  - Do not dump long purports
+- **Detailed AI image prompt:** 16:9 tablet/laptop with blurred verse page (unreadable) beside pencil and observation sheet; desk lamp; no logos
+- **Source:** BG 3.9 — https://vedabase.io/en/library/bg/3/9/; teacher/OLDER-TEACHER-GUIDE.md
+- **Presenter notes:** Circulate; check “does not say” box.
+- **Interaction:** Students write
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Pair readers if needed
 
-### Slide 3 — older-4-5 focus 3
+### Slide 3 — Full teaching meaning
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Secure paraphrase target
 - **Exact on-screen copy:**
-  - BG 3.9
+  - KUTUMBA teaching meaning:
+  - Work done for the satisfaction of the Lord frees us from bondage; otherwise action binds. Therefore act with detachment for His purpose.
+  - Not labeled as BBT translation
+- **Detailed AI image prompt:** 16:9 clean chalkboard-style panel with soft chalk texture but blank writing area; warm classroom light; no logos; no words in image
+- **Source:** launch/C2-VERSE-PACK.md; BG 3.9 — https://vedabase.io/en/library/bg/3/9/
+- **Presenter notes:** Students compare their paraphrase to this target.
+- **Interaction:** Underline “otherwise action binds”
+- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Accessibility:** Read slowly
+
+### Slide 4 — Sanskrit layers (compact)
+
+- **Audience:** older-4-5
+- **Teaching objective:** Respect the verse body
+- **Exact on-screen copy:**
+  - यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः । तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥ ९ ॥
   - yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ / tad-arthaṁ karma kaunteya mukta-saṅgaḥ samācara
-  - Meaning: Work done for the satisfaction of the Lord frees us from bondage; otherwise action binds. 
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
+- **Detailed AI image prompt:** 16:9 elegant manuscript leaf motif without readable glyphs; soft side light; scholarly calm; no logos
 - **Source:** BG 3.9 — https://vedabase.io/en/library/bg/3/9/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+- **Presenter notes:** Optional choral IAST once.
+- **Interaction:** Spot the word bandhanaḥ
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Transliteration support
 
-### Slide 4 — older-4-5 focus 4
+### Slide 5 — Taxonomy support
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Why “stop working” fails
 - **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 3.9 — https://vedabase.io/en/library/bg/3/9/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - BG 4.16 — confusion about action/inaction — https://vedabase.io/en/library/bg/4/16/
+  - BG 4.17 — know action, forbidden action, inaction — https://vedabase.io/en/library/bg/4/17/
+  - BG 4.18 — see non-binding work within activity — https://vedabase.io/en/library/bg/4/18/
+  - Challenge: “I’ll do nothing so I create no karma.” Response: too simple.
+- **Detailed AI image prompt:** 16:9 three stacked blank study cards with numerals suggested only by layout (no digits drawn); cool daylight desk; no logos
+- **Source:** BG 4.16–18 URLs above
+- **Presenter notes:** Keep light; point to worksheet Q3.
+- **Interaction:** Thumbs-up if they can explain the challenge response
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Read challenge/response
 
-### Slide 5 — older-4-5 focus 5
+### Slide 6 — Scenario cards
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Apply IMC
 - **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - Card 1 Angry text · Card 2 Gift for praise · Card 3 Quiet repair
+  - For your card: intention · method · consequence · one repair
+  - No victim-blame language
+- **Detailed AI image prompt:** 16:9 three illustrated scenario cards face-down on a table with one card turning up showing blank icon of a phone; soft light; no logos; no readable chat
+- **Source:** activities/OLDER-ACTIVITY-PACK.md; BG 3.9 — https://vedabase.io/en/library/bg/3/9/
+- **Presenter notes:** Triads; 6 minutes.
+- **Interaction:** One triad reports repair only
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Read cards aloud for mixed readers
 
-### Slide 6 — older-4-5 focus 6
+### Slide 7 — Seed–fruit match rules
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Launch puzzle
 - **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - Match seeds to fruits
+  - Label Direct · Indirect · Delayed
+  - Include delayed examples (practice → skill)
+- **Detailed AI image prompt:** 16:9 pairs of illustrated seed and fruit tokens on a cloth; arrows between some pairs; bright tabletop light; no text; no logos
+- **Source:** activities/OLDER-ACTIVITY-PACK.md
+- **Presenter notes:** Use answer key privately.
+- **Interaction:** Pairs match for 5–6 minutes
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Large tokens
 
-### Slide 7 — older-4-5 focus 7
+### Slide 8 — Action chain challenge
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Delayed/indirect effects
 - **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - Build a 3-link chain from one online post
+  - Example shape: post → screenshot → widened conflict
+  - Do not use real classmate names
+- **Detailed AI image prompt:** 16:9 three linked circular nodes as soft illustration (blank centers) connected by arrows; abstract educational; cool teal accents; no logos; no text
+- **Source:** activities/OLDER-ACTIVITY-PACK.md; BG 4.17 — https://vedabase.io/en/library/bg/4/17/
+- **Presenter notes:** Keep anonymous and non-shaming.
+- **Interaction:** One chain shared on board
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Provide starter chain template
 
-### Slide 8 — older-4-5 focus 8
+### Slide 9 — Intention–Method–Consequence diagram
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Diagram mastery
 - **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - Fill Intention · Method · Consequence
+  - Add Offered rewrite: Before · During · After
+  - Align with visuals/V12/concept-diagram.svg if shown
+- **Detailed AI image prompt:** 16:9 three empty boxes in a row with a fourth smaller rewrite box beneath; clean educational diagram look; soft gray-blue; no text inside boxes; no logos
+- **Source:** teacher/OLDER-TEACHER-GUIDE.md; visuals/V12/concept-diagram.svg; BG 3.9 — https://vedabase.io/en/library/bg/3/9/
+- **Presenter notes:** Check offered rewrite for all three stages.
+- **Interaction:** Students complete sheets
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Describe boxes verbally
 
-### Slide 9 — older-4-5 focus 9
+### Slide 10 — Misconception check
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Block fatalism / victim-blame
 - **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - False: “My next choice doesn’t matter.”
+  - True: BG 3.9 calls for detached action for the Lord’s purpose.
+  - False: “That family’s hardship proves their past karma.”
+  - True: We never diagnose others that way.
+- **Detailed AI image prompt:** 16:9 myth/truth balance scale with soft clay weights; educational; warm light; no logos; no text
+- **Source:** BG 3.9 — https://vedabase.io/en/library/bg/3/9/; launch/TEACHER-READINESS-STANDARD.md
+- **Presenter notes:** Chorus the true lines.
+- **Interaction:** Students rewrite one false line
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** High contrast columns
 
-### Slide 10 — older-4-5 focus 10
+### Slide 11 — Project + reflection
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Artifact + analogy vs scripture
 - **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - Project line: Our family action that binds or frees / offered version
+  - Reflection: Analogy teaches; BG 3.9 authorizes
+  - See project/CYCLE-CONTRIBUTION.md
+- **Detailed AI image prompt:** 16:9 student writing a short blank card beside a small plant; calm desk; daylight; no logos; no readable writing
+- **Source:** project/CYCLE-CONTRIBUTION.md; BG 3.9 — https://vedabase.io/en/library/bg/3/9/
+- **Presenter notes:** Keep ≤2 minutes.
+- **Interaction:** Write project line
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Sentence starters available
 
-### Slide 11 — older-4-5 focus 11
+### Slide 12 — Reunification sentence
 
 - **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Teaching objective:** Family share ready
 - **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
+  - This week I will offer ______ by before ______, during ______, after ______.
+  - Bring this sentence to reunification at 3:10
+  - Teacher key: activities/OLDER-ANSWER-KEY.md (teachers only)
+- **Detailed AI image prompt:** 16:9 students standing with cards joining a family circle doorway; warm reunion light; no logos; blank cards
+- **Source:** teacher/OLDER-TEACHER-GUIDE.md; activities/OLDER-ANSWER-KEY.md; BG 3.9 — https://vedabase.io/en/library/bg/3/9/
+- **Presenter notes:** Collect pencils; move to reunite.
+- **Interaction:** Practice sentence with partner once
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — older-4-5 focus 12
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - Work offered to the Lord frees; other work binds.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fatalism removes responsibility.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Provide filled example with blanks spoken

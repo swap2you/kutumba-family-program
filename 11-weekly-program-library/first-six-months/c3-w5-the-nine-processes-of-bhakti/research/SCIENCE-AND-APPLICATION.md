@@ -1,3 +1,20 @@
-# C3-W5 Science
+# C3-W5 Science and Application
 
-Empirical research may support pedagogy only. Never claim science proves ātman/karma/God. If unused this week, state N/A explicitly.
+**Week:** The Nine Processes of Bhakti
+**Primary doctrinal anchor:** ŚB 7.5.23–24 — https://vedabase.io/en/library/sb/7/5/23-24/
+
+## Option B — explicit N/A
+
+**N/A — no empirical claim is needed for this week's doctrinal conclusion**
+
+### Reason
+
+The nine processes and the claim that bhakti offered to Viṣṇu is topmost learning are doctrinal from ŚB 7.5.23–24.
+
+### Allowed pedagogical borrowing (non-proof)
+
+Habit “add one” scaffolding may help practice design, never as proof of bhakti-tattva.
+
+### Facilitator line if asked
+
+> Adding one habit can be wise. It does not prove Prahlāda’s conclusion. Tonight rests on ŚB 7.5.23–24.

@@ -1,9 +1,9 @@
 # C3-W4 Gamma Master Deck Brief
 
-| Deck | File | Cards | Audience |
-| --- | --- | --- | --- |
-| Parent | GAMMA-PARENT-DECK-PROMPT.md | 12 | Adults |
-| Lāla–Lālī | GAMMA-LALA-LALI-DECK-PROMPT.md | 10 | 4–8 |
-| Kiśora–Kiśorī | GAMMA-KISORA-KISORI-DECK-PROMPT.md | 10 | 9–14 |
+**Status:** prompt-only — not rendered — not approved
 
-**Status:** prompt-ready-not-rendered
+Use the controlling prompt:
+- `gamma/V12-GAMMA-MASTER-DECK-PROMPT.md`
+- Audience derivatives: `V12-GAMMA-YOUNGER-DECK-PROMPT.md`, `V12-GAMMA-OLDER-DECK-PROMPT.md`
+
+Do not use truncated teaching meanings. Cite primary VedaBase URLs on verse slides.

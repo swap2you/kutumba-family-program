@@ -2,10 +2,14 @@
 
 ## Selected examples (traceable)
 
-| Example | Provenance | URL | Use | Limitation |
-|---|---|---|---|---|
-| Nārada and the hunter Mṛgāri | Caitanya-caritāmṛta, Madhya-līlā 24.229–282 | https://vedabase.io/en/library/cc/madhya/24/ | Mercy and opportunity to change | Paraphrase only; avoid graphic violence and unsupported narrative additions |
+| Example | Provenance | URL | Classroom use / limitation |
+|---|---|---|---|
+| Nārada and the hunter Mṛgāri | CC Madhya 24.229–282 | https://vedabase.io/en/library/cc/madhya/24/229/ | Nārada meets a hunter, teaches him, and the hunter's life turns toward care and devotion (bow broken; careful steps even toward ants — paraphrase gently). Source is Madhya 24 — not SB 6.x or SB 4.8. |
+| Rare human form teaching | ŚB 11.9.29 | https://vedabase.io/en/library/sb/11/9/29/ | Primary: after many births, human form is rare and purpose-capable — use it for the highest good. |
 
 ## Policy
 
-Bhakta-mālā and invented Rāmāyaṇa dialogue are **not** used this week. Supplementary examples never replace the primary verse.
+- Paraphrase only; no full purport dumps; no invented deity dialogue.
+- Bhakta-mālā and unverified anecdote chains are not used as controlling proof.
+- Supplementary examples never replace the locked primary verse.
+- W4 Mṛgāri must remain CC Madhya 24.229–282 (not SB 6.x / SB 4.8).

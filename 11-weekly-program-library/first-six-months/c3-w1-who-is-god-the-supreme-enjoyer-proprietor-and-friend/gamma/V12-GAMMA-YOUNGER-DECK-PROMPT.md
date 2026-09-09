@@ -1,205 +1,49 @@
-# C3-W1 V12 Gamma younger-K2 Deck
+# C3-W1 V12 Gamma Younger Deck
 
 **Status:** prompt-only — not rendered — not approved
 
-## Slides
+## Audience focus
 
-### Slide 1 — younger-K2 focus 1
+Picture-forward slides; three gestures; no dense theology paragraphs.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 1, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Required content fidelity
 
-### Slide 2 — younger-K2 focus 2
+- Full teaching meaning (never truncated mid-phrase): Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, and the friend of all beings — one attains peace.
+- Primary: BG 5.29 — https://vedabase.io/en/library/bg/5/29/
+- Devanāgarī: भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् । सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥ २९ ॥
+- IAST: bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśvaram / suhṛdaṁ sarva-bhūtānāṁ jñātvā māṁ śāntim ṛcchati
+- Memory: Kṛṣṇa owns, Kṛṣṇa enjoys, Kṛṣṇa is friend — that brings peace.
+- Block: God is an impersonal force only (or ‘I am the real owner/enjoyer’).
+- Home practice: Before one daily duty, remember: Kṛṣṇa owns, Kṛṣṇa enjoys, Kṛṣṇa is friend.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 2, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Slide spine (adapt master slides)
 
-### Slide 3 — younger-K2 focus 3
+1. Title with week name and Saturday 2:00–4:00
+2. Essential question: Who is God to our family?
+3. Primary verse with complete Devanāgarī + IAST + full teaching meaning (no mid-phrase cut)
+4. One analogy with spoken limit on-screen
+5. One age-fit practice slide drawn from activity pack
+6. Home practice card
+7. Closing gratitude without ranking
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 3, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Exact on-screen teaching meaning (copy whole)
 
-### Slide 4 — younger-K2 focus 4
+Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, and the friend of all beings — one attains peace.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 4, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Image prompts (specific)
 
-### Slide 5 — younger-K2 focus 5
+1) Soft 16:9 scene of a family offering a flower near a simple home altar, warm morning light, no logos, no embedded text.
+2) Educational triangle diagram space for Enjoyer/Proprietor/Friend with a calm home interior background.
+3) Shared toy basket being set in order by two children with an adult nearby, respectful, non-caricature.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 5, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Presenter notes spine
 
-### Slide 6 — younger-K2 focus 6
+- Parents onsite; snack/water only; no weekly meal.
+- Do not claim human/temple/publication approval.
+- Teaching meaning is KUTUMBA pedagogy, not a BBT translation label.
+- Refuse ranking and punishment-chanting.
+- Cycle 3 excludes Mṛgāri narratives.
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 6, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Sources
 
-### Slide 7 — younger-K2 focus 7
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 7, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — younger-K2 focus 8
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 8, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — younger-K2 focus 9
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 9, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — younger-K2 focus 10
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - enjoyer
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C3-W1 slide 10, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+Cite BG 5.29 (https://vedabase.io/en/library/bg/5/29/) and listed supporting sources by reference + URL. Do not write vague policy placeholders.

@@ -1,234 +1,49 @@
-# C3-W1 V12 Gamma older-4-5 Deck
+# C3-W1 V12 Gamma Older Deck
 
 **Status:** prompt-only — not rendered — not approved
 
-## Slides
+## Audience focus
 
-### Slide 1 — older-4-5 focus 1
+Text-forward slides; case repair; keyword underlining.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Who is God to our family?
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Required content fidelity
 
-### Slide 2 — older-4-5 focus 2
+- Full teaching meaning (never truncated mid-phrase): Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, and the friend of all beings — one attains peace.
+- Primary: BG 5.29 — https://vedabase.io/en/library/bg/5/29/
+- Devanāgarī: भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् । सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥ २९ ॥
+- IAST: bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśvaram / suhṛdaṁ sarva-bhūtānāṁ jñātvā māṁ śāntim ṛcchati
+- Memory: Kṛṣṇa owns, Kṛṣṇa enjoys, Kṛṣṇa is friend — that brings peace.
+- Block: God is an impersonal force only (or ‘I am the real owner/enjoyer’).
+- Home practice: Before one daily duty, remember: Kṛṣṇa owns, Kṛṣṇa enjoys, Kṛṣṇa is friend.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 2
-  - BG 5.29
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Slide spine (adapt master slides)
 
-### Slide 3 — older-4-5 focus 3
+1. Title with week name and Saturday 2:00–4:00
+2. Essential question: Who is God to our family?
+3. Primary verse with complete Devanāgarī + IAST + full teaching meaning (no mid-phrase cut)
+4. One analogy with spoken limit on-screen
+5. One age-fit practice slide drawn from activity pack
+6. Home practice card
+7. Closing gratitude without ranking
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - BG 5.29
-  - bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśvaram / suhṛdaṁ sarva-bhūtānāṁ jñātvā māṁ śāntim ṛcchati
-  - Meaning: Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, 
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Exact on-screen teaching meaning (copy whole)
 
-### Slide 4 — older-4-5 focus 4
+Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, and the friend of all beings — one attains peace.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Image prompts (specific)
 
-### Slide 5 — older-4-5 focus 5
+1) Soft 16:9 scene of a family offering a flower near a simple home altar, warm morning light, no logos, no embedded text.
+2) Educational triangle diagram space for Enjoyer/Proprietor/Friend with a calm home interior background.
+3) Shared toy basket being set in order by two children with an adult nearby, respectful, non-caricature.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Presenter notes spine
 
-### Slide 6 — older-4-5 focus 6
+- Parents onsite; snack/water only; no weekly meal.
+- Do not claim human/temple/publication approval.
+- Teaching meaning is KUTUMBA pedagogy, not a BBT translation label.
+- Refuse ranking and punishment-chanting.
+- Cycle 3 excludes Mṛgāri narratives.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Sources
 
-### Slide 7 — older-4-5 focus 7
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — older-4-5 focus 8
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — older-4-5 focus 9
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — older-4-5 focus 10
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — older-4-5 focus 11
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — older-4-5 focus 12
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: God is an impersonal force only.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+Cite BG 5.29 (https://vedabase.io/en/library/bg/5/29/) and listed supporting sources by reference + URL. Do not write vague policy placeholders.

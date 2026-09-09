@@ -1,205 +1,171 @@
-# C1-W2 V12 Gamma younger-K2 Deck
+# C1-W2 V12.1 Gamma Younger Deck
 
 **Status:** prompt-only — not rendered — not approved
 
 ## Slides
 
-### Slide 1 — younger-K2 focus 1
-
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 1 — Hello friends
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - One idea today
+  - Kind bodies
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 1, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 2.13 — https://vedabase.io/en/library/bg/2/13/
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Hello friends': K–2 circle on floor mats; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 2 — younger-K2 focus 2
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 2 — Story time
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - Listen for one idea
+  - Body changes; conscious self continues.
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 2, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 2.13 — https://vedabase.io/en/library/bg/2/13/
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Story time': storyteller with open hands; children seated; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 3 — younger-K2 focus 3
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 3 — Wonder
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - What did you notice?
+  - What might help?
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 3, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 2.13 — https://vedabase.io/en/library/bg/2/13/
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Wonder': child raising hand gently; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 4 — younger-K2 focus 4
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 4 — Movement
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - Follow freeze cue
+  - Safe feet
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 4, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 2.13 — https://vedabase.io/en/library/bg/2/13/
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Movement': children freezing mid-movement smiling; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 5 — younger-K2 focus 5
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 5 — Craft
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - Hands help hearts remember
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 5, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Craft': simple craft materials on low table; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 6 — younger-K2 focus 6
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 6 — Memory phrase
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - Short line from the week
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 6, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Memory phrase': child repeating a short phrase; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 7 — younger-K2 focus 7
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 7 — Kind words
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - No teasing
+  - Help friends
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 7, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Kind words': two children sharing crayons; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 8 — younger-K2 focus 8
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 8 — Clean up
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - Toys home
+  - Thank you
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 8, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Clean up': children putting crayons in bin; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 9 — younger-K2 focus 9
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 9 — Parent handoff
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - Show your craft
+  - One sentence
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 9, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Parent handoff': child showing craft to parent; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 10 — younger-K2 focus 10
 
-- **Audience:** younger-K2
-- **Teaching objective:** story/movement/craft/memory
-- **Exact on-screen copy:**
-  - body-changes
-  - One idea
-  - Large picture
-- **Screen composition:** Title top; content mid; footer source
+### Slide 10 — Smile close
+- **Audience:** younger
+- **Objective:** younger learning for C1-W2
+- **Copy:**
+  - You did enough
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 5–20 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Gentle child-friendly illustration for C1-W2 slide 10, large shapes, calm faces, 16:9, no frightening content
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** story/movement/craft/memory. Block: Psychology/photos prove the soul.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W2 'Smile close': closing wave; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep younger tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images

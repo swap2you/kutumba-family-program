@@ -1,234 +1,110 @@
-# C2-W3 V12 Gamma older-4-5 Deck
+# C2-W3 V12.1 Gamma Older Deck (Grades 4–5)
 
-**Status:** prompt-only — not rendered — not approved
+**Status:** prompt-only — not rendered — not approved  
+**Design system:** 16:9 · cream ground · plum/teal · charcoal text  
+**Brand:** KUTUMBA · Families Growing in Krishna Consciousness
 
 ## Slides
 
-### Slide 1 — older-4-5 focus 1
+### Slide 1 — Track open
+- **Audience:** older
+- **Objective:** Set academic calm tone
+- **Copy:**
+  - C2-W3 Older track
+  - Essential question: How do we speak calmly about birth and death?
+  - Primary: BG 2.22
+- **Image prompt:** Scene: grades 4–5 at a table with notebooks. Subjects: South Asian children generically represented. Actions: opening notebooks. Setting: classroom table zone. Composition: medium-wide. Light: afternoon. Boundaries: no gore posters; no logos; no embedded text; no identifiable persons.
+- **Source:** OLDER-TEACHER-GUIDE.md
+- **Presenter notes:** One-line first answers in silence 60 seconds.
+- **Interaction:** Write first answer
+- **Do-not-claim:** Not a debate club to win
+- **Accessibility:** Large type
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - How do we speak calmly about birth and death?
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 2.22 — https://vedabase.io/en/library/bg/2/22/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+### Slide 2 — Verse observation
+- **Audience:** older
+- **Objective:** Observe BG 2.22
+- **Copy:**
+  - Open https://vedabase.io/en/library/bg/2/22/
+  - Write: setting cue / key phrase / paraphrase / what it does NOT say
+  - Full teaching meaning: As a person puts on new garments, giving up old ones, the embodied self similarly accepts new bodies, giving up old ones — taught calmly, without fear tactics for children.
+- **Image prompt:** Scene: tablet or printed URL card beside blank observation sheet. Subjects: student writing. Actions: note-taking. Setting: table. Composition: close-medium. Light: window. Boundaries: no purport walls of text in image; no logos; no embedded readable verse in image (slide carries text).
+- **Source:** https://vedabase.io/en/library/bg/2/22/
+- **Presenter notes:** No long dumps; faithful paraphrase only.
+- **Interaction:** Share one “does not say”
+- **Do-not-claim:** Teaching meaning ≠ BBT translation label
+- **Accessibility:** Read IAST aloud if shown
 
-### Slide 2 — older-4-5 focus 2
+### Slide 3 — Diagram: continuity + limit
+- **Audience:** older
+- **Objective:** Label map
+- **Copy:**
+  - Worn garment → set aside
+  - New garment → accepted
+  - Embodied self continues
+  - Limit box: not a closet · not ghosts · not destination diagnosis
+- **Image prompt:** Scene: whiteboard with blank boxes and arrows (no readable words). Subjects: student pointing to a box. Setting: board. Composition: medium. Light: even. Boundaries: no scary icons in boxes; no logos; no embedded text.
+- **Source:** older diagram task; MAIN analogies
+- **Presenter notes:** Require the limit box.
+- **Interaction:** Student fills limit aloud
+- **Do-not-claim:** Diagram ≠ śāstra
+- **Accessibility:** High contrast boxes
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 2
-  - BG 2.22
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 2.22 — https://vedabase.io/en/library/bg/2/22/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+### Slide 4 — Case: fatalism challenge
+- **Audience:** older
+- **Objective:** Reject “nothing matters”
+- **Copy:**
+  - Claim to test: “If we reincarnate, nothing matters.”
+  - Mistaken: continuity cancels responsibility
+  - Better: continuity raises the weight of consciousness and choice
+  - Sources: BG 2.22 · BG 8.6 · BG 18.63 (last week)
+- **Image prompt:** Scene: two students with scenario cards (blank faces of cards). Actions: thoughtful discussion. Setting: pair desks. Composition: medium. Light: afternoon. Boundaries: no mocking faces; no logos; no embedded text.
+- **Source:** MAIN Constructed case 3
+- **Presenter notes:** Compassion first; no shame.
+- **Interaction:** Write one better sentence
+- **Do-not-claim:** No hell threats
+- **Accessibility:** Clear claim vs better
 
-### Slide 3 — older-4-5 focus 3
+### Slide 5 — Matching / worksheet
+- **Audience:** older
+- **Objective:** Terms check
+- **Copy:**
+  - dehī → embodied self who continues
+  - Garment analogy → bodies change like clothes
+  - Remembrance → calm practice now
+  - Analogy limit → not choosing from a closet
+- **Image prompt:** Scene: cut-card matching piles on table (blank cards). Setting: worksheet time. Composition: top-down. Light: even. Boundaries: no logos; no embedded text.
+- **Source:** OLDER-ACTIVITY-PACK.md / OLDER-ANSWER-KEY.md
+- **Presenter notes:** Grade with answer key later.
+- **Interaction:** Match four terms
+- **Do-not-claim:** Vocabulary ≠ initiation
+- **Accessibility:** Large terms on slide
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - BG 2.22
-  - vāsāṁsi jīrṇāni yathā vihāya navāni gṛhṇāti naro ’parāṇi / tathā śarīrāṇi vihāya jīrṇāny anyāni saṁyāti navāni dehī
-  - Meaning: As a person puts on new garments, giving up old ones, the embodied self similarly accepts 
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 2.22 — https://vedabase.io/en/library/bg/2/22/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+### Slide 6 — Supports recognition
+- **Audience:** older
+- **Objective:** Map supports without overload
+- **Copy:**
+  - BG 2.13 life stages bridge
+  - BG 2.20 self not slain
+  - BG 2.27 sobriety not scare
+  - BG 8.5–8.6 remembrance
+  - BG 14.14–14.15 recognition only → full modes next week
+- **Image prompt:** Scene: vertical list of blank reference cards on a corkboard. Setting: study wall. Composition: tall medium. Light: soft. Boundaries: no graphic war art; no logos; no embedded text.
+- **Source:** SCRIPTURAL-EXAMPLES.md
+- **Presenter notes:** Do not lecture 14.14–15 ontology.
+- **Interaction:** Star the primary
+- **Do-not-claim:** Recognition ≠ mastery of modes
+- **Accessibility:** Readable list on slide
 
-### Slide 4 — older-4-5 focus 4
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 2.22 — https://vedabase.io/en/library/bg/2/22/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 5 — older-4-5 focus 5
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 6 — older-4-5 focus 6
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 7 — older-4-5 focus 7
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — older-4-5 focus 8
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — older-4-5 focus 9
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — older-4-5 focus 10
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — older-4-5 focus 11
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — older-4-5 focus 12
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - The self changes bodies like garments — teach without fear.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Scare children with death.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+### Slide 7 — Project + reunification
+- **Audience:** older
+- **Objective:** Artifact + share sentence
+- **Copy:**
+  - Make a calm-speech or bedtime-cue card for the cycle project
+  - Reunification sentence: How do we speak calmly about birth and death?
+  - Home: one-minute remembrance × three nights
+- **Image prompt:** Scene: student finishing a poster card; families visible at doorway reuniting. Setting: transition. Composition: wide. Light: late afternoon. Boundaries: no scoreboard; no logos; no embedded text.
+- **Source:** project/CYCLE-CONTRIBUTION.md; family-home-practice.md
+- **Presenter notes:** Shy students may whisper to teacher.
+- **Interaction:** Write share sentence
+- **Do-not-claim:** Non-competitive
+- **Accessibility:** Sentence stem on slide

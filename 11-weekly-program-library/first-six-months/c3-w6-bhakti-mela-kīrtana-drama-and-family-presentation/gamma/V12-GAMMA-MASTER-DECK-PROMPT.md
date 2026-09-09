@@ -2,297 +2,94 @@
 
 **Status:** prompt-only — not rendered — not approved
 
+## Deck purpose
+
+Integrate C3 with exact citation chain and non-ranking mela energy.
+
 ## Slides
 
-### Slide 1 — Integration welcome
+### Slide 1 — Title
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W6: Integration welcome
+- **Teaching objective:** Open Bhakti Mela
 - **Exact on-screen copy:**
-  - Bhakti Mela: Kīrtana, Drama and Family Presentation
-  - Retrieval not ranking
-- **Screen composition:** Warm welcome
+  - Bhakti Mela
+  - Kīrtana · Drama · Family Presentation
+  - No ranking · Parents onsite · Saturday 2:00–4:00
+- **Screen composition:** Festive but calm title
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Integration welcome': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** celebration without trophies
+- **Detailed AI image prompt:** 16:9 community hall with floor seating and soft lights, welcoming, no logos, no text, no prize ribbons
+- **Diagram instructions:** None
+- **Source:** C3-W6 curriculum
+- **Presenter notes:** State mela rules immediately.
+- **Interaction:** Audience repeats: ‘No ranking’
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 2 — Concept chain
+### Slide 2 — Exact review chain
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W6: Concept chain
+- **Teaching objective:** Show precise citations
 - **Exact on-screen copy:**
-  - BG 5.29 · BG 7.7 · BG 4.34 · holy name · ŚB 7.5.23–24
-  - Prior weeks linked
-- **Screen composition:** Horizontal chain diagram
+  - BG 5.29
+  - BG 7.7
+  - BG 4.34
+  - CC Antya 20.12
+  - ŚB 7.5.23–24
+  - Not a generic ‘holy name’ placeholder
+- **Screen composition:** Vertical chain
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Concept chain': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** diagram
+- **Detailed AI image prompt:** 16:9 five linked panel shapes on soft background, blank, no text in image
+- **Diagram instructions:** Five-link vertical chain
+- **Source:** BG 5.29; BG 7.7; BG 4.34; CC Antya 20.12; ŚB 7.5.23–24 URLs
+- **Presenter notes:** Point to CC Antya 20.12 explicitly.
+- **Interaction:** Call-and-response reading of the five labels
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 3 — Primary review verse layer
+### Slide 3 — Mela zones
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W6: Primary review verse layer
+- **Teaching objective:** Explain rotations
 - **Exact on-screen copy:**
-  - Cycle 3 review (ŚB 7.5.23–24 center)
-  - (review C3 primaries)
-  - BG 5.29 · BG 7.7 · BG 4.34 · holy name · ŚB 7.5.23–24
-  - KUTUMBA teaching meaning: Bhakti Mela — celebrate hearing, chanting, and family presentation without ranking.
-  - Source: https://vedabase.io/en/library/sb/7/5/23-24/
-  - Not labeled as BBT translation
-- **Screen composition:** Verse review panel
+  - Source poster
+  - Short drama
+  - Kīrtana roles
+  - Nine-process demo
+  - Stewardship exhibit
+- **Screen composition:** Five zone cards
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Primary review verse layer': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** Cycle 3 review (ŚB 7.5.23–24 center) — https://vedabase.io/en/library/sb/7/5/23-24/
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** map
+- **Detailed AI image prompt:** 16:9 top-down soft floor-plan style abstract shapes for stations, no text
+- **Diagram instructions:** Room map zones
+- **Source:** C3-W6 facilitator plan
+- **Presenter notes:** Timers on; opt-out roles posted.
+- **Interaction:** Families choose a first zone
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 4 — Misconception sweep
+### Slide 4 — Thirty-day baseline
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W6: Misconception sweep
+- **Teaching objective:** Lock continuing practice
 - **Exact on-screen copy:**
-  - Competitive devotion scoring.
-  - Common mix-ups
-- **Screen composition:** Myth/truth
+  - Daily: smallest practice
+  - Weekly: family kīrtana or verse review
+  - Monthly: service / temple connection
+  - Begin with the smallest daily practice
+- **Screen composition:** Three boxes
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Misconception sweep': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 5 — Retrieval stations
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Retrieval stations
-- **Exact on-screen copy:**
-  - Visit stations
-  - Write one sentence
-- **Screen composition:** Station map
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Retrieval stations': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 6 — Presentation template
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Presentation template
-- **Exact on-screen copy:**
-  - ~10 minutes/family
-  - Drawing-only OK
-- **Screen composition:** Template card
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Presentation template': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 7 — Rubric non-competitive
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Rubric non-competitive
-- **Exact on-screen copy:**
-  - Understanding
-  - Application
-  - Teamwork
-  - Source accuracy
-- **Screen composition:** Rubric table
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Rubric non-competitive': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — Review-before-next-cycle
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Review-before-next-cycle
-- **Exact on-screen copy:**
-  - Extend if unclear
-  - No shame
-- **Screen composition:** Decision fork
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Review-before-next-cycle': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — Off week / Utsava note
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Off week / Utsava note
-- **Exact on-screen copy:**
-  - See calendar
-  - Local confirmation needed
-- **Screen composition:** Calendar icon
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Off week / Utsava note': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — Family gratitude
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Family gratitude
-- **Exact on-screen copy:**
-  - One thanks each
-- **Screen composition:** Gratitude circle
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Family gratitude': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — Parent application
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Parent application
-- **Exact on-screen copy:**
-  - Home cue
-  - Minimum version
-  - No confession pressure
-- **Screen composition:** Adult discussion panel
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Parent application': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — Younger track preview
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Younger track preview
-- **Exact on-screen copy:**
-  - Story + movement + craft
-  - Memory phrase
-- **Screen composition:** K–2 friendly illustration
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Younger track preview': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 13 — Older track preview
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Older track preview
-- **Exact on-screen copy:**
-  - Text observation
-  - Puzzle
-  - Scenario
-- **Screen composition:** Grades 4–5 worksheet look
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Older track preview': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 14 — Bhakti lab / reunification
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Bhakti lab / reunification
-- **Exact on-screen copy:**
-  - 3:10 reunite
-  - One family sentence
-- **Screen composition:** Reunification circle
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Bhakti lab / reunification': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 15 — Project + home practice + close
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W6: Project + home practice + close
-- **Exact on-screen copy:**
-  - Project layer
-  - 5–15 min home
-  - End on time
-- **Screen composition:** Checklist close
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W6 'Project + home practice + close': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Competitive devotion scoring.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** planner
+- **Detailed AI image prompt:** 16:9 simple calendar and tea cup evening scene suggesting sustainable habit, no text
+- **Diagram instructions:** Daily/Weekly/Monthly boxes
+- **Source:** C3-W6 home practice
+- **Presenter notes:** Shrink heroic plans.
+- **Interaction:** Write daily minutes privately
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images

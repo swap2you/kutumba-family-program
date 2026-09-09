@@ -1,234 +1,49 @@
-# C3-W2 V12 Gamma older-4-5 Deck
+# C3-W2 V12 Gamma Older Deck
 
 **Status:** prompt-only — not rendered — not approved
 
-## Slides
+## Audience focus
 
-### Slide 1 — older-4-5 focus 1
+Three-reference triangle + debate-repair slide.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Who is Kṛṣṇa?
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 7.7 — https://vedabase.io/en/library/bg/7/7/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Required content fidelity
 
-### Slide 2 — older-4-5 focus 2
+- Full teaching meaning (never truncated mid-phrase): There is no truth superior to Kṛṣṇa; everything rests upon Him as pearls are strung on a thread.
+- Primary: BG 7.7 — https://vedabase.io/en/library/bg/7/7/
+- Devanāgarī: मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय । मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥ ७ ॥
+- IAST: mattaḥ parataraṁ nānyat kiñcid asti dhanañ-jaya / mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva
+- Memory: Nothing is higher than Kṛṣṇa — everything rests on Him like pearls on a thread.
+- Block: Kṛṣṇa is only a mythic hero / one god among equals with no scriptural supremacy claim.
+- Home practice: Remember one authorized name or quality of Kṛṣṇa once daily.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 2
-  - BG 7.7
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 7.7 — https://vedabase.io/en/library/bg/7/7/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Slide spine (adapt master slides)
 
-### Slide 3 — older-4-5 focus 3
+1. Title with week name and Saturday 2:00–4:00
+2. Essential question: Why do we say Kṛṣṇa is the Supreme Personality of Godhead?
+3. Primary verse with complete Devanāgarī + IAST + full teaching meaning (no mid-phrase cut)
+4. One analogy with spoken limit on-screen
+5. One age-fit practice slide drawn from activity pack
+6. Home practice card
+7. Closing gratitude without ranking
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - BG 7.7
-  - mattaḥ parataraṁ nānyat kiñcid asti dhanañ-jaya / mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva
-  - Meaning: There is no truth superior to Kṛṣṇa; everything rests upon Him as pearls are strung on a t
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 7.7 — https://vedabase.io/en/library/bg/7/7/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Exact on-screen teaching meaning (copy whole)
 
-### Slide 4 — older-4-5 focus 4
+There is no truth superior to Kṛṣṇa; everything rests upon Him as pearls are strung on a thread.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 7.7 — https://vedabase.io/en/library/bg/7/7/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Image prompts (specific)
 
-### Slide 5 — older-4-5 focus 5
+1) Pearl necklace held over open palms, soft light, educational, no text.
+2) Stylized respectful Govardhana silhouette with villagers sheltered, no caricature, no logos.
+3) Teen and parent reviewing a verse card at a table, calm discussion mood.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Presenter notes spine
 
-### Slide 6 — older-4-5 focus 6
+- Parents onsite; snack/water only; no weekly meal.
+- Do not claim human/temple/publication approval.
+- Teaching meaning is KUTUMBA pedagogy, not a BBT translation label.
+- Refuse ranking and punishment-chanting.
+- Cycle 3 excludes Mṛgāri narratives.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Sources
 
-### Slide 7 — older-4-5 focus 7
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — older-4-5 focus 8
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — older-4-5 focus 9
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — older-4-5 focus 10
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — older-4-5 focus 11
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — older-4-5 focus 12
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - Nothing is superior to Kṛṣṇa; all rests on Him.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W2, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Invented līlā dialogue.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+Cite BG 7.7 (https://vedabase.io/en/library/bg/7/7/) and listed supporting sources by reference + URL. Do not write vague policy placeholders.

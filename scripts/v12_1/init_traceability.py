@@ -1,0 +1,316 @@
+#!/usr/bin/env python3
+"""Create V12.1 exact-requirement traceability CSV and iteration log stub."""
+from __future__ import annotations
+
+import csv
+from pathlib import Path
+
+REPO = Path(__file__).resolve().parents[2]
+EVID = REPO / "build-evidence"
+CSV_PATH = EVID / "V12_1-REQUIREMENT-TRACEABILITY.csv"
+LOG_PATH = EVID / "V12_1-ITERATION-LOG.md"
+
+# Exact requirement wording — never genericize to "item N"
+ROWS = [
+    {
+        "id": "V12.1-F01",
+        "requirement": "Remote final-head evidence must validate the actual final HEAD (not a parent candidate); after report commit, run lightweight acceptance on the new final HEAD, then tag that exact HEAD without another report commit.",
+        "priority": "MUST",
+        "baseline_evidence": "build-evidence/V12-REMOTE-ACCEPTANCE.md validated 6ecf005 while final HEAD was ac84e94",
+        "implementation_paths": "build-evidence/V12_1-REMOTE-ACCEPTANCE.md; closing tag protocol",
+        "validation_method": "fresh clone HEAD match + final lightweight check on report-commit HEAD",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F01",
+    },
+    {
+        "id": "V12.1-F02",
+        "requirement": "Every rendered final DOCX/PDF page is visually inspected and recorded in per-page QA CSVs; 'sample covers inspected' is not acceptable.",
+        "priority": "MUST",
+        "baseline_evidence": "V12-FINAL-LOCAL-ACCEPTANCE.md sample covers only; no per-page audit",
+        "implementation_paths": "build-evidence/V12_1-DOCX-PAGE-QA.csv; build-evidence/V12_1-PDF-PAGE-QA.csv",
+        "validation_method": "row count == page count; every row inspected/PASS",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F02",
+    },
+    {
+        "id": "V12.1-F03",
+        "requirement": "Markdown tables must render as real Word tables; build_docx_from_md must not skip lines beginning with '|'.",
+        "priority": "MUST",
+        "baseline_evidence": "scripts/v12/render_v12_final_packets.py build_docx_from_md continues past | lines",
+        "implementation_paths": "scripts/v12_1/render_v12_1_packets.py; scripts/v12/render_publication_docs.py render_markdown",
+        "validation_method": "table exists in source MD and corresponding w:tbl in DOCX",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F03",
+    },
+    {
+        "id": "V12.1-F04",
+        "requirement": "Final teacher/family packets embed appropriate original V12.1 SVG→PNG/diagram instructional visuals where they improve teaching (not decorative bloat).",
+        "priority": "MUST",
+        "baseline_evidence": "No meaningful add_picture integration in V12 publication pipeline",
+        "implementation_paths": "scripts/v12_1/render_v12_1_packets.py; visuals PNG exports",
+        "validation_method": "DOCX/PDF image presence check for expected packets",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F04",
+    },
+    {
+        "id": "V12.1-F05",
+        "requirement": "C1-W1 Saturday print packet includes all required components in print order: cover+run; opening mantra; family orientation+roadmap; blank covenant acknowledgement; parent handout; younger rules; older rules; younger activities; older activities; older answer key in teacher-only section; family saṅkalpa card; Cycle 1 project intro; Week 1 home-practice card; younger teacher run sheet; older teacher run sheet; main-facilitator run sheet; room/material/snack checklist.",
+        "priority": "MUST",
+        "baseline_evidence": "V12 builder only combined facilitator, younger, older, family-home-practice",
+        "implementation_paths": "exports/final/KUTUMBA-C1-W1-SATURDAY-PRINT-PACKET-V12.1.docx",
+        "validation_method": "component presence checklist in acceptance validator",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F05",
+    },
+    {
+        "id": "V12.1-F06",
+        "requirement": "C1 controlling MAIN-FACILITATOR-GUIDE-V12.md must embed actual core teaching (prep, script, analogies+limits, examples, 3 cases, questions, FAQ, misconceptions, boundaries, transitions) — not 'Use week research ANALOGIES-AND-LIMITS and CASE-STUDIES'. Restore/merge strongest V11.1 depth from 7a61b82.",
+        "priority": "MUST",
+        "baseline_evidence": "V12 C1 guides ~3KB shells with research deferrals",
+        "implementation_paths": "11-weekly-program-library/.../c1-w*/teacher/MAIN-FACILITATOR-GUIDE-V12.md",
+        "validation_method": "forbidden-phrase scan + semantic component checklist",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F06",
+    },
+    {
+        "id": "V12.1-F07",
+        "requirement": "All 12 C2/C3 facilitator guides must be substantively authored to gold standard (inline script, analogies, cases, questions, FAQ) — not one-line core explanation shells.",
+        "priority": "MUST",
+        "baseline_evidence": "C2-W1 one-line core + Use week research...",
+        "implementation_paths": "c2-w*/teacher/MAIN-FACILITATOR-GUIDE-V12.md; c3-w*/teacher/MAIN-FACILITATOR-GUIDE-V12.md",
+        "validation_method": "content-fidelity audit all 12 weeks",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F07",
+    },
+    {
+        "id": "V12.1-F08",
+        "requirement": "C2/C3 research must meet gold standard: scriptural examples with URLs; science citation OR explicit N/A with reason; three week-specific constructed cases — not generic policy or single generic case.",
+        "priority": "MUST",
+        "baseline_evidence": "C2-W1 SCRIPTURAL one row; SCIENCE generic policy; CASE one generic family struggle",
+        "implementation_paths": "c2-w*/research/*; c3-w*/research/*",
+        "validation_method": "research fidelity validators",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F08",
+    },
+    {
+        "id": "V12.1-F09",
+        "requirement": "Every week younger K–2 and older Grades 4–5 teacher guides and activity packs must contain actual executable lessons/activities — not 'See activities' or 'Week craft tied to...'.",
+        "priority": "MUST",
+        "baseline_evidence": "C2-W1 younger See activities; craft tied to theme",
+        "implementation_paths": "*/teacher/YOUNGER-TEACHER-GUIDE.md; */teacher/OLDER-TEACHER-GUIDE.md; */activities/*",
+        "validation_method": "forbidden phrases + required lesson components",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F09",
+    },
+    {
+        "id": "V12.1-F10",
+        "requirement": "Remove all arbitrary meaning[:N] truncation in Gamma generators; verse teaching meanings on slides must be complete sentences (or intentional shorter complete sentences), never mid-word/mid-sentence cuts.",
+        "priority": "MUST",
+        "baseline_evidence": "generate_v12_production.py meaning[:110]/[:140]; W1 ends 'steady devotion to the'",
+        "implementation_paths": "scripts/v12/generate_v12_production.py; gamma/*DECK-PROMPT.md",
+        "validation_method": "scan for meaning[: and truncated tokens; compare to verse pack",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F10",
+    },
+    {
+        "id": "V12.1-F11",
+        "requirement": "Gamma slides must use actual titles/copy, exact sources, and specific image prompts (scene/subjects/actions/setting/composition/light/boundaries) — not 'Detailed 16:9 educational image for...', 'Week objective for', 'Stay in week scope', or 'week research + launch policy as applicable'.",
+        "priority": "MUST",
+        "baseline_evidence": "Repeated generic Gamma prompts across weeks",
+        "implementation_paths": "*/gamma/V12*-*.md; V12.1 gamma prompts",
+        "validation_method": "Gamma quality validators + human-read audit",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F11",
+    },
+    {
+        "id": "V12.1-F12",
+        "requirement": "C3-W4 CC Antya 20.12 verse pack must embed the COMPLETE source-language verse and complete IAST through paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam (do not stop at vidyā-vadhū-jīvanam).",
+        "priority": "MUST",
+        "baseline_evidence": "launch/C3-VERSE-PACK.md and verse_data.yaml stopped at first half",
+        "implementation_paths": "scripts/v12/verse_data.yaml; launch/C3-VERSE-PACK.md; launch/C3-VERSE-PACK.yaml",
+        "validation_method": "string contains paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F12",
+    },
+    {
+        "id": "V12.1-F13",
+        "requirement": "If C3-W5 primary reference remains ŚB 7.5.23–24, embed BOTH verses 23 and 24 completely in source language and IAST with teaching meaning representing both.",
+        "priority": "MUST",
+        "baseline_evidence": "Pack embedded only verse 23",
+        "implementation_paths": "scripts/v12/verse_data.yaml; launch/C3-VERSE-PACK.md",
+        "validation_method": "contains iti puṁsārpitā / verse 24 IAST",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F13",
+    },
+    {
+        "id": "V12.1-F14",
+        "requirement": "C3-W6 review chain must explicitly list BG 5.29 · BG 7.7 · BG 4.34 · CC Antya 20.12 · ŚB 7.5.23–24 — replace generic 'holy name'.",
+        "priority": "MUST",
+        "baseline_evidence": "IAST used 'holy name' placeholder",
+        "implementation_paths": "scripts/v12/verse_data.yaml; launch/C3-VERSE-PACK.md; C3-W6 guides/gamma",
+        "validation_method": "exact CC Antya 20.12 in chain; no bare 'holy name' as chain slot",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F14",
+    },
+    {
+        "id": "V12.1-F15",
+        "requirement": "Mahā-mantra entry in opening mantra handout must attach a direct authoritative source URL (not vague 'use authorised chanting practice + transcript context above').",
+        "priority": "MUST",
+        "baseline_evidence": "launch/OPENING-MANTRAS-HANDOUT.md vague source line",
+        "implementation_paths": "launch/OPENING-MANTRAS-HANDOUT.md",
+        "validation_method": "direct vedabase URL present under mahā-mantra; vague phrase absent",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F15",
+    },
+    {
+        "id": "V12.1-F16",
+        "requirement": "V12.1 requirement ledger must preserve exact requirement text; do not replace requirements with labels such as 'weekly completeness item 2' or 'docx publication item 10'.",
+        "priority": "MUST",
+        "baseline_evidence": "V12 traceability genericized item labels",
+        "implementation_paths": "build-evidence/V12_1-REQUIREMENT-TRACEABILITY.csv",
+        "validation_method": "CSV requirement column length/content audit; forbid 'item N' pattern as sole text",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F16 — this ledger",
+    },
+    {
+        "id": "V12.1-F17",
+        "requirement": "Final artifact acceptance must separate integrity status, semantic status, render status, and visual-inspection status — hash/presence alone is not visual/content acceptance.",
+        "priority": "MUST",
+        "baseline_evidence": "V12 manifest PASS overstated quality",
+        "implementation_paths": "build-evidence/V12_1-FINAL-ARTIFACT-MANIFEST.csv; V12_1-FINAL-LOCAL-ACCEPTANCE.md",
+        "validation_method": "manifest columns present and populated",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F17",
+    },
+    {
+        "id": "V12.1-F18",
+        "requirement": "Owner navigation (V12_1-START-HERE.md) must point only to V12.1 corrected artifacts after those artifacts pass — not superseded shallow guides.",
+        "priority": "MUST",
+        "baseline_evidence": "V12-START-HERE pointed at flawed shallow packets",
+        "implementation_paths": "V12_1-START-HERE.md; START-HERE.md link",
+        "validation_method": "link resolution + no superseded shallow guide pointers",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F18",
+    },
+    {
+        "id": "V12.1-F19",
+        "requirement": "Do not mark C2/C3 complete until every week passes the exact gold-standard content-fidelity audit (facilitator, younger, older, research, cases, activities, Gamma, materials).",
+        "priority": "MUST",
+        "baseline_evidence": "V12 claimed same gold standard without depth",
+        "implementation_paths": "build-evidence/V12_1-CONTENT-FIDELITY-AUDIT.md",
+        "validation_method": "18-week fidelity table all PASS",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Independent finding F19",
+    },
+    # Additional exact MUST requirements from package files 03–07
+    {
+        "id": "V12.1-DOCX-010",
+        "requirement": "Every rendered final DOCX page is visually inspected and recorded in V12_1-DOCX-PAGE-QA.csv",
+        "priority": "MUST",
+        "baseline_evidence": "No per-page DOCX QA CSV in V12",
+        "implementation_paths": "build-evidence/V12_1-DOCX-PAGE-QA.csv",
+        "validation_method": "CSV row count equals DOCX page count; all PASS",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Publication file 05",
+    },
+    {
+        "id": "V12.1-PDF-010",
+        "requirement": "Every rendered final PDF page is visually inspected and recorded in V12_1-PDF-PAGE-QA.csv",
+        "priority": "MUST",
+        "baseline_evidence": "V12 PDF QA was conversion status only",
+        "implementation_paths": "build-evidence/V12_1-PDF-PAGE-QA.csv",
+        "validation_method": "CSV row count equals PDF page count; all PASS",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Publication file 05",
+    },
+    {
+        "id": "V12.1-CONTENT-001",
+        "requirement": "A controlling facilitator/teacher guide fails if it says only 'see research file' / 'use week research' / 'run activity tied to theme' / 'use constructed case' / 'craft tied to week' without embedding the actual teaching/instructions.",
+        "priority": "MUST",
+        "baseline_evidence": "Widespread research deferrals in V12 controlling guides",
+        "implementation_paths": "all MAIN-FACILITATOR-GUIDE-V12.md and age-band guides",
+        "validation_method": "forbidden phrase semantic validator",
+        "validation_evidence": "",
+        "status": "FAIL",
+        "iteration": "0",
+        "notes": "Content fidelity file 03",
+    },
+]
+
+
+def main() -> None:
+    EVID.mkdir(parents=True, exist_ok=True)
+    fields = [
+        "id",
+        "requirement",
+        "priority",
+        "baseline_evidence",
+        "implementation_paths",
+        "validation_method",
+        "validation_evidence",
+        "status",
+        "iteration",
+        "notes",
+    ]
+    with CSV_PATH.open("w", encoding="utf-8", newline="") as fh:
+        writer = csv.DictWriter(fh, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows(ROWS)
+    LOG_PATH.write_text(
+        "# V12.1 Iteration Log\n\n"
+        "## Iteration 0 — baseline\n"
+        f"- HEAD: ac84e94d9813d2e6e0b2d4c702ca590698165c0f\n"
+        f"- Requirements logged: {len(ROWS)}\n"
+        f"- All implementation MUST rows: FAIL\n"
+        f"- Traceability: `{CSV_PATH.relative_to(REPO).as_posix()}`\n"
+        f"- Baseline failures: `build-evidence/V12_1-BASELINE-FAILURES.md`\n\n",
+        encoding="utf-8",
+    )
+    print(f"Wrote {CSV_PATH} ({len(ROWS)} rows)")
+    print(f"Wrote {LOG_PATH}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,27 +1,54 @@
 # C3-W1 Younger Activity Pack (K–2)
 
-## Objective
-Show and say: **Who is God — enjoyer, proprietor, and friend.**
+**Theme:** Who Is God? The Supreme Enjoyer, Proprietor and Friend
+**Primary:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
+**Memory phrase:** Kṛṣṇa owns, enjoys, befriends.
 
-## Core activity — three_titles_sort
-1. Teacher demonstrates once.
-2. Children participate for 5–8 minutes.
-3. End with memory phrase echo.
+---
+
+## Objective
+
+Children learn Kṛṣṇa owns, enjoys, and befriends; practice shared care of a basket; offer a simple drawing/flower in offering mood.
+
+## Core activity — Owns–Enjoys–Friend Walk
+
+**Time:** 5–8 minutes
+
+1. Three mats labeled with pictures.
+2. Children walk gently Owns → Enjoys → Friend while saying the phrase.
+3. At Friend mat, hand-to-heart.
+4. Return one basket item to the center (stewardship).
+5. Two rounds; sit; echo phrase.
 
 ## Story boundary
-Paraphrase only from `research/DEVOTIONAL-AND-HISTORICAL-EXAMPLES.md`. No invented deity dialogue. No graphic violence.
 
-## Movement
-Freeze-and-Remember using this week's memory phrase.
+Paraphrase BG 5.29 themes only. No invented deity quotes. No ritual inventions.
 
-## Craft / object
-Week craft tied to Who Is God? The Supreme Enjoyer, Proprietor and Friend; take-home card with phrase inside.
+## Craft — Peace triangle card (step-by-step)
+
+1. Triangle card with three corners pre-marked.
+2. Child colors corners; helper writes phrase at center.
+3. Back: draw one thing to care for at home.
+4. Practice pointing to each corner.
 
 ## Printable
-Color `../visuals/V12/line-art-younger.svg` (US Letter).
 
-## Backup
-Pass soft object; each child says one kind word; echo phrase.
+Color `../visuals/V12/line-art-younger.svg` on US Letter if present. If missing, children color their craft only.
+
+## Backup (low prep)
+
+Soft toss: catch and say “Kṛṣṇa owns” or “Kṛṣṇa is friend.”
 
 ## Materials
-Printed line art, crayons, card stock, soft toss object.
+
+- Shared basket
+- Three picture cards
+- Paper flowers / crayons
+- Soft puppet
+- Memory phrase stickers
+- Soft toss object
+- Calm-corner chair
+
+## Parent note (say at handoff)
+
+Home practice: Before one daily duty, remember: Kṛṣṇa owns, Kṛṣṇa enjoys, Kṛṣṇa is friend.. Snack/water only at the Saturday program; no weekly meal. We do not rank children.

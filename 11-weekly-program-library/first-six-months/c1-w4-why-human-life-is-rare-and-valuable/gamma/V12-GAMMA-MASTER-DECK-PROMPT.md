@@ -1,318 +1,226 @@
-# C1-W4 V12 Gamma Master Deck
+# C1-W4 V12.1 Gamma Master Deck
 
-**Status:** prompt-only — not rendered — not approved
+**Status:** prompt-only — not rendered — not approved  
+**Design system:** 16:9 · cream ground · plum/saffron/teal · charcoal text  
+**Brand:** KUTUMBA · Families Growing in Krishna Consciousness · Program Director: Swapnil Patil
 
 ## Slides
 
-### Slide 1 — Title
-
+### Slide 1 — Title — C1-W4
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Title: Why Human Life Is Rare and Valuable
-- **Exact on-screen copy:**
-  - Why Human Life Is Rare and Valuable
-  - KUTUMBA • Families Growing in Krishna Consciousness
-  - Saturday 2:00–4:00
-- **Screen composition:** Top title; soft hero family/devotional illustration
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Title: Why Human Life Is Rare and Valuable': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Open C1-W4
+- **Copy:**
+  - Human life is a rare opportunity for self-realization — protect inquiry and practice time.
+  - KUTUMBA · Families Growing in Krishna Consciousness
+  - Saturday 2:00–4:00 · parents onsite
+- **Layout:** Top title; soft hero family illustration
+- **Palette role:** plum title / cream ground
+- **Typography:** Title 40–48pt; subtitle 22pt
+- **Visual type:** cinematic family welcome
+- **Image prompt:** 16:9 instructional scene for C1-W4 'welcome': families arriving with notebooks; calm welcome circle; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Welcome warmly; state Saturday purpose; no ranking language.
+- **Interaction:** One welcome echo
+- **Do not claim:** Do not claim temple approval or BBT ownership of KUTUMBA materials
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 2 — Essential question
 
+### Slide 2 — Essential focus
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Essential question
-- **Exact on-screen copy:**
-  - What deserves protected family time?
-- **Screen composition:** Large question typography; minimal visual
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Essential question': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Frame the week
+- **Copy:**
+  - Human life is a rare opportunity for self-realization — protect inquiry and practice time.
+  - Primary: ŚB 11.9.29
+  - No fear-based death pressure on children; no species contempt.
+- **Layout:** Large focus line; secondary source line
+- **Palette role:** teal accent bar
+- **Typography:** Focus 32pt
+- **Visual type:** simple focus card
+- **Image prompt:** 16:9 instructional scene for C1-W4 'focus': facilitator pointing to verse card for ŚB 11.9.29; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Read the focus once; invite one parent paraphrase later.
+- **Interaction:** Thumbs-up if clear
+- **Do not claim:** Do not import other weeks' full ontology
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 3 — Primary verse ŚB 11.9.29
 
+### Slide 3 — Primary verse — ŚB 11.9.29
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Primary verse ŚB 11.9.29
-- **Exact on-screen copy:**
+- **Objective:** Present the primary
+- **Copy:**
   - ŚB 11.9.29
-  - लब्ध्वा सुदुर्लभमिदं बहुसम्भवान्ते मानुष्यमर्थदमनित्यमपीह धीर: । तूर्णं यतेत न पतेदनुमृत्यु यावन्नि:श्रेयसाय विषय: खलु सर्वत: स्यात् ॥ २९ ॥
-  - labdhvā su-durlabham idaṁ bahu-sambhavānte mānuṣyam artha-dam anityam apīha dhīraḥ / tūrṇaṁ yateta na pated anu-mṛtyu yāvan niḥśreyasāya viṣayaḥ khalu sarvataḥ syāt
-  - KUTUMBA teaching meaning: After many births one obtains the rare human form — temporary yet able to give the highest purpose. A sober person should quickly 
+  - Devanāgarī: लब्ध्वा सुदुर्लभमिदं बहुसम्भवान्ते मानुष्यमर्थदमनित्यमपीह धीर: । तूर्णं यतेत न पतेदनुमृत्यु यावन्नि:श्रेयसाय विषय: खलु सर्वत: स्यात् ॥ २९ ॥
+  - IAST: labdhvā su-durlabham idaṁ bahu-sambhavānte mānuṣyam artha-dam anityam apīha dhīraḥ / tūrṇaṁ yateta na pated anu-mṛtyu yāvan niḥśreyasāya viṣayaḥ khalu sarvataḥ syāt
+  - KUTUMBA teaching meaning: After many births one obtains the rare human form — temporary yet able to give the highest purpose. A sober person should quickly endeavor for the ultimate good while this body lasts.
   - Source: https://vedabase.io/en/library/sb/11/9/29/
   - Not labeled as BBT translation
-- **Screen composition:** Left 58% verse; right 42% illustration
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Primary verse ŚB 11.9.29': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** ŚB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Layout:** Left 58% verse text; right 42% illustration
+- **Palette role:** plum philosophy panel
+- **Typography:** Verse readable; meaning may wrap across bullets if needed — never truncate mid-sentence
+- **Visual type:** verse + illustration
+- **Image prompt:** 16:9 instructional scene for C1-W4 'verse': open śāstra page beside blank notebook; respectful study posture; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Read IAST slowly; then teaching meaning; pause.
+- **Interaction:** One child repeats a short memory line
+- **Do not claim:** Do not dump full purport text on slide
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+
 
 ### Slide 4 — Teaching meaning
-
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Teaching meaning
-- **Exact on-screen copy:**
+- **Objective:** Lock the conclusion
+- **Copy:**
   - After many births one obtains the rare human form — temporary yet able to give the highest purpose. A sober person should quickly endeavor for the ultimate good while this body lasts.
-  - Conclusion: Human life is a rare opportunity for self-realization.
-- **Screen composition:** Key-idea panel
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Teaching meaning': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** ŚB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+  - This week teaches: Human life is a rare opportunity for self-realization — protect inquiry and practice time.
+- **Layout:** Key-idea callout panel
+- **Palette role:** saffron key-idea
+- **Typography:** Body 24–28pt
+- **Visual type:** callout panel
+- **Image prompt:** 16:9 instructional scene for C1-W4 'meaning': family listening; one sentence on a whiteboard area without readable text; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Ask: what is the one sentence we take home?
+- **Interaction:** Pair share 20 seconds
+- **Do not claim:** Do not invent dialogue for scriptural persons
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 5 — Context
 
+### Slide 5 — Context map
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Context
-- **Exact on-screen copy:**
-  - Week objective for C1-W4
-  - Stay in week scope
-- **Screen composition:** Simple context map
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Context': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Place the week
+- **Copy:**
+  - Week: C1-W4
+  - Focus: Human life is a rare opportunity for self-realization — protect inquiry and practice time.
+  - Primary source: ŚB 11.9.29
+  - Boundary: No fear-based death pressure on children; no species contempt.
+- **Layout:** Three-column context map
+- **Palette role:** teal family ops
+- **Typography:** Labels 18–22pt
+- **Visual type:** diagram
+- **Image prompt:** 16:9 instructional scene for C1-W4 'context': three soft cards on a table: hear / understand / apply; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep scope tight; defer out-of-scope questions.
+- **Interaction:** Show of hands: ready for analogy
+- **Do not claim:** Do not claim this slide replaces śāstra study
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 6 — Conclusion
 
+### Slide 6 — Analogy with limit
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Conclusion
-- **Exact on-screen copy:**
-  - Human life is a rare opportunity for self-realization.
-  - Block: Fear/death pressure motivates children.
-- **Screen composition:** Bold conclusion card
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Conclusion': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** ŚB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Clarify with pedagogy
+- **Copy:**
+  - Use one week-specific analogy from the facilitator guide
+  - State the helpful point
+  - State the failure point / limit
+  - Analogy is pedagogy — not a verse quotation
+- **Layout:** Analogy diagram with warning label
+- **Palette role:** saffron / maroon limit tag
+- **Typography:** Body 22pt
+- **Visual type:** diagram
+- **Image prompt:** 16:9 instructional scene for C1-W4 'analogy': simple object metaphor on table with a small caution tag prop; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Name the limit out loud so children hear the boundary.
+- **Interaction:** Ask: what would be a wrong use of this analogy?
+- **Do not claim:** Do not treat analogy as śāstra
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 7 — Scriptural / narrative support
 
+### Slide 7 — Constructed family case
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Scriptural / narrative support
-- **Exact on-screen copy:**
-  - See research examples
-  - Paraphrase only
-  - No invented dialogue
-- **Screen composition:** Devotional illustration — source-bound
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Scriptural / narrative support': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Apply compassionately
+- **Copy:**
+  - Use one constructed household case from the facilitator guide
+  - Name the mistaken conclusion
+  - Return to the primary principle
+  - Compassionate action + what not to say
+- **Layout:** Anonymous vignette layout
+- **Palette role:** teal case panel
+- **Typography:** Body 22pt
+- **Visual type:** vignette illustration
+- **Image prompt:** 16:9 instructional scene for C1-W4 'case': anonymous family conversation at kitchen table; calm faces; no shame posture; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Protect privacy; cases are fictional teaching tools.
+- **Interaction:** Parents: one sentence of better response
+- **Do not claim:** Do not pressure real confessions
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 8 — Analogy with limit
 
+### Slide 8 — Misconception check
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Analogy with limit
-- **Exact on-screen copy:**
-  - Name analogy
-  - State failure point
-  - Pedagogy ≠ śāstra quote
-- **Screen composition:** Analogy diagram with warning label
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Analogy with limit': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Block common error
+- **Copy:**
+  - Scope boundary: No fear-based death pressure on children; no species contempt.
+  - Name the likely misconception from the facilitator guide
+  - Offer the better, source-bound statement
+- **Layout:** Myth vs truth two panels
+- **Palette role:** maroon caution / teal truth
+- **Typography:** Body 22pt
+- **Visual type:** two-panel comparison
+- **Image prompt:** 16:9 instructional scene for C1-W4 'misconception': two cards on easel: unclear claim vs clearer claim; no readable text; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Correct gently; never embarrass a child or guest.
+- **Interaction:** True/false with hands
+- **Do not claim:** Do not speculate beyond sources
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 9 — Constructed case
 
+### Slide 9 — Activity preview
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Constructed case
-- **Exact on-screen copy:**
-  - Fictional household case
-  - Mistaken conclusion
-  - Compassionate action
-- **Screen composition:** Anonymous vignette
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Constructed case': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Preview tracks
+- **Copy:**
+  - K–2: story + movement + craft from younger teacher guide
+  - Grades 4–5: text observation + puzzle/scenario from older teacher guide
+  - Reunite for family synthesis
+- **Layout:** Two-path preview then reunite
+- **Palette role:** saffron younger / teal older
+- **Typography:** Body 22pt
+- **Visual type:** age-band icons
+- **Image prompt:** 16:9 instructional scene for C1-W4 'activities': split room: floor craft mats left; table worksheets right; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Teachers already know run sheets; this is orientation only.
+- **Interaction:** Children point to their track
+- **Do not claim:** Do not skip reunification
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 10 — Misconception check
 
+### Slide 10 — Home practice
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Misconception check
-- **Exact on-screen copy:**
-  - Fear/death pressure motivates children.
-  - Better statement
-- **Screen composition:** Myth vs truth two panels
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Misconception check': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Send a doable practice
+- **Copy:**
+  - 5–15 minute family practice
+  - Write action + cue + minimum version on saṅkalpa card
+  - Minimum version counts as success
+- **Layout:** Checklist close
+- **Palette role:** plum home panel
+- **Typography:** Body 22pt
+- **Visual type:** home practice scene
+- **Image prompt:** 16:9 instructional scene for C1-W4 'home practice': kitchen-table family with a blank practice card; lamp light; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** No confession pressure; invite, do not force volume.
+- **Interaction:** Families show blank card ready
+- **Do not claim:** Do not score private sādhana publicly
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+
 
 ### Slide 11 — Concept diagram
-
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Concept diagram
-- **Exact on-screen copy:**
+- **Objective:** Show the week's map
+- **Copy:**
   - Use visuals/V12/concept-diagram.svg for C1-W4
-- **Screen composition:** Embed week-specific diagram
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Concept diagram': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+  - Human life is a rare opportunity for self-realization — protect inquiry and practice time.
+- **Layout:** Full diagram panel
+- **Palette role:** teal diagram
+- **Typography:** Labels large
+- **Visual type:** SVG diagram
+- **Image prompt:** 16:9 instructional scene for C1-W4 'diagram': projected simple concept map matching week SVG shapes; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Walk the diagram left to right once.
+- **Interaction:** Child points to one node
+- **Do not claim:** Do not treat diagram as śāstra
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 12 — Parent application
 
+### Slide 12 — Close + next week
 - **Audience:** master
-- **Teaching objective:** Teach C1-W4: Parent application
-- **Exact on-screen copy:**
-  - Home cue
-  - Minimum version
-  - No confession pressure
-- **Screen composition:** Adult discussion panel
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Parent application': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 13 — Younger track preview
-
-- **Audience:** master
-- **Teaching objective:** Teach C1-W4: Younger track preview
-- **Exact on-screen copy:**
-  - Story + movement + craft
-  - Memory phrase
-- **Screen composition:** K–2 friendly illustration
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Younger track preview': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 14 — Older track preview
-
-- **Audience:** master
-- **Teaching objective:** Teach C1-W4: Older track preview
-- **Exact on-screen copy:**
-  - Text observation
-  - Puzzle
-  - Scenario
-- **Screen composition:** Grades 4–5 worksheet look
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Older track preview': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 15 — Bhakti lab / reunification
-
-- **Audience:** master
-- **Teaching objective:** Teach C1-W4: Bhakti lab / reunification
-- **Exact on-screen copy:**
-  - 3:10 reunite
-  - One family sentence
-- **Screen composition:** Reunification circle
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Bhakti lab / reunification': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 16 — Project + home practice + close
-
-- **Audience:** master
-- **Teaching objective:** Teach C1-W4: Project + home practice + close
-- **Exact on-screen copy:**
-  - Project layer
-  - 5–15 min home
-  - End on time
-- **Screen composition:** Checklist close
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C1-W4 'Project + home practice + close': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: Fear/death pressure motivates children.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** End on time
+- **Copy:**
+  - Appreciate effort
+  - End by 4:00
+  - Preview next week title only — do not teach it now
+- **Layout:** Closing circle
+- **Palette role:** saffron close
+- **Typography:** Body 22pt
+- **Visual type:** closing circle
+- **Image prompt:** 16:9 instructional scene for C1-W4 'close': families standing in a calm closing circle; soft smiles; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Thank host home; leave spaces cleaner.
+- **Interaction:** One gratitude word
+- **Do not claim:** Do not run late into family dinner time
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images

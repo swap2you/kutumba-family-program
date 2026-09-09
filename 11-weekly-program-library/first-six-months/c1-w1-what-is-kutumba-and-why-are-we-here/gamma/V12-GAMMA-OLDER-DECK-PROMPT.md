@@ -1,234 +1,201 @@
-# C1-W1 V12 Gamma older-4-5 Deck
+# C1-W1 V12.1 Gamma Older Deck
 
 **Status:** prompt-only — not rendered — not approved
 
 ## Slides
 
-### Slide 1 — older-4-5 focus 1
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Why are we committing as a family?
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** ŚB 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 2 — older-4-5 focus 2
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 2
+### Slide 1 — Observe the text
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
   - ŚB 1.2.18
-- **Screen composition:** Title top; content mid; footer source
+  - What words stand out?
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** ŚB 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Observe the text': grades 4–5 with notebooks; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 3 — older-4-5 focus 3
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
+### Slide 2 — Primary meaning
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - KUTUMBA teaching meaning: When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the Lord becomes established.
+- **Layout:** Title top; content mid; footer source
+- **Palette role:** teal/saffron by audience
+- **Typography:** Age-appropriate body size
+- **Visual type:** age-appropriate visual
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Primary meaning': student underlining on worksheet; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
+- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+
+
+### Slide 3 — Verse layer
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
   - ŚB 1.2.18
   - naṣṭa-prāyeṣv abhadreṣu nityaṁ bhāgavata-sevayā / bhagavaty uttama-śloke bhaktir bhavati naiṣṭhikī
-  - Meaning: When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in
-- **Screen composition:** Title top; content mid; footer source
+  - When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the Lord becomes established.
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** ŚB 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Verse layer': verse card beside pencil; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 4 — older-4-5 focus 4
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 4 — Puzzle / game
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - Use older activity pack steps
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** ŚB 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Puzzle / game': small-group puzzle pieces; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 5 — older-4-5 focus 5
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 5 — Scenario card
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - Choose a response
+  - Explain why
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Scenario card': scenario cards on desk; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 6 — older-4-5 focus 6
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 6 — Diagram task
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - Label the week map
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Diagram task': student labeling a blank diagram; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 7 — older-4-5 focus 7
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 7 — Project contribution
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - Add this week's layer
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Project contribution': project folder with week tabs; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 8 — older-4-5 focus 8
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 8 — Reflection
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - One sentence I will practice
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Reflection': quiet writing time; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 9 — older-4-5 focus 9
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 9 — Extension
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - Optional deeper question
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Extension': optional challenge card; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 10 — older-4-5 focus 10
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 10 — Source care
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - Scripture vs analogy
+  - No speculation
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Source care': two-column notes; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 11 — older-4-5 focus 11
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 11 — Teamwork
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - Include every voice
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Teamwork': small group taking turns; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 12 — older-4-5 focus 12
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - Protected weekly hearing plus home practice creates a path for family growth.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 12 — Close
+- **Audience:** older
+- **Objective:** older learning for C1-W1
+- **Copy:**
+  - Ready to reunite
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W1, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Coming without home practice is enough.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W1 'Close': students stacking chairs neatly; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images

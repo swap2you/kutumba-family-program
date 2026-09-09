@@ -1,234 +1,49 @@
-# C3-W3 V12 Gamma older-4-5 Deck
+# C3-W3 V12 Gamma Older Deck
 
 **Status:** prompt-only — not rendered — not approved
 
-## Slides
+## Audience focus
 
-### Slide 1 — older-4-5 focus 1
+Authority ranking + question clinic slides.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - How do we receive spiritual knowledge?
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 4.34 — https://vedabase.io/en/library/bg/4/34/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Required content fidelity
 
-### Slide 2 — older-4-5 focus 2
+- Full teaching meaning (never truncated mid-phrase): Approach those who have seen the truth — with humility, inquiry, and service — and they will instruct you in knowledge.
+- Primary: BG 4.34 — https://vedabase.io/en/library/bg/4/34/
+- Devanāgarī: तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया । उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिन: ॥ ३४ ॥
+- IAST: tad viddhi praṇipātena paripraśnena sevayā / upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ
+- Memory: Humility, sincere questions, and service — learn from those who know.
+- Block: Charisma or popularity alone authorizes doctrine / ‘ask no questions’ spirituality.
+- Home practice: Write one sincere spiritual question and locate one relevant Śrīla Prabhupāda source.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 2
-  - BG 4.34
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 4.34 — https://vedabase.io/en/library/bg/4/34/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Slide spine (adapt master slides)
 
-### Slide 3 — older-4-5 focus 3
+1. Title with week name and Saturday 2:00–4:00
+2. Essential question: How do we safely receive spiritual knowledge?
+3. Primary verse with complete Devanāgarī + IAST + full teaching meaning (no mid-phrase cut)
+4. One analogy with spoken limit on-screen
+5. One age-fit practice slide drawn from activity pack
+6. Home practice card
+7. Closing gratitude without ranking
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - BG 4.34
-  - tad viddhi praṇipātena paripraśnena sevayā / upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ
-  - Meaning: Approach those who have seen the truth — with humility, inquiry, and service — and they wi
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 4.34 — https://vedabase.io/en/library/bg/4/34/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Exact on-screen teaching meaning (copy whole)
 
-### Slide 4 — older-4-5 focus 4
+Approach those who have seen the truth — with humility, inquiry, and service — and they will instruct you in knowledge.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 4.34 — https://vedabase.io/en/library/bg/4/34/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Image prompts (specific)
 
-### Slide 5 — older-4-5 focus 5
+1) Open scripture and notebook on a table with a parent and teen, calm study mood.
+2) Simple triangle space for guru–sādhu–śāstra labels (labels added in slide text, not in image).
+3) Child asking a question to a kindly teacher with parent visible nearby.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Presenter notes spine
 
-### Slide 6 — older-4-5 focus 6
+- Parents onsite; snack/water only; no weekly meal.
+- Do not claim human/temple/publication approval.
+- Teaching meaning is KUTUMBA pedagogy, not a BBT translation label.
+- Refuse ranking and punishment-chanting.
+- Cycle 3 excludes Mṛgāri narratives.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Sources
 
-### Slide 7 — older-4-5 focus 7
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — older-4-5 focus 8
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — older-4-5 focus 9
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — older-4-5 focus 10
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — older-4-5 focus 11
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — older-4-5 focus 12
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - Approach truth-seers with humility, inquiry, and service.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W3, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Independent speculation equals revelation.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+Cite BG 4.34 (https://vedabase.io/en/library/bg/4/34/) and listed supporting sources by reference + URL. Do not write vague policy placeholders.

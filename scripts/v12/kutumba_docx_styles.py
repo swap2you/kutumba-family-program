@@ -126,8 +126,11 @@ def _set_keep_with_next(paragraph, value: bool = True) -> None:
 
 def _set_run_font(run, name: str, size: float | None = None) -> None:
     run.font.name = name
-    run._element.rPr.rFonts.set(qn("w:eastAsia"), name)
-    run._element.rPr.rFonts.set(qn("w:cs"), name)
+    rfonts = run._element.rPr.rFonts
+    rfonts.set(qn("w:ascii"), name)
+    rfonts.set(qn("w:hAnsi"), name)
+    rfonts.set(qn("w:eastAsia"), name)
+    rfonts.set(qn("w:cs"), name)
     if size is not None:
         run.font.size = Pt(size)
 
@@ -164,7 +167,11 @@ def _style_font(style, name: str, size: float, color: str = CHARCOAL, bold: bool
     style.font.size = Pt(size)
     style.font.color.rgb = _rgb(color)
     style.font.bold = bold
-    style._element.rPr.rFonts.set(qn("w:eastAsia"), name)
+    rfonts = style._element.rPr.rFonts
+    rfonts.set(qn("w:ascii"), name)
+    rfonts.set(qn("w:hAnsi"), name)
+    rfonts.set(qn("w:eastAsia"), name)
+    rfonts.set(qn("w:cs"), name)
 
 
 def _get_or_add_style(document: DocumentObject, name: str, style_type=WD_STYLE_TYPE.PARAGRAPH):
@@ -186,7 +193,7 @@ def apply_kutumba_styles(document: DocumentObject) -> DocumentObject:
     section.footer_distance = Inches(0.28)
 
     normal = document.styles["Normal"]
-    _style_font(normal, "Calibri", 10.5)
+    _style_font(normal, "Segoe UI", 10.5)
     normal.paragraph_format.space_after = Pt(6)
     normal.paragraph_format.line_spacing = 1.08
     normal.paragraph_format.widow_control = True

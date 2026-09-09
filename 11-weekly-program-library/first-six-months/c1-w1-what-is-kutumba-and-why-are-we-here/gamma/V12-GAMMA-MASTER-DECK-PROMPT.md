@@ -1,440 +1,226 @@
-# C1-W1 V12 Gamma Master Deck
+# C1-W1 V12.1 Gamma Master Deck
 
-**Status:** prompt-only — not rendered — not approved
-
-**Design system:** 16:9 · cream ground · plum/saffron/teal · charcoal text
+**Status:** prompt-only — not rendered — not approved  
+**Design system:** 16:9 · cream ground · plum/saffron/teal · charcoal text  
+**Brand:** KUTUMBA · Families Growing in Krishna Consciousness · Program Director: Swapnil Patil
 
 ## Slides
 
-### Slide 1 — Welcome to KUTUMBA
-
+### Slide 1 — Title — C1-W1
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Welcome to KUTUMBA
-- **Exact on-screen copy:**
-  - KUTUMBA
-  - Families Growing in Krishna Consciousness
-  - Saturday 2:00–4:00
-- **Screen composition:** Full-bleed warm family gathering; 35% cream left panel with title
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Welcome to KUTUMBA', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** launch/FAMILY-COVENANT.md
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Open C1-W1
+- **Copy:**
+  - Protected weekly hearing plus association steadies family devotion.
+  - KUTUMBA · Families Growing in Krishna Consciousness
+  - Saturday 2:00–4:00 · parents onsite
+- **Layout:** Top title; soft hero family illustration
+- **Palette role:** plum title / cream ground
+- **Typography:** Title 40–48pt; subtitle 22pt
+- **Visual type:** cinematic family welcome
+- **Image prompt:** 16:9 instructional scene for C1-W1 'welcome': families arriving with notebooks; calm welcome circle; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Welcome warmly; state Saturday purpose; no ranking language.
+- **Interaction:** One welcome echo
+- **Do not claim:** Do not claim temple approval or BBT ownership of KUTUMBA materials
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 2 — What KUTUMBA is
 
+### Slide 2 — Essential focus
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — What KUTUMBA is
-- **Exact on-screen copy:**
-  - Family sādhana community
-  - Parents onsite
-  - Protected hearing + home practice
-- **Screen composition:** Three icon columns: hear / practice / friendship
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'What KUTUMBA is', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** launch policy
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Frame the week
+- **Copy:**
+  - Protected weekly hearing plus association steadies family devotion.
+  - Primary: ŚB 1.2.18
+  - Does not teach body/soul ontology (W2–W3).
+- **Layout:** Large focus line; secondary source line
+- **Palette role:** teal accent bar
+- **Typography:** Focus 32pt
+- **Visual type:** simple focus card
+- **Image prompt:** 16:9 instructional scene for C1-W1 'focus': facilitator pointing to verse card for ŚB 1.2.18; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Read the focus once; invite one parent paraphrase later.
+- **Interaction:** Thumbs-up if clear
+- **Do not claim:** Do not import other weeks' full ontology
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 3 — What KUTUMBA is not
 
+### Slide 3 — Primary verse — ŚB 1.2.18
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — What KUTUMBA is not
-- **Exact on-screen copy:**
-  - Not drop-off
-  - Not substitute temple
-  - Not ranking club
-- **Screen composition:** Calm stop icons — no scare imagery
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'What KUTUMBA is not', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** launch policy
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 4 — Six-month roadmap
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Six-month roadmap
-- **Exact on-screen copy:**
-  - C1 Identity
-  - C2 Karma & modes
-  - C3 Bhakti
-- **Screen composition:** Three equal roadmap columns
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Six-month roadmap', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** FIRST-SIX-MONTH curriculum
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 5 — Saturday rhythm
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Saturday rhythm
-- **Exact on-screen copy:**
-  - 1:50 arrival
-  - 2:00–4:00 locked
-  - Snack + water only
-- **Screen composition:** Clock + schedule list diagram
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Saturday rhythm', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** launch/C1-SATURDAY-CALENDAR.md
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 6 — Covenant highlights
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Covenant highlights
-- **Exact on-screen copy:**
-  - Protect calendar
-  - Try home practice
-  - No gossip/comparison
-- **Screen composition:** Handshake / commitment card visual
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Covenant highlights', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** FAMILY-COVENANT.md
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 7 — Child house rules
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Child house rules
-- **Exact on-screen copy:**
-  - Safe body
-  - Kind words
-  - Freeze cue
-- **Screen composition:** Simple rule icons for children
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Child house rules', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** CHILD-HOUSE-RULES.md
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — Correction ladder
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Correction ladder
-- **Exact on-screen copy:**
-  - Reminder → redirect → reset → parent
-- **Screen composition:** Ladder diagram — never shame
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Correction ladder', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** TEACHER-READINESS-STANDARD.md
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — Teacher readiness
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Teacher readiness
-- **Exact on-screen copy:**
-  - Objective
-  - Source
-  - Boundary
-  - Deferral
-- **Screen composition:** Checklist graphic
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Teacher readiness', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** TEACHER-READINESS-STANDARD.md
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — Privacy
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Privacy
-- **Exact on-screen copy:**
-  - No public sādhana scoring
-  - Private feedback
-- **Screen composition:** Lock / privacy symbol
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Privacy', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** FAMILY-COVENANT.md
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — Opening mantras
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Opening mantras
-- **Exact on-screen copy:**
-  - Praṇāma
-  - Pañca-tattva
-  - Mahā-mantra
-- **Screen composition:** Soft lamp + mantra cards — no invented deity action
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Opening mantras', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** OPENING-MANTRAS-HANDOUT.md
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — Primary verse ŚB 1.2.18
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Primary verse ŚB 1.2.18
-- **Exact on-screen copy:**
+- **Objective:** Present the primary
+- **Copy:**
   - ŚB 1.2.18
-  - नष्टप्रायेष्वभद्रेषु नित्यं भागवतसेवया । भगवत्युत्तमश्लोके भक्तिर्भवति नैष्ठिकी ॥ १८ ॥
-  - naṣṭa-prāyeṣv abhadreṣu nityaṁ bhāgavata-sevayā / bhagavaty uttama-śloke bhaktir bhavati naiṣṭhikī
-  - KUTUMBA teaching meaning: When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the 
+  - Devanāgarī: नष्टप्रायेष्वभद्रेषु नित्यं भागवतसेवया । भगवत्युत्तमश्लोके भक्तिर्भवति नैष्ठिकी ॥ १८ ॥
+  - IAST: naṣṭa-prāyeṣv abhadreṣu nityaṁ bhāgavata-sevayā / bhagavaty uttama-śloke bhaktir bhavati naiṣṭhikī
+  - KUTUMBA teaching meaning: When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the Lord becomes established.
   - Source: https://vedabase.io/en/library/sb/1/2/18/
-- **Screen composition:** Left 58% verse text; right 42% warm hearing illustration
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Primary verse ŚB 1.2.18', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** ŚB 1.2.18 — https://vedabase.io/en/library/sb/1/2/18/
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+  - Not labeled as BBT translation
+- **Layout:** Left 58% verse text; right 42% illustration
+- **Palette role:** plum philosophy panel
+- **Typography:** Verse readable; meaning may wrap across bullets if needed — never truncate mid-sentence
+- **Visual type:** verse + illustration
+- **Image prompt:** 16:9 instructional scene for C1-W1 'verse': open śāstra page beside blank notebook; respectful study posture; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Read IAST slowly; then teaching meaning; pause.
+- **Interaction:** One child repeats a short memory line
+- **Do not claim:** Do not dump full purport text on slide
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 13 — Host-home respect
 
+### Slide 4 — Teaching meaning
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Host-home respect
-- **Exact on-screen copy:**
-  - Common areas
-  - Leave cleaner
-  - Ask before moving items
-- **Screen composition:** Home doorway respect scene
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Host-home respect', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** host rules
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Lock the conclusion
+- **Copy:**
+  - When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are cleared and steady devotion to the Lord becomes established.
+  - This week teaches: Protected weekly hearing plus association steadies family devotion.
+- **Layout:** Key-idea callout panel
+- **Palette role:** saffron key-idea
+- **Typography:** Body 24–28pt
+- **Visual type:** callout panel
+- **Image prompt:** 16:9 instructional scene for C1-W1 'meaning': family listening; one sentence on a whiteboard area without readable text; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Ask: what is the one sentence we take home?
+- **Interaction:** Pair share 20 seconds
+- **Do not claim:** Do not invent dialogue for scriptural persons
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 14 — Parent commitments
 
+### Slide 5 — Context map
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Parent commitments
-- **Exact on-screen copy:**
-  - Onsite
-  - Communicate absences
-  - Model practice
-- **Screen composition:** Parents seated with children
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Parent commitments', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** covenant
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Place the week
+- **Copy:**
+  - Week: C1-W1
+  - Focus: Protected weekly hearing plus association steadies family devotion.
+  - Primary source: ŚB 1.2.18
+  - Boundary: Does not teach body/soul ontology (W2–W3).
+- **Layout:** Three-column context map
+- **Palette role:** teal family ops
+- **Typography:** Labels 18–22pt
+- **Visual type:** diagram
+- **Image prompt:** 16:9 instructional scene for C1-W1 'context': three soft cards on a table: hear / understand / apply; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep scope tight; defer out-of-scope questions.
+- **Interaction:** Show of hands: ready for analogy
+- **Do not claim:** Do not claim this slide replaces śāstra study
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 15 — Age bands
 
+### Slide 6 — Analogy with limit
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Age bands
-- **Exact on-screen copy:**
-  - K–2
-  - Grades 4–5
-  - Reunite 3:10
-- **Screen composition:** Two path icons reuniting
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Age bands', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** operating model
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Clarify with pedagogy
+- **Copy:**
+  - Use one week-specific analogy from the facilitator guide
+  - State the helpful point
+  - State the failure point / limit
+  - Analogy is pedagogy — not a verse quotation
+- **Layout:** Analogy diagram with warning label
+- **Palette role:** saffron / maroon limit tag
+- **Typography:** Body 22pt
+- **Visual type:** diagram
+- **Image prompt:** 16:9 instructional scene for C1-W1 'analogy': simple object metaphor on table with a small caution tag prop; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Name the limit out loud so children hear the boundary.
+- **Interaction:** Ask: what would be a wrong use of this analogy?
+- **Do not claim:** Do not treat analogy as śāstra
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 16 — Bhakti lab preview
 
+### Slide 7 — Constructed family case
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Bhakti lab preview
-- **Exact on-screen copy:**
-  - Short shared practice
-  - No forced volume
-- **Screen composition:** Soft kīrtana circle illustration
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Bhakti lab preview', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** launch
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Apply compassionately
+- **Copy:**
+  - Use one constructed household case from the facilitator guide
+  - Name the mistaken conclusion
+  - Return to the primary principle
+  - Compassionate action + what not to say
+- **Layout:** Anonymous vignette layout
+- **Palette role:** teal case panel
+- **Typography:** Body 22pt
+- **Visual type:** vignette illustration
+- **Image prompt:** 16:9 instructional scene for C1-W1 'case': anonymous family conversation at kitchen table; calm faces; no shame posture; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Protect privacy; cases are fictional teaching tools.
+- **Interaction:** Parents: one sentence of better response
+- **Do not claim:** Do not pressure real confessions
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 17 — Teaching meaning
 
+### Slide 8 — Misconception check
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Teaching meaning
-- **Exact on-screen copy:**
-  - When we regularly hear and serve the Bhāgavata (book and devotee association), troubles in the heart are clear
-  - Regular hearing + service
-- **Screen composition:** Key-idea callout panel
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Teaching meaning', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** https://vedabase.io/en/library/sb/1/2/18/
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Block common error
+- **Copy:**
+  - Scope boundary: Does not teach body/soul ontology (W2–W3).
+  - Name the likely misconception from the facilitator guide
+  - Offer the better, source-bound statement
+- **Layout:** Myth vs truth two panels
+- **Palette role:** maroon caution / teal truth
+- **Typography:** Body 22pt
+- **Visual type:** two-panel comparison
+- **Image prompt:** 16:9 instructional scene for C1-W1 'misconception': two cards on easel: unclear claim vs clearer claim; no readable text; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Correct gently; never embarrass a child or guest.
+- **Interaction:** True/false with hands
+- **Do not claim:** Do not speculate beyond sources
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 18 — Cycle 1 project
 
+### Slide 9 — Activity preview
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Cycle 1 project
-- **Exact on-screen copy:**
-  - Who Am I…
-  - Cumulative layers
-  - Non-competitive W6
-- **Screen composition:** Project folder + week beads
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Cycle 1 project', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** project brief
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Preview tracks
+- **Copy:**
+  - K–2: story + movement + craft from younger teacher guide
+  - Grades 4–5: text observation + puzzle/scenario from older teacher guide
+  - Reunite for family synthesis
+- **Layout:** Two-path preview then reunite
+- **Palette role:** saffron younger / teal older
+- **Typography:** Body 22pt
+- **Visual type:** age-band icons
+- **Image prompt:** 16:9 instructional scene for C1-W1 'activities': split room: floor craft mats left; table worksheets right; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Teachers already know run sheets; this is orientation only.
+- **Interaction:** Children point to their track
+- **Do not claim:** Do not skip reunification
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 19 — Saṅkalpa
 
+### Slide 10 — Home practice
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Saṅkalpa
-- **Exact on-screen copy:**
-  - Action + frequency + trigger + minimum
-- **Screen composition:** Saṅkalpa card mockup
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Saṅkalpa', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** launch-pack
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Send a doable practice
+- **Copy:**
+  - 5–15 minute family practice
+  - Write action + cue + minimum version on saṅkalpa card
+  - Minimum version counts as success
+- **Layout:** Checklist close
+- **Palette role:** plum home panel
+- **Typography:** Body 22pt
+- **Visual type:** home practice scene
+- **Image prompt:** 16:9 instructional scene for C1-W1 'home practice': kitchen-table family with a blank practice card; lamp light; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** No confession pressure; invite, do not force volume.
+- **Interaction:** Families show blank card ready
+- **Do not claim:** Do not score private sādhana publicly
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 20 — Home practice
 
+### Slide 11 — Concept diagram
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Home practice
-- **Exact on-screen copy:**
-  - 5–15 minutes
-  - Minimum version = success
-- **Screen composition:** Kitchen-table family practice scene
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Home practice', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** family-home-practice
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** Show the week's map
+- **Copy:**
+  - Use visuals/V12/concept-diagram.svg for C1-W1
+  - Protected weekly hearing plus association steadies family devotion.
+- **Layout:** Full diagram panel
+- **Palette role:** teal diagram
+- **Typography:** Labels large
+- **Visual type:** SVG diagram
+- **Image prompt:** 16:9 instructional scene for C1-W1 'diagram': projected simple concept map matching week SVG shapes; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Walk the diagram left to right once.
+- **Interaction:** Child points to one node
+- **Do not claim:** Do not treat diagram as śāstra
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 21 — Feedback & close
 
+### Slide 12 — Close + next week
 - **Audience:** master
-- **Teaching objective:** Orient founding cohort — Feedback & close
-- **Exact on-screen copy:**
-  - Private questions welcome
-  - End on time
-- **Screen composition:** Closing circle — instructional
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Feedback & close', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** covenant
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 22 — Next week
-
-- **Audience:** master
-- **Teaching objective:** Orient founding cohort — Next week
-- **Exact on-screen copy:**
-  - C1-W2 title only
-  - Do not teach ontology early
-- **Screen composition:** Simple preview card
-- **Palette role:** plum for philosophy; teal for family ops; saffron for bhakti action
-- **Typography:** Title 40–48pt; body 22–28pt; Devanāgarī readable
-- **Visual type:** cinematic family or instructional diagram
-- **Detailed AI image prompt:** Cinematic ultra-realistic warm Pennsylvania home scene for 'Next week', South Asian families generically represented, no identifiable real persons, natural afternoon light, saffron-cream accents, 16:9, no temple logo, no embedded text, no caricature
-- **Diagram instructions:** Use diagram only if composition requests columns/ladder/roadmap
-- **Source:** calendar
-- **Presenter notes:** Stay warm and firm. Block: Coming without home practice is enough.. Brand: KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** One echo or show of hands
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Objective:** End on time
+- **Copy:**
+  - Appreciate effort
+  - End by 4:00
+  - Preview next week title only — do not teach it now
+- **Layout:** Closing circle
+- **Palette role:** saffron close
+- **Typography:** Body 22pt
+- **Visual type:** closing circle
+- **Image prompt:** 16:9 instructional scene for C1-W1 'close': families standing in a calm closing circle; soft smiles; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Thank host home; leave spaces cleaner.
+- **Interaction:** One gratitude word
+- **Do not claim:** Do not run late into family dinner time
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images

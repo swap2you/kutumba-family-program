@@ -1,234 +1,49 @@
-# C3-W4 V12 Gamma older-4-5 Deck
+# C3-W4 V12 Gamma Older Deck
 
 **Status:** prompt-only — not rendered — not approved
 
-## Slides
+## Audience focus
 
-### Slide 1 — older-4-5 focus 1
+Eight-image verse map ending in paraṁ vijayate…
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Why chant the holy name?
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** CC Antya 20.12 / Śikṣāṣṭaka 1 context — https://vedabase.io/en/library/cc/antya/20/12/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Required content fidelity
 
-### Slide 2 — older-4-5 focus 2
+- Full teaching meaning (never truncated mid-phrase): Let there be all victory for śrī-kṛṣṇa-saṅkīrtana — which cleanses the mirror of the heart, extinguishes the blazing forest fire of material existence, spreads the moonlight of good fortune, is the life of all education, expands the ocean of bliss, gives a taste of full nectar at every step, and bathes the self of everyone.
+- Primary: CC Antya 20.12 (Śikṣāṣṭaka 1) — https://vedabase.io/en/library/cc/antya/20/12/
+- Devanāgarī: चेतोदर्पणमार्जनं भवमहादावाग्निनिर्वापणम् । श्रेयःकैरवचन्द्रिकावितरणं विद्यावधूजीवनम् ॥ आनन्दाम्बुधिवर्धनं प्रतिपदं पूर्णामृतास्वादनम् । सर्वात्मस्नपनं परं विजयते श्रीकृष्णसङ्कीर्तनम् ॥
+- IAST: ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ śreyaḥ-kairava-candrikā-vitaraṇaṁ vidyā-vadhū-jīvanam ānandāmbudhi-vardhanaṁ prati-padaṁ pūrṇāmṛtāsvādanaṁ sarvātma-snapanaṁ paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam
+- Memory: Paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam — all victory to the congregational chanting of Kṛṣṇa’s names.
+- Block: Force chanting as punishment / treat kīrtana as talent show.
+- Home practice: Five-minute family kīrtana or attentive mantra listening on three days.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 2
-  - CC Antya 20.12 / Śikṣāṣṭaka 1 context
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** CC Antya 20.12 / Śikṣāṣṭaka 1 context — https://vedabase.io/en/library/cc/antya/20/12/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Slide spine (adapt master slides)
 
-### Slide 3 — older-4-5 focus 3
+1. Title with week name and Saturday 2:00–4:00
+2. Essential question: Why chant the holy name — and how do we chant without turning it into a show?
+3. Primary verse with complete Devanāgarī + IAST + full teaching meaning (no mid-phrase cut)
+4. One analogy with spoken limit on-screen
+5. One age-fit practice slide drawn from activity pack
+6. Home practice card
+7. Closing gratitude without ranking
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - CC Antya 20.12 / Śikṣāṣṭaka 1 context
-  - ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇam / śreyaḥ-kairava-candrikā-vitaraṇaṁ vidyā-vadhū-jīvanam
-  - Meaning: Chanting the holy name cleanses the mirror of the heart, extinguishes the forest fire of m
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** CC Antya 20.12 / Śikṣāṣṭaka 1 context — https://vedabase.io/en/library/cc/antya/20/12/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Exact on-screen teaching meaning (copy whole)
 
-### Slide 4 — older-4-5 focus 4
+Let there be all victory for śrī-kṛṣṇa-saṅkīrtana — which cleanses the mirror of the heart, extinguishes the blazing forest fire of material existence, spreads the moonlight of good fortune, is the life of all education, expands the ocean of bliss, gives a taste of full nectar at every step, and bathes the self of everyone.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** CC Antya 20.12 / Śikṣāṣṭaka 1 context — https://vedabase.io/en/library/cc/antya/20/12/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Image prompts (specific)
 
-### Slide 5 — older-4-5 focus 5
+1) Soft mirror being gently wiped by a child with parent nearby, warm light, no text.
+2) Family kīrtana circle with mixed ages, inclusive, no stage-spotlight vibe, no logos.
+3) Open space for full verse text slide — image should be quiet parchment texture without fake glyphs.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Presenter notes spine
 
-### Slide 6 — older-4-5 focus 6
+- Parents onsite; snack/water only; no weekly meal.
+- Do not claim human/temple/publication approval.
+- Teaching meaning is KUTUMBA pedagogy, not a BBT translation label.
+- Refuse ranking and punishment-chanting.
+- Cycle 3 excludes Mṛgāri narratives.
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+## Sources
 
-### Slide 7 — older-4-5 focus 7
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — older-4-5 focus 8
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — older-4-5 focus 9
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — older-4-5 focus 10
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — older-4-5 focus 11
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — older-4-5 focus 12
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - The holy name cleanses the heart and spreads auspiciousness.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C3-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Force chanting as punishment.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+Cite CC Antya 20.12 (Śikṣāṣṭaka 1) (https://vedabase.io/en/library/cc/antya/20/12/) and listed supporting sources by reference + URL. Do not write vague policy placeholders.

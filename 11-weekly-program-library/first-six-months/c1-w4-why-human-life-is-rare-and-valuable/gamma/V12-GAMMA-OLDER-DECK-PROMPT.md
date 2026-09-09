@@ -1,234 +1,201 @@
-# C1-W4 V12 Gamma older-4-5 Deck
+# C1-W4 V12.1 Gamma Older Deck
 
 **Status:** prompt-only — not rendered — not approved
 
 ## Slides
 
-### Slide 1 — older-4-5 focus 1
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - What deserves protected family time?
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** ŚB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 2 — older-4-5 focus 2
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 2
+### Slide 1 — Observe the text
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
   - ŚB 11.9.29
-- **Screen composition:** Title top; content mid; footer source
+  - What words stand out?
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** ŚB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Observe the text': grades 4–5 with notebooks; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 3 — older-4-5 focus 3
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
+### Slide 2 — Primary meaning
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - KUTUMBA teaching meaning: After many births one obtains the rare human form — temporary yet able to give the highest purpose. A sober person should quickly endeavor for the ultimate good while this body lasts.
+- **Layout:** Title top; content mid; footer source
+- **Palette role:** teal/saffron by audience
+- **Typography:** Age-appropriate body size
+- **Visual type:** age-appropriate visual
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Primary meaning': student underlining on worksheet; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
+- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+
+
+### Slide 3 — Verse layer
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
   - ŚB 11.9.29
   - labdhvā su-durlabham idaṁ bahu-sambhavānte mānuṣyam artha-dam anityam apīha dhīraḥ / tūrṇaṁ yateta na pated anu-mṛtyu yāvan niḥśreyasāya viṣayaḥ khalu sarvataḥ syāt
-  - Meaning: After many births one obtains the rare human form — temporary yet able to give the highest
-- **Screen composition:** Title top; content mid; footer source
+  - After many births one obtains the rare human form — temporary yet able to give the highest purpose. A sober person should quickly endeavor for the ultimate good while this body lasts.
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** ŚB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Verse layer': verse card beside pencil; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 4 — older-4-5 focus 4
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 4 — Puzzle / game
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - Use older activity pack steps
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** ŚB 11.9.29 — https://vedabase.io/en/library/sb/11/9/29/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Puzzle / game': small-group puzzle pieces; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 5 — older-4-5 focus 5
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 5 — Scenario card
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - Choose a response
+  - Explain why
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Scenario card': scenario cards on desk; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 6 — older-4-5 focus 6
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 6 — Diagram task
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - Label the week map
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Diagram task': student labeling a blank diagram; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 7 — older-4-5 focus 7
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 7 — Project contribution
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - Add this week's layer
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Project contribution': project folder with week tabs; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 8 — older-4-5 focus 8
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 8 — Reflection
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - One sentence I will practice
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Reflection': quiet writing time; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 9 — older-4-5 focus 9
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 9 — Extension
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - Optional deeper question
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Extension': optional challenge card; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 10 — older-4-5 focus 10
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 10 — Source care
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - Scripture vs analogy
+  - No speculation
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Source care': two-column notes; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 11 — older-4-5 focus 11
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 11 — Teamwork
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - Include every voice
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Teamwork': small group taking turns; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 12 — older-4-5 focus 12
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - Human life is a rare opportunity for self-realization.
-- **Screen composition:** Title top; content mid; footer source
+### Slide 12 — Close
+- **Audience:** older
+- **Objective:** older learning for C1-W4
+- **Copy:**
+  - Ready to reunite
+- **Layout:** Title top; content mid; footer source
 - **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
+- **Typography:** Age-appropriate body size
 - **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C1-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Fear/death pressure motivates children.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
+- **Image prompt:** 16:9 instructional scene for C1-W4 'Close': students stacking chairs neatly; warm Pennsylvania living-room classroom; South Asian family learners generically represented; soft afternoon window light; cream-saffron-teal accents; medium-wide composition. Negative constraints: no gore, no caricature, no temple logo, no embedded readable text, no invented deity pastimes, no identifiable real persons.
+- **Presenter note:** Keep older tone. Block speculation. Brand: KUTUMBA.
+- **Interaction:** One quick check for understanding
+- **Do not claim:** Do not claim BBT translation label for KUTUMBA teaching meaning
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images

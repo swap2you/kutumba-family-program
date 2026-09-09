@@ -29,6 +29,10 @@ Also see transcript context: https://vedabase.io/en/library/transcripts/710328bg
 > Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare  
 > Hare Rāma Hare Rāma Rāma Rāma Hare Hare
 
-**Source:** use authorised chanting practice + transcript context above. Invitation only — never forced volume or punishment.
+**Direct sources (complete sixteen-word mahā-mantra stated / teaching context):**
+- Lecture on the Mahā-mantra: https://vedabase.io/en/library/transcripts/660909le-new-york/
+- Śrī Caitanya-caritāmṛta Ādi 7.83 (nature of the mahā-mantra): https://vedabase.io/en/library/cc/adi/7/83/
+
+Invitation only — never forced volume or punishment.
 
 Rights: do not invent extra prayers; temple sheet is exact-text control where required.

@@ -93,7 +93,7 @@ def build_gamma(code: str, slug: str, title: str, question: str, conclusion: str
             ("Privacy", ["No public sādhana scoring", "Private feedback"], "FAMILY-COVENANT.md", "Lock / privacy symbol"),
             ("Opening mantras", ["Praṇāma", "Pañca-tattva", "Mahā-mantra"], "OPENING-MANTRAS-HANDOUT.md", "Soft lamp + mantra cards — no invented deity action"),
             ("Primary verse ŚB 1.2.18", [ref, "Devanāgarī on screen", "IAST", "KUTUMBA teaching meaning"], url, "Left 58% verse text; right 42% warm hearing illustration"),
-            ("Teaching meaning", [meaning[:110], "Regular hearing + service"], url, "Key-idea callout panel"),
+            ("Teaching meaning", [meaning, "Regular hearing + service"], url, "Key-idea callout panel"),
             ("Cycle 1 project", ["Who Am I…", "Cumulative layers", "Non-competitive W6"], "project brief", "Project folder + week beads"),
             ("Saṅkalpa", ["Action + frequency + trigger + minimum"], "launch-pack", "Saṅkalpa card mockup"),
             ("Home practice", ["5–15 minutes", "Minimum version = success"], "family-home-practice", "Kitchen-table family practice scene"),
@@ -114,7 +114,7 @@ def build_gamma(code: str, slug: str, title: str, question: str, conclusion: str
         for i, (t, copy, src, comp) in enumerate(topics[:26], 1):
             is_verse = "1.2.18" in t or "Primary verse" in t
             if is_verse:
-                copy = [ref, dev, iast, f"KUTUMBA teaching meaning: {meaning[:140]}", f"Source: {url}"]
+                copy = [ref, dev, iast, f"KUTUMBA teaching meaning: {meaning}", f"Source: {url}"]
             slides.append(
                 gamma_slide(
                     i, t, "master", f"Orient founding cohort — {t}",
@@ -136,9 +136,9 @@ def build_gamma(code: str, slug: str, title: str, question: str, conclusion: str
         base = [
             (f"Title: {title}", [title, brand, "Saturday 2:00–4:00"], "Top title; soft hero family/devotional illustration"),
             (f"Essential question", [question], "Large question typography; minimal visual"),
-            (f"Primary verse {ref}", [ref, dev, iast, f"KUTUMBA teaching meaning: {meaning[:120]}", url], "Left 58% verse; right 42% illustration"),
+            (f"Primary verse {ref}", [ref, dev, iast, f"KUTUMBA teaching meaning: {meaning}", url], "Left 58% verse; right 42% illustration"),
             ("Teaching meaning", [meaning, f"Conclusion: {conclusion}"], "Key-idea panel"),
-            ("Context", [f"Week objective for {code}", "Stay in week scope"], "Simple context map"),
+            ("Context", [f"This week teaches: {title}", f"Essential question: {question}", f"Primary source: {ref}"], "Simple context map"),
             ("Conclusion", [conclusion, f"Block: {misconception}"], "Bold conclusion card"),
             ("Scriptural / narrative support", ["See research examples", "Paraphrase only", "No invented dialogue"], "Devotional illustration — source-bound"),
             ("Analogy with limit", ["Name analogy", "State failure point", "Pedagogy ≠ śāstra quote"], "Analogy diagram with warning label"),
@@ -155,7 +155,7 @@ def build_gamma(code: str, slug: str, title: str, question: str, conclusion: str
             base = [
                 ("Integration welcome", [title, "Retrieval not ranking"], "Warm welcome"),
                 ("Concept chain", [iast, "Prior weeks linked"], "Horizontal chain diagram"),
-                ("Primary review verse layer", [ref, meaning[:100]], "Verse review panel"),
+                ("Primary review verse layer", [ref, meaning], "Verse review panel"),
                 ("Misconception sweep", [misconception, "Common mix-ups"], "Myth/truth"),
                 ("Retrieval stations", ["Visit stations", "Write one sentence"], "Station map"),
                 ("Presentation template", ["~10 minutes/family", "Drawing-only OK"], "Template card"),
@@ -167,9 +167,27 @@ def build_gamma(code: str, slug: str, title: str, question: str, conclusion: str
         slides = []
         for i, (t, copy, comp) in enumerate(base[:count], 1):
             is_verse = "Primary verse" in t or "verse layer" in t.lower() or (i == 3 and not integration)
-            src = f"{ref} — {url}" if is_verse or "Teaching meaning" in t or "Conclusion" in t else "week research + launch policy as applicable"
+            if is_verse or "Teaching meaning" in t or "Conclusion" in t or "Primary review" in t:
+                src = f"{ref} — {url}"
+            elif "Parent" in t or "home practice" in t.lower() or "Saṅkalpa" in t or "Project" in t:
+                src = "launch/FAMILY-COVENANT.md · family-home-practice.md"
+            elif "Younger" in t or "Older" in t:
+                src = f"teacher/{'YOUNGER' if 'Younger' in t else 'OLDER'}-TEACHER-GUIDE.md"
+            elif "Misconception" in t:
+                src = f"{ref} — {url} · research/MISCONCEPTIONS-AND-BOUNDARIES.md"
+            elif "Analogy" in t:
+                src = "research/ANALOGIES-AND-LIMITS.md (pedagogy; not a verse quotation)"
+            elif "case" in t.lower():
+                src = "research/CASE-STUDIES.md (constructed teaching cases)"
+            else:
+                src = f"{ref} — {url} · teacher/MAIN-FACILITATOR-GUIDE-V12.md"
             if is_verse:
-                copy = [ref, dev, iast, f"KUTUMBA teaching meaning: {meaning[:130]}", f"Source: {url}", "Not labeled as BBT translation"]
+                copy = [ref, dev, iast, f"KUTUMBA teaching meaning: {meaning}", f"Source: {url}", "Not labeled as BBT translation"]
+            scene = (
+                f"16:9 instructional scene for {code} slide '{t}': subjects are South Asian family learners in a warm Pennsylvania living-room classroom; "
+                f"action matches '{t}' (teaching/discussion/activity as appropriate); medium wide composition; soft afternoon window light with cream-saffron accents; "
+                f"devotional boundary: no invented deity pastimes, no gore, no caricature, no temple logo, no embedded text overlays."
+            )
             slides.append(
                 gamma_slide(
                     i, t.split(":")[0][:48], "master", f"Teach {code}: {t}",
@@ -177,10 +195,10 @@ def build_gamma(code: str, slug: str, title: str, question: str, conclusion: str
                     "plum philosophy / saffron bhakti / teal family",
                     "Title large; body 22–28pt; verse slide may reach ~100 words if readable",
                     "cinematic family or classical-inspired illustration",
-                    f"Detailed 16:9 educational image for {code} '{t}': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural",
+                    scene,
                     "Follow composition; use week SVG where diagram slide",
                     src,
-                    f"Do not import other weeks' full ontology. Block: {misconception}. {brand}",
+                    f"Do not import other weeks' full ontology. Block: {misconception}. {brand}. Ask one learner to restate the week's conclusion in their own words.",
                     "Ask one learner to restate conclusion",
                     donot, access,
                 )
@@ -208,7 +226,7 @@ def build_gamma(code: str, slug: str, title: str, question: str, conclusion: str
                 words = "15–40 words"
                 img = f"Instructional older-child learning scene for {code}, notebooks, calm focus, 16:9"
             if i == 3 and aud != "younger-K2":
-                copy = [ref, iast, f"Meaning: {meaning[:90]}"]
+                copy = [ref, iast, f"KUTUMBA teaching meaning: {meaning}"]
             slides.append(
                 gamma_slide(
                     i, f"{aud} focus {i}", aud, focus,

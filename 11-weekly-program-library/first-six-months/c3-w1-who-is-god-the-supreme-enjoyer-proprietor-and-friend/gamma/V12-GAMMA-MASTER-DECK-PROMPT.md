@@ -2,317 +2,127 @@
 
 **Status:** prompt-only — not rendered — not approved
 
+## Deck purpose
+
+Teach BG 5.29’s peace formula with full meaning, stewardship applications, and clear limits.
+
 ## Slides
 
 ### Slide 1 — Title
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W1: Title: Who Is God? The Supreme Enjoyer, Proprietor and Friend
+- **Teaching objective:** Name C3-W1 and set Saturday family frame
 - **Exact on-screen copy:**
   - Who Is God? The Supreme Enjoyer, Proprietor and Friend
   - KUTUMBA • Families Growing in Krishna Consciousness
-  - Saturday 2:00–4:00
-- **Screen composition:** Top title; soft hero family/devotional illustration
+  - Saturday 2:00–4:00 • Parents onsite
+- **Screen composition:** Top title; soft family illustration full-bleed background
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Title: Who Is God? The Supreme Enjoyer, Proprietor and Friend': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** cinematic family devotion illustration
+- **Detailed AI image prompt:** 16:9 warm-lit living room with family seated near a simple sacred corner, respectful Indian-American home detail, no temple logo, no text overlay, no gore
+- **Diagram instructions:** None
+- **Source:** C3-W1 curriculum overview; BG 5.29 https://vedabase.io/en/library/bg/5/29/
+- **Presenter notes:** State EXTERNAL_OPEN review status. Block impersonal-only misconception.
+- **Interaction:** Ask one learner to restate the week title
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
 ### Slide 2 — Essential question
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W1: Essential question
+- **Teaching objective:** Open inquiry
 - **Exact on-screen copy:**
   - Who is God to our family?
 - **Screen composition:** Large question typography; minimal visual
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Essential question': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** quiet contemplative interior
+- **Detailed AI image prompt:** 16:9 soft window light on an empty floor cushion circle, inviting, no text
+- **Diagram instructions:** None
+- **Source:** C3-W1 essential question
+- **Presenter notes:** Collect two answers; do not debate yet.
+- **Interaction:** Hands up for one-word answers: owner? friend? judge?
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
 ### Slide 3 — Primary verse BG 5.29
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W1: Primary verse BG 5.29
+- **Teaching objective:** Present complete primary text and full teaching meaning
 - **Exact on-screen copy:**
   - BG 5.29
   - भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् । सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥ २९ ॥
   - bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśvaram / suhṛdaṁ sarva-bhūtānāṁ jñātvā māṁ śāntim ṛcchati
-  - KUTUMBA teaching meaning: Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, and the friend of all beings — one attai
-  - Source: https://vedabase.io/en/library/bg/5/29/
-  - Not labeled as BBT translation
-- **Screen composition:** Left 58% verse; right 42% illustration
+  - KUTUMBA teaching meaning: Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, and the friend of all beings — one attains peace.
+  - https://vedabase.io/en/library/bg/5/29/
+- **Screen composition:** Left 58% verse stack; right 42% illustration
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Primary verse BG 5.29': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** classical-inspired educational illustration
+- **Detailed AI image prompt:** 16:9 respectful depiction of a serene sacred manuscript page beside a gentle lamp, no readable fake glyphs, no logos
+- **Diagram instructions:** None
 - **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Presenter notes:** Read Devanāgarī then IAST then meaning. Do not label meaning as BBT translation.
+- **Interaction:** Audience repeats ‘enjoyer, proprietor, friend’
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 4 — Teaching meaning
+### Slide 4 — Peace triangle
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W1: Teaching meaning
+- **Teaching objective:** Map three features to peace
 - **Exact on-screen copy:**
-  - Knowing the Lord as the enjoyer of sacrifice and austerity, the proprietor of all worlds, and the friend of all beings — one attains peace.
-  - Conclusion: God is enjoyer, proprietor, and friend — knowing Him brings peace.
-- **Screen composition:** Key-idea panel
+  - Enjoyer — Proprietor — Friend
+  - Result: peace (śāntim ṛcchati)
+  - False claims: ‘I own’ · ‘I must enjoy first’ · ‘Others are obstacles’
+- **Screen composition:** Center triangle diagram; callouts outside
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Teaching meaning': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** concept diagram
+- **Detailed AI image prompt:** 16:9 clean educational background with soft teal-saffron gradient suitable for overlay triangle, no text in image
+- **Diagram instructions:** Equilateral triangle labeled Enjoyer/Proprietor/Friend; center Peace
+- **Source:** BG 5.29 teaching map
+- **Presenter notes:** Emphasize stewardship ≠ neglect.
+- **Interaction:** Ask which false claim appears most at home (silent self-check)
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 5 — Context
+### Slide 5 — Analogy + limit
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W1: Context
+- **Teaching objective:** Teach shared-basket analogy with limit
 - **Exact on-screen copy:**
-  - Week objective for C3-W1
-  - Stay in week scope
-- **Screen composition:** Simple context map
+  - Shared basket: care and turns
+  - Limit: a basket is not God
+  - Bridge: sarva-loka-maheśvaram
+- **Screen composition:** Image left; limit callout right
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Context': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** family practice illustration
+- **Detailed AI image prompt:** 16:9 two children placing toys into a shared basket with parent nearby, warm light, culturally respectful, no logos
+- **Diagram instructions:** None
+- **Source:** C3-W1 analogy set; BG 5.29
+- **Presenter notes:** Speak the limit aloud.
+- **Interaction:** Children mime placing one item in the basket
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
 
-### Slide 6 — Conclusion
+### Slide 6 — Home practice
 
 - **Audience:** master
-- **Teaching objective:** Teach C3-W1: Conclusion
+- **Teaching objective:** Lock minimum practice
 - **Exact on-screen copy:**
-  - God is enjoyer, proprietor, and friend — knowing Him brings peace.
-  - Block: God is an impersonal force only.
-- **Screen composition:** Bold conclusion card
+  - Before one daily duty:
+  - Kṛṣṇa owns · Kṛṣṇa enjoys · Kṛṣṇa is friend
+- **Screen composition:** Card-style center panel
 - **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Conclusion': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** BG 5.29 — https://vedabase.io/en/library/bg/5/29/
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 7 — Scriptural / narrative support
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Scriptural / narrative support
-- **Exact on-screen copy:**
-  - See research examples
-  - Paraphrase only
-  - No invented dialogue
-- **Screen composition:** Devotional illustration — source-bound
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Scriptural / narrative support': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — Analogy with limit
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Analogy with limit
-- **Exact on-screen copy:**
-  - Name analogy
-  - State failure point
-  - Pedagogy ≠ śāstra quote
-- **Screen composition:** Analogy diagram with warning label
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Analogy with limit': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — Constructed case
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Constructed case
-- **Exact on-screen copy:**
-  - Fictional household case
-  - Mistaken conclusion
-  - Compassionate action
-- **Screen composition:** Anonymous vignette
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Constructed case': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — Misconception check
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Misconception check
-- **Exact on-screen copy:**
-  - God is an impersonal force only.
-  - Better statement
-- **Screen composition:** Myth vs truth two panels
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Misconception check': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — Concept diagram
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Concept diagram
-- **Exact on-screen copy:**
-  - Use visuals/V12/concept-diagram.svg for C3-W1
-- **Screen composition:** Embed week-specific diagram
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Concept diagram': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — Parent application
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Parent application
-- **Exact on-screen copy:**
-  - Home cue
-  - Minimum version
-  - No confession pressure
-- **Screen composition:** Adult discussion panel
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Parent application': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 13 — Younger track preview
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Younger track preview
-- **Exact on-screen copy:**
-  - Story + movement + craft
-  - Memory phrase
-- **Screen composition:** K–2 friendly illustration
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Younger track preview': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 14 — Older track preview
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Older track preview
-- **Exact on-screen copy:**
-  - Text observation
-  - Puzzle
-  - Scenario
-- **Screen composition:** Grades 4–5 worksheet look
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Older track preview': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 15 — Bhakti lab / reunification
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Bhakti lab / reunification
-- **Exact on-screen copy:**
-  - 3:10 reunite
-  - One family sentence
-- **Screen composition:** Reunification circle
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Bhakti lab / reunification': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 16 — Project + home practice + close
-
-- **Audience:** master
-- **Teaching objective:** Teach C3-W1: Project + home practice + close
-- **Exact on-screen copy:**
-  - Project layer
-  - 5–15 min home
-  - End on time
-- **Screen composition:** Checklist close
-- **Palette role:** plum philosophy / saffron bhakti / teal family
-- **Typography:** Title large; body 22–28pt; verse slide may reach ~100 words if readable
-- **Visual type:** cinematic family or classical-inspired illustration
-- **Detailed AI image prompt:** Detailed 16:9 educational image for C3-W1 'Project + home practice + close': warm light, culturally respectful, no gore, no caricature, no temple logo, no embedded text, source-bound if scriptural
-- **Diagram instructions:** Follow composition; use week SVG where diagram slide
-- **Source:** week research + launch policy as applicable
-- **Presenter notes:** Do not import other weeks' full ontology. Block: God is an impersonal force only.. KUTUMBA • Families Growing in Krishna Consciousness
-- **Interaction:** Ask one learner to restate conclusion
+- **Typography:** Title large; body 22–28pt; verse slides may use ~100 readable words
+- **Visual type:** simple home cue illustration
+- **Detailed AI image prompt:** 16:9 doorway shoe rack and calendar morning scene suggesting a daily cue, no text overlay
+- **Diagram instructions:** None
+- **Source:** C3-W1 minimum home practice
+- **Presenter notes:** Parents write the duty on a card.
+- **Interaction:** Families whisper their chosen duty
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
 - **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images

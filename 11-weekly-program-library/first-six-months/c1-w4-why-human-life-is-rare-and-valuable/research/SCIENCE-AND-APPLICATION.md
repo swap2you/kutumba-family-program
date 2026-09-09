@@ -1,9 +1,18 @@
 # C1-W4 Science and Application
 
-### A Theory of Goal Setting and Task Performance (1990)
+## Empirical aids for priority / goal protection (not rarity proof)
 
-- **Authors:** Locke, E. A., & Latham, G. P.
-- **DOI / URL:** `ISBN 978-0139174773` — https://doi.org/10.1037/0003-066X.57.9.705
+### Goal Setting and Task Performance (Locke & Latham tradition)
+- **Representative DOI:** https://doi.org/10.1037/0003-066X.57.9.705
 - **Finding used:** Clear priorities and protected goals improve follow-through.
-- **Limitation:** Supports time-protection pedagogy; not proof of human-form rarity.
-- **Application:** Pedagogy/home-practice design only — **never** proof of ātman, karma, rebirth, or Kṛṣṇa.
+- **Limitation:** Supports time-protection pedagogy only; not proof of human-form rarity or transmigration.
+- **Application:** Must / Should / Optional time-jar.
+
+
+## Option B — explicit N/A
+
+**N/A — no empirical claim is needed for this week's doctrinal conclusion.**
+
+### Reason
+
+This week's primary conclusion is doctrinal from sastra. Empirical studies are not used as proof of the siddhanta.

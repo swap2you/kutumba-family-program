@@ -1,234 +1,148 @@
-# C2-W4 V12 Gamma older-4-5 Deck
+# C2-W4 V12 Gamma Older Deck Prompt
 
-**Status:** prompt-only — not rendered — not approved
+**Status:** prompt-only — not rendered — not approved  
+**Audience:** Grades 4–5 older track  
+**Essential question:** Which mode is shaping this moment?  
+**Primary:** BG 14.5 — https://vedabase.io/en/library/bg/14/5/  
+**Full teaching meaning:** Goodness, passion, and ignorance — born of material nature — bind the eternal embodied self within the body.
+
+---
 
 ## Slides
 
-### Slide 1 — older-4-5 focus 1
+### Slide 1 — Hook
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Audience:** older
+- **Teaching objective:** Same family, three evenings.
 - **Exact on-screen copy:**
-  - Which mode is shaping this moment?
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 14.5 — https://vedabase.io/en/library/bg/14/5/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
+  - Same home · three evenings
+  - Calm/ordered · multi-screen rush · neglected dull
+  - Essential question: Which mode is shaping this moment?
+- **Screen composition:** Triptych headers
+- **Palette role:** plum / rose / slate
+- **Typography:** Sharp question
+- **Visual type:** Analytical triptych
+- **Detailed AI image prompt:** 16:9 triptych of one living room in three conditions—ordered lamp light, multi-device glow with motion, dim clutter—identical furniture silhouette, no readable screen text, no logos, documentary-illustration style for ages 9–11.
+- **Source:** `teacher/OLDER-TEACHER-GUIDE.md`
+- **Presenter notes:** Collect condition words only.
+- **Interaction:** Write one condition word on scrap paper.
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Describe each panel
 
-### Slide 2 — older-4-5 focus 2
+### Slide 2 — Verse observation
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Audience:** older
+- **Teaching objective:** Observe BG 14.5 layers and full meaning.
 - **Exact on-screen copy:**
-  - Observation/puzzle step 2
-  - BG 14.5
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 14.5 — https://vedabase.io/en/library/bg/14/5/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
+  - BG 14.5 · https://vedabase.io/en/library/bg/14/5/
+  - Devanāgarī + IAST on teacher verse card
+  - KUTUMBA teaching meaning: Goodness, passion, and ignorance — born of material nature — bind the eternal embodied self within the body.
+  - Write: setting · key phrase · paraphrase · what it does not say
+- **Screen composition:** Verse left; task checklist right
+- **Palette role:** saffron
+- **Typography:** Full meaning visible
+- **Visual type:** Study desk
+- **Detailed AI image prompt:** 16:9 illustration of a student notebook open beside a tablet showing a simple scripture page layout (no legible copyrighted translation text), pencil ready, calm study lamp, no logos.
+- **Source:** https://vedabase.io/en/library/bg/14/5/ ; `activities/OLDER-ACTIVITY-PACK.md`
+- **Presenter notes:** Teaching meaning ≠ BBT translation label.
+- **Interaction:** Students complete four observation lines.
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Read IAST aloud
 
-### Slide 3 — older-4-5 focus 3
+### Slide 3 — Tendency chart
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Audience:** older
+- **Teaching objective:** Map BG 14.6–9 / 14.17 tendencies.
 - **Exact on-screen copy:**
-  - BG 14.5
-  - sattvaṁ rajas tama iti guṇāḥ prakṛti-sambhavāḥ / nibadhnanti mahā-bāho dehe dehinam avyayam
-  - Meaning: Goodness, passion, and ignorance — born of material nature — bind the eternal embodied sel
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 14.5 — https://vedabase.io/en/library/bg/14/5/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
+  - Sattva → clarity; can bind by pride (BG 14.6)
+  - Rajas → craving / restless doing (BG 14.7)
+  - Tamas → covering / dullness (BG 14.8)
+  - Fruits: knowledge · greed · illusion (BG 14.17)
+  - Rule: sort situations, not classmates
+- **Screen composition:** Three columns + rule banner
+- **Palette role:** gold / rose / slate
+- **Typography:** Compact bullets
+- **Visual type:** Chart
+- **Detailed AI image prompt:** 16:9 clean three-column educational backdrop with lamp, swirling arrows, and fog-door icons only—no text in image, pastel, student-workbook friendly.
+- **Source:** https://vedabase.io/en/library/bg/14/6/ ; /14/7/ ; /14/8/ ; /14/17/
+- **Presenter notes:** Flag goodness trap early.
+- **Interaction:** Offer one condition per column.
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** High-contrast headers
 
-### Slide 4 — older-4-5 focus 4
+### Slide 4 — mode_sort activity
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Audience:** older
+- **Teaching objective:** Drive card sort puzzle.
 - **Exact on-screen copy:**
-  - Observation/puzzle step 4
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** BG 14.5 — https://vedabase.io/en/library/bg/14/5/
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
+  - Sort cards: Clarifying / Restless-craving / Dull-covering
+  - Watch for pride-trap card (calm used to judge others)
+  - Justify with tendencies, not insults
+- **Screen composition:** Instructions + timer cue
+- **Palette role:** teal work
+- **Typography:** Imperative clear
+- **Visual type:** Cards on table
+- **Detailed AI image prompt:** 16:9 top-down view of index cards being sorted into three labeled trays by student hands (labels appear only as colored trays, not readable insults), classroom table, natural light, no logos.
+- **Source:** `activities/OLDER-ACTIVITY-PACK.md`
+- **Presenter notes:** Card 4 = goodness trap discussion.
+- **Interaction:** Pairs sort for 4 minutes.
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Read all card texts aloud if needed
 
-### Slide 5 — older-4-5 focus 5
+### Slide 5 — Misconception + BG 14.26
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Audience:** older
+- **Teaching objective:** Redirect pride to bhakti.
 - **Exact on-screen copy:**
-  - Observation/puzzle step 5
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
+  - Misconception: modes are nicknames for people
+  - Misconception: tidy room = liberated
+  - BG 14.26: unfailing devotion transcends the modes
+  - https://vedabase.io/en/library/bg/14/26/
+- **Screen composition:** X / redirect
+- **Palette role:** saffron
+- **Typography:** Strong contrast
+- **Visual type:** Pathway beyond filters
+- **Detailed AI image prompt:** 16:9 symbolic path leading through three translucent color veils toward a simple open doorway with warm light—hopeful, not scary, no text, no logos, suitable for grades 4–5.
+- **Source:** https://vedabase.io/en/library/bg/14/26/
+- **Presenter notes:** Keep transcendence aspirational, not claimed.
+- **Interaction:** Write one pride-redirect sentence.
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Read URL and paraphrase
 
-### Slide 6 — older-4-5 focus 6
+### Slide 6 — Diagram + redesign
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Audience:** older
+- **Teaching objective:** Label diagram and plan reset.
 - **Exact on-screen copy:**
-  - Observation/puzzle step 6
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
+  - Diagram: three modes → bind embodied self → bhakti transcends · X on labeling people
+  - Your redesign: Remove / Add / Move earlier / Simplify
+  - Reunification sentence ready for upstairs
+- **Screen composition:** Diagram cue + form
+- **Palette role:** teal + plum
+- **Typography:** Workbook density OK
+- **Visual type:** Concept diagram support
+- **Detailed AI image prompt:** 16:9 simple flowchart shapes (three circles feeding one rectangle feeding one open arrow) on a soft notebook page background—no words inside shapes, clean educational aesthetic, no logos.
+- **Source:** `visuals/V12/concept-diagram.svg`; activity pack
+- **Presenter notes:** Check sentences for person-labels.
+- **Interaction:** Draft reunification sentence.
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Oral option for writing challenges
 
-### Slide 7 — older-4-5 focus 7
+### Slide 7 — Home + next
 
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
+- **Audience:** older
+- **Teaching objective:** Personal practice + preview.
 - **Exact on-screen copy:**
-  - Observation/puzzle step 7
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
+  - Home: help your family do one five-minute Clarity Before Chanting reset
+  - Do not score or rank siblings
+  - Next week preview: Māyā — BG 7.14 https://vedabase.io/en/library/bg/7/14/
+- **Screen composition:** Close CTA
+- **Palette role:** saffron
+- **Typography:** Clear
+- **Visual type:** Family doorway
+- **Detailed AI image prompt:** 16:9 respectful illustration of an older child setting two cushions and a water cup near a quiet corner while a parent turns down a lamp; cooperative mood; no logos; no text.
+- **Source:** https://vedabase.io/en/library/bg/7/14/
+- **Presenter notes:** One-line māyā bridge only.
+- **Interaction:** Students read reunification sentence to a partner.
 - **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 8 — older-4-5 focus 8
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 8
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 9 — older-4-5 focus 9
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 9
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 10 — older-4-5 focus 10
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 10
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 11 — older-4-5 focus 11
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 11
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
-
-### Slide 12 — older-4-5 focus 12
-
-- **Audience:** older-4-5
-- **Teaching objective:** text observation/puzzle/scenario
-- **Exact on-screen copy:**
-  - Observation/puzzle step 12
-  - Sattva, rajas, tamas bind the embodied self.
-- **Screen composition:** Title top; content mid; footer source
-- **Palette role:** teal/saffron by audience
-- **Typography:** 15–40 words
-- **Visual type:** age-appropriate visual
-- **Detailed AI image prompt:** Instructional older-child learning scene for C2-W4, notebooks, calm focus, 16:9
-- **Diagram instructions:** none unless puzzle
-- **Source:** week packet
-- **Presenter notes:** text observation/puzzle/scenario. Block: Use modes to shame others.
-- **Interaction:** One short response
-- **Do-not-claim:** Not human-approved; not publication-ready; Gamma not rendered; science ≠ siddhānta; teaching meaning ≠ BBT translation
-- **Accessibility:** Large type; high contrast; read Devanāgarī/IAST aloud; alt-text for images
+- **Accessibility:** Read home line twice
