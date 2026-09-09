@@ -4,11 +4,13 @@
 
 - Overall verdict: **NO GO for internal pilot, family-facing distribution, and public publication**
 - Repository visibility: **PUBLIC** (intentional)
-- Current phase: **V12.2 Week-1 gold standard — owner-runnable local/remote path closing** — C1-W1 only; human/temple gates still EXTERNAL_OPEN; overall pilot still **NO GO**; do not start C1-W2 until Week-1 acceptance is complete
-- V12.2 Week-1 owner start: `V12_2-WEEK1-START-HERE.md`
-- V12.2 Week-1 final packets: `exports/final/week1/`
-- V12.2 Week-1 acceptance: `scripts/v12_2/validate_week1_gold.py` · `build-evidence/V12_2-WEEK1-VISUAL-QA.md` · `build-evidence/V12_2-WEEK1-OPERATOR-RED-TEAM.md`
-- V12.2 Week-1 raster manifest: `build-evidence/v12_2-week1-rasters/manifest.json`
+- Current phase: **V12.2.1 Week-1 publishing CLOSED** — C1-W1 content + publishing owner-runnable; deterministic + agent visual QA PASS; human/temple gates EXTERNAL_OPEN; overall pilot **NO GO**; family/public publication **NO GO**; Gamma render EXTERNAL_OPEN; do not start C1-W2 until independent external review of final HEAD
+- V12.2.1 baseline/closure: `build-evidence/V12_2_1-WEEK1-BASELINE-FAILURES.md`
+- V12.2.1 packets: `exports/final/week1/`
+- V12.2.1 acceptance: `scripts/v12_2_1/validate_week1_publishing.py` · `build-evidence/V12_2_1-WEEK1-VISUAL-QA.md` · `build-evidence/V12_2_1-WEEK1-OPERATOR-ACCEPTANCE.md`
+- V12.2.1 rasters: `build-evidence/v12_2_1-week1-rasters/`
+- V12.2 Week-1 owner start (content): `V12_2-WEEK1-START-HERE.md`
+- V12.2 prior content tag: `v12.2-week1-gold-standard-closed` (publishing repaired by V12.2.1)
 - V12.1 owner start: `V12_1-START-HERE.md`
 - V12.1 final packets: `exports/final/*V12.1*`
 - V12.1 acceptance evidence: `build-evidence/V12_1-FINAL-LOCAL-ACCEPTANCE.md`

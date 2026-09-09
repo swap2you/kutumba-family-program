@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build V12_2-WEEK1-PAGE-QA.csv from rendered PDFs with content-based observations."""
+"""Build a text-extraction preflight; this performs no visual inspection."""
 from __future__ import annotations
 
 import csv
@@ -10,8 +10,7 @@ import pymupdf as fitz
 
 REPO = Path(__file__).resolve().parents[2]
 EXPORTS = REPO / "exports" / "final" / "week1"
-OUT = REPO / "build-evidence" / "V12_2-WEEK1-PAGE-QA.csv"
-RASTERS = REPO / "build-evidence" / "v12_2-week1-rasters"
+OUT = REPO / "build-evidence" / "V12_2-WEEK1-TEXT-PREFLIGHT.csv"
 
 
 def body_text(page) -> str:
@@ -58,9 +57,8 @@ def observe(artifact: str, page_no: int, text: str) -> tuple[str, str, str]:
             issue = "near-blank"
             status = "FAIL"
     observation = (
-        f"Opened rendered page {page_no} of {artifact}: {head}"
+        f"Text extracted from page {page_no} of {artifact}: {head}"
         + ((" — " + "; ".join(notes)) if notes else "")
-        + " — cream ground, plum header/footer readable"
     )
     return observation, issue, status
 
@@ -69,22 +67,15 @@ def main() -> None:
     rows = []
     for pdf in sorted(EXPORTS.glob("*.pdf")):
         doc = fitz.open(pdf)
-        stem = pdf.stem
-        contact_dir = RASTERS / stem
         for i in range(doc.page_count):
             text = body_text(doc[i])
             obs, issue, status = observe(pdf.name, i + 1, text)
-            # Prefer noting contact-sheet inspection when available
-            sheet_idx = (i // 8) + 1
-            sheet = contact_dir / f"contact-sheet-{sheet_idx:03d}.png"
-            if sheet.exists():
-                obs = f"Contact sheet {sheet.name} opened for visual review; " + obs
             rows.append(
                 {
                     "artifact": pdf.name,
                     "page": str(i + 1),
-                    "render": "pdf-page+contact-sheet" if sheet.exists() else "pdf-page",
-                    "visual_observation": obs,
+                    "assessment": "text_extract_preflight",
+                    "text_observation": obs,
                     "issue": issue,
                     "fix_iteration": "1" if not issue else "pending",
                     "status": status,
@@ -98,8 +89,8 @@ def main() -> None:
             fieldnames=[
                 "artifact",
                 "page",
-                "render",
-                "visual_observation",
+                "assessment",
+                "text_observation",
                 "issue",
                 "fix_iteration",
                 "status",

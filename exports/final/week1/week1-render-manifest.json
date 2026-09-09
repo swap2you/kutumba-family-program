@@ -1,68 +1,68 @@
 {
-  "version": "V12.2",
+  "version": "V12.2.1",
   "packets": [
     {
       "name": "KUTUMBA-C1-W1-START-HERE-V12.2",
       "docx": "exports/final/week1/KUTUMBA-C1-W1-START-HERE-V12.2.docx",
-      "docx_bytes": 40453,
+      "docx_bytes": 40458,
       "pdf": "exports/final/week1/KUTUMBA-C1-W1-START-HERE-V12.2.pdf",
-      "pdf_bytes": 430170,
-      "pages": 5,
+      "pdf_bytes": 408659,
+      "pages": 4,
       "word_reported_pages": 5
     },
     {
       "name": "KUTUMBA-C1-W1-OWNER-RUNBOOK-V12.2",
       "docx": "exports/final/week1/KUTUMBA-C1-W1-OWNER-RUNBOOK-V12.2.docx",
-      "docx_bytes": 40512,
+      "docx_bytes": 40535,
       "pdf": "exports/final/week1/KUTUMBA-C1-W1-OWNER-RUNBOOK-V12.2.pdf",
-      "pdf_bytes": 403507,
+      "pdf_bytes": 404208,
       "pages": 4,
       "word_reported_pages": 4
     },
     {
       "name": "KUTUMBA-C1-W1-FAMILY-ORIENTATION-AND-COVENANT-V12.2",
       "docx": "exports/final/week1/KUTUMBA-C1-W1-FAMILY-ORIENTATION-AND-COVENANT-V12.2.docx",
-      "docx_bytes": 44730,
+      "docx_bytes": 44851,
       "pdf": "exports/final/week1/KUTUMBA-C1-W1-FAMILY-ORIENTATION-AND-COVENANT-V12.2.pdf",
-      "pdf_bytes": 526908,
-      "pages": 10,
-      "word_reported_pages": 11
+      "pdf_bytes": 477875,
+      "pages": 12,
+      "word_reported_pages": 12
     },
     {
       "name": "KUTUMBA-C1-W1-PARENT-TRACK-V12.2",
       "docx": "exports/final/week1/KUTUMBA-C1-W1-PARENT-TRACK-V12.2.docx",
-      "docx_bytes": 45263,
+      "docx_bytes": 52678,
       "pdf": "exports/final/week1/KUTUMBA-C1-W1-PARENT-TRACK-V12.2.pdf",
-      "pdf_bytes": 576994,
-      "pages": 14,
-      "word_reported_pages": 14
+      "pdf_bytes": 519947,
+      "pages": 15,
+      "word_reported_pages": 15
     },
     {
       "name": "KUTUMBA-C1-W1-YOUNGER-TEACHER-PACK-V12.2",
       "docx": "exports/final/week1/KUTUMBA-C1-W1-YOUNGER-TEACHER-PACK-V12.2.docx",
-      "docx_bytes": 48870,
+      "docx_bytes": 101087,
       "pdf": "exports/final/week1/KUTUMBA-C1-W1-YOUNGER-TEACHER-PACK-V12.2.pdf",
-      "pdf_bytes": 653341,
+      "pdf_bytes": 631666,
       "pages": 20,
       "word_reported_pages": 20
     },
     {
       "name": "KUTUMBA-C1-W1-OLDER-TEACHER-PACK-V12.2",
       "docx": "exports/final/week1/KUTUMBA-C1-W1-OLDER-TEACHER-PACK-V12.2.docx",
-      "docx_bytes": 47983,
+      "docx_bytes": 53994,
       "pdf": "exports/final/week1/KUTUMBA-C1-W1-OLDER-TEACHER-PACK-V12.2.pdf",
-      "pdf_bytes": 624038,
-      "pages": 18,
-      "word_reported_pages": 18
+      "pdf_bytes": 527796,
+      "pages": 20,
+      "word_reported_pages": 20
     },
     {
       "name": "KUTUMBA-C1-W1-SATURDAY-PRINT-PACKET-V12.2",
       "docx": "exports/final/week1/KUTUMBA-C1-W1-SATURDAY-PRINT-PACKET-V12.2.docx",
-      "docx_bytes": 86930,
+      "docx_bytes": 138044,
       "pdf": "exports/final/week1/KUTUMBA-C1-W1-SATURDAY-PRINT-PACKET-V12.2.pdf",
-      "pdf_bytes": 1176783,
-      "pages": 87,
-      "word_reported_pages": 87
+      "pdf_bytes": 1054883,
+      "pages": 81,
+      "word_reported_pages": 81
     }
   ]
 }
